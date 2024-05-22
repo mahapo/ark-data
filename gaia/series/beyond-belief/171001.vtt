@@ -1,0 +1,4606 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:01.976 align:middle line:90%
+[THEME MUSIC]
+
+00:00:01.976 --> 00:00:19.689 align:middle line:90%
+
+
+00:00:19.689 --> 00:00:21.480 align:middle line:84%
+>>GEORGE NOORY: Welcome
+to "Beyond Belief."
+
+00:00:21.480 --> 00:00:22.350 align:middle line:10%
+I'm George Noory.
+
+00:00:22.350 --> 00:00:24.960 align:middle line:10%
+And for years I've interviewed
+the man you're about to meet,
+
+00:00:24.960 --> 00:00:28.560 align:middle line:10%
+Robert Zubrin, who is the
+president of the Mars Society
+
+00:00:28.560 --> 00:00:32.040 align:middle line:10%
+and Pioneer Astronautics,
+an organization devoted
+
+00:00:32.040 --> 00:00:33.960 align:middle line:10%
+to getting us into space.
+
+00:00:33.960 --> 00:00:35.502 align:middle line:84%
+Robert, always a
+pleasure seeing you.
+
+00:00:35.502 --> 00:00:37.835 align:middle line:84%
+>>ROBERT ZUBRIN: Thanks for
+inviting me to come and talk
+
+00:00:37.835 --> 00:00:38.790 align:middle line:90%
+to you again.
+
+00:00:38.790 --> 00:00:41.190 align:middle line:84%
+>>NOORY: You have been
+fascinated with space
+
+00:00:41.190 --> 00:00:43.350 align:middle line:90%
+since you were a little kid.
+
+00:00:43.350 --> 00:00:47.020 align:middle line:84%
+What was that one catalyst
+that got you really into it?
+
+00:00:47.020 --> 00:00:48.870 align:middle line:90%
+>>ZUBRIN: It was Sputnik.
+
+00:00:48.870 --> 00:00:50.800 align:middle line:10%
+I was five when Sputnik flew.
+
+00:00:50.800 --> 00:00:51.600 align:middle line:10%
+>>NOORY: Ah.
+
+00:00:51.600 --> 00:00:53.650 align:middle line:10%
+>>ZUBRIN: And I was
+an early reader.
+
+00:00:53.650 --> 00:00:55.740 align:middle line:10%
+I was already reading
+science fiction.
+
+00:00:55.740 --> 00:00:58.410 align:middle line:10%
+And while the adults may have
+been terrified by Sputnik,
+
+00:00:58.410 --> 00:01:00.630 align:middle line:10%
+I was over the top
+excited about it.
+
+00:01:00.630 --> 00:01:03.030 align:middle line:10%
+Because what it meant
+was all these stories
+
+00:01:03.030 --> 00:01:05.220 align:middle line:10%
+I was reading about
+the spacefaring future
+
+00:01:05.220 --> 00:01:07.000 align:middle line:10%
+were going to be real.
+
+00:01:07.000 --> 00:01:10.600 align:middle line:84%
+And I just got totally into
+it and building rockets.
+
+00:01:10.600 --> 00:01:12.860 align:middle line:90%
+My dad got me a telescope.
+
+00:01:12.860 --> 00:01:16.590 align:middle line:84%
+I did drawings of the Moon
+through the telescope.
+
+00:01:16.590 --> 00:01:18.810 align:middle line:84%
+And I learned all
+the science I could.
+
+00:01:18.810 --> 00:01:21.480 align:middle line:90%
+And I was on board.
+
+00:01:21.480 --> 00:01:25.110 align:middle line:84%
+And you know, we were
+going to the Moon by 1970,
+
+00:01:25.110 --> 00:01:28.860 align:middle line:84%
+Mars by 1980, Alpha
+Centuri by the year 2000.
+
+00:01:28.860 --> 00:01:30.450 align:middle line:90%
+I wanted to be part of it.
+
+00:01:30.450 --> 00:01:34.020 align:middle line:84%
+Now of course, we did
+realize only the first part
+
+00:01:34.020 --> 00:01:34.890 align:middle line:90%
+of that program.
+
+00:01:34.890 --> 00:01:37.050 align:middle line:90%
+We got to the Moon by 1970.
+
+00:01:37.050 --> 00:01:41.201 align:middle line:84%
+But at exactly that time, and
+I was entering college by then,
+
+00:01:41.201 --> 00:01:43.800 align:middle line:84%
+the Nixon administration
+slammed on the brakes
+
+00:01:43.800 --> 00:01:45.880 align:middle line:84%
+and the Mars
+program was aborted.
+
+00:01:45.880 --> 00:01:46.680 align:middle line:90%
+And all the rest--
+
+00:01:46.680 --> 00:01:47.580 align:middle line:90%
+>>NOORY: Came a halt.
+
+00:01:47.580 --> 00:01:49.110 align:middle line:84%
+>>ZUBRIN: Came to
+a halt. And it was
+
+00:01:49.110 --> 00:01:51.750 align:middle line:84%
+one of the great
+disappointments in my life.
+
+00:01:51.750 --> 00:01:55.660 align:middle line:84%
+And for a while I accepted it
+and went and did other stuff.
+
+00:01:55.660 --> 00:01:57.810 align:middle line:84%
+But at a certain
+point I said nah,
+
+00:01:57.810 --> 00:01:59.412 align:middle line:90%
+I'm not going to let this ride.
+
+00:01:59.412 --> 00:02:00.870 align:middle line:84%
+>>NOORY: Had we
+kept the pace going
+
+00:02:00.870 --> 00:02:04.344 align:middle line:84%
+after we stopped going to the
+Moon, but had we kept it up,
+
+00:02:04.344 --> 00:02:05.760 align:middle line:84%
+could we have been
+to Mars by now?
+
+00:02:05.760 --> 00:02:06.840 align:middle line:90%
+>>ZUBRIN: Oh, Yes.
+
+00:02:06.840 --> 00:02:11.580 align:middle line:84%
+NASA had plans for the first
+human landing on Mars for 1981.
+
+00:02:11.580 --> 00:02:13.740 align:middle line:84%
+If we had kept
+going, we would have
+
+00:02:13.740 --> 00:02:16.690 align:middle line:84%
+had a permanent human
+settlement on Mars by 1988.
+
+00:02:16.690 --> 00:02:17.490 align:middle line:90%
+>>NOORY: Wow.
+
+00:02:17.490 --> 00:02:21.300 align:middle line:84%
+>>ZUBRIN: And probably the
+first children born on Mars
+
+00:02:21.300 --> 00:02:24.570 align:middle line:84%
+would be graduating high
+school on Mars right about now.
+
+00:02:24.570 --> 00:02:27.420 align:middle line:84%
+>>NOORY: Do we even have a
+space program today, Robert?
+
+00:02:27.420 --> 00:02:30.090 align:middle line:84%
+>>ZUBRIN: Oh yeah, we
+have a space program.
+
+00:02:30.090 --> 00:02:32.970 align:middle line:84%
+But only parts of
+it are functional.
+
+00:02:32.970 --> 00:02:35.760 align:middle line:84%
+The robotic planetary
+exploration program
+
+00:02:35.760 --> 00:02:38.940 align:middle line:84%
+is quite functional and is
+returning exciting results
+
+00:02:38.940 --> 00:02:41.400 align:middle line:84%
+from their various probes
+to Mars and Jupiter.
+
+00:02:41.400 --> 00:02:45.600 align:middle line:84%
+The space astronomy program is
+very functional with the Hubble
+
+00:02:45.600 --> 00:02:48.450 align:middle line:84%
+Space Telescope, with the
+Kepler Space Telescope.
+
+00:02:48.450 --> 00:02:53.430 align:middle line:84%
+And this year we may launch
+TESS, a new space telescope.
+
+00:02:53.430 --> 00:02:55.470 align:middle line:84%
+And then the WEBB
+Space Telescope.
+
+00:02:55.470 --> 00:02:56.640 align:middle line:90%
+They've got great stuff.
+
+00:02:56.640 --> 00:02:59.820 align:middle line:84%
+But the human space flight
+program is completely adrift.
+
+00:02:59.820 --> 00:03:02.610 align:middle line:84%
+It's been operating
+without meaningful goals
+
+00:03:02.610 --> 00:03:04.620 align:middle line:84%
+basically since
+the end of Apollo.
+
+00:03:04.620 --> 00:03:06.390 align:middle line:84%
+We have enough
+money we're putting
+
+00:03:06.390 --> 00:03:07.920 align:middle line:84%
+into the human
+spaceflight program
+
+00:03:07.920 --> 00:03:10.200 align:middle line:84%
+to be sending people
+to the Moon and Mars.
+
+00:03:10.200 --> 00:03:12.780 align:middle line:84%
+But instead, they're just going
+up and down to Earth orbit
+
+00:03:12.780 --> 00:03:16.110 align:middle line:84%
+and being used as test subjects
+by guinea pig scientists
+
+00:03:16.110 --> 00:03:19.770 align:middle line:84%
+to measure the effects of zero
+gravity on human physiology.
+
+00:03:19.770 --> 00:03:21.030 align:middle line:90%
+This is just crazy.
+
+00:03:21.030 --> 00:03:23.810 align:middle line:84%
+Astronauts should not be guinea
+pigs, they should be explorers.
+
+00:03:23.810 --> 00:03:25.110 align:middle line:90%
+>>NOORY: Right, right.
+
+00:03:25.110 --> 00:03:28.020 align:middle line:84%
+It's got to be frustrating
+for somebody like you.
+
+00:03:28.020 --> 00:03:29.580 align:middle line:90%
+>>ZUBRIN: Yeah, certainly.
+
+00:03:29.580 --> 00:03:32.400 align:middle line:84%
+>>NOORY: Because I mean, you
+have developed your career
+
+00:03:32.400 --> 00:03:35.710 align:middle line:84%
+to try to get us to explore and
+we're not doing that anymore.
+
+00:03:35.710 --> 00:03:36.510 align:middle line:90%
+>>ZUBRIN: Right.
+
+00:03:36.510 --> 00:03:42.120 align:middle line:84%
+We need a goal-driven
+human spaceflight program.
+
+00:03:42.120 --> 00:03:45.610 align:middle line:84%
+And the primary goal at this
+point should be humans to Mars.
+
+00:03:45.610 --> 00:03:47.540 align:middle line:90%
+Mars is where the science is.
+
+00:03:47.540 --> 00:03:49.000 align:middle line:90%
+It's where the challenge is.
+
+00:03:49.000 --> 00:03:50.580 align:middle line:90%
+It's where the future is.
+
+00:03:50.580 --> 00:03:53.154 align:middle line:84%
+And, I must say, that if we
+build a hardware set that
+
+00:03:53.154 --> 00:03:54.570 align:middle line:84%
+can take us to
+Mars, we'll also be
+
+00:03:54.570 --> 00:03:56.944 align:middle line:84%
+able to do the Moon and the
+near-Earth asteroids as well.
+
+00:03:56.944 --> 00:03:58.620 align:middle line:84%
+>>NOORY: Robert, I
+am enthralled though
+
+00:03:58.620 --> 00:04:01.920 align:middle line:84%
+at the privatization
+of space right now.
+
+00:04:01.920 --> 00:04:05.190 align:middle line:84%
+It seems that these private
+companies are coming along
+
+00:04:05.190 --> 00:04:06.420 align:middle line:90%
+like gangbusters.
+
+00:04:06.420 --> 00:04:07.253 align:middle line:90%
+>>ZUBRIN: Well, yes.
+
+00:04:07.253 --> 00:04:08.400 align:middle line:90%
+They finally are.
+
+00:04:08.400 --> 00:04:11.220 align:middle line:84%
+For a while, you
+know, in the '80s
+
+00:04:11.220 --> 00:04:13.680 align:middle line:90%
+and the '90s it was just talk.
+
+00:04:13.680 --> 00:04:15.870 align:middle line:84%
+And to some extent a cop
+out for people saying oh,
+
+00:04:15.870 --> 00:04:16.829 align:middle line:90%
+we don't need NASA.
+
+00:04:16.829 --> 00:04:18.810 align:middle line:90%
+Private people will do it.
+
+00:04:18.810 --> 00:04:22.980 align:middle line:84%
+But starting with Elon Musk
+and now with Jeff Bezos,
+
+00:04:22.980 --> 00:04:24.870 align:middle line:90%
+this stuff is now real.
+
+00:04:24.870 --> 00:04:29.880 align:middle line:84%
+And Musk, in particular, has
+shown that not only can he
+
+00:04:29.880 --> 00:04:34.150 align:middle line:84%
+develop space flight hardware
+at one third the cost
+
+00:04:34.150 --> 00:04:37.110 align:middle line:84%
+or 1/10 the cost,
+one third the time,
+
+00:04:37.110 --> 00:04:40.387 align:middle line:84%
+as has become accepted in
+the major aerospace industry.
+
+00:04:40.387 --> 00:04:41.970 align:middle line:84%
+He's even developed
+stuff that they've
+
+00:04:41.970 --> 00:04:46.587 align:middle line:84%
+refused to develop ever, such as
+reusable spaceflight boosters.
+
+00:04:46.587 --> 00:04:47.670 align:middle line:10%
+>>NOORY: Which is amazing.
+
+00:04:47.670 --> 00:04:48.836 align:middle line:90%
+>>ZUBRIN: Yes, it's amazing.
+
+00:04:48.836 --> 00:04:50.960 align:middle line:90%
+But you know, here's the thing.
+
+00:04:50.960 --> 00:04:53.882 align:middle line:84%
+The problem wasn't that
+they couldn't do it,
+
+00:04:53.882 --> 00:04:55.090 align:middle line:90%
+not that they couldn't do it.
+
+00:04:55.090 --> 00:04:57.465 align:middle line:84%
+The problem was there was no
+incentive for them to do it.
+
+00:04:57.465 --> 00:05:00.840 align:middle line:84%
+Because the contract
+model that NASA
+
+00:05:00.840 --> 00:05:02.760 align:middle line:84%
+had put in place with
+the major spaceflight
+
+00:05:02.760 --> 00:05:04.500 align:middle line:90%
+contractors was cost plus.
+
+00:05:04.500 --> 00:05:07.350 align:middle line:84%
+Whatever they did, NASA
+would pay them plus 10%.
+
+00:05:07.350 --> 00:05:10.710 align:middle line:84%
+So, they were encouraged
+to maintain high costs.
+
+00:05:10.710 --> 00:05:14.490 align:middle line:84%
+They were encouraged
+to increase overheads.
+
+00:05:14.490 --> 00:05:17.100 align:middle line:84%
+There was nothing to be
+gained by not doing so.
+
+00:05:17.100 --> 00:05:20.560 align:middle line:84%
+Whereas Musk spends
+his money like it's
+
+00:05:20.560 --> 00:05:22.800 align:middle line:84%
+his own, because a
+significant fraction of it is.
+
+00:05:22.800 --> 00:05:23.630 align:middle line:90%
+>>NOORY: It is.
+
+00:05:23.630 --> 00:05:24.430 align:middle line:90%
+>>ZUBRIN: OK.
+
+00:05:24.430 --> 00:05:29.210 align:middle line:84%
+And so, his goal is to produce
+things as cheaply as possible,
+
+00:05:29.210 --> 00:05:32.480 align:middle line:84%
+both the rockets themselves
+and now making them reusable.
+
+00:05:32.480 --> 00:05:34.900 align:middle line:84%
+>>NOORY: Does it make sense
+to have a reusable rocket?
+
+00:05:34.900 --> 00:05:36.490 align:middle line:90%
+>>ZUBRIN: Oh yes, it does.
+
+00:05:36.490 --> 00:05:40.570 align:middle line:84%
+And he's only reusing
+the first stage,
+
+00:05:40.570 --> 00:05:44.170 align:middle line:84%
+so it's basically going to cut
+the cost of launch in half.
+
+00:05:44.170 --> 00:05:46.060 align:middle line:84%
+If he can reuse
+the second stage,
+
+00:05:46.060 --> 00:05:48.640 align:middle line:84%
+then we can talk about
+cutting the price of launch
+
+00:05:48.640 --> 00:05:51.430 align:middle line:84%
+by a factor of 10,
+and even ultimately
+
+00:05:51.430 --> 00:05:54.080 align:middle line:90%
+by much more than that, by 100.
+
+00:05:54.080 --> 00:05:54.880 align:middle line:90%
+>>NOORY: Wow.
+
+00:05:54.880 --> 00:05:55.150 align:middle line:90%
+>>ZUBRIN: I mean--
+
+00:05:55.150 --> 00:05:56.150 align:middle line:90%
+>>NOORY: Big difference.
+
+00:05:56.150 --> 00:05:59.710 align:middle line:84%
+>>ZUBRIN: And also, and once
+you get costs down that low,
+
+00:05:59.710 --> 00:06:02.990 align:middle line:84%
+if you have a rocket like
+what he has built, OK,
+
+00:06:02.990 --> 00:06:06.640 align:middle line:84%
+where the first stage
+flies into space
+
+00:06:06.640 --> 00:06:08.320 align:middle line:84%
+but then comes back
+to the landing site
+
+00:06:08.320 --> 00:06:10.480 align:middle line:84%
+and then the second
+stage goes to orbit,
+
+00:06:10.480 --> 00:06:13.450 align:middle line:84%
+if you can go to orbit you can
+go halfway around the world
+
+00:06:13.450 --> 00:06:14.700 align:middle line:90%
+just as easily.
+
+00:06:14.700 --> 00:06:19.930 align:middle line:84%
+So, you're talking about New
+York to Sydney in 40 minutes.
+
+00:06:19.930 --> 00:06:21.050 align:middle line:90%
+And this is--
+
+00:06:21.050 --> 00:06:21.850 align:middle line:90%
+>>NOORY: Wow.
+
+00:06:21.850 --> 00:06:22.650 align:middle line:90%
+>>ZUBRIN: Yes.
+
+00:06:22.650 --> 00:06:25.210 align:middle line:84%
+So, this is the market
+that will ultimately
+
+00:06:25.210 --> 00:06:26.320 align:middle line:90%
+lead to cheap spaceflight.
+
+00:06:26.320 --> 00:06:27.820 align:middle line:84%
+Because you know,
+we only you launch
+
+00:06:27.820 --> 00:06:30.320 align:middle line:84%
+about 80 or 90 satellites
+a year, worldwide,
+
+00:06:30.320 --> 00:06:31.120 align:middle line:90%
+the whole world.
+
+00:06:31.120 --> 00:06:31.450 align:middle line:90%
+>>NOORY: Right.
+
+00:06:31.450 --> 00:06:32.250 align:middle line:90%
+>>ZUBRIN: OK.
+
+00:06:32.250 --> 00:06:34.240 align:middle line:84%
+Now if it was cheaper,
+maybe we'd launch 200.
+
+00:06:34.240 --> 00:06:37.030 align:middle line:84%
+But in contrast,
+we fly thousands
+
+00:06:37.030 --> 00:06:39.760 align:middle line:84%
+of airliners every
+day, tens of thousands.
+
+00:06:39.760 --> 00:06:42.070 align:middle line:84%
+And that's the kind
+of frequency you
+
+00:06:42.070 --> 00:06:43.830 align:middle line:84%
+have to have if
+we're going to make
+
+00:06:43.830 --> 00:06:47.203 align:middle line:84%
+spaceflight as cheap as air
+flight and as safe as air
+
+00:06:47.203 --> 00:06:49.450 align:middle line:90%
+flight.
+
+00:06:49.450 --> 00:06:54.040 align:middle line:84%
+But long-distance surface
+to surface is that market.
+
+00:06:54.040 --> 00:06:55.660 align:middle line:84%
+And that's what
+these reusable launch
+
+00:06:55.660 --> 00:06:56.826 align:middle line:90%
+vehicles will make possible.
+
+00:06:56.826 --> 00:06:59.607 align:middle line:84%
+It's obviously impossible with
+expendable launch vehicles.
+
+00:06:59.607 --> 00:07:01.690 align:middle line:84%
+I mean, air travel would
+be ridiculously expensive
+
+00:07:01.690 --> 00:07:03.850 align:middle line:84%
+if they threw away the
+airliner after each flight.
+
+00:07:03.850 --> 00:07:05.260 align:middle line:84%
+>>NOORY: Yeah, after
+each flight, sure.
+
+00:07:05.260 --> 00:07:07.384 align:middle line:84%
+>>ZUBRIN: So, it's got to
+be reusable to open that.
+
+00:07:07.384 --> 00:07:09.310 align:middle line:84%
+But once you do open
+that, then you've
+
+00:07:09.310 --> 00:07:12.560 align:middle line:84%
+got a market thousands of
+times bigger than the satellite
+
+00:07:12.560 --> 00:07:13.360 align:middle line:90%
+market.
+
+00:07:13.360 --> 00:07:16.580 align:middle line:84%
+>>NOORY: Of the private
+guys, Bezos and Musk--
+
+00:07:16.580 --> 00:07:17.380 align:middle line:90%
+>>ZUBRIN: Yes.
+
+00:07:17.380 --> 00:07:20.050 align:middle line:84%
+>>NOORY: Which one is
+doing the better job?
+
+00:07:20.050 --> 00:07:22.300 align:middle line:84%
+>>ZUBRIN: Well, at the
+moment, Musk is ahead, OK.
+
+00:07:22.300 --> 00:07:23.980 align:middle line:90%
+There's no doubt.
+
+00:07:23.980 --> 00:07:28.660 align:middle line:84%
+Musk has actually achieved a
+flight to orbit numerous times.
+
+00:07:28.660 --> 00:07:30.262 align:middle line:90%
+He's also developed a capsule.
+
+00:07:30.262 --> 00:07:31.720 align:middle line:84%
+Bezos has also
+developed a capsule.
+
+00:07:31.720 --> 00:07:34.120 align:middle line:84%
+But Bezos has not
+flown to orbit yet.
+
+00:07:34.120 --> 00:07:38.020 align:middle line:84%
+The thing is, Bezos is
+much richer than Musk.
+
+00:07:38.020 --> 00:07:45.185 align:middle line:84%
+So, if Musk should falter,
+Bezos can keep going.
+
+00:07:45.185 --> 00:07:48.320 align:middle line:84%
+>>NOORY: But they're obviously
+doing this, Robert, for money,
+
+00:07:48.320 --> 00:07:49.120 align:middle line:90%
+right?
+
+00:07:49.120 --> 00:07:52.510 align:middle line:84%
+Eventually they want to
+make money doing this.
+
+00:07:52.510 --> 00:07:54.955 align:middle line:84%
+It's not just for
+the love of space.
+
+00:07:54.955 --> 00:07:57.330 align:middle line:84%
+>>ZUBRIN: Well, I actually
+disagree with that assessment.
+
+00:07:57.330 --> 00:07:58.570 align:middle line:90%
+>>NOORY: How come?
+
+00:07:58.570 --> 00:08:02.470 align:middle line:84%
+>>ZUBRIN: Well, because, I
+mean Musk will make money
+
+00:08:02.470 --> 00:08:04.270 align:middle line:90%
+with SpaceX, OK.
+
+00:08:04.270 --> 00:08:07.540 align:middle line:84%
+But this guy could make money
+with a chain of candy stores.
+
+00:08:07.540 --> 00:08:09.970 align:middle line:84%
+He could make money
+doing anything, OK.
+
+00:08:09.970 --> 00:08:11.590 align:middle line:84%
+>>NOORY: He's got
+the Midas touch.
+
+00:08:11.590 --> 00:08:13.150 align:middle line:90%
+>>ZUBRIN: Yes, certainly.
+
+00:08:13.150 --> 00:08:17.110 align:middle line:84%
+And so, the question is,
+why is he doing SpaceX?
+
+00:08:17.110 --> 00:08:18.880 align:middle line:84%
+It would be much easier,
+I mean, you know,
+
+00:08:18.880 --> 00:08:22.960 align:middle line:84%
+he could be like Donald Trump
+and set up casino hotels, OK.
+
+00:08:22.960 --> 00:08:25.720 align:middle line:84%
+There's a lot more money with
+that and it's a lot lower risk
+
+00:08:25.720 --> 00:08:27.800 align:middle line:90%
+than trying to build rockets.
+
+00:08:27.800 --> 00:08:29.770 align:middle line:84%
+>>NOORY: And you've got
+hard real estate there.
+
+00:08:29.770 --> 00:08:31.450 align:middle line:90%
+>>ZUBRIN: And so forth.
+
+00:08:31.450 --> 00:08:34.210 align:middle line:90%
+Musk wants to change the world.
+
+00:08:34.210 --> 00:08:38.909 align:middle line:90%
+Musk-- he's not Mother Theresa.
+
+00:08:38.909 --> 00:08:45.270 align:middle line:84%
+He's not a generous
+person in a saintly sense.
+
+00:08:45.270 --> 00:08:49.950 align:middle line:84%
+But what he is interested
+in is his self-interest
+
+00:08:49.950 --> 00:08:54.540 align:middle line:84%
+is he seeking eternal glory
+for doing great deeds.
+
+00:08:54.540 --> 00:08:57.164 align:middle line:84%
+It's what the ancient
+Greeks called kleos.
+
+00:08:57.164 --> 00:08:57.964 align:middle line:90%
+>>NOORY: Yeah.
+
+00:08:57.964 --> 00:09:01.720 align:middle line:84%
+>>ZUBRIN: It's why
+Achilles killed Hector.
+
+00:09:01.720 --> 00:09:05.400 align:middle line:84%
+It's you know, that
+is what Musk is about.
+
+00:09:05.400 --> 00:09:07.170 align:middle line:84%
+He doesn't just want
+to do great deeds.
+
+00:09:07.170 --> 00:09:09.570 align:middle line:84%
+He wants eternal glory
+for doing great deeds.
+
+00:09:09.570 --> 00:09:13.530 align:middle line:84%
+But that's basically
+the character trait
+
+00:09:13.530 --> 00:09:15.570 align:middle line:84%
+of a person who
+wants to be a hero.
+
+00:09:15.570 --> 00:09:17.642 align:middle line:10%
+>>NOORY: Isn't that
+like Jeff Bezos too?
+
+00:09:17.642 --> 00:09:18.600 align:middle line:90%
+>>ZUBRIN: Yes, as well.
+
+00:09:18.600 --> 00:09:20.100 align:middle line:90%
+>>NOORY: They're very similar.
+
+00:09:20.100 --> 00:09:21.060 align:middle line:90%
+>>ZUBRIN: That's right.
+
+00:09:21.060 --> 00:09:23.176 align:middle line:10%
+And so that's why
+they're doing it.
+
+00:09:23.176 --> 00:09:25.980 align:middle line:10%
+I mean, Bezos is going to make
+much more money with Amazon
+
+00:09:25.980 --> 00:09:29.130 align:middle line:10%
+than he is with Blue Origin.
+
+00:09:29.130 --> 00:09:32.480 align:middle line:84%
+So, he's doing this in order
+to do something really great.
+
+00:09:32.480 --> 00:09:34.230 align:middle line:84%
+He's doing this in
+order to do-- you know,
+
+00:09:34.230 --> 00:09:37.170 align:middle line:84%
+100 years from now nobody
+is going to remember Amazon.
+
+00:09:37.170 --> 00:09:39.630 align:middle line:84%
+Just like nobody
+today remembers what
+
+00:09:39.630 --> 00:09:42.700 align:middle line:90%
+were the big companies in 1880.
+
+00:09:42.700 --> 00:09:43.500 align:middle line:90%
+>>NOORY: Right.
+
+00:09:43.500 --> 00:09:44.370 align:middle line:90%
+>>ZUBRIN: OK.
+
+00:09:44.370 --> 00:09:47.490 align:middle line:90%
+But we remember Thomas Edison.
+
+00:09:47.490 --> 00:09:48.700 align:middle line:90%
+OK.
+
+00:09:48.700 --> 00:09:49.770 align:middle line:90%
+>>NOORY: And Henry Ford.
+
+00:09:49.770 --> 00:09:52.730 align:middle line:90%
+>>ZUBRIN: And Henry Ford.
+
+00:09:52.730 --> 00:09:58.800 align:middle line:84%
+But OK, so there is still a
+Motor Company named after Ford.
+
+00:09:58.800 --> 00:10:01.560 align:middle line:84%
+But you know, people will
+remember Thomas Edison
+
+00:10:01.560 --> 00:10:05.070 align:middle line:84%
+a thousand years from
+now, whereas who's
+
+00:10:05.070 --> 00:10:09.510 align:middle line:84%
+going to remember you know,
+the Union Pacific Railroad
+
+00:10:09.510 --> 00:10:12.349 align:middle line:84%
+or whatever the biggest
+railroad was at the time?
+
+00:10:12.349 --> 00:10:14.640 align:middle line:84%
+>>NOORY: How would you grade
+our current administration
+
+00:10:14.640 --> 00:10:19.110 align:middle line:84%
+for the possibility of
+more space exploration?
+
+00:10:19.110 --> 00:10:21.090 align:middle line:84%
+>>ZUBRIN: At this point,
+there's no action.
+
+00:10:21.090 --> 00:10:24.430 align:middle line:90%
+I mean, NASA's on autopilot.
+
+00:10:24.430 --> 00:10:27.540 align:middle line:84%
+So, the parts of NASA that
+were being competently run,
+
+00:10:27.540 --> 00:10:29.370 align:middle line:84%
+which I mentioned
+the space astronomy
+
+00:10:29.370 --> 00:10:32.347 align:middle line:84%
+program and the robotic
+exploration programs,
+
+00:10:32.347 --> 00:10:33.930 align:middle line:84%
+they're just kind
+of going along doing
+
+00:10:33.930 --> 00:10:35.560 align:middle line:90%
+what they were doing before.
+
+00:10:35.560 --> 00:10:37.220 align:middle line:90%
+So, that's OK.
+
+00:10:37.220 --> 00:10:39.420 align:middle line:84%
+The problem is, is that
+the human spaceflight
+
+00:10:39.420 --> 00:10:41.430 align:middle line:90%
+program is aimless.
+
+00:10:41.430 --> 00:10:44.887 align:middle line:84%
+So, we're spending,
+you know, whatever,
+
+00:10:44.887 --> 00:10:47.220 align:middle line:84%
+$10 billion dollars a year,
+about half of NASA's budget,
+
+00:10:47.220 --> 00:10:49.770 align:middle line:84%
+on the human spaceflight
+program and it's not
+
+00:10:49.770 --> 00:10:51.990 align:middle line:90%
+accomplishing anything.
+
+00:10:51.990 --> 00:10:52.920 align:middle line:90%
+OK.
+
+00:10:52.920 --> 00:10:54.419 align:middle line:84%
+If you want to
+accomplish something,
+
+00:10:54.419 --> 00:10:56.490 align:middle line:90%
+you have to have a goal, OK.
+
+00:10:56.490 --> 00:10:58.890 align:middle line:84%
+They just did this thing
+where they issued a statement
+
+00:10:58.890 --> 00:11:01.140 align:middle line:84%
+from the White House
+saying it's the goal
+
+00:11:01.140 --> 00:11:03.360 align:middle line:84%
+of the American human
+spaceflight program
+
+00:11:03.360 --> 00:11:05.742 align:middle line:90%
+to establish people on the Moon.
+
+00:11:05.742 --> 00:11:07.950 align:middle line:84%
+But they haven't even
+appointed a NASA administrator.
+
+00:11:07.950 --> 00:11:08.750 align:middle line:90%
+>>NOORY: Right.
+
+00:11:08.750 --> 00:11:11.700 align:middle line:84%
+>>ZUBRIN: They haven't asked for
+any appropriations for a Moon
+
+00:11:11.700 --> 00:11:12.110 align:middle line:90%
+base program.
+
+00:11:12.110 --> 00:11:12.630 align:middle line:90%
+>>NOORY: There's no plan.
+
+00:11:12.630 --> 00:11:13.713 align:middle line:90%
+>>ZUBRIN: There's no plan.
+
+00:11:13.713 --> 00:11:15.660 align:middle line:90%
+There's no program.
+
+00:11:15.660 --> 00:11:19.200 align:middle line:84%
+And so, you know,
+if this goes on
+
+00:11:19.200 --> 00:11:26.900 align:middle line:84%
+as it's going on, then four
+years from now or whenever,
+
+00:11:26.900 --> 00:11:29.700 align:middle line:84%
+what we'll do if
+we're sitting here,
+
+00:11:29.700 --> 00:11:32.060 align:middle line:84%
+we'll be talking about
+the great accomplishments
+
+00:11:32.060 --> 00:11:35.684 align:middle line:84%
+of the Webb Space Telescope
+and the TESS Space Telescope.
+
+00:11:35.684 --> 00:11:37.850 align:middle line:84%
+And we'll be talking about
+the great accomplishments
+
+00:11:37.850 --> 00:11:39.680 align:middle line:90%
+of the next Mars Rover.
+
+00:11:39.680 --> 00:11:41.300 align:middle line:84%
+But the human
+spaceflight program
+
+00:11:41.300 --> 00:11:43.730 align:middle line:84%
+will not have accomplished
+anything in the meantime.
+
+00:11:43.730 --> 00:11:46.250 align:middle line:84%
+>>NOORY: Robert, the
+PBS program "Space Time"
+
+00:11:46.250 --> 00:11:50.392 align:middle line:84%
+talks about a new technology
+called him EM Drive.
+
+00:11:50.392 --> 00:11:52.350 align:middle line:10%
+>>MATTHEW O'DOWD: The
+structure of the EM Drive
+
+00:11:52.350 --> 00:11:56.220 align:middle line:10%
+is a tapered copper
+cylinder with two flat ends.
+
+00:11:56.220 --> 00:11:58.380 align:middle line:10%
+A resonant radiation
+field is induced
+
+00:11:58.380 --> 00:12:01.830 align:middle line:10%
+inside so microwave
+standing waves reflecting
+
+00:12:01.830 --> 00:12:03.540 align:middle line:10%
+between the ends.
+
+00:12:03.540 --> 00:12:06.930 align:middle line:10%
+The device was invented
+by Roger Shawyer in 1999.
+
+00:12:06.930 --> 00:12:09.000 align:middle line:10%
+And a couple of similar
+proposals followed,
+
+00:12:09.000 --> 00:12:13.230 align:middle line:10%
+most notably Guido
+Fetta's Cannae Drive.
+
+00:12:13.230 --> 00:12:16.530 align:middle line:10%
+These fall under the family
+of microwave resonant cavity
+
+00:12:16.530 --> 00:12:17.730 align:middle line:10%
+thrusters.
+
+00:12:17.730 --> 00:12:21.920 align:middle line:10%
+They propose that thrust and
+net force in one direction,
+
+00:12:21.920 --> 00:12:24.810 align:middle line:10%
+the fat end for
+the EM Drive, can
+
+00:12:24.810 --> 00:12:26.520 align:middle line:10%
+be achieved by
+extracting momentum
+
+00:12:26.520 --> 00:12:30.990 align:middle line:10%
+from the internal radiation
+field but with no propellants.
+
+00:12:30.990 --> 00:12:32.550 align:middle line:10%
+This would be pretty
+revolutionary,
+
+00:12:32.550 --> 00:12:34.794 align:middle line:10%
+because conventional rocket
+engines are fundamentally
+
+00:12:34.794 --> 00:12:36.210 align:middle line:10%
+limited by the
+fact that they have
+
+00:12:36.210 --> 00:12:41.040 align:middle line:10%
+to carry not just an energy
+source, but propellant,
+
+00:12:41.040 --> 00:12:45.060 align:middle line:10%
+a bunch of mass to shoot out the
+back end to push them forward.
+
+00:12:45.060 --> 00:12:47.970 align:middle line:10%
+The law of conservation
+of momentum demands this.
+
+00:12:47.970 --> 00:12:51.390 align:middle line:10%
+Roger Shawyer explains the
+EM Drive's alleged thrust
+
+00:12:51.390 --> 00:12:53.730 align:middle line:10%
+as resulting from
+differential radiation
+
+00:12:53.730 --> 00:12:56.147 align:middle line:10%
+pressure between the two ends.
+
+00:12:56.147 --> 00:12:57.980 align:middle line:84%
+>>NOORY: You've heard
+of this kind of drive?
+
+00:12:57.980 --> 00:12:59.000 align:middle line:90%
+>>ZUBRIN: Uh, yes.
+
+00:12:59.000 --> 00:13:02.730 align:middle line:84%
+Now OK, there's two
+separate issues here.
+
+00:13:02.730 --> 00:13:08.100 align:middle line:84%
+If you're just talking
+about a radiation drive,
+
+00:13:08.100 --> 00:13:10.260 align:middle line:90%
+then there's nothing new, OK.
+
+00:13:10.260 --> 00:13:14.370 align:middle line:84%
+That is, it's always been known
+that electromagnetic radiation
+
+00:13:14.370 --> 00:13:15.750 align:middle line:90%
+has momentum.
+
+00:13:15.750 --> 00:13:19.170 align:middle line:84%
+It's why solar sails
+can get momentum
+
+00:13:19.170 --> 00:13:20.910 align:middle line:90%
+by reflecting sunlight.
+
+00:13:20.910 --> 00:13:23.890 align:middle line:84%
+And if you have a radio
+transmitter and you have a dish
+
+00:13:23.890 --> 00:13:26.520 align:middle line:84%
+and you're shooting
+it in one direction,
+
+00:13:26.520 --> 00:13:29.140 align:middle line:84%
+it will exert some force
+in the other direction.
+
+00:13:29.140 --> 00:13:31.620 align:middle line:90%
+That is well understood physics.
+
+00:13:31.620 --> 00:13:36.180 align:middle line:84%
+The issue is that they're
+claiming anomalous thrust that
+
+00:13:36.180 --> 00:13:39.960 align:middle line:84%
+is greater than that
+amount of thrust, which
+
+00:13:39.960 --> 00:13:42.390 align:middle line:90%
+is outside of known physics.
+
+00:13:42.390 --> 00:13:45.780 align:middle line:84%
+And the problem that I have
+is that the experiments that
+
+00:13:45.780 --> 00:13:48.840 align:middle line:84%
+have been done have been
+done at such low thrust
+
+00:13:48.840 --> 00:13:52.170 align:middle line:84%
+that the measurement trying to
+distinguish between what they
+
+00:13:52.170 --> 00:13:56.190 align:middle line:84%
+claim and what we do
+expect to be there
+
+00:13:56.190 --> 00:14:02.070 align:middle line:84%
+is so small that it could be
+ascribed to experimental error.
+
+00:14:02.070 --> 00:14:07.530 align:middle line:84%
+And since there is no
+theory that supports
+
+00:14:07.530 --> 00:14:09.030 align:middle line:90%
+the reality of their claims--
+
+00:14:09.030 --> 00:14:12.000 align:middle line:84%
+or no accepted theory,
+let me put it that way--
+
+00:14:12.000 --> 00:14:14.570 align:middle line:84%
+at this point, I'm in
+a wait and see mode.
+
+00:14:14.570 --> 00:14:16.830 align:middle line:84%
+I'm not out there
+throwing my hat
+
+00:14:16.830 --> 00:14:22.770 align:middle line:84%
+in the air for the EM
+Drive, other than what
+
+00:14:22.770 --> 00:14:27.690 align:middle line:84%
+was known always, which was
+using electromagnetic radiation
+
+00:14:27.690 --> 00:14:29.312 align:middle line:90%
+to create photon pressure.
+
+00:14:29.312 --> 00:14:31.770 align:middle line:84%
+>>NOORY: Robert, do you think
+we should go back to the Moon
+
+00:14:31.770 --> 00:14:33.730 align:middle line:90%
+or move on to Mars?
+
+00:14:33.730 --> 00:14:37.800 align:middle line:84%
+>>ZUBRIN: Well, I think we
+have to set our sights on Mars.
+
+00:14:37.800 --> 00:14:42.440 align:middle line:84%
+But we don't need to design
+gigantic science fiction
+
+00:14:42.440 --> 00:14:44.460 align:middle line:90%
+spaceships to go to Mars.
+
+00:14:44.460 --> 00:14:46.880 align:middle line:84%
+We can go to Mars with
+essentially the same kind
+
+00:14:46.880 --> 00:14:48.864 align:middle line:84%
+of transportation
+system that you
+
+00:14:48.864 --> 00:14:50.030 align:middle line:90%
+could use to go to the Moon.
+
+00:14:50.030 --> 00:14:51.770 align:middle line:84%
+Which means a
+heavy lift booster,
+
+00:14:51.770 --> 00:14:55.400 align:middle line:84%
+something that could throw
+perhaps 50 tons on Trans-Mars
+
+00:14:55.400 --> 00:14:56.475 align:middle line:90%
+or trans-lunar injection.
+
+00:14:56.475 --> 00:14:57.940 align:middle line:90%
+>>NOORY: How long is the trip?
+
+00:14:57.940 --> 00:14:59.690 align:middle line:84%
+>>ZUBRIN: Well, to the
+Moon is three days,
+
+00:14:59.690 --> 00:15:00.980 align:middle line:90%
+to Mars is six months.
+
+00:15:00.980 --> 00:15:01.890 align:middle line:90%
+>>NOORY: Six months.
+
+00:15:01.890 --> 00:15:02.690 align:middle line:90%
+>>ZUBRIN: OK.
+
+00:15:02.690 --> 00:15:04.850 align:middle line:90%
+And either way is doable.
+
+00:15:04.850 --> 00:15:06.410 align:middle line:90%
+But the thing is this.
+
+00:15:06.410 --> 00:15:10.370 align:middle line:84%
+In other words, you design a
+coherent Moon-Mars program.
+
+00:15:10.370 --> 00:15:13.190 align:middle line:84%
+You design a Moon
+mission, not with
+
+00:15:13.190 --> 00:15:16.430 align:middle line:84%
+the absolute minimum capability
+for getting to the Moon,
+
+00:15:16.430 --> 00:15:18.650 align:middle line:84%
+but with a healthy capability
+of getting to the Moon
+
+00:15:18.650 --> 00:15:20.150 align:middle line:90%
+like we had with Apollo.
+
+00:15:20.150 --> 00:15:22.670 align:middle line:84%
+And then you constrain
+the Mars mission
+
+00:15:22.670 --> 00:15:25.970 align:middle line:84%
+to operate within
+the performance
+
+00:15:25.970 --> 00:15:29.390 align:middle line:90%
+envelope of that capability.
+
+00:15:29.390 --> 00:15:32.840 align:middle line:84%
+>>NOORY: If we go to Mars
+and it takes six months
+
+00:15:32.840 --> 00:15:35.457 align:middle line:84%
+to go, how long would we
+stay before we'd come back?
+
+00:15:35.457 --> 00:15:37.040 align:middle line:84%
+>>ZUBRIN: Well, the
+flight plan that I
+
+00:15:37.040 --> 00:15:41.960 align:middle line:84%
+prefer is six months out, six
+months back, a year and a half
+
+00:15:41.960 --> 00:15:43.050 align:middle line:90%
+on the surface in between.
+
+00:15:43.050 --> 00:15:44.030 align:middle line:90%
+>>NOORY: A year and a half?
+
+00:15:44.030 --> 00:15:44.360 align:middle line:90%
+>>ZUBRIN: Yes.
+
+00:15:44.360 --> 00:15:45.160 align:middle line:90%
+>>NOORY: Wow.
+
+00:15:45.160 --> 00:15:49.400 align:middle line:84%
+>>ZUBRIN: OK, in other words,
+the cycle is two and 1/2 years.
+
+00:15:49.400 --> 00:15:52.580 align:middle line:84%
+And I would prefer to
+spend the majority of it
+
+00:15:52.580 --> 00:15:56.120 align:middle line:84%
+on the surface of Mars, because
+that is where the science is.
+
+00:15:56.120 --> 00:15:57.500 align:middle line:84%
+That's what the
+mission is about.
+
+00:15:57.500 --> 00:16:00.740 align:middle line:84%
+The mission is, you know,
+not about spending time
+
+00:16:00.740 --> 00:16:01.850 align:middle line:90%
+flying through space.
+
+00:16:01.850 --> 00:16:04.950 align:middle line:84%
+It's about doing
+exploration on Mars.
+
+00:16:04.950 --> 00:16:08.360 align:middle line:84%
+So, you could spend nine months
+going and nine months coming
+
+00:16:08.360 --> 00:16:10.700 align:middle line:84%
+back, and then you'd be
+a year on the surface.
+
+00:16:10.700 --> 00:16:13.340 align:middle line:84%
+But I'd rather spend
+60% of the mission time
+
+00:16:13.340 --> 00:16:15.440 align:middle line:90%
+on the surface than 40%.
+
+00:16:15.440 --> 00:16:17.780 align:middle line:84%
+>>NOORY: Let's see how
+NASA's plan for going to Mars
+
+00:16:17.780 --> 00:16:20.280 align:middle line:90%
+could evolve.
+
+00:16:20.280 --> 00:16:23.310 align:middle line:10%
+>>NARRATOR: NASA's path for
+human exploration of Mars
+
+00:16:23.310 --> 00:16:26.620 align:middle line:10%
+begins in low earth orbit
+aboard the International Space
+
+00:16:26.620 --> 00:16:27.420 align:middle line:10%
+Station.
+
+00:16:27.420 --> 00:16:29.430 align:middle line:10%
+On board the
+orbiting laboratory,
+
+00:16:29.430 --> 00:16:32.820 align:middle line:10%
+astronauts are helping us
+prove many of the technologies
+
+00:16:32.820 --> 00:16:36.060 align:middle line:10%
+and communications systems
+needed for human missions
+
+00:16:36.060 --> 00:16:36.875 align:middle line:10%
+into deep space.
+
+00:16:36.875 --> 00:16:38.250 align:middle line:10%
+>>CHARLES BOLDEN:
+Well, the crews
+
+00:16:38.250 --> 00:16:40.083 align:middle line:10%
+right now on the
+International Space Station
+
+00:16:40.083 --> 00:16:41.790 align:middle line:10%
+are using this wonderful
+outpost to help
+
+00:16:41.790 --> 00:16:45.380 align:middle line:10%
+us get farther and farther into
+space, to asteroids, to Mars
+
+00:16:45.380 --> 00:16:46.480 align:middle line:10%
+eventually.
+
+00:16:46.480 --> 00:16:48.000 align:middle line:84%
+I think the science
+on Station is
+
+00:16:48.000 --> 00:16:49.590 align:middle line:84%
+making incredible
+breakthroughs that
+
+00:16:49.590 --> 00:16:51.720 align:middle line:84%
+are going to help us make life
+better for people right here
+
+00:16:51.720 --> 00:16:52.020 align:middle line:90%
+on Earth.
+
+00:16:52.020 --> 00:16:54.394 align:middle line:10%
+>>RICK MASTACCHIO: We and our
+other international partner
+
+00:16:54.394 --> 00:16:58.950 align:middle line:10%
+crewmates are working off
+the planet for the planet.
+
+00:16:58.950 --> 00:17:01.620 align:middle line:10%
+>>MIKE HOPKINS: NASA, along
+with our international partners,
+
+00:17:01.620 --> 00:17:04.410 align:middle line:10%
+conduct scientific research
+every day here on the Station
+
+00:17:04.410 --> 00:17:06.390 align:middle line:10%
+as we use this
+orbiting laboratory
+
+00:17:06.390 --> 00:17:09.450 align:middle line:10%
+as a stepping stone for
+future deep space exploration.
+
+00:17:09.450 --> 00:17:12.270 align:middle line:10%
+>>NARRATOR: In tandem with
+Space Station research,
+
+00:17:12.270 --> 00:17:15.960 align:middle line:10%
+NASA will send a robotic
+mission to capture and redirect
+
+00:17:15.960 --> 00:17:19.170 align:middle line:10%
+an asteroid to orbit the Moon.
+
+00:17:19.170 --> 00:17:22.319 align:middle line:10%
+Astronauts aboard
+NASA's Orion spacecraft
+
+00:17:22.319 --> 00:17:27.540 align:middle line:10%
+will explore the asteroid and
+return to earth with samples.
+
+00:17:27.540 --> 00:17:30.870 align:middle line:10%
+This experience will help
+NASA test new systems
+
+00:17:30.870 --> 00:17:35.500 align:middle line:10%
+and capabilities such as solar
+electric propulsion, which
+
+00:17:35.500 --> 00:17:38.440 align:middle line:10%
+will send cargo as part
+of human missions to Mars.
+
+00:17:38.440 --> 00:17:42.230 align:middle line:90%
+
+
+00:17:42.230 --> 00:17:45.050 align:middle line:10%
+NASA's new space
+launch system will
+
+00:17:45.050 --> 00:17:47.855 align:middle line:10%
+enable these proving
+ground missions
+
+00:17:47.855 --> 00:17:50.950 align:middle line:10%
+to test new capabilities.
+
+00:17:50.950 --> 00:17:56.120 align:middle line:10%
+Human missions to Mars will rely
+on Orion and an evolved version
+
+00:17:56.120 --> 00:18:02.350 align:middle line:10%
+of SLS, which will be the most
+powerful rocket ever flown.
+
+00:18:02.350 --> 00:18:05.790 align:middle line:84%
+>>NOORY: Robert, how close are
+we to doing things like that?
+
+00:18:05.790 --> 00:18:08.970 align:middle line:84%
+>>ZUBRIN: Well, that's
+actually a pretty funny movie.
+
+00:18:08.970 --> 00:18:10.470 align:middle line:84%
+>>NOORY: I noticed
+a little chuckle.
+
+00:18:10.470 --> 00:18:11.940 align:middle line:90%
+>>ZUBRIN: OK, yeah, no.
+
+00:18:11.940 --> 00:18:13.890 align:middle line:84%
+Because all right,
+the first part of it
+
+00:18:13.890 --> 00:18:15.570 align:middle line:90%
+had some truth in it.
+
+00:18:15.570 --> 00:18:19.020 align:middle line:84%
+We certainly have learned stuff
+on the Space Station that will
+
+00:18:19.020 --> 00:18:21.000 align:middle line:90%
+be useful in going to Mars.
+
+00:18:21.000 --> 00:18:24.200 align:middle line:84%
+But you know, if you are going
+to have a nautical program
+
+00:18:24.200 --> 00:18:28.410 align:middle line:84%
+of sea exploration, you might
+very well have a training ship
+
+00:18:28.410 --> 00:18:31.470 align:middle line:84%
+that you moor out in
+the harbor or in the bay
+
+00:18:31.470 --> 00:18:32.870 align:middle line:90%
+that you send the cadets on.
+
+00:18:32.870 --> 00:18:33.260 align:middle line:90%
+>>NOORY: You should.
+
+00:18:33.260 --> 00:18:34.350 align:middle line:90%
+>>ZUBRIN: OK, you should.
+
+00:18:34.350 --> 00:18:36.840 align:middle line:84%
+But that would not be the
+sum total or centerpiece
+
+00:18:36.840 --> 00:18:37.920 align:middle line:90%
+of your program.
+
+00:18:37.920 --> 00:18:40.890 align:middle line:84%
+That would be just sort
+of one facility that
+
+00:18:40.890 --> 00:18:43.500 align:middle line:90%
+helps support the program.
+
+00:18:43.500 --> 00:18:48.150 align:middle line:84%
+The rest of the show
+was nonsensical.
+
+00:18:48.150 --> 00:18:50.070 align:middle line:84%
+For instance, this
+thing about capturing
+
+00:18:50.070 --> 00:18:53.190 align:middle line:84%
+a chunk of an asteroid and
+putting it in lunar orbit.
+
+00:18:53.190 --> 00:18:55.650 align:middle line:84%
+That has nothing to do with
+sending people to Mars.
+
+00:18:55.650 --> 00:18:57.900 align:middle line:84%
+And in fact, that
+idea, which was popular
+
+00:18:57.900 --> 00:19:01.920 align:middle line:84%
+when this film was
+made about a year ago,
+
+00:19:01.920 --> 00:19:04.094 align:middle line:90%
+has already been dropped, OK.
+
+00:19:04.094 --> 00:19:06.510 align:middle line:84%
+This idea of capturing a boulder
+and putting a lunar orbit
+
+00:19:06.510 --> 00:19:08.379 align:middle line:84%
+is completely irrelevant
+to humans to Mars.
+
+00:19:08.379 --> 00:19:10.170 align:middle line:84%
+No one interested in
+sending humans to Mars
+
+00:19:10.170 --> 00:19:12.450 align:middle line:84%
+would ever have come
+up with such an idea.
+
+00:19:12.450 --> 00:19:12.720 align:middle line:90%
+>>NOORY: Why?
+
+00:19:12.720 --> 00:19:15.261 align:middle line:84%
+>>ZUBRIN: It was an idea that
+they came up with for something
+
+00:19:15.261 --> 00:19:16.110 align:middle line:90%
+to do.
+
+00:19:16.110 --> 00:19:17.910 align:middle line:84%
+And then they
+attempted to justify it
+
+00:19:17.910 --> 00:19:21.170 align:middle line:84%
+by saying it's part of the
+human Mars mission program.
+
+00:19:21.170 --> 00:19:25.920 align:middle line:84%
+It's similarly the solar
+electric propulsion,
+
+00:19:25.920 --> 00:19:28.670 align:middle line:84%
+which is something that
+there's a faction in NASA that
+
+00:19:28.670 --> 00:19:30.090 align:middle line:90%
+wants to do it.
+
+00:19:30.090 --> 00:19:32.600 align:middle line:84%
+We don't need it to
+send humans to Mars.
+
+00:19:32.600 --> 00:19:36.590 align:middle line:84%
+I wouldn't use it to send
+humans to Mars if I had it.
+
+00:19:36.590 --> 00:19:40.730 align:middle line:84%
+And once again, it's just that
+all these separate programs are
+
+00:19:40.730 --> 00:19:42.680 align:middle line:84%
+being justified
+or rather they are
+
+00:19:42.680 --> 00:19:45.710 align:middle line:84%
+being supported by
+different constituencies out
+
+00:19:45.710 --> 00:19:46.870 align:middle line:90%
+of their self-interest.
+
+00:19:46.870 --> 00:19:49.670 align:middle line:84%
+And then they justify
+them by saying oh, this
+
+00:19:49.670 --> 00:19:51.860 align:middle line:90%
+is needed if you go to Mars.
+
+00:19:51.860 --> 00:19:53.870 align:middle line:84%
+But this is the
+problem with NASA
+
+00:19:53.870 --> 00:19:57.560 align:middle line:84%
+right now, in particular the
+human space flight program.
+
+00:19:57.560 --> 00:20:01.370 align:middle line:84%
+They are not spending
+money to do things.
+
+00:20:01.370 --> 00:20:04.607 align:middle line:84%
+They are doing things
+in order to spend money.
+
+00:20:04.607 --> 00:20:05.690 align:middle line:90%
+>>NOORY: That's not smart.
+
+00:20:05.690 --> 00:20:07.760 align:middle line:84%
+>>ZUBRIN: No, it's like
+running your business
+
+00:20:07.760 --> 00:20:09.920 align:middle line:90%
+to make your vendors happy.
+
+00:20:09.920 --> 00:20:13.410 align:middle line:84%
+And you know, if you're
+running a business,
+
+00:20:13.410 --> 00:20:15.200 align:middle line:90%
+you do buy things from vendors.
+
+00:20:15.200 --> 00:20:18.390 align:middle line:84%
+But you do that
+for your purposes.
+
+00:20:18.390 --> 00:20:20.810 align:middle line:84%
+You don't do things
+in order to say
+
+00:20:20.810 --> 00:20:22.960 align:middle line:90%
+hi vendors, Merry Christmas.
+
+00:20:22.960 --> 00:20:26.570 align:middle line:84%
+We've decided to do
+something to make you happy.
+
+00:20:26.570 --> 00:20:31.700 align:middle line:84%
+So, what's needed is for NASA
+to say OK, here's the mission.
+
+00:20:31.700 --> 00:20:33.000 align:middle line:90%
+It's humans to Mars.
+
+00:20:33.000 --> 00:20:35.080 align:middle line:90%
+What do we need to do that?
+
+00:20:35.080 --> 00:20:36.630 align:middle line:90%
+And then you do those things.
+
+00:20:36.630 --> 00:20:39.210 align:middle line:84%
+Since this movie was
+composed, they've
+
+00:20:39.210 --> 00:20:41.280 align:middle line:84%
+come up with a new
+hobby horse, which
+
+00:20:41.280 --> 00:20:44.130 align:middle line:84%
+is to put a space
+station in lunar orbit,
+
+00:20:44.130 --> 00:20:47.500 align:middle line:84%
+supposedly because we need
+in order to go to Mars.
+
+00:20:47.500 --> 00:20:50.630 align:middle line:84%
+We do not need a space station
+in lunar orbit to go to Mars.
+
+00:20:50.630 --> 00:20:52.830 align:middle line:84%
+>>NOORY: Is that the Trump
+administration's plan?
+
+00:20:52.830 --> 00:20:55.440 align:middle line:84%
+>>ZUBRIN: Well, actually, it
+was the last gasp of the Obama
+
+00:20:55.440 --> 00:20:59.550 align:middle line:84%
+administration, but it
+hasn't been abandoned yet.
+
+00:20:59.550 --> 00:21:03.390 align:middle line:84%
+And so, at this point
+that's still the program
+
+00:21:03.390 --> 00:21:06.810 align:middle line:84%
+that they're claiming
+is necessary, probably
+
+00:21:06.810 --> 00:21:11.070 align:middle line:84%
+because there is not yet a NASA
+administrator to throw it out.
+
+00:21:11.070 --> 00:21:12.950 align:middle line:84%
+>>NOORY: Sounds like
+a waste of money.
+
+00:21:12.950 --> 00:21:13.750 align:middle line:90%
+>>ZUBRIN: Yes.
+
+00:21:13.750 --> 00:21:16.500 align:middle line:90%
+It's literally a waste of money.
+
+00:21:16.500 --> 00:21:18.850 align:middle line:90%
+That is its purpose.
+
+00:21:18.850 --> 00:21:23.380 align:middle line:84%
+And you know, you don't need
+a space station in lunar orbit
+
+00:21:23.380 --> 00:21:24.180 align:middle line:90%
+to go to Mars.
+
+00:21:24.180 --> 00:21:26.263 align:middle line:84%
+You don't even need a space
+station in lunar orbit
+
+00:21:26.263 --> 00:21:27.347 align:middle line:90%
+to go to the Moon.
+
+00:21:27.347 --> 00:21:29.430 align:middle line:84%
+If you want to go to the
+Moon, you go to the Moon.
+
+00:21:29.430 --> 00:21:30.400 align:middle line:90%
+>>NOORY: From here.
+
+00:21:30.400 --> 00:21:30.590 align:middle line:90%
+>>ZUBRIN: Yes.
+
+00:21:30.590 --> 00:21:31.110 align:middle line:90%
+>>NOORY: Bang.
+
+00:21:31.110 --> 00:21:31.910 align:middle line:90%
+>>ZUBRIN: OK.
+
+00:21:31.910 --> 00:21:33.690 align:middle line:84%
+If you want to go to
+Mars, you go to Mars.
+
+00:21:33.690 --> 00:21:38.540 align:middle line:84%
+So, basically, what we need
+is a mission driven program.
+
+00:21:38.540 --> 00:21:40.510 align:middle line:84%
+I mean, the way to
+think about it is--
+
+00:21:40.510 --> 00:21:42.093 align:middle line:84%
+>>NOORY: And what
+do you mean by that?
+
+00:21:42.093 --> 00:21:45.810 align:middle line:84%
+>>ZUBRIN: Well OK, let's
+think of two couples.
+
+00:21:45.810 --> 00:21:48.510 align:middle line:84%
+And they each want
+a dream house, OK.
+
+00:21:48.510 --> 00:21:50.869 align:middle line:84%
+Now couple number one, they
+sit down, they talk it over,
+
+00:21:50.869 --> 00:21:53.160 align:middle line:84%
+they get a general idea what
+the dream house should be.
+
+00:21:53.160 --> 00:21:54.690 align:middle line:90%
+They bring an architect over.
+
+00:21:54.690 --> 00:21:56.814 align:middle line:84%
+And over the kitchen
+table he sketches it out.
+
+00:21:56.814 --> 00:21:58.230 align:middle line:84%
+And they say ah,
+that's the house.
+
+00:21:58.230 --> 00:21:59.656 align:middle line:84%
+And then they bring
+in an engineer
+
+00:21:59.656 --> 00:22:00.780 align:middle line:90%
+and he actually designs it.
+
+00:22:00.780 --> 00:22:03.407 align:middle line:84%
+And then they build
+that house, OK.
+
+00:22:03.407 --> 00:22:04.740 align:middle line:90%
+That's a mission driven program.
+
+00:22:04.740 --> 00:22:05.900 align:middle line:90%
+That's Apollo.
+
+00:22:05.900 --> 00:22:10.440 align:middle line:84%
+OK, couple number two
+spends their weekends
+
+00:22:10.440 --> 00:22:12.780 align:middle line:84%
+cruising garage sales
+and they randomly
+
+00:22:12.780 --> 00:22:17.640 align:middle line:84%
+buy house parts that fit
+their fancy at that moment.
+
+00:22:17.640 --> 00:22:21.000 align:middle line:84%
+Oh, you know, a spiral
+staircase would be cool.
+
+00:22:21.000 --> 00:22:22.950 align:middle line:90%
+How about some Doric columns?
+
+00:22:22.950 --> 00:22:26.220 align:middle line:84%
+Maybe a fountain with a statue
+of Napoleon in the middle?
+
+00:22:26.220 --> 00:22:29.730 align:middle line:84%
+OK, and they accumulate all
+this junk in their backyard.
+
+00:22:29.730 --> 00:22:31.830 align:middle line:84%
+And then they invite
+the in-laws over.
+
+00:22:31.830 --> 00:22:35.310 align:middle line:84%
+And then pa-in-law says to
+son-in-law, why do you have
+
+00:22:35.310 --> 00:22:37.289 align:middle line:90%
+all this junk in your backyard?
+
+00:22:37.289 --> 00:22:39.330 align:middle line:84%
+And he says, well, it's
+to build our dream house.
+
+00:22:39.330 --> 00:22:42.130 align:middle line:84%
+And pa-in-law says, I'd like to
+see the plans for this house.
+
+00:22:42.130 --> 00:22:42.930 align:middle line:90%
+>>NOORY: Right.
+
+00:22:42.930 --> 00:22:45.310 align:middle line:84%
+>>ZUBRIN: And so, they say OK,
+well, we'll show you the plans.
+
+00:22:45.310 --> 00:22:47.190 align:middle line:84%
+So, they call an architect
+and they say look,
+
+00:22:47.190 --> 00:22:48.870 align:middle line:84%
+we want you to design
+a house and it has
+
+00:22:48.870 --> 00:22:51.150 align:middle line:90%
+to include all of these parts.
+
+00:22:51.150 --> 00:22:54.456 align:middle line:84%
+And so, you get a crazy plan
+which is never implemented.
+
+00:22:54.456 --> 00:22:56.580 align:middle line:84%
+>>NOORY: You have parts
+you don't even need, right.
+
+00:22:56.580 --> 00:22:57.380 align:middle line:90%
+>>ZUBRIN: No.
+
+00:22:57.380 --> 00:22:58.980 align:middle line:84%
+But well, you do
+need in order to show
+
+00:22:58.980 --> 00:23:02.100 align:middle line:84%
+to pa-in-law as your
+excuse of why you made
+
+00:23:02.100 --> 00:23:04.440 align:middle line:90%
+all these random purchases.
+
+00:23:04.440 --> 00:23:06.690 align:middle line:84%
+And that's what that plan
+that you just saw was.
+
+00:23:06.690 --> 00:23:09.292 align:middle line:84%
+You have an assortment
+of random programs.
+
+00:23:09.292 --> 00:23:10.500 align:middle line:90%
+You've got the Doric columns.
+
+00:23:10.500 --> 00:23:11.708 align:middle line:90%
+You got the spiral staircase.
+
+00:23:11.708 --> 00:23:13.560 align:middle line:84%
+You've got the
+statue of Napoleon
+
+00:23:13.560 --> 00:23:14.980 align:middle line:90%
+in the middle of a fountain.
+
+00:23:14.980 --> 00:23:17.370 align:middle line:84%
+And there is the
+architect who has designed
+
+00:23:17.370 --> 00:23:19.110 align:middle line:84%
+a house that includes
+all those things
+
+00:23:19.110 --> 00:23:21.150 align:middle line:84%
+and says this is
+the dream house.
+
+00:23:21.150 --> 00:23:23.100 align:middle line:84%
+And the house will never
+be built, because it
+
+00:23:23.100 --> 00:23:24.870 align:middle line:90%
+doesn't fit together, OK.
+
+00:23:24.870 --> 00:23:26.280 align:middle line:90%
+But that doesn't matter.
+
+00:23:26.280 --> 00:23:29.850 align:middle line:84%
+Because the whole point
+of the design was to get
+
+00:23:29.850 --> 00:23:31.367 align:middle line:90%
+pa-in-law off your back.
+
+00:23:31.367 --> 00:23:32.450 align:middle line:90%
+>>NOORY: Interesting take.
+
+00:23:32.450 --> 00:23:35.440 align:middle line:84%
+Who's going to beat us
+to Mars if we don't go?
+
+00:23:35.440 --> 00:23:36.240 align:middle line:90%
+China?
+
+00:23:36.240 --> 00:23:41.820 align:middle line:84%
+>>ZUBRIN: Well, I'm hoping
+that it will be SpaceX
+
+00:23:41.820 --> 00:23:45.270 align:middle line:90%
+rather than a foreign entity.
+
+00:23:45.270 --> 00:23:46.170 align:middle line:90%
+And it's possible.
+
+00:23:46.170 --> 00:23:47.420 align:middle line:90%
+>>NOORY: That's very possible.
+
+00:23:47.420 --> 00:23:51.420 align:middle line:84%
+>>ZUBRIN: OK, although I
+mean, my vision right now
+
+00:23:51.420 --> 00:23:54.390 align:middle line:84%
+is that eventually
+SpaceX and Blue Origin
+
+00:23:54.390 --> 00:23:56.610 align:middle line:84%
+and maybe someone
+else who comes along
+
+00:23:56.610 --> 00:23:58.470 align:middle line:84%
+will create enough
+of the systems
+
+00:23:58.470 --> 00:24:01.710 align:middle line:84%
+that we need to go to Mars that
+somebody will then sit down
+
+00:24:01.710 --> 00:24:04.170 align:middle line:84%
+with a president, whoever he
+or she may be at that time,
+
+00:24:04.170 --> 00:24:07.470 align:middle line:84%
+and say look, we have
+practically everything we need.
+
+00:24:07.470 --> 00:24:09.096 align:middle line:84%
+If you commit the
+nation to go to Mars,
+
+00:24:09.096 --> 00:24:11.136 align:middle line:84%
+we could be there by the
+end of your second term.
+
+00:24:11.136 --> 00:24:12.180 align:middle line:90%
+How about it?
+
+00:24:12.180 --> 00:24:13.060 align:middle line:90%
+OK.
+
+00:24:13.060 --> 00:24:15.470 align:middle line:84%
+And at that point it's an
+easy sell and we do it.
+
+00:24:15.470 --> 00:24:17.470 align:middle line:84%
+And I think that's what
+Musk is looking for too.
+
+00:24:17.470 --> 00:24:20.410 align:middle line:84%
+He's looking for being paid
+to send people to Mars.
+
+00:24:20.410 --> 00:24:21.210 align:middle line:90%
+>>NOORY: Sure.
+
+00:24:21.210 --> 00:24:24.030 align:middle line:84%
+>>ZUBRIN: He's investing by
+creating the systems to do it
+
+00:24:24.030 --> 00:24:25.740 align:middle line:90%
+in advance.
+
+00:24:25.740 --> 00:24:29.067 align:middle line:84%
+But if they don't rise
+to that, or I mean,
+
+00:24:29.067 --> 00:24:30.150 align:middle line:90%
+let's say Musk could fail.
+
+00:24:30.150 --> 00:24:33.340 align:middle line:84%
+I mean, Musk has got a very
+important launch coming up
+
+00:24:33.340 --> 00:24:34.140 align:middle line:90%
+in March.
+
+00:24:34.140 --> 00:24:36.060 align:middle line:10%
+He's going to launch the
+TESS Space Telescope.
+
+00:24:36.060 --> 00:24:37.476 align:middle line:10%
+This is the first
+time that SpaceX
+
+00:24:37.476 --> 00:24:39.630 align:middle line:10%
+has been asked to
+launch something
+
+00:24:39.630 --> 00:24:40.737 align:middle line:10%
+that's really important.
+
+00:24:40.737 --> 00:24:42.320 align:middle line:10%
+>>NOORY: And that
+he's got to deliver.
+
+00:24:42.320 --> 00:24:43.695 align:middle line:10%
+>>ZUBRIN: And the
+public is going
+
+00:24:43.695 --> 00:24:46.860 align:middle line:10%
+to be really unhappy
+if that launch fails,
+
+00:24:46.860 --> 00:24:50.430 align:middle line:10%
+if he loses a space
+telescope, OK, boom.
+
+00:24:50.430 --> 00:24:52.330 align:middle line:10%
+>>NOORY: That took
+years to make, right?
+
+00:24:52.330 --> 00:24:56.220 align:middle line:10%
+>>ZUBRIN: Yes,
+absolutely, a decade.
+
+00:24:56.220 --> 00:24:57.330 align:middle line:10%
+>>NOORY: A decade?
+
+00:24:57.330 --> 00:25:01.440 align:middle line:10%
+>>ZUBRIN: Yes, between the
+design and convincing NASA
+
+00:25:01.440 --> 00:25:03.980 align:middle line:10%
+to fund it and so forth, yes.
+
+00:25:03.980 --> 00:25:07.440 align:middle line:10%
+A lot of people have put most of
+their careers into this thing.
+
+00:25:07.440 --> 00:25:09.300 align:middle line:10%
+But it's not just about
+them, it's about us.
+
+00:25:09.300 --> 00:25:11.650 align:middle line:10%
+This is the great planet
+finding telescope.
+
+00:25:11.650 --> 00:25:15.300 align:middle line:10%
+It's going to find planets
+orbiting other stars.
+
+00:25:15.300 --> 00:25:17.590 align:middle line:84%
+I mean, the Kepler Space
+Telescope has shown the way,
+
+00:25:17.590 --> 00:25:19.110 align:middle line:84%
+but this is going to be
+thousands of times more
+
+00:25:19.110 --> 00:25:20.380 align:middle line:90%
+effective than Kepler.
+
+00:25:20.380 --> 00:25:22.950 align:middle line:10%
+This is a grand telescope
+comparable in its value
+
+00:25:22.950 --> 00:25:23.850 align:middle line:10%
+to Hubble.
+
+00:25:23.850 --> 00:25:25.840 align:middle line:10%
+And SpaceX is being
+asked to launch it.
+
+00:25:25.840 --> 00:25:27.630 align:middle line:10%
+They're in the big
+time with this one.
+
+00:25:27.630 --> 00:25:30.270 align:middle line:10%
+So, may we have a
+drumroll, please.
+
+00:25:30.270 --> 00:25:33.600 align:middle line:10%
+OK, if they succeed,
+they'll be the great heroes.
+
+00:25:33.600 --> 00:25:38.800 align:middle line:84%
+If they fail, people are going
+to want to shut them down.
+
+00:25:38.800 --> 00:25:40.260 align:middle line:84%
+But there's that,
+and then they're
+
+00:25:40.260 --> 00:25:41.676 align:middle line:84%
+going to be asked
+to launch things
+
+00:25:41.676 --> 00:25:43.050 align:middle line:90%
+more important after that.
+
+00:25:43.050 --> 00:25:44.760 align:middle line:90%
+And they could fail.
+
+00:25:44.760 --> 00:25:47.460 align:middle line:84%
+This is a very
+high-risk business.
+
+00:25:47.460 --> 00:25:50.730 align:middle line:84%
+And who knows, if Blue Origin,
+when it starts actually
+
+00:25:50.730 --> 00:25:52.470 align:middle line:84%
+launching rockets
+has some failures,
+
+00:25:52.470 --> 00:25:54.780 align:middle line:84%
+they could be out of
+business, although they
+
+00:25:54.780 --> 00:25:58.780 align:middle line:84%
+have more resiliency because
+Bezos has more money.
+
+00:25:58.780 --> 00:26:04.710 align:middle line:84%
+But you know, if
+they fail, then--
+
+00:26:04.710 --> 00:26:06.360 align:middle line:90%
+>>NOORY: Could be ego.
+
+00:26:06.360 --> 00:26:07.160 align:middle line:90%
+>>ZUBRIN: Well--
+
+00:26:07.160 --> 00:26:08.160 align:middle line:90%
+>>NOORY: Between them.
+
+00:26:08.160 --> 00:26:11.330 align:middle line:84%
+>>ZUBRIN: Well, yeah, but
+what I'm saying is well,
+
+00:26:11.330 --> 00:26:16.330 align:middle line:84%
+first of all, one very positive
+result of Musk's activity
+
+00:26:16.330 --> 00:26:18.130 align:middle line:84%
+has not just been
+his own activity,
+
+00:26:18.130 --> 00:26:20.470 align:middle line:84%
+but the fact that he's
+shown us a private space
+
+00:26:20.470 --> 00:26:22.902 align:middle line:90%
+company that works is possible.
+
+00:26:22.902 --> 00:26:23.860 align:middle line:90%
+>>NOORY: Very possible.
+
+00:26:23.860 --> 00:26:25.570 align:middle line:84%
+>>ZUBRIN: And so, we're
+going to see more SpaceXs.
+
+00:26:25.570 --> 00:26:27.361 align:middle line:84%
+Blue Origin, of course,
+we've already seen.
+
+00:26:27.361 --> 00:26:29.560 align:middle line:84%
+But we're going to see
+more American SpaceXs.
+
+00:26:29.560 --> 00:26:31.540 align:middle line:84%
+We're going to see
+European SpaceX.
+
+00:26:31.540 --> 00:26:33.190 align:middle line:84%
+We're going to see
+Russian SpaceXs.
+
+00:26:33.190 --> 00:26:35.140 align:middle line:84%
+We're going to see
+Chinese SpaceXs.
+
+00:26:35.140 --> 00:26:36.127 align:middle line:90%
+>>NOORY: Saudis?
+
+00:26:36.127 --> 00:26:37.210 align:middle line:90%
+They got the money for it.
+
+00:26:37.210 --> 00:26:38.010 align:middle line:90%
+>>ZUBRIN: Maybe.
+
+00:26:38.010 --> 00:26:40.200 align:middle line:84%
+But they don't really have
+the technical expertise.
+
+00:26:40.200 --> 00:26:41.350 align:middle line:90%
+>>NOORY: They could buy it.
+
+00:26:41.350 --> 00:26:43.240 align:middle line:90%
+>>ZUBRIN: Yeah, but--
+
+00:26:43.240 --> 00:26:44.140 align:middle line:90%
+>>NOORY: Japan?
+
+00:26:44.140 --> 00:26:46.780 align:middle line:90%
+>>ZUBRIN: Yes, Japan, certainly.
+
+00:26:46.780 --> 00:26:49.300 align:middle line:90%
+Japan, India.
+
+00:26:49.300 --> 00:26:51.760 align:middle line:84%
+I mean, you have to have a
+certain scientific outlook
+
+00:26:51.760 --> 00:26:53.240 align:middle line:90%
+in order to do this.
+
+00:26:53.240 --> 00:26:56.020 align:middle line:90%
+It's not just money, OK.
+
+00:26:56.020 --> 00:26:58.930 align:middle line:84%
+Yeah, I mean there's a reason
+why this happened first
+
+00:26:58.930 --> 00:27:00.180 align:middle line:90%
+in America.
+
+00:27:00.180 --> 00:27:02.620 align:middle line:84%
+There's other countries where
+there's big pools of capital
+
+00:27:02.620 --> 00:27:03.580 align:middle line:90%
+laying around.
+
+00:27:03.580 --> 00:27:05.410 align:middle line:84%
+But America also
+has the know-how.
+
+00:27:05.410 --> 00:27:06.490 align:middle line:90%
+It's got the creativity.
+
+00:27:06.490 --> 00:27:08.262 align:middle line:90%
+It's got the ingenuity.
+
+00:27:08.262 --> 00:27:09.220 align:middle line:90%
+>>NOORY: And the drive.
+
+00:27:09.220 --> 00:27:10.220 align:middle line:90%
+>>ZUBRIN: And the drive.
+
+00:27:10.220 --> 00:27:12.250 align:middle line:10%
+Now I've been to Russia
+a number of times,
+
+00:27:12.250 --> 00:27:14.530 align:middle line:10%
+and I happen to know that
+there are groups over there
+
+00:27:14.530 --> 00:27:17.740 align:middle line:10%
+right now who are trying to
+pull together a Russian SpaceX.
+
+00:27:17.740 --> 00:27:20.620 align:middle line:10%
+And there are pools
+of capital there owned
+
+00:27:20.620 --> 00:27:23.380 align:middle line:10%
+by people who have a
+passionate interest in space.
+
+00:27:23.380 --> 00:27:26.830 align:middle line:84%
+The real question though
+is what guarantees can they
+
+00:27:26.830 --> 00:27:29.080 align:middle line:84%
+get from the Putin regime
+that if they build a company
+
+00:27:29.080 --> 00:27:30.280 align:middle line:90%
+it won't just be stolen?
+
+00:27:30.280 --> 00:27:31.600 align:middle line:90%
+>>NOORY: Right, it could be.
+
+00:27:31.600 --> 00:27:32.260 align:middle line:90%
+>>ZUBRIN: And it could be.
+
+00:27:32.260 --> 00:27:33.468 align:middle line:90%
+>>NOORY: He'll nationalize it
+
+00:27:33.468 --> 00:27:36.100 align:middle line:84%
+>>ZUBRIN: So, in fact,
+the kleptocracy in Russia
+
+00:27:36.100 --> 00:27:40.030 align:middle line:84%
+is actually impairing it
+from having its own SpaceX.
+
+00:27:40.030 --> 00:27:42.580 align:middle line:84%
+And ultimately,
+unless they reform,
+
+00:27:42.580 --> 00:27:44.500 align:middle line:84%
+it will impair their
+national defense,
+
+00:27:44.500 --> 00:27:46.330 align:middle line:84%
+because space is a
+very important part
+
+00:27:46.330 --> 00:27:48.230 align:middle line:90%
+of national defense right now.
+
+00:27:48.230 --> 00:27:50.890 align:middle line:84%
+So, the Russians,
+the Putin regime
+
+00:27:50.890 --> 00:27:55.630 align:middle line:84%
+is going to be
+faced with a choice.
+
+00:27:55.630 --> 00:27:57.872 align:middle line:84%
+If you want Russia
+to remain strong,
+
+00:27:57.872 --> 00:27:59.830 align:middle line:84%
+you're going to have to
+provide some guarantees
+
+00:27:59.830 --> 00:28:02.260 align:middle line:84%
+for private property
+and individual rights.
+
+00:28:02.260 --> 00:28:06.340 align:middle line:84%
+>>NOORY: For years you have
+been a proponent to get to Mars.
+
+00:28:06.340 --> 00:28:07.240 align:middle line:90%
+You don't give up.
+
+00:28:07.240 --> 00:28:08.830 align:middle line:90%
+How come?
+
+00:28:08.830 --> 00:28:12.150 align:middle line:84%
+>>ZUBRIN: No one ever
+won by giving up.
+
+00:28:12.150 --> 00:28:15.790 align:middle line:84%
+>>NOORY: But why do you
+want to go to Mars, Robert?
+
+00:28:15.790 --> 00:28:19.300 align:middle line:84%
+>>ZUBRIN: Why do I want
+to see people on Mars?
+
+00:28:19.300 --> 00:28:20.560 align:middle line:90%
+>>NOORY: Yes.
+
+00:28:20.560 --> 00:28:23.420 align:middle line:10%
+>>ZUBRIN: Because at one point
+in my life, me going to Mars
+
+00:28:23.420 --> 00:28:24.519 align:middle line:10%
+was a real possibility.
+
+00:28:24.519 --> 00:28:26.560 align:middle line:84%
+But I don't think that's
+realistic at this point.
+
+00:28:26.560 --> 00:28:29.230 align:middle line:90%
+I'm already 65.
+
+00:28:29.230 --> 00:28:31.480 align:middle line:90%
+We've wasted too much time.
+
+00:28:31.480 --> 00:28:36.140 align:middle line:84%
+But if I can have a significant
+part in helping make it happen,
+
+00:28:36.140 --> 00:28:38.080 align:middle line:90%
+that's good enough for me.
+
+00:28:38.080 --> 00:28:41.924 align:middle line:84%
+Because I think it's
+the most important thing
+
+00:28:41.924 --> 00:28:43.090 align:middle line:90%
+going on in the world right.
+
+00:28:43.090 --> 00:28:44.089 align:middle line:90%
+>>NOORY: It is exciting.
+
+00:28:44.089 --> 00:28:46.520 align:middle line:84%
+>>ZUBRIN: OK, I mean
+look, think about this.
+
+00:28:46.520 --> 00:28:48.460 align:middle line:90%
+What happened in 1492?
+
+00:28:48.460 --> 00:28:49.560 align:middle line:90%
+>>NOORY: Mr. Columbus.
+
+00:28:49.560 --> 00:28:50.500 align:middle line:90%
+>>ZUBRIN: Right.
+
+00:28:50.500 --> 00:28:51.550 align:middle line:90%
+That's true.
+
+00:28:51.550 --> 00:28:54.160 align:middle line:90%
+And any American would say that.
+
+00:28:54.160 --> 00:28:57.490 align:middle line:84%
+That's the only thing
+we remember from 1492.
+
+00:28:57.490 --> 00:28:59.290 align:middle line:84%
+But other things
+happened in 1492
+
+00:28:59.290 --> 00:29:01.150 align:middle line:90%
+that were the big headliners.
+
+00:29:01.150 --> 00:29:04.360 align:middle line:84%
+The Borgias took over
+the Papacy in 1492.
+
+00:29:04.360 --> 00:29:05.420 align:middle line:90%
+That was the big coup.
+
+00:29:05.420 --> 00:29:06.670 align:middle line:90%
+>>NOORY: That was a big story.
+
+00:29:06.670 --> 00:29:09.220 align:middle line:84%
+>>ZUBRIN: OK, Lorenzo
+de Medici died in 1492.
+
+00:29:09.220 --> 00:29:12.010 align:middle line:84%
+England and France signed
+a peace treaty in 1492.
+
+00:29:12.010 --> 00:29:15.040 align:middle line:84%
+If there had been big
+time newspapers and 1492,
+
+00:29:15.040 --> 00:29:17.040 align:middle line:84%
+those would have
+been the big stories,
+
+00:29:17.040 --> 00:29:20.280 align:middle line:84%
+not this Italian weaver's son
+taking three little boats off
+
+00:29:20.280 --> 00:29:21.080 align:middle line:90%
+into the ocean.
+
+00:29:21.080 --> 00:29:23.040 align:middle line:90%
+And you know, what's that about?
+
+00:29:23.040 --> 00:29:23.840 align:middle line:90%
+Who cares?
+
+00:29:23.840 --> 00:29:26.050 align:middle line:90%
+What's the point?
+
+00:29:26.050 --> 00:29:29.800 align:middle line:84%
+So, you know, in 1903
+the Wright brothers flew
+
+00:29:29.800 --> 00:29:30.850 align:middle line:90%
+the first airplane?
+
+00:29:30.850 --> 00:29:33.430 align:middle line:90%
+Who was Secretary of State?
+
+00:29:33.430 --> 00:29:34.230 align:middle line:90%
+Nobody knows.
+
+00:29:34.230 --> 00:29:35.160 align:middle line:90%
+>>NOORY: Nobody knows.
+
+00:29:35.160 --> 00:29:37.240 align:middle line:90%
+>>ZUBRIN: OK, you know.
+
+00:29:37.240 --> 00:29:38.890 align:middle line:90%
+None of that stuff matters.
+
+00:29:38.890 --> 00:29:42.940 align:middle line:84%
+So, you only have a
+certain time on Earth here.
+
+00:29:42.940 --> 00:29:44.820 align:middle line:84%
+You want to do
+something that matters.
+
+00:29:44.820 --> 00:29:48.520 align:middle line:84%
+500 years from now I
+believe that if we're
+
+00:29:48.520 --> 00:29:51.610 align:middle line:84%
+successful in turning
+humanity into a spacefaring
+
+00:29:51.610 --> 00:29:53.950 align:middle line:84%
+species, if we do
+our job, which is
+
+00:29:53.950 --> 00:29:55.690 align:middle line:84%
+to have that first
+little Plymouth Rock
+
+00:29:55.690 --> 00:29:59.005 align:middle line:84%
+settlement on Mars, 500
+years now not only will there
+
+00:29:59.005 --> 00:30:01.660 align:middle line:84%
+be new branches of human
+civilization on Mars,
+
+00:30:01.660 --> 00:30:04.870 align:middle line:84%
+but on thousands of planets
+orbiting thousands of stars
+
+00:30:04.870 --> 00:30:06.460 align:middle line:84%
+in this neighborhood
+of the galaxy.
+
+00:30:06.460 --> 00:30:08.320 align:middle line:84%
+And when they look
+back on this time, what
+
+00:30:08.320 --> 00:30:09.640 align:middle line:90%
+are they going to care about?
+
+00:30:09.640 --> 00:30:13.300 align:middle line:84%
+Will they care about
+which gang of murderers
+
+00:30:13.300 --> 00:30:14.920 align:middle line:90%
+came out on top in Syria?
+
+00:30:14.920 --> 00:30:16.690 align:middle line:84%
+Will they care about
+who was in and who
+
+00:30:16.690 --> 00:30:18.760 align:middle line:84%
+was out and this and
+that the other thing?
+
+00:30:18.760 --> 00:30:24.190 align:middle line:84%
+And you know, who's going
+to remember Rex Tillerson?
+
+00:30:24.190 --> 00:30:27.350 align:middle line:90%
+I mean, hello.
+
+00:30:27.350 --> 00:30:33.160 align:middle line:84%
+But what we did to make their
+grant civilization possible,
+
+00:30:33.160 --> 00:30:34.450 align:middle line:90%
+that's what will matter.
+
+00:30:34.450 --> 00:30:36.520 align:middle line:84%
+>>NOORY: People still
+remember Neil Armstrong.
+
+00:30:36.520 --> 00:30:38.170 align:middle line:84%
+>>ZUBRIN: Yeah, they still
+remember Neil Armstrong.
+
+00:30:38.170 --> 00:30:39.378 align:middle line:90%
+They still remember Columbus.
+
+00:30:39.378 --> 00:30:40.570 align:middle line:90%
+It's 500 years ago.
+
+00:30:40.570 --> 00:30:42.040 align:middle line:90%
+>>NOORY: Yeah, exactly.
+
+00:30:42.040 --> 00:30:46.460 align:middle line:84%
+>>ZUBRIN: And 500
+years from now,
+
+00:30:46.460 --> 00:30:48.440 align:middle line:84%
+we may have gone to the
+Moon to beat the Soviet
+
+00:30:48.440 --> 00:30:49.840 align:middle line:90%
+Union to the Moon.
+
+00:30:49.840 --> 00:30:52.100 align:middle line:84%
+500 years from now, they'll
+remember Neil Armstrong,
+
+00:30:52.100 --> 00:30:55.550 align:middle line:84%
+but only history buffs will even
+know what the Soviet Union was.
+
+00:30:55.550 --> 00:30:57.770 align:middle line:84%
+>>NOORY: And who will
+remember the candidates who
+
+00:30:57.770 --> 00:31:00.110 align:middle line:90%
+want to go to Mars permanently?
+
+00:31:00.110 --> 00:31:02.600 align:middle line:10%
+>>REPORTER: Mars One has
+just taken another step
+
+00:31:02.600 --> 00:31:07.220 align:middle line:10%
+to bring mankind where it
+has never stepped before.
+
+00:31:07.220 --> 00:31:09.910 align:middle line:10%
+Meet the Mars 100.
+
+00:31:09.910 --> 00:31:12.680 align:middle line:10%
+Just 100 candidates now
+remain in a competition
+
+00:31:12.680 --> 00:31:15.364 align:middle line:10%
+for a seat on a one way
+trip to the red planet.
+
+00:31:15.364 --> 00:31:17.030 align:middle line:10%
+>>ZACHARY GALLEGOS:
+I want to go to Mars
+
+00:31:17.030 --> 00:31:18.424 align:middle line:10%
+not just to be a
+part of history,
+
+00:31:18.424 --> 00:31:20.710 align:middle line:10%
+but to inspire people
+around the world.
+
+00:31:20.710 --> 00:31:22.810 align:middle line:10%
+>>REPORTER: Initially,
+more than 200,000
+
+00:31:22.810 --> 00:31:25.630 align:middle line:10%
+applied for the Mars One
+astronaut selection program
+
+00:31:25.630 --> 00:31:27.640 align:middle line:10%
+from all over the world.
+
+00:31:27.640 --> 00:31:31.480 align:middle line:10%
+About a year ago, that number
+narrowed to about 1,000.
+
+00:31:31.480 --> 00:31:33.022 align:middle line:10%
+That's when we first
+met six of them.
+
+00:31:33.022 --> 00:31:34.854 align:middle line:10%
+>>LEILA ZUCKER: I've
+wanted to go into space
+
+00:31:34.854 --> 00:31:36.220 align:middle line:10%
+since I was three years old.
+
+00:31:36.220 --> 00:31:38.170 align:middle line:10%
+>>REPORTER: Out of
+this group, just two
+
+00:31:38.170 --> 00:31:40.150 align:middle line:10%
+advanced to the final 100.
+
+00:31:40.150 --> 00:31:43.450 align:middle line:10%
+Leila Zucker, a married
+46-year-old ER doctor
+
+00:31:43.450 --> 00:31:46.581 align:middle line:10%
+from Washington DC
+who is well, excited.
+
+00:31:46.581 --> 00:31:48.580 align:middle line:10%
+>>LEILA ZUCKER: Spaceship,
+spaceship, spaceship!
+
+00:31:48.580 --> 00:31:52.090 align:middle line:10%
+>>REPORTER: And Daniel Carey,
+a 53-year-old data architect
+
+00:31:52.090 --> 00:31:54.850 align:middle line:10%
+from Virginia, husband
+and father of two.
+
+00:31:54.850 --> 00:31:57.160 align:middle line:10%
+>>DANIEL CAREY: The whole
+impact and possibility
+
+00:31:57.160 --> 00:31:59.230 align:middle line:10%
+becomes a lot more
+real and sharp
+
+00:31:59.230 --> 00:32:01.540 align:middle line:10%
+as the numbers get smaller.
+
+00:32:01.540 --> 00:32:03.902 align:middle line:84%
+>>NOORY: Are these
+people serious?
+
+00:32:03.902 --> 00:32:06.640 align:middle line:84%
+>>ZUBRIN: Um,
+well, I don't think
+
+00:32:06.640 --> 00:32:09.580 align:middle line:84%
+that Mars One is going to
+succeed in sending people
+
+00:32:09.580 --> 00:32:12.836 align:middle line:84%
+to Mars because they don't
+have the financial resources.
+
+00:32:12.836 --> 00:32:13.960 align:middle line:90%
+>>NOORY: To get them there.
+
+00:32:13.960 --> 00:32:14.918 align:middle line:90%
+>>ZUBRIN: That's right.
+
+00:32:14.918 --> 00:32:18.490 align:middle line:84%
+But they did inspire
+a lot of people
+
+00:32:18.490 --> 00:32:20.920 align:middle line:84%
+with the visions of
+human settlement of Mars.
+
+00:32:20.920 --> 00:32:25.150 align:middle line:84%
+And I've met a fair number
+of these Mars One final 100.
+
+00:32:25.150 --> 00:32:28.510 align:middle line:84%
+And a lot of them are
+very credible people.
+
+00:32:28.510 --> 00:32:33.280 align:middle line:84%
+I would say of that
+final 100, 20 or 30
+
+00:32:33.280 --> 00:32:36.070 align:middle line:84%
+would absolutely be qualified
+to make the NASA astronaut core.
+
+00:32:36.070 --> 00:32:37.510 align:middle line:84%
+>>NOORY: You'd feel honored
+to send them, wouldn't you.
+
+00:32:37.510 --> 00:32:38.468 align:middle line:90%
+>>ZUBRIN: That's right.
+
+00:32:38.468 --> 00:32:43.870 align:middle line:84%
+And we had two of them
+actually participate
+
+00:32:43.870 --> 00:32:47.440 align:middle line:84%
+in the Mars Society's recent
+expedition to the Arctic
+
+00:32:47.440 --> 00:32:49.900 align:middle line:84%
+where we did a simulated
+Mars mission up there.
+
+00:32:49.900 --> 00:33:02.570 align:middle line:84%
+So, no, you know, Mars One
+is visionary in the sense
+
+00:33:02.570 --> 00:33:05.330 align:middle line:84%
+that Bas Lansdorp does not
+have the resources to make
+
+00:33:05.330 --> 00:33:06.180 align:middle line:90%
+it happen.
+
+00:33:06.180 --> 00:33:13.190 align:middle line:84%
+But I do think that the idea of
+a privately funded Mars colony
+
+00:33:13.190 --> 00:33:14.060 align:middle line:90%
+is possible.
+
+00:33:14.060 --> 00:33:17.150 align:middle line:84%
+I do think that sending
+people to Mars one-way
+
+00:33:17.150 --> 00:33:19.820 align:middle line:90%
+to create a colony is possible.
+
+00:33:19.820 --> 00:33:21.770 align:middle line:90%
+Colonization is a one-way trip.
+
+00:33:21.770 --> 00:33:24.720 align:middle line:90%
+Life's a one way trip.
+
+00:33:24.720 --> 00:33:26.450 align:middle line:84%
+But I think it
+would take someone
+
+00:33:26.450 --> 00:33:31.410 align:middle line:84%
+with more resources and personal
+connections and other things
+
+00:33:31.410 --> 00:33:32.210 align:middle line:90%
+to make it work.
+
+00:33:32.210 --> 00:33:34.820 align:middle line:84%
+Just like there
+were a lot of people
+
+00:33:34.820 --> 00:33:36.950 align:middle line:84%
+who wanted to start
+their own space launch
+
+00:33:36.950 --> 00:33:37.915 align:middle line:90%
+company before SpaceX.
+
+00:33:37.915 --> 00:33:40.040 align:middle line:84%
+>>NOORY: Right, but they
+didn't have the resources.
+
+00:33:40.040 --> 00:33:41.748 align:middle line:84%
+>>ZUBRIN: They didn't
+have the resources.
+
+00:33:41.748 --> 00:33:43.335 align:middle line:84%
+Musk was the first
+one who really did.
+
+00:33:43.335 --> 00:33:44.135 align:middle line:90%
+>>NOORY: Yeah.
+
+00:33:44.135 --> 00:33:50.110 align:middle line:84%
+>>ZUBRIN: And so, he's
+laid out a vision.
+
+00:33:50.110 --> 00:33:52.830 align:middle line:84%
+He's created a dream,
+just like the people
+
+00:33:52.830 --> 00:33:57.540 align:middle line:84%
+who created the dream of the
+private space launch company.
+
+00:33:57.540 --> 00:33:58.590 align:middle line:90%
+They tried.
+
+00:33:58.590 --> 00:33:59.700 align:middle line:90%
+They failed.
+
+00:33:59.700 --> 00:34:06.250 align:middle line:84%
+But ultimately, you know, Elon
+Musk saw that and he said,
+
+00:34:06.250 --> 00:34:07.190 align:middle line:90%
+I could do this.
+
+00:34:07.190 --> 00:34:07.410 align:middle line:90%
+And did it.
+
+00:34:07.410 --> 00:34:09.480 align:middle line:84%
+>>NOORY: What do we find
+if we go to Mars, Robert?
+
+00:34:09.480 --> 00:34:10.440 align:middle line:90%
+What do we really find?
+
+00:34:10.440 --> 00:34:12.460 align:middle line:90%
+Do we see a past civilization?
+
+00:34:12.460 --> 00:34:14.739 align:middle line:90%
+What do we find?
+
+00:34:14.739 --> 00:34:16.699 align:middle line:90%
+>>ZUBRIN: Well, we find--
+
+00:34:16.699 --> 00:34:18.717 align:middle line:84%
+OK, first of all, there's
+two different things
+
+00:34:18.717 --> 00:34:20.550 align:middle line:84%
+that have to do with
+Mars and they both bear
+
+00:34:20.550 --> 00:34:21.900 align:middle line:90%
+on the question of life.
+
+00:34:21.900 --> 00:34:24.490 align:middle line:84%
+One is life in the past and the
+other is life in the future.
+
+00:34:24.490 --> 00:34:25.290 align:middle line:90%
+OK.
+
+00:34:25.290 --> 00:34:27.980 align:middle line:84%
+Now, in terms of
+life in the past,
+
+00:34:27.980 --> 00:34:30.330 align:middle line:84%
+OK, Mars was once a
+warm and wet planet.
+
+00:34:30.330 --> 00:34:32.949 align:middle line:90%
+It could have evolved life.
+
+00:34:32.949 --> 00:34:36.090 align:middle line:10%
+Mars was warm and wet 3
+and 1/2 billion years ago
+
+00:34:36.090 --> 00:34:39.238 align:middle line:10%
+at the same time that
+life appeared on Earth.
+
+00:34:39.238 --> 00:34:40.154 align:middle line:90%
+>>NOORY: That's right.
+
+00:34:40.154 --> 00:34:42.570 align:middle line:84%
+>>ZUBRIN: OK, now
+the question is this.
+
+00:34:42.570 --> 00:34:44.770 align:middle line:90%
+Did life appear on Mars?
+
+00:34:44.770 --> 00:34:48.300 align:middle line:84%
+And if so, did it
+appear indigenously
+
+00:34:48.300 --> 00:34:53.130 align:middle line:84%
+and then come to Earth by
+natural transfer of material
+
+00:34:53.130 --> 00:34:53.931 align:middle line:90%
+by meteoric impact?
+
+00:34:53.931 --> 00:34:54.930 align:middle line:90%
+>>NOORY: A meteor, sure.
+
+00:34:54.930 --> 00:34:56.969 align:middle line:84%
+>>ZUBRIN: Did it appear
+because life from Earth
+
+00:34:56.969 --> 00:35:02.550 align:middle line:84%
+came and colonized Mars
+through the same process?
+
+00:35:02.550 --> 00:35:05.550 align:middle line:90%
+Did we get two separate origins?
+
+00:35:05.550 --> 00:35:09.300 align:middle line:84%
+Or were we both colonized
+from the outside?
+
+00:35:09.300 --> 00:35:12.744 align:middle line:84%
+And we can resolve
+this by going to Mars.
+
+00:35:12.744 --> 00:35:13.910 align:middle line:90%
+See, there's a real mystery.
+
+00:35:13.910 --> 00:35:14.910 align:middle line:84%
+>>NOORY: And they're
+all possible.
+
+00:35:14.910 --> 00:35:16.690 align:middle line:84%
+>>ZUBRIN: Yes,
+they're all possible.
+
+00:35:16.690 --> 00:35:19.320 align:middle line:84%
+And we don't have
+any proof right now.
+
+00:35:19.320 --> 00:35:24.020 align:middle line:84%
+The one thing we do
+know is that there's
+
+00:35:24.020 --> 00:35:26.510 align:middle line:84%
+something very suspicious
+about life on Earth,
+
+00:35:26.510 --> 00:35:29.750 align:middle line:84%
+which is that it appears
+virtually as soon as it could.
+
+00:35:29.750 --> 00:35:31.790 align:middle line:84%
+As soon as the planet
+cooled enough to have
+
+00:35:31.790 --> 00:35:35.390 align:middle line:84%
+liquid water almost
+immediately life appears.
+
+00:35:35.390 --> 00:35:36.910 align:middle line:90%
+>>NOORY: You find that unusual?
+
+00:35:36.910 --> 00:35:39.410 align:middle line:84%
+>>ZUBRIN: Well,
+that is suggesting
+
+00:35:39.410 --> 00:35:41.570 align:middle line:84%
+that it was kind of
+around and waiting
+
+00:35:41.570 --> 00:35:46.400 align:middle line:84%
+to drop and start as soon
+as the place became livable.
+
+00:35:46.400 --> 00:35:47.930 align:middle line:90%
+>>NOORY: Maybe it was ongoing.
+
+00:35:47.930 --> 00:35:49.280 align:middle line:90%
+>>ZUBRIN: Well, yeah.
+
+00:35:49.280 --> 00:35:51.660 align:middle line:84%
+But anyway, but
+that is one thing.
+
+00:35:51.660 --> 00:35:54.530 align:middle line:84%
+Another thing that's
+suspicious about life on Earth
+
+00:35:54.530 --> 00:35:59.750 align:middle line:84%
+is we don't find any
+what I call pre-bacteria.
+
+00:35:59.750 --> 00:36:02.240 align:middle line:84%
+That is, we don't find any
+evidence of free living
+
+00:36:02.240 --> 00:36:05.270 align:middle line:84%
+organisms on Earth
+simpler than bacteria.
+
+00:36:05.270 --> 00:36:06.070 align:middle line:90%
+>>NOORY: Right.
+
+00:36:06.070 --> 00:36:07.700 align:middle line:84%
+>>ZUBRIN: Now, you
+think about this.
+
+00:36:07.700 --> 00:36:13.050 align:middle line:84%
+I mean, OK, you think
+about an iPhone.
+
+00:36:13.050 --> 00:36:15.240 align:middle line:90%
+An iPhone is a machine.
+
+00:36:15.240 --> 00:36:18.680 align:middle line:84%
+But there's all sorts of
+technologies that proceed it.
+
+00:36:18.680 --> 00:36:22.230 align:middle line:84%
+There's computers, there's
+electricity, there's batteries,
+
+00:36:22.230 --> 00:36:24.270 align:middle line:90%
+there's glass, there's steel.
+
+00:36:24.270 --> 00:36:25.450 align:middle line:90%
+There's all these things.
+
+00:36:25.450 --> 00:36:29.620 align:middle line:84%
+There's a whole technological
+history behind the iPhone, OK.
+
+00:36:29.620 --> 00:36:33.060 align:middle line:84%
+Now, so, we can believe
+that the iPhone was invented
+
+00:36:33.060 --> 00:36:35.940 align:middle line:84%
+by earthlings because they
+invented all this stuff that
+
+00:36:35.940 --> 00:36:37.690 align:middle line:90%
+led up to it.
+
+00:36:37.690 --> 00:36:45.450 align:middle line:84%
+OK, but what if this was the
+prehistoric age and people
+
+00:36:45.450 --> 00:36:47.910 align:middle line:84%
+had no technologies
+beyond stone axes
+
+00:36:47.910 --> 00:36:50.450 align:middle line:84%
+and all of a sudden somebody
+shows up with an iPhone.
+
+00:36:50.450 --> 00:36:53.280 align:middle line:84%
+OK, you would suspect
+that must have then came
+
+00:36:53.280 --> 00:36:54.120 align:middle line:90%
+from the outside.
+
+00:36:54.120 --> 00:36:54.920 align:middle line:90%
+>>NOORY: Had to.
+
+00:36:54.920 --> 00:36:55.870 align:middle line:90%
+>>ZUBRIN: OK, right.
+
+00:36:55.870 --> 00:37:02.040 align:middle line:84%
+Now, so bacteria may seem
+simple compared to big animals
+
+00:37:02.040 --> 00:37:03.370 align:middle line:90%
+and plants and people.
+
+00:37:03.370 --> 00:37:04.870 align:middle line:84%
+But they're really
+very complicated.
+
+00:37:04.870 --> 00:37:07.900 align:middle line:84%
+They've got all sorts of
+extremely complicated systems
+
+00:37:07.900 --> 00:37:08.700 align:middle line:90%
+and subsystems.
+
+00:37:08.700 --> 00:37:12.960 align:middle line:84%
+And they got a whole language
+of information technology
+
+00:37:12.960 --> 00:37:15.530 align:middle line:84%
+in them, DNA, and
+RNA and all of this.
+
+00:37:15.530 --> 00:37:17.370 align:middle line:90%
+OK, it's all there.
+
+00:37:17.370 --> 00:37:19.410 align:middle line:84%
+There had to have been
+a prior evolution.
+
+00:37:19.410 --> 00:37:22.290 align:middle line:84%
+We find no evidence
+of it on Earth.
+
+00:37:22.290 --> 00:37:26.430 align:middle line:84%
+OK, so, if we go
+to Mars and let's
+
+00:37:26.430 --> 00:37:32.730 align:middle line:84%
+say we find bacteria similar to
+Earth bacteria, but also more
+
+00:37:32.730 --> 00:37:34.140 align:middle line:90%
+primitive organisms.
+
+00:37:34.140 --> 00:37:37.770 align:middle line:84%
+So we could see the evolutionary
+history from chemistry to life,
+
+00:37:37.770 --> 00:37:40.270 align:middle line:84%
+then we'd say, well
+life evolved on Mars
+
+00:37:40.270 --> 00:37:43.110 align:middle line:90%
+and then it came to the Earth.
+
+00:37:43.110 --> 00:37:47.640 align:middle line:84%
+If we were to go to Mars and
+find a totally different kind
+
+00:37:47.640 --> 00:37:51.870 align:middle line:84%
+of organism that didn't use
+DNA and RNA for information,
+
+00:37:51.870 --> 00:37:56.100 align:middle line:84%
+then we'd say whoa,
+that's a local evolution
+
+00:37:56.100 --> 00:37:57.960 align:middle line:90%
+different than Earth evolution.
+
+00:37:57.960 --> 00:38:00.370 align:middle line:84%
+And gee, if it could happen
+there, it could happen here.
+
+00:38:00.370 --> 00:38:01.828 align:middle line:84%
+And I guess maybe
+the bacteria just
+
+00:38:01.828 --> 00:38:05.640 align:middle line:84%
+wiped out their more primitive
+ancestors or something, OK.
+
+00:38:05.640 --> 00:38:08.520 align:middle line:84%
+Because this shows that
+life could evolve commonly.
+
+00:38:08.520 --> 00:38:12.720 align:middle line:84%
+If, on the other hand,
+we find only bacteria
+
+00:38:12.720 --> 00:38:15.150 align:middle line:84%
+of more or less the same
+kind that we have here
+
+00:38:15.150 --> 00:38:17.820 align:middle line:84%
+and no pre-bacteria,
+that can indicate
+
+00:38:17.820 --> 00:38:20.860 align:middle line:84%
+the both Earth and Mars were
+seeded from the outside.
+
+00:38:20.860 --> 00:38:22.440 align:middle line:84%
+>>NOORY: Which is
+a dramatic story.
+
+00:38:22.440 --> 00:38:23.240 align:middle line:90%
+>>ZUBRIN: Right.
+
+00:38:23.240 --> 00:38:24.280 align:middle line:90%
+>>NOORY: Panspermia?
+
+00:38:24.280 --> 00:38:26.130 align:middle line:84%
+>>ZUBRIN: And if
+Earth-- yes, panspermia.
+
+00:38:26.130 --> 00:38:28.630 align:middle line:84%
+And if Earth and Mars were
+seeded from the outside,
+
+00:38:28.630 --> 00:38:31.770 align:middle line:84%
+that means all solar systems are
+being seeded from the outside.
+
+00:38:31.770 --> 00:38:33.750 align:middle line:84%
+It means the universe
+is filled with life.
+
+00:38:33.750 --> 00:38:37.800 align:middle line:84%
+>>NOORY: Do you think Mars
+might have had intelligent life?
+
+00:38:37.800 --> 00:38:40.470 align:middle line:90%
+
+
+00:38:40.470 --> 00:38:43.260 align:middle line:84%
+>>ZUBRIN: No, I actually
+don't think that.
+
+00:38:43.260 --> 00:38:44.760 align:middle line:84%
+I mean, I could be
+wrong about that.
+
+00:38:44.760 --> 00:38:49.170 align:middle line:84%
+But the kind of Mars
+that we see today
+
+00:38:49.170 --> 00:38:52.350 align:middle line:84%
+would not support an
+abundant biosphere,
+
+00:38:52.350 --> 00:38:54.640 align:middle line:84%
+let alone an intelligent
+civilization.
+
+00:38:54.640 --> 00:38:58.867 align:middle line:84%
+Now, I do believe that Mars
+will host intelligent life.
+
+00:38:58.867 --> 00:39:00.450 align:middle line:84%
+I believe when people
+go to Mars we're
+
+00:39:00.450 --> 00:39:02.100 align:middle line:84%
+going to make Mars
+much more habitable.
+
+00:39:02.100 --> 00:39:02.940 align:middle line:90%
+>>NOORY: Sure.
+
+00:39:02.940 --> 00:39:04.780 align:middle line:84%
+Well, you have a
+plan to terraform it.
+
+00:39:04.780 --> 00:39:05.580 align:middle line:90%
+>>ZUBRIN: Yes.
+
+00:39:05.580 --> 00:39:07.590 align:middle line:84%
+And I think we
+will terraform it.
+
+00:39:07.590 --> 00:39:10.140 align:middle line:84%
+Because we're a life, and
+it's the nature of life
+
+00:39:10.140 --> 00:39:13.800 align:middle line:84%
+to take barren environments
+and transform them into places
+
+00:39:13.800 --> 00:39:15.720 align:middle line:84%
+that are friendly for
+the development of life.
+
+00:39:15.720 --> 00:39:19.470 align:middle line:84%
+Life has radically
+terraformed the Earth.
+
+00:39:19.470 --> 00:39:22.230 align:middle line:84%
+The early Earth
+resembled the early Mars
+
+00:39:22.230 --> 00:39:27.640 align:middle line:84%
+with the CO2 atmosphere
+and so forth and no soil.
+
+00:39:27.640 --> 00:39:30.090 align:middle line:84%
+It's life that has put
+oxygen in our atmosphere.
+
+00:39:30.090 --> 00:39:32.370 align:middle line:84%
+It's life that put
+soil on the continents.
+
+00:39:32.370 --> 00:39:35.520 align:middle line:84%
+It's life, clearly,
+that made Earth green.
+
+00:39:35.520 --> 00:39:40.500 align:middle line:84%
+And no sooner does any
+barren place appear on Earth,
+
+00:39:40.500 --> 00:39:42.480 align:middle line:84%
+like Hawaii coming out
+of the Pacific Ocean,
+
+00:39:42.480 --> 00:39:44.861 align:middle line:84%
+this huge piece of
+bare, sterile basalt--
+
+00:39:44.861 --> 00:39:46.110 align:middle line:90%
+>>NOORY: And lifting it's way.
+
+00:39:46.110 --> 00:39:47.818 align:middle line:84%
+>>ZUBRIN: --then birds
+fly over, and they
+
+00:39:47.818 --> 00:39:49.740 align:middle line:84%
+drop seeds and the
+place becomes lush.
+
+00:39:49.740 --> 00:39:52.086 align:middle line:84%
+And then Polynesians show
+up and let loose pigs
+
+00:39:52.086 --> 00:39:53.460 align:middle line:84%
+so there's something
+good to eat.
+
+00:39:53.460 --> 00:39:55.680 align:middle line:84%
+And then Europeans show
+up and build hotels
+
+00:39:55.680 --> 00:39:57.330 align:middle line:84%
+so there's a nice
+place to check in.
+
+00:39:57.330 --> 00:39:59.550 align:middle line:90%
+This is what we do.
+
+00:39:59.550 --> 00:40:02.160 align:middle line:84%
+And it would be unnatural
+if human beings was
+
+00:40:02.160 --> 00:40:05.580 align:middle line:84%
+the kind of bird, as it were,
+that the biosphere has evolved
+
+00:40:05.580 --> 00:40:08.340 align:middle line:84%
+to take the seeds of
+life and transport them
+
+00:40:08.340 --> 00:40:11.220 align:middle line:84%
+to currently barren
+islands across space
+
+00:40:11.220 --> 00:40:12.710 align:middle line:90%
+did not do exactly that.
+
+00:40:12.710 --> 00:40:13.710 align:middle line:90%
+So we're going to do it.
+
+00:40:13.710 --> 00:40:14.220 align:middle line:90%
+We're going to do it.
+
+00:40:14.220 --> 00:40:15.330 align:middle line:90%
+We're going to make--
+
+00:40:15.330 --> 00:40:17.280 align:middle line:84%
+we're not just going
+to bring life to Mars,
+
+00:40:17.280 --> 00:40:18.400 align:middle line:84%
+we're going to
+bring Mars to life.
+
+00:40:18.400 --> 00:40:20.649 align:middle line:84%
+>>NOORY: Will it be government
+or these private sector
+
+00:40:20.649 --> 00:40:21.690 align:middle line:90%
+companies?
+
+00:40:21.690 --> 00:40:23.790 align:middle line:84%
+>>ZUBRIN: Well, I
+think initially it's
+
+00:40:23.790 --> 00:40:25.900 align:middle line:84%
+going to be a
+combination of both.
+
+00:40:25.900 --> 00:40:28.650 align:middle line:84%
+OK, I mean look,
+look, frankly, SpaceX
+
+00:40:28.650 --> 00:40:29.790 align:middle line:90%
+is a combination of both.
+
+00:40:29.790 --> 00:40:32.002 align:middle line:84%
+It was started by Musk
+with his own money.
+
+00:40:32.002 --> 00:40:33.960 align:middle line:84%
+But at this point, I
+think about half the money
+
+00:40:33.960 --> 00:40:36.430 align:middle line:84%
+coming into SpaceX is
+from the government.
+
+00:40:36.430 --> 00:40:39.090 align:middle line:84%
+I think the first
+human missions to Mars
+
+00:40:39.090 --> 00:40:43.650 align:middle line:84%
+will be done with a significant
+role by SpaceX hardware.
+
+00:40:43.650 --> 00:40:45.900 align:middle line:84%
+SpaceX is going to make
+the mission a lot cheaper
+
+00:40:45.900 --> 00:40:48.480 align:middle line:90%
+for the American people to do.
+
+00:40:48.480 --> 00:40:50.940 align:middle line:84%
+But the government
+is still going
+
+00:40:50.940 --> 00:40:52.620 align:middle line:84%
+to have to foot
+part of the bill.
+
+00:40:52.620 --> 00:40:54.040 align:middle line:90%
+But it's like Lewis and Clark.
+
+00:40:54.040 --> 00:40:56.040 align:middle line:84%
+You know, they were funded
+by the US government.
+
+00:40:56.040 --> 00:40:59.229 align:middle line:84%
+But once they did it,
+they went across America
+
+00:40:59.229 --> 00:41:01.020 align:middle line:84%
+and they found how you
+could cross America.
+
+00:41:01.020 --> 00:41:01.590 align:middle line:90%
+>>NOORY: They were on their own.
+
+00:41:01.590 --> 00:41:03.631 align:middle line:84%
+>>ZUBRIN: And that there
+were resources out there
+
+00:41:03.631 --> 00:41:04.710 align:middle line:90%
+on the Pacific coast.
+
+00:41:04.710 --> 00:41:07.950 align:middle line:84%
+Then the wagon trains
+started rolling.
+
+00:41:07.950 --> 00:41:08.970 align:middle line:90%
+>>NOORY: Absolutely.
+
+00:41:08.970 --> 00:41:10.350 align:middle line:84%
+>>ZUBRIN: So, the
+government had a role
+
+00:41:10.350 --> 00:41:11.516 align:middle line:90%
+in the settling of the West.
+
+00:41:11.516 --> 00:41:13.320 align:middle line:90%
+They helped opened it up.
+
+00:41:13.320 --> 00:41:16.260 align:middle line:84%
+They established
+the cavalry forts.
+
+00:41:16.260 --> 00:41:19.750 align:middle line:84%
+They gave land grants for
+the railroads and so forth.
+
+00:41:19.750 --> 00:41:24.620 align:middle line:84%
+But ultimately, then
+they made it possible
+
+00:41:24.620 --> 00:41:26.462 align:middle line:84%
+and then private
+individuals did it.
+
+00:41:26.462 --> 00:41:28.170 align:middle line:84%
+>>NOORY: Some scientists
+think that there
+
+00:41:28.170 --> 00:41:32.790 align:middle line:84%
+could have been a nuclear
+holocaust, a war on Mars.
+
+00:41:32.790 --> 00:41:35.400 align:middle line:90%
+What do you think?
+
+00:41:35.400 --> 00:41:38.310 align:middle line:84%
+>>ZUBRIN: I don't think there
+was a nuclear war on Mars,
+
+00:41:38.310 --> 00:41:41.160 align:middle line:84%
+because I don't think there was
+a technological civilization
+
+00:41:41.160 --> 00:41:43.990 align:middle line:90%
+on Mars.
+
+00:41:43.990 --> 00:41:46.500 align:middle line:84%
+And I don't think
+there's ever going
+
+00:41:46.500 --> 00:41:48.120 align:middle line:84%
+to be a nuclear
+war on Mars, even
+
+00:41:48.120 --> 00:41:50.730 align:middle line:84%
+though I think there will be
+a technological civilization
+
+00:41:50.730 --> 00:41:51.660 align:middle line:90%
+on Mars.
+
+00:41:51.660 --> 00:41:52.530 align:middle line:90%
+Because I think--
+
+00:41:52.530 --> 00:41:53.970 align:middle line:90%
+>>NOORY: It will be us.
+
+00:41:53.970 --> 00:41:56.760 align:middle line:84%
+>>ZUBRIN: Well, I think
+as humanity matures,
+
+00:41:56.760 --> 00:41:59.160 align:middle line:84%
+we go out to space,
+what we're going
+
+00:41:59.160 --> 00:42:03.090 align:middle line:84%
+to do by going out into
+space is prove that there are
+
+00:42:03.090 --> 00:42:04.980 align:middle line:84%
+infinite number of
+resources, that there
+
+00:42:04.980 --> 00:42:06.990 align:middle line:90%
+is no need to have wars.
+
+00:42:06.990 --> 00:42:11.510 align:middle line:84%
+Because it is people
+that are resourceful.
+
+00:42:11.510 --> 00:42:13.790 align:middle line:84%
+And if we can turn Mars
+into a living world
+
+00:42:13.790 --> 00:42:17.210 align:middle line:84%
+we can turn innumerable
+worlds into living worlds.
+
+00:42:17.210 --> 00:42:20.700 align:middle line:84%
+>>NOORY: If we go to Mars
+for any length of time,
+
+00:42:20.700 --> 00:42:21.650 align:middle line:90%
+what will we do there?
+
+00:42:21.650 --> 00:42:24.050 align:middle line:90%
+What will we build?
+
+00:42:24.050 --> 00:42:26.060 align:middle line:84%
+>>ZUBRIN: Well, if we
+go to Mars to settle,
+
+00:42:26.060 --> 00:42:29.540 align:middle line:84%
+the first thing we
+need to do is learn
+
+00:42:29.540 --> 00:42:32.780 align:middle line:84%
+how to take Martian
+materials and turn them
+
+00:42:32.780 --> 00:42:35.831 align:middle line:90%
+into resources, OK.
+
+00:42:35.831 --> 00:42:37.580 align:middle line:84%
+>>NOORY: Including the
+water that's there.
+
+00:42:37.580 --> 00:42:38.380 align:middle line:90%
+>>ZUBRIN: Yes.
+
+00:42:38.380 --> 00:42:41.900 align:middle line:84%
+See look, there really
+is no such thing
+
+00:42:41.900 --> 00:42:43.910 align:middle line:90%
+as a natural resource.
+
+00:42:43.910 --> 00:42:46.190 align:middle line:84%
+There's only natural
+raw materials.
+
+00:42:46.190 --> 00:42:51.020 align:middle line:84%
+Land was not a resource until
+people learned how to farm.
+
+00:42:51.020 --> 00:42:54.620 align:middle line:84%
+It is farming that turns
+to land from simply space
+
+00:42:54.620 --> 00:42:58.130 align:middle line:84%
+that you have to travel over
+into a resource in itself.
+
+00:42:58.130 --> 00:42:58.930 align:middle line:90%
+>>NOORY: Right.
+
+00:42:58.930 --> 00:43:01.680 align:middle line:84%
+>>ZUBRIN: OK, petroleum
+was underground,
+
+00:43:01.680 --> 00:43:04.910 align:middle line:84%
+but it wasn't a resource until
+we learned how to drill for it
+
+00:43:04.910 --> 00:43:08.180 align:middle line:84%
+and refine it and make machines
+that could use the product.
+
+00:43:08.180 --> 00:43:10.460 align:middle line:84%
+Uranium was not a
+resource until we learned
+
+00:43:10.460 --> 00:43:12.510 align:middle line:90%
+how to do nuclear energy.
+
+00:43:12.510 --> 00:43:16.490 align:middle line:84%
+There's all sorts
+of stuff on Mars.
+
+00:43:16.490 --> 00:43:20.270 align:middle line:84%
+But it won't be resources
+until people go there,
+
+00:43:20.270 --> 00:43:23.330 align:middle line:84%
+because it is people
+who are resourceful.
+
+00:43:23.330 --> 00:43:26.450 align:middle line:84%
+And now we go there, we'll
+learn how to extract water
+
+00:43:26.450 --> 00:43:28.157 align:middle line:90%
+from the Martian surface.
+
+00:43:28.157 --> 00:43:29.990 align:middle line:84%
+We'll learn how to
+extract geothermal energy
+
+00:43:29.990 --> 00:43:31.790 align:middle line:90%
+from the Martian subsurface.
+
+00:43:31.790 --> 00:43:33.920 align:middle line:84%
+We'll learn how to
+grow crops on Mars.
+
+00:43:33.920 --> 00:43:37.100 align:middle line:84%
+We'll learn how to make not
+only fuel and oxygen, which
+
+00:43:37.100 --> 00:43:39.110 align:middle line:84%
+is part of my own
+Mars Direct plan,
+
+00:43:39.110 --> 00:43:44.630 align:middle line:84%
+but plastics, growing
+food, of course,
+
+00:43:44.630 --> 00:43:46.384 align:middle line:84%
+fabrics, metals,
+plastics, wires--
+
+00:43:46.384 --> 00:43:48.050 align:middle line:84%
+>>NOORY: It will be
+a mini planet Earth.
+
+00:43:48.050 --> 00:43:49.850 align:middle line:84%
+>>ZUBRIN: --tubes,
+habitation structures.
+
+00:43:49.850 --> 00:43:50.892 align:middle line:90%
+>>NOORY: Just like Earth.
+
+00:43:50.892 --> 00:43:52.808 align:middle line:84%
+>>ZUBRIN: Well, it'll
+be different from Earth,
+
+00:43:52.808 --> 00:43:54.650 align:middle line:84%
+but it will be like
+Earth in the place
+
+00:43:54.650 --> 00:43:58.310 align:middle line:84%
+that it will be
+full of resources
+
+00:43:58.310 --> 00:44:03.840 align:middle line:84%
+that we have created by
+inventing the technology
+
+00:44:03.840 --> 00:44:06.900 align:middle line:90%
+to bring them into being.
+
+00:44:06.900 --> 00:44:09.340 align:middle line:84%
+>>NOORY: Robert, there's been
+talk that by going to Mars
+
+00:44:09.340 --> 00:44:11.160 align:middle line:84%
+there's a problem
+with radiation.
+
+00:44:11.160 --> 00:44:17.460 align:middle line:84%
+At a Ted convention, Jeffrey
+Rusick presented that problem.
+
+00:44:17.460 --> 00:44:20.030 align:middle line:10%
+JEFFREY RUSICK: So, one of the
+biggest problems we have is
+
+00:44:20.030 --> 00:44:22.910 align:middle line:10%
+what's the effect on us
+as we travel to deep space
+
+00:44:22.910 --> 00:44:25.040 align:middle line:10%
+and how do we protect ourselves?
+
+00:44:25.040 --> 00:44:28.180 align:middle line:10%
+So, I wanted to put this in.
+
+00:44:28.180 --> 00:44:32.670 align:middle line:10%
+When the Mars Science Laboratory
+traveled to Mars last year
+
+00:44:32.670 --> 00:44:38.880 align:middle line:10%
+and landed last year, the last
+couple of bars on this chart
+
+00:44:38.880 --> 00:44:42.020 align:middle line:10%
+are radiation dose, OK.
+
+00:44:42.020 --> 00:44:44.480 align:middle line:10%
+They measured radiation
+dose on the way to Mars,
+
+00:44:44.480 --> 00:44:46.520 align:middle line:10%
+and it took them
+about six months.
+
+00:44:46.520 --> 00:44:48.985 align:middle line:10%
+And then there's another,
+the red bar on there
+
+00:44:48.985 --> 00:44:50.990 align:middle line:10%
+is the 500 days on Mars.
+
+00:44:50.990 --> 00:44:55.100 align:middle line:10%
+So, if you take the bars
+that show if it takes you
+
+00:44:55.100 --> 00:44:59.780 align:middle line:10%
+six months to get to Mars and
+you spend 500 days on Mars
+
+00:44:59.780 --> 00:45:04.380 align:middle line:10%
+and then you spend 180 more
+days coming back, if you add up
+
+00:45:04.380 --> 00:45:09.680 align:middle line:10%
+just those last two bars
+in that curve there,
+
+00:45:09.680 --> 00:45:13.610 align:middle line:10%
+you end up with a dose
+that is deadly to you know,
+
+00:45:13.610 --> 00:45:15.360 align:middle line:10%
+that's not healthy for humans.
+
+00:45:15.360 --> 00:45:18.710 align:middle line:10%
+I wouldn't say deadly,
+bad not good news.
+
+00:45:18.710 --> 00:45:21.710 align:middle line:10%
+Because you can see
+the comparisons here
+
+00:45:21.710 --> 00:45:23.960 align:middle line:10%
+for the other things, so
+the Space Station and things
+
+00:45:23.960 --> 00:45:24.780 align:middle line:10%
+like that.
+
+00:45:24.780 --> 00:45:27.630 align:middle line:10%
+So, we need to
+solve that problem.
+
+00:45:27.630 --> 00:45:32.240 align:middle line:10%
+We need to solve how
+we protect ourselves
+
+00:45:32.240 --> 00:45:34.100 align:middle line:10%
+if we're going to do
+these missions to Mars
+
+00:45:34.100 --> 00:45:35.850 align:middle line:10%
+and other places in deep space.
+
+00:45:35.850 --> 00:45:38.675 align:middle line:10%
+And we do not have the
+answer for this yet.
+
+00:45:38.675 --> 00:45:40.050 align:middle line:10%
+This is one of
+the things we just
+
+00:45:40.050 --> 00:45:41.420 align:middle line:10%
+don't have the answer for yet.
+
+00:45:41.420 --> 00:45:42.500 align:middle line:90%
+>>NOORY: Is that a real problem?
+
+00:45:42.500 --> 00:45:43.300 align:middle line:90%
+>>ZUBRIN: No.
+
+00:45:43.300 --> 00:45:45.230 align:middle line:84%
+This is just another
+example of somebody
+
+00:45:45.230 --> 00:45:49.220 align:middle line:84%
+saying you can't do your
+program until you do my program.
+
+00:45:49.220 --> 00:45:52.150 align:middle line:90%
+The fact of the matter is this.
+
+00:45:52.150 --> 00:45:54.677 align:middle line:84%
+And I have a doctorate
+in nuclear engineering,
+
+00:45:54.677 --> 00:45:56.135 align:middle line:84%
+so I know a lot
+about this subject.
+
+00:45:56.135 --> 00:45:59.390 align:middle line:90%
+
+
+00:45:59.390 --> 00:46:03.260 align:middle line:84%
+First of all, the radiation
+dose rate on the way to Mars
+
+00:46:03.260 --> 00:46:05.960 align:middle line:84%
+is a factor of two
+larger than what
+
+00:46:05.960 --> 00:46:08.240 align:middle line:90%
+it is on the Space Station.
+
+00:46:08.240 --> 00:46:12.320 align:middle line:84%
+So, Peggy Whitson just spent
+a year on the Space Station.
+
+00:46:12.320 --> 00:46:15.082 align:middle line:84%
+She got the same radiation
+dose as she would have gotten--
+
+00:46:15.082 --> 00:46:16.040 align:middle line:90%
+>>NOORY: Going to Mars.
+
+00:46:16.040 --> 00:46:18.890 align:middle line:84%
+>>ZUBRIN: --on a six
+month voyage to Mars.
+
+00:46:18.890 --> 00:46:20.972 align:middle line:84%
+>>NOORY: And there's
+nothing wrong with her.
+
+00:46:20.972 --> 00:46:22.680 align:middle line:84%
+>>ZUBRIN: There's
+nothing wrong with her.
+
+00:46:22.680 --> 00:46:25.550 align:middle line:84%
+And in fact, there's a number of
+other astronauts and cosmonauts
+
+00:46:25.550 --> 00:46:27.890 align:middle line:84%
+who've done multiple long
+missions on the Space
+
+00:46:27.890 --> 00:46:32.090 align:middle line:84%
+Station or the Soviet previous
+Space Station, the Mir,
+
+00:46:32.090 --> 00:46:35.000 align:middle line:84%
+in which they've gotten doses
+fully comparable to what
+
+00:46:35.000 --> 00:46:37.380 align:middle line:84%
+they would have gotten
+going to Mars and back.
+
+00:46:37.380 --> 00:46:41.270 align:middle line:84%
+And we see no radiological
+casualties among this group.
+
+00:46:41.270 --> 00:46:44.780 align:middle line:84%
+And now that's not
+to say there isn't
+
+00:46:44.780 --> 00:46:46.790 align:middle line:90%
+any increase in cancer risk.
+
+00:46:46.790 --> 00:46:47.840 align:middle line:90%
+There is.
+
+00:46:47.840 --> 00:46:50.780 align:middle line:84%
+The total cancer risk
+you get by going to Mars
+
+00:46:50.780 --> 00:46:55.100 align:middle line:84%
+and back would raise your
+risk of dying of cancer,
+
+00:46:55.100 --> 00:46:58.830 align:middle line:84%
+assuming there's no advance in
+medical technique, by about 1%.
+
+00:46:58.830 --> 00:47:00.080 align:middle line:90%
+That is the average American.
+
+00:47:00.080 --> 00:47:00.760 align:middle line:90%
+>>NOORY: 1%.
+
+00:47:00.760 --> 00:47:01.730 align:middle line:90%
+>>ZUBRIN: That is, yes.
+
+00:47:01.730 --> 00:47:03.620 align:middle line:84%
+If you're an average
+American and you don't smoke,
+
+00:47:03.620 --> 00:47:05.960 align:middle line:84%
+you've got a 20% chance
+you're going to die of cancer.
+
+00:47:05.960 --> 00:47:07.520 align:middle line:90%
+This would make it 21.
+
+00:47:07.520 --> 00:47:10.790 align:middle line:84%
+If you're an average
+American smoker, it's 40.
+
+00:47:10.790 --> 00:47:14.490 align:middle line:84%
+So, if in fact, we
+sent a crew to Mars
+
+00:47:14.490 --> 00:47:16.460 align:middle line:84%
+and we recruited
+them from smokers
+
+00:47:16.460 --> 00:47:18.860 align:middle line:84%
+and we sent them to Mars
+without their tobacco,
+
+00:47:18.860 --> 00:47:22.010 align:middle line:84%
+we would be reducing their
+chance of getting cancer.
+
+00:47:22.010 --> 00:47:23.270 align:middle line:90%
+>>NOORY: Interesting stats.
+
+00:47:23.270 --> 00:47:23.600 align:middle line:90%
+>>ZUBRIN: Yeah.
+
+00:47:23.600 --> 00:47:26.390 align:middle line:84%
+So, one reason to send people to
+Mars would be for their health.
+
+00:47:26.390 --> 00:47:30.260 align:middle line:84%
+Now, the main health effect that
+we've actually seen in space
+
+00:47:30.260 --> 00:47:31.760 align:middle line:84%
+has not been from
+radiation, it's
+
+00:47:31.760 --> 00:47:34.280 align:middle line:90%
+been from zero gravity effects.
+
+00:47:34.280 --> 00:47:38.720 align:middle line:84%
+And NASA has studiously resisted
+implementing the solution
+
+00:47:38.720 --> 00:47:42.020 align:middle line:84%
+to zero gravity, which is
+to rotate the spacecraft.
+
+00:47:42.020 --> 00:47:44.120 align:middle line:84%
+Because the NASA
+space medicine program
+
+00:47:44.120 --> 00:47:47.180 align:middle line:84%
+is controlled by zero gravity
+health effects researchers.
+
+00:47:47.180 --> 00:47:49.430 align:middle line:84%
+So, these people are not
+interested in protecting
+
+00:47:49.430 --> 00:47:50.720 align:middle line:90%
+the health of astronauts.
+
+00:47:50.720 --> 00:47:54.410 align:middle line:84%
+They're interested in getting
+research dollars to fill
+
+00:47:54.410 --> 00:47:55.910 align:middle line:90%
+their own bowls of rice.
+
+00:47:55.910 --> 00:47:57.410 align:middle line:90%
+This is absolute nonsense.
+
+00:47:57.410 --> 00:48:00.710 align:middle line:84%
+And these people
+who say they want
+
+00:48:00.710 --> 00:48:04.490 align:middle line:84%
+to put a space station in lunar
+orbit, OK, and put astronauts
+
+00:48:04.490 --> 00:48:09.440 align:middle line:84%
+in that so that they
+can test the astronauts
+
+00:48:09.440 --> 00:48:12.650 align:middle line:90%
+under larger radiation fields.
+
+00:48:12.650 --> 00:48:13.890 align:middle line:90%
+OK, this is crazy.
+
+00:48:13.890 --> 00:48:19.550 align:middle line:84%
+This is like testing treatments
+for wounds by taking soldiers
+
+00:48:19.550 --> 00:48:22.890 align:middle line:84%
+and shooting them and then see
+how well you can patch them up.
+
+00:48:22.890 --> 00:48:25.850 align:middle line:90%
+This is crazy.
+
+00:48:25.850 --> 00:48:29.000 align:middle line:84%
+So, once again,
+astronauts need to be
+
+00:48:29.000 --> 00:48:31.200 align:middle line:90%
+explorers not guinea pigs.
+
+00:48:31.200 --> 00:48:35.030 align:middle line:84%
+They're getting on the Space
+Station comparable radiation
+
+00:48:35.030 --> 00:48:36.746 align:middle line:84%
+doses as they would
+get going to Mars
+
+00:48:36.746 --> 00:48:38.870 align:middle line:84%
+and back, except they're
+not actually going to Mars
+
+00:48:38.870 --> 00:48:39.670 align:middle line:90%
+and back.
+
+00:48:39.670 --> 00:48:42.740 align:middle line:84%
+I mean, imagine-- you know,
+it's one thing to send out
+
+00:48:42.740 --> 00:48:44.900 align:middle line:84%
+pilots in bombers
+to do an air raid
+
+00:48:44.900 --> 00:48:46.850 align:middle line:84%
+and have them risk
+the enemy flak.
+
+00:48:46.850 --> 00:48:49.080 align:middle line:84%
+It's another thing to have
+them in training mission
+
+00:48:49.080 --> 00:48:51.080 align:middle line:84%
+flying above your
+own city and shooting
+
+00:48:51.080 --> 00:48:54.380 align:middle line:84%
+at them with anti-aircraft
+guns and take the same risk
+
+00:48:54.380 --> 00:48:57.320 align:middle line:84%
+without actually
+doing the mission.
+
+00:48:57.320 --> 00:48:59.780 align:middle line:84%
+One is ethical,
+the other is not.
+
+00:48:59.780 --> 00:49:02.150 align:middle line:84%
+>>NOORY: If you could
+convince people and entice
+
+00:49:02.150 --> 00:49:05.792 align:middle line:84%
+them to do a Mars program,
+how would you do it?
+
+00:49:05.792 --> 00:49:08.000 align:middle line:84%
+>>ZUBRIN: I've been trying
+to convince the government
+
+00:49:08.000 --> 00:49:11.960 align:middle line:84%
+to do it by pointing out the
+scientific gains, the gains
+
+00:49:11.960 --> 00:49:13.845 align:middle line:84%
+to education by
+challenging American youth,
+
+00:49:13.845 --> 00:49:16.220 align:middle line:84%
+learn your science, you could
+be a pioneer of new worlds.
+
+00:49:16.220 --> 00:49:19.100 align:middle line:84%
+We'd get millions of young
+scientists from that.
+
+00:49:19.100 --> 00:49:22.430 align:middle line:84%
+And by what it means
+in terms of America
+
+00:49:22.430 --> 00:49:25.610 align:middle line:84%
+putting our stamp on the future
+by having a major influence
+
+00:49:25.610 --> 00:49:28.550 align:middle line:84%
+in establishing the first new
+branch of human civilization.
+
+00:49:28.550 --> 00:49:31.691 align:middle line:84%
+If I was to try to convince
+private enterprise to do it,
+
+00:49:31.691 --> 00:49:32.940 align:middle line:90%
+I've been thinking about that.
+
+00:49:32.940 --> 00:49:35.040 align:middle line:84%
+I think what you'd have
+to do is the following.
+
+00:49:35.040 --> 00:49:37.248 align:middle line:84%
+First of all, we'd have to
+have the cost brought down
+
+00:49:37.248 --> 00:49:39.290 align:middle line:84%
+substantially by people
+like Musk and Bezos,
+
+00:49:39.290 --> 00:49:41.300 align:middle line:84%
+which they are in
+the process of doing.
+
+00:49:41.300 --> 00:49:43.490 align:middle line:84%
+And when the costs are
+brought down enough,
+
+00:49:43.490 --> 00:49:44.780 align:middle line:90%
+go to Silicon Valley.
+
+00:49:44.780 --> 00:49:47.690 align:middle line:84%
+And I say listen guys,
+this is what I want to do.
+
+00:49:47.690 --> 00:49:50.510 align:middle line:84%
+I want to establish an
+inventors colony on Mars.
+
+00:49:50.510 --> 00:49:51.950 align:middle line:90%
+You guys invest.
+
+00:49:51.950 --> 00:49:56.210 align:middle line:84%
+We will recruit 1,000 of the
+most technically accomplished
+
+00:49:56.210 --> 00:49:59.090 align:middle line:84%
+people who are totally committed
+to the idea of expanding
+
+00:49:59.090 --> 00:50:00.980 align:middle line:90%
+humanity to another world.
+
+00:50:00.980 --> 00:50:02.660 align:middle line:90%
+And we will send them there.
+
+00:50:02.660 --> 00:50:05.750 align:middle line:84%
+And on Mars, they'll have to
+invent all kinds of things.
+
+00:50:05.750 --> 00:50:08.565 align:middle line:84%
+They'll have to invent
+super productive crops
+
+00:50:08.565 --> 00:50:10.940 align:middle line:84%
+because their agriculture will
+be limited to greenhouses.
+
+00:50:10.940 --> 00:50:12.316 align:middle line:84%
+They'll invent
+robotic technology
+
+00:50:12.316 --> 00:50:14.356 align:middle line:84%
+because there will be a
+labor shortage and a need
+
+00:50:14.356 --> 00:50:15.410 align:middle line:90%
+for division of labor.
+
+00:50:15.410 --> 00:50:17.360 align:middle line:84%
+They'll invent
+advanced 3-D printing.
+
+00:50:17.360 --> 00:50:19.190 align:middle line:84%
+They'll invent all
+kinds of stuff.
+
+00:50:19.190 --> 00:50:20.980 align:middle line:90%
+You'll get the patents.
+
+00:50:20.980 --> 00:50:24.654 align:middle line:84%
+OK, you know, in other words,
+at the frontier where you have--
+
+00:50:24.654 --> 00:50:25.820 align:middle line:90%
+>>NOORY: They get the money.
+
+00:50:25.820 --> 00:50:27.528 align:middle line:84%
+>>ZUBRIN: Yes, and
+they'll get the money.
+
+00:50:27.528 --> 00:50:30.290 align:middle line:84%
+But the frontier is where
+people are free to invent
+
+00:50:30.290 --> 00:50:31.340 align:middle line:90%
+and forced to invent.
+
+00:50:31.340 --> 00:50:33.440 align:middle line:84%
+And we'll send the
+best people to do it.
+
+00:50:33.440 --> 00:50:36.320 align:middle line:84%
+You know, the American
+frontier, 19th century America
+
+00:50:36.320 --> 00:50:40.970 align:middle line:84%
+was a massive engine for
+technological progress.
+
+00:50:40.970 --> 00:50:44.870 align:middle line:84%
+Yankee ingenuity, we
+became famous for it, OK.
+
+00:50:44.870 --> 00:50:47.540 align:middle line:84%
+Because we were freed of
+all sorts of restrictions
+
+00:50:47.540 --> 00:50:50.580 align:middle line:84%
+of the old world and we were
+in a new and challenging
+
+00:50:50.580 --> 00:50:51.380 align:middle line:90%
+environment.
+
+00:50:51.380 --> 00:50:52.850 align:middle line:90%
+We were forced to invent.
+
+00:50:52.850 --> 00:50:55.379 align:middle line:84%
+Mars will be that
+100 times over.
+
+00:50:55.379 --> 00:50:57.420 align:middle line:84%
+>>NOORY: Robert, thanks
+for being on the program.
+
+00:50:57.420 --> 00:50:58.020 align:middle line:90%
+>>ZUBRIN: It's my pleasure.
+
+00:50:58.020 --> 00:50:58.800 align:middle line:90%
+>>NOORY: It's exciting.
+
+00:50:58.800 --> 00:50:59.090 align:middle line:90%
+>>ZUBRIN: OK.
+
+00:50:59.090 --> 00:50:59.890 align:middle line:90%
+>>NOORY: Let's go.
+
+00:50:59.890 --> 00:51:01.320 align:middle line:90%
+>>ZUBRIN: Let's go on to Mars.
+
+00:51:01.320 --> 00:51:02.660 align:middle line:90%
+>>NOORY: Would you go?
+
+00:51:02.660 --> 00:51:04.480 align:middle line:90%
+>>ZUBRIN: In a heartbeat.
+
+00:51:04.480 --> 00:51:07.090 align:middle line:90%
+>>NOORY: Would you come back?
+
+00:51:07.090 --> 00:51:10.510 align:middle line:10%
+>>ZUBRIN: You know, the
+Marquis de Lafayette
+
+00:51:10.510 --> 00:51:14.280 align:middle line:10%
+came to help out in the
+American Revolution.
+
+00:51:14.280 --> 00:51:16.770 align:middle line:10%
+And he did go back to France.
+
+00:51:16.770 --> 00:51:20.730 align:middle line:10%
+But when he went back, he
+brought back enough American
+
+00:51:20.730 --> 00:51:23.790 align:middle line:10%
+soil to be buried in.
+
+00:51:23.790 --> 00:51:26.760 align:middle line:84%
+And actually, he lived
+a long time after that.
+
+00:51:26.760 --> 00:51:28.860 align:middle line:84%
+He was still alive
+50 years later.
+
+00:51:28.860 --> 00:51:31.380 align:middle line:84%
+If we were going
+to Mars to stay,
+
+00:51:31.380 --> 00:51:33.630 align:middle line:84%
+if we were going to Mars
+to establish a colony,
+
+00:51:33.630 --> 00:51:35.100 align:middle line:90%
+I would go to stay.
+
+00:51:35.100 --> 00:51:37.950 align:middle line:84%
+But if we are going to Mars
+as part of an expedition
+
+00:51:37.950 --> 00:51:41.680 align:middle line:84%
+and we were coming back, I'd
+bring back enough Martian soil
+
+00:51:41.680 --> 00:51:42.480 align:middle line:90%
+to be buried in.
+
+00:51:42.480 --> 00:51:43.050 align:middle line:90%
+>>NOORY: You would?
+
+00:51:43.050 --> 00:51:43.740 align:middle line:90%
+>>ZUBRIN: Yes.
+
+00:51:43.740 --> 00:51:44.130 align:middle line:90%
+>>NOORY: All right.
+
+00:51:44.130 --> 00:51:44.970 align:middle line:90%
+How about that.
+
+00:51:44.970 --> 00:51:46.530 align:middle line:90%
+Would you go to Mars?
+
+00:51:46.530 --> 00:51:48.240 align:middle line:90%
+And would you stay?
+
+00:51:48.240 --> 00:51:51.480 align:middle line:84%
+I'm not sure I would give
+up all the wonderful things
+
+00:51:51.480 --> 00:51:52.920 align:middle line:90%
+on planet Earth.
+
+00:51:52.920 --> 00:51:54.295 align:middle line:90%
+But it sure is intriguing.
+
+00:51:54.295 --> 00:51:55.095 align:middle line:90%
+I'm George Noory.
+
+00:51:55.095 --> 00:51:57.440 align:middle line:84%
+And thanks for watching
+"Beyond Belief."
+
+00:51:57.440 --> 00:52:00.190 align:middle line:90%
+[THEME MUSIC]
+
+00:52:00.190 --> 00:52:03.036 align:middle line:90%

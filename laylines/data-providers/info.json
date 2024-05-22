@@ -1,0 +1,1 @@
+{"type":"wms-group","name":"Swisstopo","id":"providers-swisstopo","description":"Swisstopo WMS-Service","url":"https://wms.geo.admin.ch/?REQUEST=GetCapabilities&SERVICE=WMS&VERSION=1.3.0&lang=de","dataCustodian":"[geo.admin.ch](https://www.geo.admin.ch/)"}

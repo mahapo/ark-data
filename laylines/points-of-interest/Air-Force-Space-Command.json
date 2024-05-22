@@ -1,0 +1,249 @@
+{
+  "type": "czml",
+  "name": "Air Force Space Command",
+  "description": "<img src='images/catalog/air-force-space-command.jpg' width='100%' alt='Air Force Space Command'><br/>US Space Command was created in 1985, but America's military actually began operating in space much earlier. With the Soviet Union's unexpected 1957 launch of the world's first man-made satellite, Sputnik I, President Eisenhower accelerated the nation's slowly emerging civil and military space efforts.",
+  "url": "api/points/leylines/view_poi/Military",
+  "points": [
+    { "id": "document", "name": "simple", "version": "1.0" },
+    {
+      "id": 193,
+      "name": "Thule Air Base",
+      "description": "<!--HTML-->\r\n<p>\r\n<table><tr><td style=\"width: 360px; padding: 4px\" colspan=\"2\">Thule Air Base, or Thule Air Base/Pituffik Airport (IATA: THU, ICAO: BGTL), is the United States Air Force's northernmost base, located 1,207 km north of the Arctic Circle and 1,524 km from the North Pole on the northwest side of the island of Greenland. It is approximately 885 km east of the North Magnetic Pole.</td></tr><tr><td style=\"width: 120px; padding: 4px\">Type:</td><td style=\"width: 240px\">Military</td></tr><tr><td style=\"width: 120px; padding: 4px\">Wikipedia:</td><td style=\"width: 240px\"><a href=\"https://en.wikipedia.org/wiki/Thule_Air_Base\">Thule Air Base</a></td></tr><tr><td style=\"width: 120px; padding: 4px\">Custodian:</td><td style=\"width: 240px\">www.leylines.net</td></tr><tr><td style=\"width: 120px; padding: 4px\">Country:</td><td style=\"width: 240px\">Greenland</td></tr></table>\r\n</p>",
+      "billboard": {
+        "eyeOffset": { "cartesian": [0, 0, 0] },
+        "horizontalOrigin": "CENTER",
+        "image": "/images/icons/military.png",
+        "heightReference": "CLAMP_TO_GROUND",
+        "pixelOffset": { "cartesian2": [0, 0] },
+        "scale": 0.2,
+        "show": true,
+        "verticalOrigin": "CENTER"
+      },
+      "position": { "cartographicDegrees": [-68.703161, 76.531203, 0] }
+    },
+    {
+      "id": 194,
+      "name": "Clear Air Force Station",
+      "description": "<!--HTML-->\r\n<p>\r\n<table><tr><td style=\"width: 360px; padding: 4px\" colspan=\"2\">Clear Air Force Station (\"Clear\" colloq.) is an Alaska Air National Guard radar station for detecting incoming ICBMs and submarine-launched ballistic missiles to NORAD's Missile Correlation Center (MCC) and to provide Space Surveillance data to Air Force Space Command's Space Control Center (SCC).</td></tr><tr><td style=\"width: 120px; padding: 4px\">Type:</td><td style=\"width: 240px\">Military</td></tr><tr><td style=\"width: 120px; padding: 4px\">Wikipedia:</td><td style=\"width: 240px\"><a href=\"https://en.wikipedia.org/wiki/Clear_Air_Force_Station\">Clear Air Force Station</a></td></tr><tr><td style=\"width: 120px; padding: 4px\">Custodian:</td><td style=\"width: 240px\">www.leylines.net</td></tr><tr><td style=\"width: 120px; padding: 4px\">Country:</td><td style=\"width: 240px\">United States</td></tr></table>\r\n</p>",
+      "billboard": {
+        "eyeOffset": { "cartesian": [0, 0, 0] },
+        "horizontalOrigin": "CENTER",
+        "image": "/images/icons/military.png",
+        "heightReference": "CLAMP_TO_GROUND",
+        "pixelOffset": { "cartesian2": [0, 0] },
+        "scale": 0.2,
+        "show": true,
+        "verticalOrigin": "CENTER"
+      },
+      "position": { "cartographicDegrees": [-149.186944, 64.290556, 0] }
+    },
+    {
+      "id": 195,
+      "name": "Kaena Point Satellite Tracking Station",
+      "description": "<!--HTML-->\r\n<p>\r\n<table><tr><td style=\"width: 360px; padding: 4px\" colspan=\"2\">Kaena Point Satellite Tracking Station</td></tr><tr><td style=\"width: 120px; padding: 4px\">Type:</td><td style=\"width: 240px\">Military</td></tr><tr><td style=\"width: 120px; padding: 4px\">Wikipedia:</td><td style=\"width: 240px\"><a href=\"https://en.wikipedia.org/wiki/Kaena_Point_Satellite_Tracking_Station\">Kaena Point Satellite Tracking Station</a></td></tr><tr><td style=\"width: 120px; padding: 4px\">Custodian:</td><td style=\"width: 240px\">www.leylines.net</td></tr><tr><td style=\"width: 120px; padding: 4px\">Country:</td><td style=\"width: 240px\">United States</td></tr></table>\r\n</p>",
+      "billboard": {
+        "eyeOffset": { "cartesian": [0, 0, 0] },
+        "horizontalOrigin": "CENTER",
+        "image": "/images/icons/military.png",
+        "heightReference": "CLAMP_TO_GROUND",
+        "pixelOffset": { "cartesian2": [0, 0] },
+        "scale": 0.2,
+        "show": true,
+        "verticalOrigin": "CENTER"
+      },
+      "position": { "cartographicDegrees": [-158.24, 21.5616, 0] }
+    },
+    {
+      "id": 196,
+      "name": "Air Force Maui Optical and Supercomputing observatory",
+      "description": "<!--HTML-->\r\n<p>\r\n<table><tr><td style=\"width: 360px; padding: 4px\" colspan=\"2\">The Air Force Maui Optical and Supercomputing observatory is an Air Force Research Laboratory (AFRL) operating location at Haleakala Observatory on Maui, Hawaii, with a twofold mission (608). First, it conducts the research and development mission on the Maui Space Surveillance System (MSSS) at the Maui Space Surveillance Complex (MSSC). Second, it oversees operation of the Maui High Performance Computing Center (MHPCC).</td></tr><tr><td style=\"width: 120px; padding: 4px\">Type:</td><td style=\"width: 240px\">Military</td></tr><tr><td style=\"width: 120px; padding: 4px\">Wikipedia:</td><td style=\"width: 240px\"><a href=\"https://en.wikipedia.org/wiki/Air_Force_Maui_Optical_and_Supercomputing_observatory\">Air Force Maui Optical and Supercomputing observatory</a></td></tr><tr><td style=\"width: 120px; padding: 4px\">Custodian:</td><td style=\"width: 240px\">www.leylines.net</td></tr><tr><td style=\"width: 120px; padding: 4px\">Country:</td><td style=\"width: 240px\">United States</td></tr></table>\r\n</p>",
+      "billboard": {
+        "eyeOffset": { "cartesian": [0, 0, 0] },
+        "horizontalOrigin": "CENTER",
+        "image": "/images/icons/military.png",
+        "heightReference": "CLAMP_TO_GROUND",
+        "pixelOffset": { "cartesian2": [0, 0] },
+        "scale": 0.2,
+        "show": true,
+        "verticalOrigin": "CENTER"
+      },
+      "position": { "cartographicDegrees": [-156.258056, 20.708333, 0] }
+    },
+    {
+      "id": 197,
+      "name": "Ramey Air Force Base",
+      "description": "<!--HTML-->\r\n<p>\r\n<table><tr><td style=\"width: 360px; padding: 4px\" colspan=\"2\">Ramey Air Force Base</td></tr><tr><td style=\"width: 120px; padding: 4px\">Type:</td><td style=\"width: 240px\">Military</td></tr><tr><td style=\"width: 120px; padding: 4px\">Wikipedia:</td><td style=\"width: 240px\"><a href=\"https://en.wikipedia.org/wiki/Ramey_Air_Force_Base\">Ramey Air Force Base</a></td></tr><tr><td style=\"width: 120px; padding: 4px\">Custodian:</td><td style=\"width: 240px\">www.leylines.net</td></tr><tr><td style=\"width: 120px; padding: 4px\">Country:</td><td style=\"width: 240px\">Puerto Rico</td></tr></table>\r\n</p>",
+      "billboard": {
+        "eyeOffset": { "cartesian": [0, 0, 0] },
+        "horizontalOrigin": "CENTER",
+        "image": "/images/icons/military.png",
+        "heightReference": "CLAMP_TO_GROUND",
+        "pixelOffset": { "cartesian2": [0, 0] },
+        "scale": 0.2,
+        "show": true,
+        "verticalOrigin": "CENTER"
+      },
+      "position": { "cartographicDegrees": [-67.129444, 18.494444, 0] }
+    },
+    {
+      "id": 198,
+      "name": "Antigua Air Station",
+      "description": "<!--HTML-->\r\n<p>\r\n<table><tr><td style=\"width: 360px; padding: 4px\" colspan=\"2\">Established in the early 1960's as a downrange tracking and communications facility for US Air Force space operations out of Cape Canaveral Air Force Station and the Eastern Range of the Jonathan Dickinson Missile Tracking Annex, the Antigua Air Station has been in continuous operation supporting military space exploration and ICBM testing efforts for the United States and its partners.</td></tr><tr><td style=\"width: 120px; padding: 4px\">Type:</td><td style=\"width: 240px\">Military</td></tr><tr><td style=\"width: 120px; padding: 4px\">Wikipedia:</td><td style=\"width: 240px\"><a href=\"https://en.wikipedia.org/wiki/Antigua_Air_Station\">Antigua Air Station</a></td></tr><tr><td style=\"width: 120px; padding: 4px\">Custodian:</td><td style=\"width: 240px\">www.leylines.net</td></tr><tr><td style=\"width: 120px; padding: 4px\">Country:</td><td style=\"width: 240px\">Antigua and Barb.</td></tr></table>\r\n</p>",
+      "billboard": {
+        "eyeOffset": { "cartesian": [0, 0, 0] },
+        "horizontalOrigin": "CENTER",
+        "image": "/images/icons/military.png",
+        "heightReference": "CLAMP_TO_GROUND",
+        "pixelOffset": { "cartesian2": [0, 0] },
+        "scale": 0.2,
+        "show": true,
+        "verticalOrigin": "CENTER"
+      },
+      "position": { "cartographicDegrees": [-61.7925, 17.1497222, 0] }
+    },
+    {
+      "id": 199,
+      "name": "RAF Oakhanger",
+      "description": "<!--HTML-->\r\n<p>\r\n<table><tr><td style=\"width: 360px; padding: 4px\" colspan=\"2\">RAF Oakhanger was a Royal Air Force station in Hampshire split over three operational sites; with accommodation in nearby Bordon.[1] The main site and operations centre was located near the village of Oakhanger, the two other sites being nearby. The parent station for administrative purposes was RAF Odiham.</td></tr><tr><td style=\"width: 120px; padding: 4px\">Type:</td><td style=\"width: 240px\">Military</td></tr><tr><td style=\"width: 120px; padding: 4px\">Wikipedia:</td><td style=\"width: 240px\"><a href=\"https://en.wikipedia.org/wiki/RAF_Oakhanger\">RAF Oakhanger</a></td></tr><tr><td style=\"width: 120px; padding: 4px\">Custodian:</td><td style=\"width: 240px\">www.leylines.net</td></tr><tr><td style=\"width: 120px; padding: 4px\">Country:</td><td style=\"width: 240px\">United Kingdom</td></tr></table>\r\n</p>",
+      "billboard": {
+        "eyeOffset": { "cartesian": [0, 0, 0] },
+        "horizontalOrigin": "CENTER",
+        "image": "/images/icons/military.png",
+        "heightReference": "CLAMP_TO_GROUND",
+        "pixelOffset": { "cartesian2": [0, 0] },
+        "scale": 0.2,
+        "show": true,
+        "verticalOrigin": "CENTER"
+      },
+      "position": { "cartographicDegrees": [-0.893472, 51.115364, 0] }
+    },
+    {
+      "id": 200,
+      "name": "RAF Fylingdales",
+      "description": "<!--HTML-->\r\n<p>\r\n<table><tr><td style=\"width: 360px; padding: 4px\" colspan=\"2\">RAF Fylingdales is a Royal Air Force station on Snod Hill in the North York Moors, England. Its motto is \"Vigilamus\" (translates to \"We are watching\"). It is a radar base and is also part of the Ballistic Missile Early Warning System (BMEWS). As part of intelligence-sharing arrangements between the United States and United Kingdom (see, for example, the UKUSA Agreement), data collected at RAF Fylingdales are shared between the two countries. Its primary purpose is to give the British and US governments warning of an impending ballistic missile attack (part of the so-called four minute warning during the Cold War). A secondary role is the detection and tracking of orbiting objects.</td></tr><tr><td style=\"width: 120px; padding: 4px\">Type:</td><td style=\"width: 240px\">Military</td></tr><tr><td style=\"width: 120px; padding: 4px\">Wikipedia:</td><td style=\"width: 240px\"><a href=\"https://en.wikipedia.org/wiki/RAF_Fylingdales\">RAF Fylingdales</a></td></tr><tr><td style=\"width: 120px; padding: 4px\">Custodian:</td><td style=\"width: 240px\">www.leylines.net</td></tr><tr><td style=\"width: 120px; padding: 4px\">Country:</td><td style=\"width: 240px\">United Kingdom</td></tr></table>\r\n</p>",
+      "billboard": {
+        "eyeOffset": { "cartesian": [0, 0, 0] },
+        "horizontalOrigin": "CENTER",
+        "image": "/images/icons/military.png",
+        "heightReference": "CLAMP_TO_GROUND",
+        "pixelOffset": { "cartesian2": [0, 0] },
+        "scale": 0.2,
+        "show": true,
+        "verticalOrigin": "CENTER"
+      },
+      "position": { "cartographicDegrees": [-0.6683, 54.35956, 0] }
+    },
+    {
+      "id": 201,
+      "name": "RAF Feltwell",
+      "description": "<!--HTML-->\r\n<p>\r\n<table><tr><td style=\"width: 360px; padding: 4px\" colspan=\"2\">Royal Air Force Feltwell or more simply RAF Feltwell is a Royal Air Force station in Norfolk, East Anglia that is used by the United States Air Forces Europe. The station is located about 10 miles west of Thetford, and is in the borough of King's Lynn at approximate Ordnance Survey grid reference TL 715 900.</td></tr><tr><td style=\"width: 120px; padding: 4px\">Type:</td><td style=\"width: 240px\">Military</td></tr><tr><td style=\"width: 120px; padding: 4px\">Wikipedia:</td><td style=\"width: 240px\"><a href=\"https://en.wikipedia.org/wiki/RAF_Feltwell\">RAF Feltwell</a></td></tr><tr><td style=\"width: 120px; padding: 4px\">Custodian:</td><td style=\"width: 240px\">www.leylines.net</td></tr><tr><td style=\"width: 120px; padding: 4px\">Country:</td><td style=\"width: 240px\">United Kingdom</td></tr></table>\r\n</p>",
+      "billboard": {
+        "eyeOffset": { "cartesian": [0, 0, 0] },
+        "horizontalOrigin": "CENTER",
+        "image": "/images/icons/military.png",
+        "heightReference": "CLAMP_TO_GROUND",
+        "pixelOffset": { "cartesian2": [0, 0] },
+        "scale": 0.2,
+        "show": true,
+        "verticalOrigin": "CENTER"
+      },
+      "position": { "cartographicDegrees": [0.519167, 52.479444, 0] }
+    },
+    {
+      "id": 202,
+      "name": "Morón Air Base (Spain)",
+      "description": "<!--HTML-->\r\n<p>\r\n<table><tr><td style=\"width: 360px; padding: 4px\" colspan=\"2\">Morón Air Base (Spain)</td></tr><tr><td style=\"width: 120px; padding: 4px\">Type:</td><td style=\"width: 240px\">Military</td></tr><tr><td style=\"width: 120px; padding: 4px\">Wikipedia:</td><td style=\"width: 240px\"><a href=\"https://en.wikipedia.org/wiki/Morón_Air_Base_(Spain)\">Morón Air Base (Spain)</a></td></tr><tr><td style=\"width: 120px; padding: 4px\">Custodian:</td><td style=\"width: 240px\">www.leylines.net</td></tr><tr><td style=\"width: 120px; padding: 4px\">Country:</td><td style=\"width: 240px\">Spain</td></tr></table>\r\n</p>",
+      "billboard": {
+        "eyeOffset": { "cartesian": [0, 0, 0] },
+        "horizontalOrigin": "CENTER",
+        "image": "/images/icons/military.png",
+        "heightReference": "CLAMP_TO_GROUND",
+        "pixelOffset": { "cartesian2": [0, 0] },
+        "scale": 0.2,
+        "show": true,
+        "verticalOrigin": "CENTER"
+      },
+      "position": { "cartographicDegrees": [-5.615833, 37.174722, 0] }
+    },
+    {
+      "id": 203,
+      "name": "RAF Ascension Island",
+      "description": "<!--HTML-->\r\n<p>\r\n<table><tr><td style=\"width: 360px; padding: 4px\" colspan=\"2\">RAF Ascension (IATA: ASI, ICAO: FHAW) (more commonly known as RAF Ascension Island, and sometimes known as Wideawake Airfield or Ascension Island Base), is a British Royal Air Force station on Ascension Island in the Atlantic Ocean, near the Equator.</td></tr><tr><td style=\"width: 120px; padding: 4px\">Type:</td><td style=\"width: 240px\">Military</td></tr><tr><td style=\"width: 120px; padding: 4px\">Wikipedia:</td><td style=\"width: 240px\"><a href=\"https://en.wikipedia.org/wiki/RAF_Ascension_Island\">RAF Ascension Island</a></td></tr><tr><td style=\"width: 120px; padding: 4px\">Custodian:</td><td style=\"width: 240px\">www.leylines.net</td></tr><tr><td style=\"width: 120px; padding: 4px\">Country:</td><td style=\"width: 240px\">Saint Helena</td></tr></table>\r\n</p>",
+      "billboard": {
+        "eyeOffset": { "cartesian": [0, 0, 0] },
+        "horizontalOrigin": "CENTER",
+        "image": "/images/icons/military.png",
+        "heightReference": "CLAMP_TO_GROUND",
+        "pixelOffset": { "cartesian2": [0, 0] },
+        "scale": 0.2,
+        "show": true,
+        "verticalOrigin": "CENTER"
+      },
+      "position": { "cartographicDegrees": [-14.393889, -7.969444, 0] }
+    },
+    {
+      "id": 204,
+      "name": "Diego Garcia",
+      "description": "<!--HTML-->\r\n<p>\r\n<table><tr><td style=\"width: 360px; padding: 4px\" colspan=\"2\">Diego Garcia is an atoll just south of the equator in the central Indian Ocean, and the largest of 60 small islands comprising the Chagos Archipelago. It was settled by the French in the 1790s and was transferred to British rule after the Napoleonic Wars. It was one of the \"Dependencies\" of the British Colony of Mauritius until it was detached for inclusion in the newly created British Indian Ocean Territory (BIOT) in 1965. Between 1968 and 1973, the population was forcibly removed by the United Kingdom through intimidation of locals and denying the return of any who left the island.</td></tr><tr><td style=\"width: 120px; padding: 4px\">Type:</td><td style=\"width: 240px\">Military</td></tr><tr><td style=\"width: 120px; padding: 4px\">Wikipedia:</td><td style=\"width: 240px\"><a href=\"https://en.wikipedia.org/wiki/Diego_Garcia\">Diego Garcia</a></td></tr><tr><td style=\"width: 120px; padding: 4px\">Custodian:</td><td style=\"width: 240px\">www.leylines.net</td></tr></table>\r\n</p>",
+      "billboard": {
+        "eyeOffset": { "cartesian": [0, 0, 0] },
+        "horizontalOrigin": "CENTER",
+        "image": "/images/icons/military.png",
+        "heightReference": "CLAMP_TO_GROUND",
+        "pixelOffset": { "cartesian2": [0, 0] },
+        "scale": 0.2,
+        "show": true,
+        "verticalOrigin": "CENTER"
+      },
+      "position": { "cartographicDegrees": [72.411111, -7.313333, 0] }
+    },
+    {
+      "id": 205,
+      "name": "Misawa Air Base",
+      "description": "<!--HTML-->\r\n<p>\r\n<table><tr><td style=\"width: 360px; padding: 4px\" colspan=\"2\">Misawa Air Base</td></tr><tr><td style=\"width: 120px; padding: 4px\">Type:</td><td style=\"width: 240px\">Military</td></tr><tr><td style=\"width: 120px; padding: 4px\">Wikipedia:</td><td style=\"width: 240px\"><a href=\"https://en.wikipedia.org/wiki/Misawa_Air_Base\">Misawa Air Base</a></td></tr><tr><td style=\"width: 120px; padding: 4px\">Custodian:</td><td style=\"width: 240px\">www.leylines.net</td></tr><tr><td style=\"width: 120px; padding: 4px\">Country:</td><td style=\"width: 240px\">Japan</td></tr></table>\r\n</p>",
+      "billboard": {
+        "eyeOffset": { "cartesian": [0, 0, 0] },
+        "horizontalOrigin": "CENTER",
+        "image": "/images/icons/military.png",
+        "heightReference": "CLAMP_TO_GROUND",
+        "pixelOffset": { "cartesian2": [0, 0] },
+        "scale": 0.2,
+        "show": true,
+        "verticalOrigin": "CENTER"
+      },
+      "position": { "cartographicDegrees": [141.371944, 40.705278, 0] }
+    },
+    {
+      "id": 206,
+      "name": "Andersen Air Force Base",
+      "description": "<!--HTML-->\r\n<p>\r\n<table><tr><td style=\"width: 360px; padding: 4px\" colspan=\"2\">Andersen Air Force Base (AFB) (IATA: UAM, ICAO: PGUA, FAA LID: UAM) is a United States Air Force (USAF) base located approximately 6.4 km northeast of Yigo near Agafo Gumas in the United States territory of Guam. Along with Naval Base Guam, Andersen AFB was placed under the command of Joint Region Marianas on 1 October 2009. The two bases are about 30 miles away at opposite ends of the island. </td></tr><tr><td style=\"width: 120px; padding: 4px\">Type:</td><td style=\"width: 240px\">Military</td></tr><tr><td style=\"width: 120px; padding: 4px\">Wikipedia:</td><td style=\"width: 240px\"><a href=\"https://en.wikipedia.org/wiki/Andersen_Air_Force_Base\">Andersen Air Force Base</a></td></tr><tr><td style=\"width: 120px; padding: 4px\">Custodian:</td><td style=\"width: 240px\">www.leylines.net</td></tr><tr><td style=\"width: 120px; padding: 4px\">Country:</td><td style=\"width: 240px\">Guam</td></tr></table>\r\n</p>",
+      "billboard": {
+        "eyeOffset": { "cartesian": [0, 0, 0] },
+        "horizontalOrigin": "CENTER",
+        "image": "/images/icons/military.png",
+        "heightReference": "CLAMP_TO_GROUND",
+        "pixelOffset": { "cartesian2": [0, 0] },
+        "scale": 0.2,
+        "show": true,
+        "verticalOrigin": "CENTER"
+      },
+      "position": { "cartographicDegrees": [144.924444, 13.576111, 0] }
+    },
+    {
+      "id": 207,
+      "name": "Kwajalein Atoll",
+      "description": "<!--HTML-->\r\n<p>\r\n<table><tr><td style=\"width: 360px; padding: 4px\" colspan=\"2\">Kwajalein Atoll</td></tr><tr><td style=\"width: 120px; padding: 4px\">Type:</td><td style=\"width: 240px\">Military</td></tr><tr><td style=\"width: 120px; padding: 4px\">Wikipedia:</td><td style=\"width: 240px\"><a href=\"https://en.wikipedia.org/wiki/Kwajalein_Atoll\">Kwajalein Atoll</a></td></tr><tr><td style=\"width: 120px; padding: 4px\">Custodian:</td><td style=\"width: 240px\">www.leylines.net</td></tr></table>\r\n</p>",
+      "billboard": {
+        "eyeOffset": { "cartesian": [0, 0, 0] },
+        "horizontalOrigin": "CENTER",
+        "image": "/images/icons/military.png",
+        "heightReference": "CLAMP_TO_GROUND",
+        "pixelOffset": { "cartesian2": [0, 0] },
+        "scale": 0.2,
+        "show": true,
+        "verticalOrigin": "CENTER"
+      },
+      "position": { "cartographicDegrees": [167.459722, 9.193889, 0] }
+    }
+  ]
+}

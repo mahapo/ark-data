@@ -1,0 +1,1912 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.491 align:middle line:90%
+[LOGO WHOOSHING]
+
+00:00:04.491 --> 00:00:07.683 align:middle line:90%
+[MUSIC PLAYING]
+
+00:00:07.683 --> 00:00:08.483 align:middle line:90%
+
+
+00:00:08.483 --> 00:00:11.976 align:middle line:90%
+[DRAMATIC MUSIC]
+
+00:00:11.976 --> 00:00:38.922 align:middle line:90%
+
+
+00:00:38.922 --> 00:00:44.510 align:middle line:84%
+>> In August of 2012, a research
+team helmed by Quentin Atkinson
+
+00:00:44.510 --> 00:00:48.590 align:middle line:84%
+of the University of Auckland
+in New Zealand utilized certain
+
+00:00:48.590 --> 00:00:51.890 align:middle line:84%
+algorithmic methods which
+analyzed phonetics from over
+
+00:00:51.890 --> 00:00:55.670 align:middle line:84%
+100 ancient and
+modern-day languages.
+
+00:00:55.670 --> 00:00:59.450 align:middle line:84%
+Their methods were similar to
+tracing evolutionary biology
+
+00:00:59.450 --> 00:01:02.120 align:middle line:84%
+by starting at the
+branches of the family tree
+
+00:01:02.120 --> 00:01:04.340 align:middle line:90%
+and finding the root.
+
+00:01:04.340 --> 00:01:08.690 align:middle line:10%
+Their goal was to figure out if
+all the languages in the world
+
+00:01:08.690 --> 00:01:11.420 align:middle line:10%
+derived from the same area.
+
+00:01:11.420 --> 00:01:13.610 align:middle line:84%
+In an interview
+with NPR, Quentin
+
+00:01:13.610 --> 00:01:16.160 align:middle line:84%
+explained how they
+gathered this data.
+
+00:01:16.160 --> 00:01:19.910 align:middle line:84%
+>> What we use are what
+are called cognates.
+
+00:01:19.910 --> 00:01:23.870 align:middle line:10%
+These are words that
+show similar forms that
+
+00:01:23.870 --> 00:01:27.410 align:middle line:10%
+indicates that they are
+related by a common ancestry,
+
+00:01:27.410 --> 00:01:31.730 align:middle line:10%
+over 6,000 across the 200
+meanings in 100 languages.
+
+00:01:31.730 --> 00:01:35.090 align:middle line:84%
+And from that, we can
+build, it's our data matrix,
+
+00:01:35.090 --> 00:01:36.020 align:middle line:90%
+we call it.
+
+00:01:36.020 --> 00:01:38.900 align:middle line:84%
+And so if you imagine down
+the left-hand side of the data
+
+00:01:38.900 --> 00:01:41.150 align:middle line:84%
+matrix, you've got
+all your languages.
+
+00:01:41.150 --> 00:01:43.070 align:middle line:84%
+And then along the top
+of the data matrix,
+
+00:01:43.070 --> 00:01:45.220 align:middle line:84%
+you've got all the
+possible cognates
+
+00:01:45.220 --> 00:01:46.220 align:middle line:90%
+that we have identified.
+
+00:01:46.220 --> 00:01:49.940 align:middle line:84%
+And you fill in that
+matrix by putting a 0
+
+00:01:49.940 --> 00:01:54.170 align:middle line:84%
+if that language doesn't
+have the cognate and a 1
+
+00:01:54.170 --> 00:01:56.550 align:middle line:84%
+if the language does
+have that cognate.
+
+00:01:56.550 --> 00:01:59.780 align:middle line:10%
+And if you fill that in
+for all the cognates,
+
+00:01:59.780 --> 00:02:03.290 align:middle line:10%
+you get this sequence of 1's
+and 0's for each language.
+
+00:02:03.290 --> 00:02:05.780 align:middle line:84%
+And it's a bit like
+having a sequence of DNA
+
+00:02:05.780 --> 00:02:06.920 align:middle line:90%
+for each language.
+
+00:02:06.920 --> 00:02:10.326 align:middle line:84%
+And that's the data that we
+then input into our analysis.
+
+00:02:10.326 --> 00:02:13.970 align:middle line:84%
+>> Through their research, they
+pinned down the eight millennia
+
+00:02:13.970 --> 00:02:18.440 align:middle line:84%
+old origin of the largest
+global language ever created.
+
+00:02:18.440 --> 00:02:21.020 align:middle line:84%
+They also determined
+all of these languages
+
+00:02:21.020 --> 00:02:23.285 align:middle line:90%
+began in one area.
+
+00:02:23.285 --> 00:02:26.780 align:middle line:10%
+>> There are two competing
+theories for where these
+
+00:02:26.780 --> 00:02:28.520 align:middle line:10%
+languages came from.
+
+00:02:28.520 --> 00:02:32.850 align:middle line:10%
+The first theory was put
+forward by Marija Gimbutas,
+
+00:02:32.850 --> 00:02:34.180 align:middle line:10%
+an archaeologist.
+
+00:02:34.180 --> 00:02:36.620 align:middle line:10%
+And she argued the
+languages spread out
+
+00:02:36.620 --> 00:02:40.700 align:middle line:10%
+from the Russian steppes region
+about 5,000 to 6,000 years ago.
+
+00:02:40.700 --> 00:02:42.680 align:middle line:84%
+And that's linked to
+archaeological evidence
+
+00:02:42.680 --> 00:02:45.440 align:middle line:90%
+for an expansion at that time.
+
+00:02:45.440 --> 00:02:47.810 align:middle line:84%
+The alternative theory
+is that the languages
+
+00:02:47.810 --> 00:02:53.162 align:middle line:84%
+spread much earlier from
+Anatolia, what is now Turkey.
+
+00:02:53.162 --> 00:02:56.930 align:middle line:84%
+>> This interesting study
+done by Atkinson relates
+
+00:02:56.930 --> 00:03:00.320 align:middle line:84%
+to an ancient story about the
+Tower of Babel in the Hebrew
+
+00:03:00.320 --> 00:03:01.370 align:middle line:90%
+Bible.
+
+00:03:01.370 --> 00:03:06.020 align:middle line:84%
+In Genesis 11:1 through 9,
+it states "Everyone on Earth
+
+00:03:06.020 --> 00:03:08.660 align:middle line:90%
+once spoke the same language.
+
+00:03:08.660 --> 00:03:12.815 align:middle line:84%
+As people migrated east, they
+settled in the land of Shinar."
+
+00:03:12.815 --> 00:03:14.600 align:middle line:84%
+>> For those who are
+not familiar with it,
+
+00:03:14.600 --> 00:03:17.600 align:middle line:84%
+the Tower of Babel is a biblical
+story about the idea of a group
+
+00:03:17.600 --> 00:03:20.330 align:middle line:84%
+of people who are all centered
+in their civilisation around
+
+00:03:20.330 --> 00:03:21.590 align:middle line:90%
+a tower.
+
+00:03:21.590 --> 00:03:23.690 align:middle line:84%
+And this tower
+somehow allowed them
+
+00:03:23.690 --> 00:03:25.850 align:middle line:84%
+to have all the same
+language and to all be
+
+00:03:25.850 --> 00:03:27.253 align:middle line:90%
+able to speak to one another.
+
+00:03:27.253 --> 00:03:28.670 align:middle line:84%
+Then the legend
+reports that there
+
+00:03:28.670 --> 00:03:30.650 align:middle line:84%
+was some sort of
+destruction of the tower,
+
+00:03:30.650 --> 00:03:32.780 align:middle line:84%
+and in this aftermath
+of this happening,
+
+00:03:32.780 --> 00:03:34.613 align:middle line:84%
+that the people
+themselves were scattered.
+
+00:03:34.613 --> 00:03:36.530 align:middle line:10%
+And they no longer could
+speak the same tongue
+
+00:03:36.530 --> 00:03:37.550 align:middle line:10%
+or the same language.
+
+00:03:37.550 --> 00:03:39.440 align:middle line:10%
+And thus, we became confused.
+
+00:03:39.440 --> 00:03:41.905 align:middle line:10%
+It's a fall from
+grace-type story.
+
+00:03:41.905 --> 00:03:43.280 align:middle line:84%
+You have to
+understand that there
+
+00:03:43.280 --> 00:03:45.827 align:middle line:84%
+is a very significant
+difference between how
+
+00:03:45.827 --> 00:03:47.660 align:middle line:84%
+the scholarship on the
+ancient civilizations
+
+00:03:47.660 --> 00:03:50.293 align:middle line:84%
+is seen in the open
+unclassified world as opposed
+
+00:03:50.293 --> 00:03:52.460 align:middle line:84%
+to how it is being seen
+within the secret government
+
+00:03:52.460 --> 00:03:55.047 align:middle line:84%
+and the military
+industrial complex.
+
+00:03:55.047 --> 00:03:55.880 align:middle line:90%
+They are going back.
+
+00:03:55.880 --> 00:03:57.797 align:middle line:84%
+And they are looking at
+every single mythology
+
+00:03:57.797 --> 00:03:58.670 align:middle line:90%
+that they can find.
+
+00:03:58.670 --> 00:04:01.055 align:middle line:84%
+And they're asking very
+important questions which need
+
+00:04:01.055 --> 00:04:02.780 align:middle line:90%
+to have scientific answers.
+
+00:04:02.780 --> 00:04:06.202 align:middle line:84%
+One of the questions is, what in
+the world was a Tower of Babel?
+
+00:04:06.202 --> 00:04:07.910 align:middle line:10%
+They have started to
+learn that no matter
+
+00:04:07.910 --> 00:04:10.920 align:middle line:10%
+what the ancient mythology
+is, you dig deep enough,
+
+00:04:10.920 --> 00:04:13.550 align:middle line:10%
+you double click on it, and
+you find out, wait a minute,
+
+00:04:13.550 --> 00:04:17.240 align:middle line:10%
+there is something here that
+suggests this is not a myth.
+
+00:04:17.240 --> 00:04:19.880 align:middle line:84%
+So it's very interesting
+to note that in 1899
+
+00:04:19.880 --> 00:04:22.970 align:middle line:84%
+in the town of Sippar there
+was a very interesting stone
+
+00:04:22.970 --> 00:04:24.590 align:middle line:84%
+tablet that was found
+right near where
+
+00:04:24.590 --> 00:04:26.600 align:middle line:90%
+Babylon was originally located.
+
+00:04:26.600 --> 00:04:29.450 align:middle line:84%
+And it actually has an x marks
+the spot treasure map-type
+
+00:04:29.450 --> 00:04:33.920 align:middle line:84%
+derivation of the location of
+the Tower of Babel, allegedly.
+
+00:04:33.920 --> 00:04:35.780 align:middle line:84%
+Now what's
+interesting about that
+
+00:04:35.780 --> 00:04:38.570 align:middle line:84%
+is that the Tower of Babel x
+marks the spot location is up
+
+00:04:38.570 --> 00:04:39.395 align:middle line:90%
+in Turkey.
+
+00:04:39.395 --> 00:04:42.320 align:middle line:84%
+>> This possibly new
+understanding of where
+
+00:04:42.320 --> 00:04:46.250 align:middle line:84%
+the Tower of Babel was located
+coincides nicely with Anton
+
+00:04:46.250 --> 00:04:49.940 align:middle line:84%
+Parks's research of the garden
+of Eden and the understanding
+
+00:04:49.940 --> 00:04:52.910 align:middle line:84%
+of the language according
+to Sumerian texts.
+
+00:04:52.910 --> 00:04:54.210 align:middle line:90%
+>> [SPEAKING FRENCH]
+
+00:04:54.210 --> 00:04:56.120 align:middle line:90%
+
+
+00:04:56.120 --> 00:04:59.330 align:middle line:10%
+>> We were able to locate the
+divine mountain of the Anunna
+
+00:04:59.330 --> 00:05:01.770 align:middle line:10%
+gods along with
+their garden of Eden,
+
+00:05:01.770 --> 00:05:04.490 align:middle line:10%
+thanks to the elements found
+with Google Earth and Gerry
+
+00:05:04.490 --> 00:05:06.460 align:middle line:10%
+Zeitlin from NASA.
+
+00:05:06.460 --> 00:05:11.630 align:middle line:84%
+It took us straight to eastern
+Turkey, close to road 5651.
+
+00:05:11.630 --> 00:05:14.630 align:middle line:10%
+What can be noted in the
+Sumerian tablets, when they
+
+00:05:14.630 --> 00:05:18.620 align:middle line:10%
+clearly speak of creating
+workers to serve the Anunnas,
+
+00:05:18.620 --> 00:05:21.500 align:middle line:10%
+the main geneticist
+is always Enki.
+
+00:05:21.500 --> 00:05:24.080 align:middle line:84%
+Enki is very proud
+of what he is doing.
+
+00:05:24.080 --> 00:05:26.540 align:middle line:84%
+However, he always has
+to do it in secret.
+
+00:05:26.540 --> 00:05:28.880 align:middle line:84%
+And here, something important
+occurs in the research
+
+00:05:28.880 --> 00:05:30.740 align:middle line:90%
+that I've carried out.
+
+00:05:30.740 --> 00:05:33.170 align:middle line:84%
+In order to be able to
+secretly teach values,
+
+00:05:33.170 --> 00:05:35.500 align:middle line:84%
+besides from changing
+their genetic code,
+
+00:05:35.500 --> 00:05:38.060 align:middle line:84%
+in which he probably injected
+things that we cannot
+
+00:05:38.060 --> 00:05:42.710 align:middle line:84%
+comprehend nowadays, the gods
+were using a specific language
+
+00:05:42.710 --> 00:05:46.670 align:middle line:84%
+in Eden, the Emean language,
+the language that comes from
+
+00:05:46.670 --> 00:05:53.002 align:middle line:84%
+the skies, the language
+which comes from An.
+
+00:05:53.002 --> 00:05:55.190 align:middle line:10%
+In my years of
+research, I understood
+
+00:05:55.190 --> 00:05:58.040 align:middle line:10%
+that the Emesa, the
+matrix language,
+
+00:05:58.040 --> 00:06:00.950 align:middle line:10%
+was mostly used by
+Sumerian priestesses.
+
+00:06:00.950 --> 00:06:03.440 align:middle line:84%
+The so-called Emesa
+contained more particles
+
+00:06:03.440 --> 00:06:06.130 align:middle line:84%
+than the languages
+used by the male gods.
+
+00:06:06.130 --> 00:06:09.230 align:middle line:10%
+So Enki used the Emesa,
+the matrix language,
+
+00:06:09.230 --> 00:06:12.260 align:middle line:10%
+to encode the ancient
+languages we find on Earth.
+
+00:06:12.260 --> 00:06:14.180 align:middle line:10%
+| think that Enki had
+the desire to work
+
+00:06:14.180 --> 00:06:16.220 align:middle line:10%
+for the benefit
+of the human race,
+
+00:06:16.220 --> 00:06:18.410 align:middle line:10%
+to secretly bring
+them knowledge.
+
+00:06:18.410 --> 00:06:21.260 align:middle line:84%
+And to be able to do that,
+they had to use a code.
+
+00:06:21.260 --> 00:06:24.980 align:middle line:84%
+So they created a linguistic
+code for each tribe.
+
+00:06:24.980 --> 00:06:27.800 align:middle line:84%
+And I think that regularly,
+maybe every generation,
+
+00:06:27.800 --> 00:06:29.630 align:middle line:84%
+they had to change
+the code to prevent
+
+00:06:29.630 --> 00:06:34.155 align:middle line:84%
+the Anunnas from finding out
+about the hidden knowledge.
+
+00:06:34.155 --> 00:06:36.530 align:middle line:84%
+>> It is interesting
+to note that according
+
+00:06:36.530 --> 00:06:39.920 align:middle line:84%
+to Anton's research, the
+language that has been coded
+
+00:06:39.920 --> 00:06:43.940 align:middle line:84%
+into the universe for the humans
+to speak is called the matrix
+
+00:06:43.940 --> 00:06:45.560 align:middle line:90%
+language.
+
+00:06:45.560 --> 00:06:47.990 align:middle line:84%
+In Sumerian, this
+means the language
+
+00:06:47.990 --> 00:06:52.520 align:middle line:84%
+that the female life
+creators, like Tiamat, spoke.
+
+00:06:52.520 --> 00:06:54.470 align:middle line:84%
+How has this coded
+language helped
+
+00:06:54.470 --> 00:06:58.601 align:middle line:84%
+us survive against the
+wrath of the demiurge?
+
+00:06:58.601 --> 00:07:01.250 align:middle line:84%
+>> This is a crucial
+part of my work.
+
+00:07:01.250 --> 00:07:03.230 align:middle line:84%
+I discovered that
+all common languages
+
+00:07:03.230 --> 00:07:05.390 align:middle line:90%
+were coded from Sumerian.
+
+00:07:05.390 --> 00:07:08.090 align:middle line:84%
+We can look for idioms
+from anywhere we want--
+
+00:07:08.090 --> 00:07:12.560 align:middle line:84%
+African tribes, Native American
+tribes, all the way to China.
+
+00:07:12.560 --> 00:07:15.530 align:middle line:10%
+When you get to the innermost
+part of primitive languages,
+
+00:07:15.530 --> 00:07:18.440 align:middle line:10%
+you can always understand
+the words in Sumerian.
+
+00:07:18.440 --> 00:07:20.330 align:middle line:10%
+For example, if you
+take the word tool
+
+00:07:20.330 --> 00:07:22.430 align:middle line:10%
+in the language of
+an African tribe,
+
+00:07:22.430 --> 00:07:24.500 align:middle line:10%
+and you translate
+it into Sumerian,
+
+00:07:24.500 --> 00:07:28.550 align:middle line:10%
+it will become the thing
+we use to chop wood.
+
+00:07:28.550 --> 00:07:31.400 align:middle line:10%
+The idea is a code used in
+order to be able to communicate
+
+00:07:31.400 --> 00:07:33.440 align:middle line:10%
+secretly with humans.
+
+00:07:33.440 --> 00:07:36.890 align:middle line:84%
+In concrete terms, this idea
+of coding language and creating
+
+00:07:36.890 --> 00:07:40.130 align:middle line:84%
+new ones with Sumerian
+syllables, this desire
+
+00:07:40.130 --> 00:07:42.840 align:middle line:84%
+to be able to communicate
+secretly with the human race,
+
+00:07:42.840 --> 00:07:45.470 align:middle line:84%
+is going to design the many
+different languages on Earth--
+
+00:07:45.470 --> 00:07:49.340 align:middle line:84%
+old Chinese, the Hopi,
+many of the ancient idioms
+
+00:07:49.340 --> 00:07:51.950 align:middle line:84%
+we find in Africa
+or in Australia.
+
+00:07:51.950 --> 00:07:54.540 align:middle line:84%
+We can find common roots with
+ancient German and ancient
+
+00:07:54.540 --> 00:07:56.440 align:middle line:90%
+English.
+
+00:07:56.440 --> 00:07:58.440 align:middle line:84%
+Enki knew for a fact that
+human beings would not
+
+00:07:58.440 --> 00:08:01.200 align:middle line:84%
+be submissive to the
+gods on the whole planet.
+
+00:08:01.200 --> 00:08:03.660 align:middle line:84%
+So he gifted them with
+the ability to make tools
+
+00:08:03.660 --> 00:08:05.730 align:middle line:84%
+and, in my theory,
+he also wished
+
+00:08:05.730 --> 00:08:10.270 align:middle line:84%
+to code human language so the
+gods could not understand.
+
+00:08:10.270 --> 00:08:13.590 align:middle line:84%
+>> Anton Parks suggests
+that once the humans had
+
+00:08:13.590 --> 00:08:15.600 align:middle line:84%
+the knowledge to
+survive on Earth,
+
+00:08:15.600 --> 00:08:19.770 align:middle line:84%
+they sought to build their own
+future and escape the gods.
+
+00:08:19.770 --> 00:08:24.900 align:middle line:84%
+Could there be an actual builder
+of this new human settlement?
+
+00:08:24.900 --> 00:08:27.660 align:middle line:10%
+In the Hebrew Bible, it
+suggests that the builder
+
+00:08:27.660 --> 00:08:30.360 align:middle line:10%
+of the Tower of Babel
+was the king of Shinar.
+
+00:08:30.360 --> 00:08:32.640 align:middle line:10%
+And his name was Nimrod.
+
+00:08:32.640 --> 00:08:34.350 align:middle line:10%
+What an interesting
+name for someone
+
+00:08:34.350 --> 00:08:38.309 align:middle line:10%
+who defies the laws of Yahweh
+to create his own connection
+
+00:08:38.309 --> 00:08:39.830 align:middle line:10%
+to the creator.
+
+00:08:39.830 --> 00:08:42.240 align:middle line:84%
+Could Nimrod have been
+the representation
+
+00:08:42.240 --> 00:08:44.580 align:middle line:84%
+of the first group
+of humans to use
+
+00:08:44.580 --> 00:08:46.545 align:middle line:90%
+the knowledge taught by Enki?
+
+00:08:46.545 --> 00:08:50.400 align:middle line:84%
+>> Nimrod,
+interesting character,
+
+00:08:50.400 --> 00:08:53.130 align:middle line:84%
+he was said to have
+built the Tower of Babel.
+
+00:08:53.130 --> 00:08:55.550 align:middle line:10%
+He went up against
+god himself, tried
+
+00:08:55.550 --> 00:08:59.310 align:middle line:10%
+to get closer than anybody
+else had ever done.
+
+00:08:59.310 --> 00:09:03.390 align:middle line:84%
+As a result, god struck
+down the Tower of Babel
+
+00:09:03.390 --> 00:09:09.060 align:middle line:84%
+and, as a punishment to humanity
+for having attempted this act,
+
+00:09:09.060 --> 00:09:11.890 align:middle line:84%
+confused the languages so
+that everybody couldn't
+
+00:09:11.890 --> 00:09:13.590 align:middle line:90%
+understand everybody else.
+
+00:09:13.590 --> 00:09:15.630 align:middle line:84%
+Is there anything more
+behind this story?
+
+00:09:15.630 --> 00:09:17.130 align:middle line:84%
+Is there something
+of importance?
+
+00:09:17.130 --> 00:09:19.090 align:middle line:84%
+Well, what is the
+Tower of Babel?
+
+00:09:19.090 --> 00:09:22.940 align:middle line:10%
+The Babylonian civilization
+is focused around Babylon.
+
+00:09:22.940 --> 00:09:26.040 align:middle line:10%
+And Babylon is in Lower Iraq.
+
+00:09:26.040 --> 00:09:30.480 align:middle line:84%
+They now see this area
+as the center of reality,
+
+00:09:30.480 --> 00:09:31.950 align:middle line:90%
+the center of everything.
+
+00:09:31.950 --> 00:09:38.520 align:middle line:84%
+This is the omphalas, the axis
+mundi, the axis of the Earth.
+
+00:09:38.520 --> 00:09:43.260 align:middle line:84%
+That gravitational shift
+from northern Mesopotamia
+
+00:09:43.260 --> 00:09:47.730 align:middle line:84%
+to southern Mesopotamia was
+the result of the Babylonians.
+
+00:09:47.730 --> 00:09:53.010 align:middle line:84%
+This is why the ancient city
+of Uruk is in southern Iraq,
+
+00:09:53.010 --> 00:09:56.700 align:middle line:84%
+when all the old accounts say
+that it was the ancient name
+
+00:09:56.700 --> 00:09:59.700 align:middle line:90%
+for Urfa in Southeast Turkey.
+
+00:09:59.700 --> 00:10:04.320 align:middle line:84%
+This is why Nimrod is associated
+now with Babylon and not
+
+00:10:04.320 --> 00:10:08.154 align:middle line:90%
+with Southeast Turkey.
+
+00:10:08.154 --> 00:10:12.530 align:middle line:84%
+>> The biblical story of Nimrod
+and his area of proposed reign
+
+00:10:12.530 --> 00:10:15.500 align:middle line:84%
+happened to be in the same
+area that a group of ancient
+
+00:10:15.500 --> 00:10:17.480 align:middle line:90%
+astrologers once resided.
+
+00:10:17.480 --> 00:10:20.260 align:middle line:84%
+This group was
+called the Chaldeans.
+
+00:10:20.260 --> 00:10:21.740 align:middle line:84%
+Could this ancient
+group have been
+
+00:10:21.740 --> 00:10:26.031 align:middle line:84%
+practicing some of the
+ancient teachings by Enki?
+
+00:10:26.031 --> 00:10:30.020 align:middle line:84%
+>> Urfa was the
+stronghold of Nimrod.
+
+00:10:30.020 --> 00:10:33.590 align:middle line:84%
+This was the traditional
+homeland of the Chaldeans.
+
+00:10:33.590 --> 00:10:35.000 align:middle line:90%
+They were star worshippers.
+
+00:10:35.000 --> 00:10:36.050 align:middle line:90%
+They recorded stars.
+
+00:10:36.050 --> 00:10:39.478 align:middle line:84%
+They had knowledge of comets,
+knowledge of eclipses,
+
+00:10:39.478 --> 00:10:40.520 align:middle line:90%
+and everything like this.
+
+00:10:40.520 --> 00:10:42.990 align:middle line:84%
+They were the
+scientists of their day.
+
+00:10:42.990 --> 00:10:44.840 align:middle line:84%
+So what Abraham
+is trying to do is
+
+00:10:44.840 --> 00:10:50.270 align:middle line:84%
+knock down their beliefs, their
+ideas, their mystery tradition,
+
+00:10:50.270 --> 00:10:53.400 align:middle line:90%
+and install this new idea.
+
+00:10:53.400 --> 00:10:57.770 align:middle line:84%
+So it is possible that
+what he was trying to do
+
+00:10:57.770 --> 00:11:04.820 align:middle line:84%
+is to, essentially, kill off
+the Western tradition that
+
+00:11:04.820 --> 00:11:08.890 align:middle line:84%
+had been that of the
+Chaldeans up to this point,
+
+00:11:08.890 --> 00:11:13.250 align:middle line:84%
+and that Nimrod somehow
+steps in, whoever
+
+00:11:13.250 --> 00:11:15.820 align:middle line:84%
+or whatever he represents,
+to try and prevent this
+
+00:11:15.820 --> 00:11:16.970 align:middle line:90%
+from happening.
+
+00:11:16.970 --> 00:11:22.120 align:middle line:84%
+But unfortunately, according
+to the legends, god intervenes,
+
+00:11:22.120 --> 00:11:26.080 align:middle line:84%
+saves Abraham, and that's
+essentially the story.
+
+00:11:26.080 --> 00:11:27.970 align:middle line:10%
+So yes, there is
+something in this.
+
+00:11:27.970 --> 00:11:33.010 align:middle line:10%
+I do accept that what
+Abraham was trying to do
+
+00:11:33.010 --> 00:11:38.050 align:middle line:10%
+is bring in to a new
+era that didn't need
+
+00:11:38.050 --> 00:11:40.550 align:middle line:10%
+our connection with the stars.
+
+00:11:40.550 --> 00:11:43.540 align:middle line:84%
+But what the implications
+of that is for Judaism
+
+00:11:43.540 --> 00:11:46.020 align:middle line:84%
+or even Christianity,
+I don't know.
+
+00:11:46.020 --> 00:11:49.990 align:middle line:84%
+>> Could this battle between
+Abraham and Nimrod really be
+
+00:11:49.990 --> 00:11:53.830 align:middle line:84%
+representing a battle between
+Enki and Enlil for the control
+
+00:11:53.830 --> 00:11:55.380 align:middle line:90%
+over the human race?
+
+00:11:55.380 --> 00:11:57.670 align:middle line:10%
+>> What the Mesopotamian
+story tells us,
+
+00:11:57.670 --> 00:12:02.320 align:middle line:10%
+that Enki introduced
+contention into human speech.
+
+00:12:02.320 --> 00:12:03.880 align:middle line:10%
+And there are
+biblical scholars who
+
+00:12:03.880 --> 00:12:07.180 align:middle line:10%
+think that that was the basis,
+then, of the Tower of Babel
+
+00:12:07.180 --> 00:12:08.680 align:middle line:10%
+story.
+
+00:12:08.680 --> 00:12:10.450 align:middle line:84%
+Now, what's
+interesting though is,
+
+00:12:10.450 --> 00:12:14.560 align:middle line:84%
+earlier, Enki was said to
+be the provider of wisdom.
+
+00:12:14.560 --> 00:12:17.320 align:middle line:84%
+He was said to have been
+the one who wanted humanity
+
+00:12:17.320 --> 00:12:20.200 align:middle line:84%
+to have the knowledge
+that would undo the gods
+
+00:12:20.200 --> 00:12:22.100 align:middle line:90%
+or the control of the gods.
+
+00:12:22.100 --> 00:12:24.250 align:middle line:84%
+So we have this
+kind of conflict now
+
+00:12:24.250 --> 00:12:26.580 align:middle line:90%
+in the Mesopotamian stories.
+
+00:12:26.580 --> 00:12:31.195 align:middle line:84%
+People who have really studied
+the Mesopotamian stories--
+
+00:12:31.195 --> 00:12:33.070 align:middle line:84%
+and we're talking very
+good biblical scholars
+
+00:12:33.070 --> 00:12:35.440 align:middle line:90%
+and Mesopotamian scholars--
+
+00:12:35.440 --> 00:12:37.710 align:middle line:84%
+they're so ambivalent
+about the Enki figure.
+
+00:12:37.710 --> 00:12:40.680 align:middle line:84%
+They say, yeah, he was
+said to be this great guy.
+
+00:12:40.680 --> 00:12:42.760 align:middle line:84%
+He sometimes is
+identified with the snake
+
+00:12:42.760 --> 00:12:44.590 align:middle line:90%
+in the garden of Eden.
+
+00:12:44.590 --> 00:12:47.640 align:middle line:84%
+And then he later became
+identified with Prometheus
+
+00:12:47.640 --> 00:12:49.720 align:middle line:84%
+in the Greek version
+of the story,
+
+00:12:49.720 --> 00:12:53.570 align:middle line:84%
+where Prometheus tries to
+come down and give humanity
+
+00:12:53.570 --> 00:12:55.990 align:middle line:84%
+this certain knowledge
+that would advance them.
+
+00:12:55.990 --> 00:12:58.070 align:middle line:84%
+And then the other gods
+come in and say no no,
+
+00:12:58.070 --> 00:12:58.990 align:middle line:90%
+you can't do that.
+
+00:12:58.990 --> 00:13:01.410 align:middle line:84%
+And then there are all these
+repercussions to humanity
+
+00:13:01.410 --> 00:13:03.100 align:middle line:90%
+in dividing them up.
+
+00:13:03.100 --> 00:13:06.160 align:middle line:84%
+The people in the
+Tower of Babel story
+
+00:13:06.160 --> 00:13:10.540 align:middle line:84%
+were really anarchists who
+were opposing the Archons.
+
+00:13:10.540 --> 00:13:13.180 align:middle line:84%
+And they were saying, the
+heck with the Archons.
+
+00:13:13.180 --> 00:13:13.980 align:middle line:90%
+We're leaving.
+
+00:13:13.980 --> 00:13:15.813 align:middle line:84%
+We're going to establish
+own little anarchy.
+
+00:13:15.813 --> 00:13:18.190 align:middle line:84%
+And we're going to move over
+here and build our own city.
+
+00:13:18.190 --> 00:13:20.460 align:middle line:84%
+And we're going to go
+do things on our own.
+
+00:13:20.460 --> 00:13:24.100 align:middle line:84%
+>> And what was it that they
+were going to do their way?
+
+00:13:24.100 --> 00:13:27.220 align:middle line:84%
+Just eight miles north of
+the ancient city of Urfa
+
+00:13:27.220 --> 00:13:30.790 align:middle line:84%
+is another famous site
+known as Gobekli Tepe.
+
+00:13:30.790 --> 00:13:33.760 align:middle line:84%
+All that is revealed is
+the top of what could have
+
+00:13:33.760 --> 00:13:36.430 align:middle line:90%
+been a great tower of sorts.
+
+00:13:36.430 --> 00:13:41.290 align:middle line:84%
+95% of the site remains
+below ground to be uncovered.
+
+00:13:41.290 --> 00:13:43.750 align:middle line:84%
+Could the ancient humans
+have gathered here
+
+00:13:43.750 --> 00:13:46.436 align:middle line:84%
+to use their knowledge
+of the universe?
+
+00:13:46.436 --> 00:13:51.770 align:middle line:10%
+>> Gobekli Tepe is the
+oldest stone circle complex
+
+00:13:51.770 --> 00:13:56.350 align:middle line:10%
+in the world, if you can
+imagine Stonehenge in England,
+
+00:13:56.350 --> 00:14:01.240 align:middle line:10%
+and transpose it onto the top
+of a mountain top in Southeast
+
+00:14:01.240 --> 00:14:06.910 align:middle line:10%
+Turkey, and then multiply
+it by at least 20 times,
+
+00:14:06.910 --> 00:14:12.010 align:middle line:10%
+and then cover the stones with
+beautiful carvings of animals
+
+00:14:12.010 --> 00:14:15.610 align:middle line:10%
+and representations
+of abstract humans,
+
+00:14:15.610 --> 00:14:18.830 align:middle line:10%
+and give them
+[? T-shaped ?] tops.
+
+00:14:18.830 --> 00:14:23.210 align:middle line:84%
+The fact is that Gobekli Tepe
+is in northern Mesopotamia.
+
+00:14:23.210 --> 00:14:26.870 align:middle line:84%
+This is clearly the cradle
+of civilization in this area.
+
+00:14:26.870 --> 00:14:30.570 align:middle line:84%
+This is where the
+Neolithic Revolution began.
+
+00:14:30.570 --> 00:14:34.935 align:middle line:84%
+This is where even the
+archaeologist Klaus Schmidt,
+
+00:14:34.935 --> 00:14:37.880 align:middle line:84%
+Gobekli Tepe, who
+discovered the site,
+
+00:14:37.880 --> 00:14:43.250 align:middle line:84%
+suggests that the Anunnaki
+had their power base.
+
+00:14:43.250 --> 00:14:46.680 align:middle line:84%
+Clearly, a lot of
+things started here.
+
+00:14:46.680 --> 00:14:49.890 align:middle line:10%
+>> A site only becomes sacred
+upon the foundations of many,
+
+00:14:49.890 --> 00:14:51.410 align:middle line:10%
+many old temples.
+
+00:14:51.410 --> 00:14:53.090 align:middle line:10%
+Gobekli Tepe is
+one great example.
+
+00:14:53.090 --> 00:14:55.158 align:middle line:10%
+It's an entire artificial hill.
+
+00:14:55.158 --> 00:14:57.200 align:middle line:84%
+The clue is actually the
+name, the original name.
+
+00:14:57.200 --> 00:14:59.420 align:middle line:10%
+It means potbelly
+hill or the hill
+
+00:14:59.420 --> 00:15:04.220 align:middle line:10%
+of the navel in its true
+context, which, to me, tells me
+
+00:15:04.220 --> 00:15:05.660 align:middle line:10%
+that it's a navel of the Earth.
+
+00:15:05.660 --> 00:15:08.760 align:middle line:10%
+And like so many other navels
+of the Earth around the world,
+
+00:15:08.760 --> 00:15:11.210 align:middle line:10%
+it's a place where
+the rules of physics
+
+00:15:11.210 --> 00:15:13.670 align:middle line:10%
+work in a certain way that
+allows you communication
+
+00:15:13.670 --> 00:15:15.890 align:middle line:10%
+with other levels of reality.
+
+00:15:15.890 --> 00:15:20.270 align:middle line:10%
+>> The whole evolution of
+language in the human Homo
+
+00:15:20.270 --> 00:15:25.970 align:middle line:10%
+sapiens sapiens brain has
+been cultivated, manipulated,
+
+00:15:25.970 --> 00:15:30.500 align:middle line:10%
+and managed by technologies
+that could influence the human
+
+00:15:30.500 --> 00:15:33.170 align:middle line:10%
+brain's development of language.
+
+00:15:33.170 --> 00:15:36.410 align:middle line:84%
+And that when we read
+about the Tower of Babel
+
+00:15:36.410 --> 00:15:41.870 align:middle line:84%
+being a time when the human
+population had one language,
+
+00:15:41.870 --> 00:15:46.280 align:middle line:84%
+had one thought
+system, if it's true
+
+00:15:46.280 --> 00:15:49.340 align:middle line:84%
+that there have been competing
+geopolitical territorial
+
+00:15:49.340 --> 00:15:54.850 align:middle line:84%
+forces, competing
+non-humans on this planet,
+
+00:15:54.850 --> 00:15:58.960 align:middle line:84%
+and that there was a time
+when humans were unified,
+
+00:15:58.960 --> 00:16:03.570 align:middle line:84%
+that would not have been a
+good step for the competing
+
+00:16:03.570 --> 00:16:05.260 align:middle line:90%
+non-humans.
+
+00:16:05.260 --> 00:16:09.370 align:middle line:84%
+And it could very well be
+the Tower of Babel story
+
+00:16:09.370 --> 00:16:14.410 align:middle line:84%
+was one of those moments where
+humans had been homogenized.
+
+00:16:14.410 --> 00:16:20.230 align:middle line:10%
+And something did not want that
+homogeneity in human thought,
+
+00:16:20.230 --> 00:16:23.770 align:middle line:10%
+humans together, humans
+working as a group.
+
+00:16:23.770 --> 00:16:27.580 align:middle line:84%
+And that from the outside,
+there was a disruption in what,
+
+00:16:27.580 --> 00:16:30.040 align:middle line:84%
+for just a brief
+moment, may have
+
+00:16:30.040 --> 00:16:35.920 align:middle line:84%
+been a unification in thought
+without war or conflict
+
+00:16:35.920 --> 00:16:38.726 align:middle line:90%
+of human beings.
+
+00:16:38.726 --> 00:16:42.880 align:middle line:84%
+>> Unification, a dangerous
+thing to have if you plan
+
+00:16:42.880 --> 00:16:44.830 align:middle line:90%
+to rule over a people.
+
+00:16:44.830 --> 00:16:49.180 align:middle line:84%
+But could this unification have
+been an actual tower or just
+
+00:16:49.180 --> 00:16:51.580 align:middle line:84%
+an ancient location
+where people gathered
+
+00:16:51.580 --> 00:16:55.060 align:middle line:84%
+to exchange knowledge,
+a location in which they
+
+00:16:55.060 --> 00:16:58.015 align:middle line:84%
+could communicate
+important information?
+
+00:16:58.015 --> 00:17:03.310 align:middle line:84%
+>> Babylon is actually an old
+Sumerian word which means gate
+
+00:17:03.310 --> 00:17:06.730 align:middle line:84%
+of God, which, for me and my
+understanding of the ancient
+
+00:17:06.730 --> 00:17:09.130 align:middle line:84%
+mysteries, tells me
+everything I need to know.
+
+00:17:09.130 --> 00:17:12.069 align:middle line:84%
+Anything referred to as a gate
+of God or a navel of the Earth
+
+00:17:12.069 --> 00:17:16.270 align:middle line:84%
+is usually an energetic hotspot
+where the laws of physics
+
+00:17:16.270 --> 00:17:19.300 align:middle line:84%
+are slightly
+different, or just so,
+
+00:17:19.300 --> 00:17:21.310 align:middle line:84%
+that allows you to
+step through a portal
+
+00:17:21.310 --> 00:17:24.010 align:middle line:90%
+into a level of existence.
+
+00:17:24.010 --> 00:17:26.589 align:middle line:84%
+For me, the Tower of Babel
+essentially represents
+
+00:17:26.589 --> 00:17:29.290 align:middle line:84%
+the levels of
+attainment of knowledge
+
+00:17:29.290 --> 00:17:32.140 align:middle line:84%
+that gets you to rise
+slowly ever upwards
+
+00:17:32.140 --> 00:17:35.140 align:middle line:84%
+towards the mind of God,
+the summit, of course,
+
+00:17:35.140 --> 00:17:37.180 align:middle line:84%
+being the connection
+or the interchange
+
+00:17:37.180 --> 00:17:40.093 align:middle line:84%
+between the physical
+and the non-physical.
+
+00:17:40.093 --> 00:17:42.010 align:middle line:84%
+The way that they
+communicated in the old days
+
+00:17:42.010 --> 00:17:43.210 align:middle line:90%
+was through metaphor.
+
+00:17:43.210 --> 00:17:45.670 align:middle line:84%
+And the more we get
+into the historical era,
+
+00:17:45.670 --> 00:17:48.515 align:middle line:84%
+the more we mistake the
+metaphor for reality.
+
+00:17:48.515 --> 00:17:51.939 align:middle line:90%
+
+
+00:17:51.939 --> 00:17:56.030 align:middle line:84%
+>> In one of the traditions,
+Enlil just gets really annoyed
+
+00:17:56.030 --> 00:17:58.340 align:middle line:84%
+because of the noise
+humanity is making.
+
+00:17:58.340 --> 00:18:00.140 align:middle line:90%
+And that this noise is too much.
+
+00:18:00.140 --> 00:18:03.140 align:middle line:10%
+Let's just get rid of these
+horrible little things.
+
+00:18:03.140 --> 00:18:05.330 align:middle line:10%
+But Enki doesn't want
+to go that route.
+
+00:18:05.330 --> 00:18:06.830 align:middle line:10%
+Humanity are his creatures.
+
+00:18:06.830 --> 00:18:10.750 align:middle line:84%
+And his project is to bring
+wisdom and understanding
+
+00:18:10.750 --> 00:18:11.720 align:middle line:90%
+to humanity.
+
+00:18:11.720 --> 00:18:15.050 align:middle line:84%
+And again, I think
+there's a beautiful--
+
+00:18:15.050 --> 00:18:19.515 align:middle line:84%
+there's a beautiful message
+hidden beneath that symbolism.
+
+00:18:19.515 --> 00:18:23.490 align:middle line:84%
+>> Some experts like Jack Cary
+believe the story of the Tower
+
+00:18:23.490 --> 00:18:26.910 align:middle line:84%
+of Babel is not just the
+location that offered a gateway
+
+00:18:26.910 --> 00:18:30.810 align:middle line:84%
+to the gods but a location
+that humans created,
+
+00:18:30.810 --> 00:18:34.940 align:middle line:84%
+a frequency that could
+defy the current reality.
+
+00:18:34.940 --> 00:18:40.320 align:middle line:84%
+>> I believe, absolutely, that
+the Tower of Babel was a center
+
+00:18:40.320 --> 00:18:43.230 align:middle line:84%
+where humans were being
+taught divine knowledge.
+
+00:18:43.230 --> 00:18:47.790 align:middle line:84%
+And chief among those
+secrets was the power
+
+00:18:47.790 --> 00:18:50.490 align:middle line:84%
+of the spoken
+word, and that they
+
+00:18:50.490 --> 00:18:54.630 align:middle line:84%
+were being taught
+a language, which
+
+00:18:54.630 --> 00:18:59.130 align:middle line:84%
+was forbidden by the leadership
+of this extraterrestrial
+
+00:18:59.130 --> 00:19:01.050 align:middle line:90%
+intelligence to teach them.
+
+00:19:01.050 --> 00:19:06.180 align:middle line:84%
+Imagine a species that has
+developed a language that
+
+00:19:06.180 --> 00:19:09.750 align:middle line:84%
+is so potent that
+it literally uses
+
+00:19:09.750 --> 00:19:12.270 align:middle line:84%
+the laws of harmonic
+resonance in order
+
+00:19:12.270 --> 00:19:17.280 align:middle line:84%
+to create instantaneous
+change in your surroundings.
+
+00:19:17.280 --> 00:19:19.260 align:middle line:84%
+That's what they
+were being taught.
+
+00:19:19.260 --> 00:19:22.860 align:middle line:10%
+And it was strictly forbidden
+that the leadership looked down
+
+00:19:22.860 --> 00:19:27.090 align:middle line:10%
+and said, what, you're teaching
+this invention of ours,
+
+00:19:27.090 --> 00:19:31.300 align:middle line:10%
+how to use the most
+potent weapon that we have
+
+00:19:31.300 --> 00:19:35.460 align:middle line:10%
+which is our speech
+to create change?
+
+00:19:35.460 --> 00:19:38.650 align:middle line:90%
+How is that going to turn out?
+
+00:19:38.650 --> 00:19:41.460 align:middle line:84%
+And this battle
+between Enki and Enlil
+
+00:19:41.460 --> 00:19:44.790 align:middle line:84%
+that are claimed to have
+been in charge of the planet
+
+00:19:44.790 --> 00:19:48.210 align:middle line:84%
+may have been the result
+of why that center was
+
+00:19:48.210 --> 00:19:49.680 align:middle line:90%
+actually destroyed.
+
+00:19:49.680 --> 00:19:52.980 align:middle line:84%
+At some point, Enlil
+was very, very irritated
+
+00:19:52.980 --> 00:19:55.710 align:middle line:84%
+with the fact that
+humans, they were being
+
+00:19:55.710 --> 00:19:57.480 align:middle line:90%
+taught all of these things.
+
+00:19:57.480 --> 00:20:00.420 align:middle line:84%
+These secrets were all
+considered to be forbidden.
+
+00:20:00.420 --> 00:20:03.120 align:middle line:84%
+Chief among those is the
+secret of the language that
+
+00:20:03.120 --> 00:20:05.700 align:middle line:84%
+allows you to create
+change in reality
+
+00:20:05.700 --> 00:20:09.780 align:middle line:84%
+at will, the construction
+of words using syllables
+
+00:20:09.780 --> 00:20:14.880 align:middle line:84%
+that exhibit frequencies that
+can literally cause a stone
+
+00:20:14.880 --> 00:20:19.200 align:middle line:84%
+to float in midair
+by speaking a word.
+
+00:20:19.200 --> 00:20:23.940 align:middle line:84%
+That's the kind of power
+that they possessed.
+
+00:20:23.940 --> 00:20:29.430 align:middle line:10%
+Sound causes change
+in your surroundings
+
+00:20:29.430 --> 00:20:32.550 align:middle line:10%
+because of its
+natural relationship
+
+00:20:32.550 --> 00:20:34.260 align:middle line:10%
+with the rest of creation.
+
+00:20:34.260 --> 00:20:37.860 align:middle line:84%
+A word is no less
+valuable in creation
+
+00:20:37.860 --> 00:20:39.570 align:middle line:90%
+than a rock sitting there.
+
+00:20:39.570 --> 00:20:43.080 align:middle line:84%
+They were all created
+by the same laws.
+
+00:20:43.080 --> 00:20:46.110 align:middle line:84%
+And the fact that you're
+able to make a sound
+
+00:20:46.110 --> 00:20:52.170 align:middle line:84%
+is something that is
+a universal present.
+
+00:20:52.170 --> 00:20:53.040 align:middle line:90%
+Let's call it that.
+
+00:20:53.040 --> 00:20:56.130 align:middle line:10%
+It was bestowed upon
+us by the creator
+
+00:20:56.130 --> 00:20:58.170 align:middle line:10%
+of this entire universe.
+
+00:20:58.170 --> 00:21:03.150 align:middle line:84%
+It's almost as though not only
+is every single physical object
+
+00:21:03.150 --> 00:21:05.550 align:middle line:84%
+in our reality connected
+with all of this,
+
+00:21:05.550 --> 00:21:09.790 align:middle line:84%
+but yes, because we're a
+creation of the same thing,
+
+00:21:09.790 --> 00:21:13.590 align:middle line:84%
+we're able to make these
+vibrations with our bodies.
+
+00:21:13.590 --> 00:21:16.710 align:middle line:84%
+And in some occult
+groups they call
+
+00:21:16.710 --> 00:21:20.640 align:middle line:84%
+them barbarous names
+of incantations.
+
+00:21:20.640 --> 00:21:23.880 align:middle line:10%
+They have all of these
+different sacred words
+
+00:21:23.880 --> 00:21:28.380 align:middle line:10%
+that, supposedly, if you speak,
+let's say, in a ceremony,
+
+00:21:28.380 --> 00:21:31.020 align:middle line:10%
+it will cause a
+particular kind of change.
+
+00:21:31.020 --> 00:21:34.530 align:middle line:84%
+That's tied in to this whole
+idea of harmonic resonance.
+
+00:21:34.530 --> 00:21:39.160 align:middle line:84%
+And our bodies vibrate to
+these same frequencies.
+
+00:21:39.160 --> 00:21:42.690 align:middle line:84%
+And therefore, our words
+vibrate to the same frequencies.
+
+00:21:42.690 --> 00:21:49.610 align:middle line:84%
+So yeah, it's all tied together
+in one big, beautiful universe.
+
+00:21:49.610 --> 00:21:53.200 align:middle line:84%
+>> If the humans were able
+to control matter by using
+
+00:21:53.200 --> 00:21:55.960 align:middle line:84%
+a language that
+changed frequency,
+
+00:21:55.960 --> 00:22:00.315 align:middle line:84%
+could Gobekli Tepe have been
+used to harness this frequency?
+
+00:22:00.315 --> 00:22:02.830 align:middle line:90%
+>> I think of Gobekli Tepe.
+
+00:22:02.830 --> 00:22:07.450 align:middle line:84%
+I think of other monuments
+that were purposely buried,
+
+00:22:07.450 --> 00:22:10.690 align:middle line:84%
+maybe because they were
+too powerful, maybe
+
+00:22:10.690 --> 00:22:14.350 align:middle line:84%
+because the creatures that built
+them didn't want us to destroy
+
+00:22:14.350 --> 00:22:16.940 align:middle line:90%
+ourselves with that technology.
+
+00:22:16.940 --> 00:22:20.230 align:middle line:84%
+Maybe those areas, if
+you go deep enough,
+
+00:22:20.230 --> 00:22:22.900 align:middle line:84%
+have the kind of rock
+strata necessary in order
+
+00:22:22.900 --> 00:22:27.016 align:middle line:84%
+to cause these vibrational
+frequencies to occur.
+
+00:22:27.016 --> 00:22:30.840 align:middle line:84%
+>> Is it possible that Enki
+tried to unify the ancient
+
+00:22:30.840 --> 00:22:34.620 align:middle line:84%
+humans through knowledge, but
+in order to survive the wrath
+
+00:22:34.620 --> 00:22:38.280 align:middle line:84%
+of Enlil, humans had to scatter
+throughout the globe using
+
+00:22:38.280 --> 00:22:40.500 align:middle line:90%
+their coded cognates?
+
+00:22:40.500 --> 00:22:42.960 align:middle line:10%
+Are these the same
+cognates that Atkinson
+
+00:22:42.960 --> 00:22:44.715 align:middle line:10%
+has been piecing together?
+
+00:22:44.715 --> 00:22:49.290 align:middle line:10%
+>> When we look at the ancient
+descriptions of the Tower
+
+00:22:49.290 --> 00:22:53.970 align:middle line:10%
+of Babel, for me, I look
+at it as a scientist from
+
+00:22:53.970 --> 00:22:55.353 align:middle line:10%
+the physical evidence.
+
+00:22:55.353 --> 00:22:57.270 align:middle line:84%
+But the common theme
+that weaves them together
+
+00:22:57.270 --> 00:22:59.160 align:middle line:84%
+when they talk
+about the tower is
+
+00:22:59.160 --> 00:23:02.580 align:middle line:84%
+that it was a
+warning to humankind
+
+00:23:02.580 --> 00:23:07.161 align:middle line:90%
+of our use of knowledge.
+
+00:23:07.161 --> 00:23:10.770 align:middle line:84%
+>> Some experts like Jonathan
+Young believe our path
+
+00:23:10.770 --> 00:23:14.835 align:middle line:84%
+to returning to unification
+is an individual journey.
+
+00:23:14.835 --> 00:23:16.890 align:middle line:10%
+>> Let me speak to
+guilt for a moment,
+
+00:23:16.890 --> 00:23:20.190 align:middle line:10%
+that leaving these paradise
+stories was our fault,
+
+00:23:20.190 --> 00:23:23.730 align:middle line:10%
+leaving the garden of Eden or
+the fall of the Tower of Babel,
+
+00:23:23.730 --> 00:23:27.220 align:middle line:10%
+that we had something good
+that we messed up through
+
+00:23:27.220 --> 00:23:28.020 align:middle line:10%
+our mistake.
+
+00:23:28.020 --> 00:23:30.450 align:middle line:90%
+This is psychotherapy 101.
+
+00:23:30.450 --> 00:23:32.250 align:middle line:10%
+This is blaming
+ourselves for something
+
+00:23:32.250 --> 00:23:34.350 align:middle line:10%
+that was larger than we were.
+
+00:23:34.350 --> 00:23:37.440 align:middle line:84%
+To distribute people around
+in different geographical
+
+00:23:37.440 --> 00:23:39.270 align:middle line:84%
+locations with
+different languages
+
+00:23:39.270 --> 00:23:42.390 align:middle line:84%
+speaks to the diversity
+of humanity and, in a way,
+
+00:23:42.390 --> 00:23:45.378 align:middle line:84%
+is respectful that there
+are many different cultures.
+
+00:23:45.378 --> 00:23:46.920 align:middle line:84%
+This is, on an
+individual level, what
+
+00:23:46.920 --> 00:23:49.650 align:middle line:84%
+is called the polyvocal
+quality of psychology.
+
+00:23:49.650 --> 00:23:54.090 align:middle line:84%
+We have many energies,
+desires, agendas, voices.
+
+00:23:54.090 --> 00:23:56.640 align:middle line:84%
+And we're struggling to
+pull that all together.
+
+00:23:56.640 --> 00:23:58.260 align:middle line:90%
+This is personal work.
+
+00:23:58.260 --> 00:24:01.140 align:middle line:84%
+Collectively, we have
+many voices in a community
+
+00:24:01.140 --> 00:24:02.370 align:middle line:90%
+or in nation.
+
+00:24:02.370 --> 00:24:06.690 align:middle line:84%
+After all, there probably isn't
+just one path to transcendence.
+
+00:24:06.690 --> 00:24:09.330 align:middle line:84%
+There are as many as
+there are seekers.
+
+00:24:09.330 --> 00:24:11.340 align:middle line:90%
+And this is a story of the many.
+
+00:24:11.340 --> 00:24:14.082 align:middle line:90%
+
+
+00:24:14.082 --> 00:24:16.810 align:middle line:10%
+>> Actually, I think the
+ancient Egyptians touched
+
+00:24:16.810 --> 00:24:19.870 align:middle line:10%
+on a fundamental truth,
+which is each one of us,
+
+00:24:19.870 --> 00:24:23.950 align:middle line:10%
+every minute of every day,
+are constantly making choices
+
+00:24:23.950 --> 00:24:25.120 align:middle line:10%
+between good and evil.
+
+00:24:25.120 --> 00:24:27.940 align:middle line:90%
+They may be very small choices.
+
+00:24:27.940 --> 00:24:30.670 align:middle line:84%
+In some cases, if you're
+dealing with a president
+
+00:24:30.670 --> 00:24:34.390 align:middle line:84%
+of a major nation, that person's
+choices between good and evil
+
+00:24:34.390 --> 00:24:36.730 align:middle line:84%
+may have huge implications
+for everybody else.
+
+00:24:36.730 --> 00:24:39.220 align:middle line:84%
+But we're all playing
+the same game.
+
+00:24:39.220 --> 00:24:41.410 align:middle line:84%
+We're all having to
+make those choices.
+
+00:24:41.410 --> 00:24:45.895 align:middle line:84%
+And those choices add up to
+the structure of our lives.
+
+00:24:45.895 --> 00:24:49.480 align:middle line:84%
+>> Could this structure have
+been coded in our universe
+
+00:24:49.480 --> 00:24:53.500 align:middle line:84%
+and in our language to help
+us understand our purpose?
+
+00:24:53.500 --> 00:24:55.540 align:middle line:84%
+Reporter Linda
+Moulton Howe believes
+
+00:24:55.540 --> 00:24:59.530 align:middle line:84%
+that whatever the humans had
+tapped into at Gobekli Tepe,
+
+00:24:59.530 --> 00:25:02.650 align:middle line:84%
+they knew that they
+had something powerful.
+
+00:25:02.650 --> 00:25:05.510 align:middle line:84%
+They had to hide
+it and disappear.
+
+00:25:05.510 --> 00:25:10.150 align:middle line:84%
+>> Whoever built Gobekli Tepe,
+the fact that they buried that
+
+00:25:10.150 --> 00:25:16.090 align:middle line:84%
+very important 30 acres of these
+rings of all of these limestone
+
+00:25:16.090 --> 00:25:22.450 align:middle line:84%
+columns meant something knew
+that something potentially
+
+00:25:22.450 --> 00:25:24.850 align:middle line:84%
+destructive to
+the whole planet--
+
+00:25:24.850 --> 00:25:28.630 align:middle line:84%
+that's the key-- potentially
+destructive to the whole
+
+00:25:28.630 --> 00:25:30.490 align:middle line:90%
+planet.
+
+00:25:30.490 --> 00:25:34.462 align:middle line:84%
+And they didn't want
+Gobekli Tepe destroyed.
+
+00:25:34.462 --> 00:25:37.570 align:middle line:84%
+>> Could certain humans
+have buried Gobekli Tepe
+
+00:25:37.570 --> 00:25:41.260 align:middle line:84%
+because a bigger catastrophe was
+about to happen that would wipe
+
+00:25:41.260 --> 00:25:43.890 align:middle line:90%
+out any trace of this knowledge?
+
+00:25:43.890 --> 00:25:45.730 align:middle line:90%
+>> Then comes the flood.
+
+00:25:45.730 --> 00:25:47.590 align:middle line:84%
+The cataclysm wipes
+everything out.
+
+00:25:47.590 --> 00:25:50.380 align:middle line:84%
+But that knowledge
+persists through the flood.
+
+00:25:50.380 --> 00:25:52.420 align:middle line:84%
+And after the flood,
+they are again
+
+00:25:52.420 --> 00:25:56.760 align:middle line:84%
+offering the gifts of
+civilization to mankind.
+
+00:25:56.760 --> 00:26:01.290 align:middle line:84%
+>> Up next, was the flood
+the next attempt to destroy
+
+00:26:01.290 --> 00:26:03.650 align:middle line:90%
+the knowledge of the gods?
+
+00:26:03.650 --> 00:26:09.000 align:middle line:90%

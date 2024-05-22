@@ -1,0 +1,1 @@
+{"id":"environment-sediment-thickness","type":"esri-mapServer","name":"Sediment Thickness","url":"https://gis.ngdc.noaa.gov/arcgis/rest/services/web_mercator/sediment_thickness/MapServer","opacity":1,"dataCustodian":"[ngdc.noaa.gov](http://ngdc.noaa.gov/mgg/sedthick)","layers":"2000m index contours - all scales"}

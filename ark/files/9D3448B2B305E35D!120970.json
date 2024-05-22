@@ -1,0 +1,106 @@
+[
+  {
+    "@content.downloadUrl": "https://pyyrgw.bn.files.1drv.com/y4m5X2tPTxtKDPH4jfB0W_QQckSkk-3nJF1koPuDCglNa5L0mW_hMJGIZXg0RWpwrz74Gg118TOz-LqEujjohNpSCuGEFXsYD0mA4FR3ysBqQQWrUhiQ8IZpw5C4fO5myx11r-CS8V-LvZShI5Zrb58i7bOKZIBw6Dt7Ec5_TB5ZjDlyQxnrTISWi2oTcDIEEynEIGryYieAsdnPUnWYvrVLg",
+    "createdDateTime": "2022-05-27T06:51:16.25Z",
+    "cTag": "aYzo5RDM0NDhCMkIzMDVFMzVEITEzMTU0OS4yNTc",
+    "eTag": "aOUQzNDQ4QjJCMzA1RTM1RCExMzE1NDkuMA",
+    "id": "9D3448B2B305E35D!131549",
+    "lastModifiedDateTime": "2022-05-27T06:51:16.25Z",
+    "name": "Richard Dolan - A.D. - After Disclosure.epub",
+    "parentReference": {
+      "driveId": "9d3448b2b305e35d",
+      "driveType": "personal",
+      "id": "9D3448B2B305E35D!120970",
+      "name": "Richard Dolan",
+      "path": "/drives/9d3448b2b305e35d/items/9D3448B2B305E35D!43500:/Books/Richard%20Dolan"
+    },
+    "size": 1563081,
+    "webUrl": "https://1drv.ms/u/s!Al3jBbOySDSdiINdod7gE9Z15-voqQ",
+    "file": {
+      "hashes": {
+        "quickXorHash": "FjpuFIBjVifgfZHmhrKlSaQtits=",
+        "sha1Hash": "BBF672FC9E3E1AB0CC41FA5E0CAA5AA7214AB228",
+        "sha256Hash": "E6F4712C1253B7023A48219FEB42C6DB00FD5033C835A308AAE5F813F7900599"
+      },
+      "mimeType": "application/octet-stream"
+    }
+  },
+  {
+    "@content.downloadUrl": "https://pyyrgw.bn.files.1drv.com/y4mbGYEjw1dCEDUq33PIpDr65zhH-_LOPit6oxEdty24uk9Q1m2aMQfS3x7VOJhIl7LPM7J9uGJ0THsGtW_Ola-BS-Jo8fktON41qPgC2bfB4vzZh6MvJdiElBBuKpeKQGbwahCb7F6pYyoF5jYsjAsPqjRRkSeuI7XJufBwXnO79GrEWbddXjLDoNgCd7WyT97DYnNMMPDD_Q_rFiXTvGwkw",
+    "createdDateTime": "2022-05-27T06:51:06.963Z",
+    "cTag": "aYzo5RDM0NDhCMkIzMDVFMzVEITEzMTU0OC4yNTc",
+    "eTag": "aOUQzNDQ4QjJCMzA1RTM1RCExMzE1NDguMA",
+    "id": "9D3448B2B305E35D!131548",
+    "lastModifiedDateTime": "2022-05-27T06:51:06.963Z",
+    "name": "Richard Dolan - UFOs and the National Security State - Volume 1.epub",
+    "parentReference": {
+      "driveId": "9d3448b2b305e35d",
+      "driveType": "personal",
+      "id": "9D3448B2B305E35D!120970",
+      "name": "Richard Dolan",
+      "path": "/drives/9d3448b2b305e35d/items/9D3448B2B305E35D!43500:/Books/Richard%20Dolan"
+    },
+    "size": 1820822,
+    "webUrl": "https://1drv.ms/u/s!Al3jBbOySDSdiINcod7gE9Z15-voqQ",
+    "file": {
+      "hashes": {
+        "quickXorHash": "ULxjkXn/kUJKWxtN5eumsZMTaYk=",
+        "sha1Hash": "EDC9B9D35F6FDD22784A007FD29A99865841DFA9",
+        "sha256Hash": "27E3E2F454FA92D575983AEA863B624413E9871C93F903E7E75613C1B06043ED"
+      },
+      "mimeType": "application/octet-stream"
+    }
+  },
+  {
+    "@content.downloadUrl": "https://pyyrgw.bn.files.1drv.com/y4m4EPXKkKUI2fZcosxFNR2LBGGbs-SrPJg_mgTiJMphFbDVxe_IxJE5jjEDaPNnWmJRFlvqX7YaDTjqj9hLsSFbNbeeNziyHBkFtHiAcAWme8d5syDsqmBf84WfRnowFx2Azraaqzgrmbv6chZZ_dyC0JZUgb_BWax06dpi07r4S89q3KWNU1E4rpYO6EmZ5s9O-zr4t5GXDkcyzH1CsrXfA",
+    "createdDateTime": "2022-05-27T06:50:35.933Z",
+    "cTag": "aYzo5RDM0NDhCMkIzMDVFMzVEITEzMTU0NS4yNTc",
+    "eTag": "aOUQzNDQ4QjJCMzA1RTM1RCExMzE1NDUuMA",
+    "id": "9D3448B2B305E35D!131545",
+    "lastModifiedDateTime": "2022-05-27T06:50:35.933Z",
+    "name": "Richard Dolan - UFOs and the National Security State - Volume 2.epub",
+    "parentReference": {
+      "driveId": "9d3448b2b305e35d",
+      "driveType": "personal",
+      "id": "9D3448B2B305E35D!120970",
+      "name": "Richard Dolan",
+      "path": "/drives/9d3448b2b305e35d/items/9D3448B2B305E35D!43500:/Books/Richard%20Dolan"
+    },
+    "size": 772765,
+    "webUrl": "https://1drv.ms/u/s!Al3jBbOySDSdiINZod7gE9Z15-voqQ",
+    "file": {
+      "hashes": {
+        "quickXorHash": "E4xdhqIQmrOI18NtXvQjz9OjWjo=",
+        "sha1Hash": "BE41849DEAC28F3F10C99468A676EAA0FFB74EA5",
+        "sha256Hash": "C351E843D1B785B327E7931AD33C6F1DA1FEE40C8FEBBC3A9C7C640CA306CD0B"
+      },
+      "mimeType": "application/octet-stream"
+    }
+  },
+  {
+    "@content.downloadUrl": "https://pyyrgw.bn.files.1drv.com/y4mx8MZ8LzXYP0gWwSMSEza5eB2N6L5Daf8C17-8prL2EBu0z8zcRWhbW4i9n-RgS7hIlwfgYAAdrEWupa9SPoZ09IKjEasT-JLrH0ctwmPko_OQ3qebZXWr4VdcLlfiCbq4AHtMyMH2ifTKzxj310Z4kwOXGumrIOYFHkuBiC__iobFMhlh2VHPi3EIsK1JPS4qxcN1oS90FNzqLd8H5Q5qA",
+    "createdDateTime": "2022-05-27T06:51:36.977Z",
+    "cTag": "aYzo5RDM0NDhCMkIzMDVFMzVEITEzMTU1MS4yNTc",
+    "eTag": "aOUQzNDQ4QjJCMzA1RTM1RCExMzE1NTEuMA",
+    "id": "9D3448B2B305E35D!131551",
+    "lastModifiedDateTime": "2022-05-27T06:51:36.977Z",
+    "name": "Richard Dolan - UFOs For The 21st Century Mind.epub",
+    "parentReference": {
+      "driveId": "9d3448b2b305e35d",
+      "driveType": "personal",
+      "id": "9D3448B2B305E35D!120970",
+      "name": "Richard Dolan",
+      "path": "/drives/9d3448b2b305e35d/items/9D3448B2B305E35D!43500:/Books/Richard%20Dolan"
+    },
+    "size": 5501256,
+    "webUrl": "https://1drv.ms/u/s!Al3jBbOySDSdiINfod7gE9Z15-voqQ",
+    "file": {
+      "hashes": {
+        "quickXorHash": "Zz0hbM9dLgmsB3CSJC4Yf1dQBmk=",
+        "sha1Hash": "EDF2AEFB98D02B40EEB8353A889E217CA4653C0D",
+        "sha256Hash": "97812A3F7B2182C1A4F7B0BB7B6704AA8C7A5EEB25B967ECF71405FDD83E356C"
+      },
+      "mimeType": "application/octet-stream"
+    }
+  }
+]

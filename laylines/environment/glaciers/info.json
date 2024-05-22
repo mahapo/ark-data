@@ -1,0 +1,1 @@
+{"id":"glims-glacier-photos","type":"wms","name":"Glacier Photos","description":"Glacier Photos","url":"https://www.glims.org/geoserver/GLIMS/gwc/service","dataCustodian":"[glims.colorado.edu](http://glims.colorado.edu/glacierdata/)","layers":"glacier_photos","parameters":{"tiled":true}}

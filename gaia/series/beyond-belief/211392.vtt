@@ -1,0 +1,4360 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.458 align:middle line:90%
+[THEME MUSIC]
+
+00:00:03.458 --> 00:00:17.882 align:middle line:90%
+
+
+00:00:17.882 --> 00:00:19.590 align:middle line:84%
+>>GEORGE NOORY: Welcome
+to Beyond Belief.
+
+00:00:19.590 --> 00:00:21.840 align:middle line:84%
+We have an amazing
+program for you tonight.
+
+00:00:21.840 --> 00:00:24.900 align:middle line:84%
+Jason Padgett with
+us, a number theorist
+
+00:00:24.900 --> 00:00:27.540 align:middle line:90%
+with acquired Savant syndrome.
+
+00:00:27.540 --> 00:00:32.130 align:middle line:84%
+A traumatic brain injury changed
+his life forever and made him
+
+00:00:32.130 --> 00:00:34.223 align:middle line:90%
+a mathematical genius.
+
+00:00:34.223 --> 00:00:36.390 align:middle line:84%
+>>JASON PADGETT: Some people
+would consider it that.
+
+00:00:36.390 --> 00:00:37.860 align:middle line:90%
+But for me, it's more--
+
+00:00:37.860 --> 00:00:41.010 align:middle line:84%
+it just makes the
+mathematics behind motion
+
+00:00:41.010 --> 00:00:44.040 align:middle line:84%
+and behind equations
+much more easy to see.
+
+00:00:44.040 --> 00:00:46.050 align:middle line:84%
+>>NOORY: Prior to
+this injury, which
+
+00:00:46.050 --> 00:00:48.030 align:middle line:84%
+we'll get into in
+a second, Jason,
+
+00:00:48.030 --> 00:00:49.650 align:middle line:90%
+you weren't that good with math?
+
+00:00:49.650 --> 00:00:52.050 align:middle line:84%
+>>PADGETT: No, I had
+basically a pre-algebra.
+
+00:00:52.050 --> 00:00:53.220 align:middle line:90%
+I thought math was stupid.
+
+00:00:53.220 --> 00:00:55.710 align:middle line:84%
+I would literally say things
+like, when are you going
+
+00:00:55.710 --> 00:00:57.180 align:middle line:90%
+to use that in the real world?
+
+00:00:57.180 --> 00:01:00.210 align:middle line:84%
+>>NOORY: Well, after
+the injury, how did you
+
+00:01:00.210 --> 00:01:02.700 align:middle line:84%
+know that your
+mathematical skills had
+
+00:01:02.700 --> 00:01:04.410 align:middle line:90%
+changed for the better?
+
+00:01:04.410 --> 00:01:06.090 align:middle line:84%
+>>PADGETT: So the
+very first thing
+
+00:01:06.090 --> 00:01:08.280 align:middle line:84%
+that I noticed is that
+when things moved instead
+
+00:01:08.280 --> 00:01:10.230 align:middle line:84%
+of looking smooth
+and continuous,
+
+00:01:10.230 --> 00:01:12.120 align:middle line:90%
+they were discrete and chunky.
+
+00:01:12.120 --> 00:01:13.920 align:middle line:84%
+So a good way to
+think about it is
+
+00:01:13.920 --> 00:01:15.990 align:middle line:84%
+like when you're
+making a film, you're
+
+00:01:15.990 --> 00:01:18.100 align:middle line:84%
+taking individual
+picture frames,
+
+00:01:18.100 --> 00:01:20.085 align:middle line:84%
+and then you're
+running them quickly.
+
+00:01:20.085 --> 00:01:21.460 align:middle line:84%
+And it makes it
+look like motion.
+
+00:01:21.460 --> 00:01:24.040 align:middle line:84%
+Well, we construct a picture
+the same way with our brains.
+
+00:01:24.040 --> 00:01:26.740 align:middle line:84%
+And it looks smooth
+because one part
+
+00:01:26.740 --> 00:01:28.930 align:middle line:84%
+of your brain, its
+function is to smooth out
+
+00:01:28.930 --> 00:01:31.600 align:middle line:84%
+the picture frames so that
+they don't look jittery.
+
+00:01:31.600 --> 00:01:33.460 align:middle line:84%
+And that part of my
+brain was affected.
+
+00:01:33.460 --> 00:01:36.010 align:middle line:84%
+And so when things move now,
+I see the picture frames.
+
+00:01:36.010 --> 00:01:38.140 align:middle line:84%
+But when you get into
+physics and mathematics,
+
+00:01:38.140 --> 00:01:40.720 align:middle line:84%
+you're literally just looking
+at different time units,
+
+00:01:40.720 --> 00:01:42.550 align:middle line:84%
+and getting those
+units closer together
+
+00:01:42.550 --> 00:01:45.700 align:middle line:84%
+to get a better approximation
+of what's occurring in reality.
+
+00:01:45.700 --> 00:01:48.910 align:middle line:84%
+So we're all doing calculus
+and physics in the background,
+
+00:01:48.910 --> 00:01:50.620 align:middle line:90%
+we're just not aware of it.
+
+00:01:50.620 --> 00:01:53.590 align:middle line:84%
+>>NOORY: Jason, explain to
+us what Savant syndrome is?
+
+00:01:53.590 --> 00:01:56.380 align:middle line:84%
+>>PADGETT: So Savant
+syndrome is, many times,
+
+00:01:56.380 --> 00:02:01.120 align:middle line:84%
+it's people who excel in one
+specific area or a tiny slice
+
+00:02:01.120 --> 00:02:01.990 align:middle line:90%
+of an area.
+
+00:02:01.990 --> 00:02:04.360 align:middle line:84%
+And everything else is either
+average or below average.
+
+00:02:04.360 --> 00:02:08.169 align:middle line:84%
+And for me, it's mathematical
+skills, specifically
+
+00:02:08.169 --> 00:02:09.580 align:middle line:90%
+the geometry of math.
+
+00:02:09.580 --> 00:02:13.840 align:middle line:84%
+>>NOORY: So when those
+skills aren't up to par,
+
+00:02:13.840 --> 00:02:16.150 align:middle line:90%
+what's causing that?
+
+00:02:16.150 --> 00:02:19.150 align:middle line:84%
+>>PADGETT: I mean, each person
+has gifts in different areas,
+
+00:02:19.150 --> 00:02:21.790 align:middle line:84%
+depending on what part of your
+brain has more connections
+
+00:02:21.790 --> 00:02:26.530 align:middle line:84%
+and where those connections are
+hooked to makes each person's
+
+00:02:26.530 --> 00:02:28.240 align:middle line:90%
+individual brain unique.
+
+00:02:28.240 --> 00:02:30.100 align:middle line:84%
+>>NOORY: Synesthesia,
+what is that?
+
+00:02:30.100 --> 00:02:32.260 align:middle line:84%
+>>PADGETT: Synesthesia is
+a blending of the senses
+
+00:02:32.260 --> 00:02:33.770 align:middle line:90%
+like smelling a color.
+
+00:02:33.770 --> 00:02:35.770 align:middle line:84%
+People--somebody will say
+that smells like blue.
+
+00:02:35.770 --> 00:02:38.170 align:middle line:84%
+The part of the brain
+that is analyzing smell
+
+00:02:38.170 --> 00:02:41.788 align:middle line:84%
+is somehow wired to the part of
+the brain that analyzes sight.
+
+00:02:41.788 --> 00:02:43.330 align:middle line:84%
+>>NOORY: Or I taste
+red or something.
+
+00:02:43.330 --> 00:02:43.990 align:middle line:90%
+>>PADGETT: Exactly.
+
+00:02:43.990 --> 00:02:44.710 align:middle line:90%
+Exactly.
+
+00:02:44.710 --> 00:02:46.900 align:middle line:84%
+>>NOORY: This brain injury
+you had, how old were you
+
+00:02:46.900 --> 00:02:47.740 align:middle line:90%
+and what happened?
+
+00:02:47.740 --> 00:02:49.120 align:middle line:90%
+>>PADGETT: I was 32.
+
+00:02:49.120 --> 00:02:51.400 align:middle line:84%
+And I had some friends
+of mine had a few drinks
+
+00:02:51.400 --> 00:02:53.137 align:middle line:90%
+at a bar, a little karaoke bar.
+
+00:02:53.137 --> 00:02:55.720 align:middle line:84%
+And they called me and asked if
+I could give them a ride home.
+
+00:02:55.720 --> 00:02:57.970 align:middle line:84%
+So I went there, had
+a Coke, sang a song.
+
+00:02:57.970 --> 00:03:00.800 align:middle line:84%
+As we left, these two guys
+attacked me from behind they
+
+00:03:00.800 --> 00:03:01.600 align:middle line:90%
+had been singing.
+
+00:03:01.600 --> 00:03:02.560 align:middle line:90%
+>>NOORY: For no reason?
+
+00:03:02.560 --> 00:03:04.360 align:middle line:84%
+>>PADGETT: It turned out
+they wanted my jacket.
+
+00:03:04.360 --> 00:03:05.568 align:middle line:90%
+At the time, we didn't know--
+
+00:03:05.568 --> 00:03:07.120 align:middle line:84%
+>>NOORY: They
+wanted your jacket?
+
+00:03:07.120 --> 00:03:07.920 align:middle line:90%
+>>PADGETT: Yeah.
+
+00:03:07.920 --> 00:03:12.430 align:middle line:84%
+I had like a $99 Wilson's
+cheap leather jacket on.
+
+00:03:12.430 --> 00:03:14.142 align:middle line:90%
+And that's what they wanted.
+
+00:03:14.142 --> 00:03:15.850 align:middle line:84%
+And so they ran up
+behind me, one of them
+
+00:03:15.850 --> 00:03:18.220 align:middle line:84%
+smashed me in the
+back of the head.
+
+00:03:18.220 --> 00:03:19.640 align:middle line:90%
+It was just a fist.
+
+00:03:19.640 --> 00:03:21.240 align:middle line:90%
+But I didn't see it coming.
+
+00:03:21.240 --> 00:03:26.460 align:middle line:84%
+And so I felt this more--
+almost heard this loud thump.
+
+00:03:26.460 --> 00:03:28.320 align:middle line:90%
+And saw a flash of white light.
+
+00:03:28.320 --> 00:03:30.600 align:middle line:84%
+And that flash that you
+see is your brain bouncing
+
+00:03:30.600 --> 00:03:31.782 align:middle line:90%
+on the inside of your skull.
+
+00:03:31.782 --> 00:03:33.990 align:middle line:84%
+And the next thing I knew
+I was on the ground getting
+
+00:03:33.990 --> 00:03:35.100 align:middle line:90%
+punched and kicked.
+
+00:03:35.100 --> 00:03:38.265 align:middle line:84%
+And I remember thinking like
+I'm going to die right now.
+
+00:03:38.265 --> 00:03:40.620 align:middle line:84%
+And that fight or
+flight instinct came on.
+
+00:03:40.620 --> 00:03:43.290 align:middle line:84%
+And I remember thinking I just
+want to hurt one of these guys
+
+00:03:43.290 --> 00:03:45.177 align:middle line:90%
+before I die.
+
+00:03:45.177 --> 00:03:47.760 align:middle line:84%
+And I grabbed one of the guy's
+legs because I was still dizzy.
+
+00:03:47.760 --> 00:03:50.460 align:middle line:84%
+And I tried to bite him, but he
+had these big baggy pants on.
+
+00:03:50.460 --> 00:03:51.870 align:middle line:90%
+And I cracked my front teeth.
+
+00:03:51.870 --> 00:03:52.897 align:middle line:90%
+I bit down so hard.
+
+00:03:52.897 --> 00:03:54.480 align:middle line:84%
+>>NOORY: Did anybody
+come to your aid?
+
+00:03:54.480 --> 00:03:55.280 align:middle line:90%
+>>PADGETT: No.
+
+00:03:55.280 --> 00:03:57.600 align:middle line:84%
+There was two people watching,
+and people were taking
+
+00:03:57.600 --> 00:03:59.490 align:middle line:90%
+pictures in the restaurant.
+
+00:03:59.490 --> 00:04:01.920 align:middle line:84%
+But one of the guys that
+were watching, I looked up
+
+00:04:01.920 --> 00:04:02.910 align:middle line:90%
+and I said help.
+
+00:04:02.910 --> 00:04:04.800 align:middle line:84%
+And I ducked a punch
+and I said help.
+
+00:04:04.800 --> 00:04:06.390 align:middle line:84%
+And he put his
+hands up like this,
+
+00:04:06.390 --> 00:04:07.830 align:middle line:90%
+turned around, and walked away.
+
+00:04:07.830 --> 00:04:09.390 align:middle line:84%
+>>NOORY: Like he didn't
+want to get involved?
+
+00:04:09.390 --> 00:04:09.630 align:middle line:90%
+>>PADGETT: Yeah.
+
+00:04:09.630 --> 00:04:11.100 align:middle line:84%
+Making sure that
+he was-- everybody
+
+00:04:11.100 --> 00:04:12.780 align:middle line:84%
+knew he wasn't going
+to get involved.
+
+00:04:12.780 --> 00:04:14.880 align:middle line:84%
+And at that point, I was
+like, wow, I'm alone.
+
+00:04:14.880 --> 00:04:17.170 align:middle line:84%
+And then finally at that,
+we'd been fighting for maybe
+
+00:04:17.170 --> 00:04:17.970 align:middle line:90%
+like 30 seconds.
+
+00:04:17.970 --> 00:04:19.899 align:middle line:84%
+And one of them said
+give me your damn jacket.
+
+00:04:19.899 --> 00:04:21.880 align:middle line:84%
+And I literally just
+took my jacket off,
+
+00:04:21.880 --> 00:04:23.260 align:middle line:90%
+at that point was torn.
+
+00:04:23.260 --> 00:04:25.720 align:middle line:84%
+And they grabbed
+it and ran away.
+
+00:04:25.720 --> 00:04:27.290 align:middle line:90%
+>>NOORY: 911 come?
+
+00:04:27.290 --> 00:04:28.090 align:middle line:90%
+The cops come?
+
+00:04:28.090 --> 00:04:28.420 align:middle line:90%
+>>PADGETT: Yeah.
+
+00:04:28.420 --> 00:04:30.045 align:middle line:84%
+Luckily, there was
+a hospital literally
+
+00:04:30.045 --> 00:04:31.750 align:middle line:90%
+like 100 feet across the street.
+
+00:04:31.750 --> 00:04:33.835 align:middle line:90%
+The cops came, did a report.
+
+00:04:33.835 --> 00:04:35.710 align:middle line:84%
+They sent me to the
+hospital in an ambulance.
+
+00:04:35.710 --> 00:04:38.260 align:middle line:84%
+And they diagnosed me with
+a concussion and a bleeding
+
+00:04:38.260 --> 00:04:39.280 align:middle line:90%
+kidney.
+
+00:04:39.280 --> 00:04:42.280 align:middle line:84%
+And then a few hours later,
+gave me a really strong pain
+
+00:04:42.280 --> 00:04:43.750 align:middle line:90%
+medicine shot and sent me home.
+
+00:04:43.750 --> 00:04:46.510 align:middle line:84%
+>>NOORY: The guy must have
+hit you, unfortunately,
+
+00:04:46.510 --> 00:04:47.420 align:middle line:90%
+in the right spot?
+
+00:04:47.420 --> 00:04:48.220 align:middle line:90%
+>>PADGETT: Yes.
+
+00:04:48.220 --> 00:04:49.630 align:middle line:84%
+Yeah, it was right in
+the back of the head.
+
+00:04:49.630 --> 00:04:51.505 align:middle line:84%
+And when you get hit in
+the back of the head,
+
+00:04:51.505 --> 00:04:54.760 align:middle line:84%
+that tends to do
+more damage to people
+
+00:04:54.760 --> 00:04:56.588 align:middle line:84%
+than being hit in the
+front of the head.
+
+00:04:56.588 --> 00:04:57.880 align:middle line:90%
+>>NOORY: Right above like the--
+
+00:04:57.880 --> 00:04:59.200 align:middle line:84%
+>>PADGETT: Right in the
+back, right back here
+
+00:04:59.200 --> 00:04:59.890 align:middle line:90%
+behind this part.
+
+00:04:59.890 --> 00:05:01.480 align:middle line:84%
+>>NOORY: And you
+felt it right away?
+
+00:05:01.480 --> 00:05:02.730 align:middle line:90%
+>>PADGETT: Yeah, it was weird.
+
+00:05:02.730 --> 00:05:04.780 align:middle line:84%
+I heard it and saw it
+more than I even felt it.
+
+00:05:04.780 --> 00:05:05.590 align:middle line:90%
+>>NOORY: Did you crack anything?
+
+00:05:05.590 --> 00:05:07.298 align:middle line:84%
+>>PADGETT: No, there
+was no broken bones.
+
+00:05:07.298 --> 00:05:10.180 align:middle line:84%
+It was just the concussion
+of my brain wiggling.
+
+00:05:10.180 --> 00:05:12.327 align:middle line:84%
+And your brain hits the
+front of your skull,
+
+00:05:12.327 --> 00:05:14.410 align:middle line:84%
+and then it does what's
+called a contrecoup, where
+
+00:05:14.410 --> 00:05:15.785 align:middle line:84%
+it whips back the
+other direction
+
+00:05:15.785 --> 00:05:17.560 align:middle line:90%
+and hits the back of the skull.
+
+00:05:17.560 --> 00:05:19.270 align:middle line:84%
+>>NOORY: You had a
+brain scan, right?
+
+00:05:19.270 --> 00:05:20.350 align:middle line:90%
+You flew to Finland.
+
+00:05:20.350 --> 00:05:21.430 align:middle line:90%
+Tell me about that.
+
+00:05:21.430 --> 00:05:21.790 align:middle line:90%
+>>PADGETT: Yeah.
+
+00:05:21.790 --> 00:05:24.010 align:middle line:84%
+So in Finland, they have
+something called a functional
+
+00:05:24.010 --> 00:05:24.810 align:middle line:90%
+MRI.
+
+00:05:24.810 --> 00:05:27.168 align:middle line:84%
+So regular MRIs will just
+like you can see a tumor
+
+00:05:27.168 --> 00:05:29.710 align:middle line:84%
+or you can see the geometry of
+what's going inside your head.
+
+00:05:29.710 --> 00:05:33.310 align:middle line:84%
+A functional MRI has the
+ability to somewhat map thought.
+
+00:05:33.310 --> 00:05:36.890 align:middle line:84%
+So what it does is it shows how
+much oxygen your brain is using
+
+00:05:36.890 --> 00:05:37.690 align:middle line:90%
+and where.
+
+00:05:37.690 --> 00:05:41.530 align:middle line:84%
+So if, for instance, I were
+to sit inside a functional MRI
+
+00:05:41.530 --> 00:05:43.238 align:middle line:84%
+and I were to play
+the piano, the part
+
+00:05:43.238 --> 00:05:45.530 align:middle line:84%
+of my brain that controls
+playing the piano starts to--
+
+00:05:45.530 --> 00:05:46.440 align:middle line:90%
+>>NOORY: Will be illuminated.
+
+00:05:46.440 --> 00:05:47.920 align:middle line:84%
+>>PADGETT: Will be illuminated
+because it works harder
+
+00:05:47.920 --> 00:05:49.670 align:middle line:84%
+and it uses more oxygen.
+And they can then
+
+00:05:49.670 --> 00:05:51.940 align:middle line:84%
+identify what part of my
+brain is controlling that.
+
+00:05:51.940 --> 00:05:54.070 align:middle line:84%
+So they had me sit in
+the functional MRIs
+
+00:05:54.070 --> 00:05:55.480 align:middle line:90%
+and do mathematics.
+
+00:05:55.480 --> 00:05:59.290 align:middle line:84%
+And they would look and see
+what part of my brain worked,
+
+00:05:59.290 --> 00:06:01.150 align:middle line:84%
+and then compare it
+to control subjects.
+
+00:06:01.150 --> 00:06:02.710 align:middle line:84%
+>>NOORY: When did
+you realize, Jason,
+
+00:06:02.710 --> 00:06:05.722 align:middle line:84%
+that this brain injury
+gave you new abilities?
+
+00:06:05.722 --> 00:06:07.180 align:middle line:84%
+>>PADGETT: The
+first time I noticed
+
+00:06:07.180 --> 00:06:08.710 align:middle line:90%
+anything was on the ride home.
+
+00:06:08.710 --> 00:06:10.450 align:middle line:84%
+But I think it was
+the pain medicine.
+
+00:06:10.450 --> 00:06:11.980 align:middle line:90%
+Everything looked very strange.
+
+00:06:11.980 --> 00:06:13.563 align:middle line:84%
+But the pain medicine
+was very strong.
+
+00:06:13.563 --> 00:06:15.970 align:middle line:84%
+But the next day, I
+noticed it immediately.
+
+00:06:15.970 --> 00:06:17.840 align:middle line:90%
+I had vertigo really badly.
+
+00:06:17.840 --> 00:06:20.600 align:middle line:84%
+When I watched water go down
+the drain, instead of looking
+
+00:06:20.600 --> 00:06:23.780 align:middle line:84%
+smooth like it used to look,
+it looked like little triangles
+
+00:06:23.780 --> 00:06:26.900 align:middle line:84%
+rotating or more like
+even tangent lines
+
+00:06:26.900 --> 00:06:30.290 align:middle line:84%
+with triangles rotating and
+getting smaller down the drain.
+
+00:06:30.290 --> 00:06:34.460 align:middle line:84%
+And when a car would move, I
+would see the picture frames.
+
+00:06:34.460 --> 00:06:36.835 align:middle line:84%
+Instead of it looking smooth,
+I would see picture frames.
+
+00:06:36.835 --> 00:06:38.835 align:middle line:84%
+But if a car was speeding
+up, the picture frames
+
+00:06:38.835 --> 00:06:39.860 align:middle line:90%
+would get further apart.
+
+00:06:39.860 --> 00:06:41.510 align:middle line:84%
+And if it was slowing
+down, the picture frames
+
+00:06:41.510 --> 00:06:42.710 align:middle line:90%
+would get closer together.
+
+00:06:42.710 --> 00:06:45.920 align:middle line:84%
+And the rate that
+those distances changed
+
+00:06:45.920 --> 00:06:48.530 align:middle line:84%
+was describing things like
+velocity and acceleration.
+
+00:06:48.530 --> 00:06:51.740 align:middle line:84%
+But I didn't have mathematical
+terms to describe it.
+
+00:06:51.740 --> 00:06:53.600 align:middle line:84%
+All I had at that
+point was layman terms.
+
+00:06:53.600 --> 00:06:56.900 align:middle line:84%
+So I started trying to
+draw it, and I started
+
+00:06:56.900 --> 00:06:58.340 align:middle line:90%
+making up my own symbols.
+
+00:06:58.340 --> 00:07:00.500 align:middle line:84%
+And eventually, I went back
+to school and found out
+
+00:07:00.500 --> 00:07:01.790 align:middle line:90%
+it was the exact same thing.
+
+00:07:01.790 --> 00:07:04.040 align:middle line:84%
+>>NOORY: But you didn't know
+at that point you had a--
+
+00:07:04.040 --> 00:07:05.210 align:middle line:90%
+mathematical skills?
+
+00:07:05.210 --> 00:07:08.096 align:middle line:84%
+>>PADGETT: I knew
+something was going on.
+
+00:07:08.096 --> 00:07:11.840 align:middle line:84%
+I worried, though,
+that if I was having
+
+00:07:11.840 --> 00:07:13.430 align:middle line:90%
+like delusions of grandeur.
+
+00:07:13.430 --> 00:07:15.830 align:middle line:84%
+You see some guy who
+is talking to himself,
+
+00:07:15.830 --> 00:07:17.210 align:middle line:90%
+and you know he's crazy.
+
+00:07:17.210 --> 00:07:19.180 align:middle line:84%
+But I was like what
+are the-- what's
+
+00:07:19.180 --> 00:07:20.560 align:middle line:90%
+the odds of this happening?
+
+00:07:20.560 --> 00:07:22.960 align:middle line:84%
+Me suddenly having
+these revelations
+
+00:07:22.960 --> 00:07:24.940 align:middle line:90%
+due to a head injury.
+
+00:07:24.940 --> 00:07:27.490 align:middle line:84%
+And so I would I would
+go back and forth.
+
+00:07:27.490 --> 00:07:29.350 align:middle line:84%
+But then when I would
+sit down and logically
+
+00:07:29.350 --> 00:07:31.420 align:middle line:84%
+go through the thought
+process of what
+
+00:07:31.420 --> 00:07:33.880 align:middle line:84%
+I was trying to describe,
+it would make sense.
+
+00:07:33.880 --> 00:07:36.490 align:middle line:84%
+>>NOORY: How did this injury
+kind of change your perception
+
+00:07:36.490 --> 00:07:37.930 align:middle line:90%
+of the outside world?
+
+00:07:37.930 --> 00:07:39.910 align:middle line:84%
+>>PADGETT: So the
+main thing that it
+
+00:07:39.910 --> 00:07:42.850 align:middle line:84%
+changed was the seeing
+the picture frames.
+
+00:07:42.850 --> 00:07:44.470 align:middle line:84%
+And so when things
+move normally,
+
+00:07:44.470 --> 00:07:45.580 align:middle line:90%
+everything looks smooth.
+
+00:07:45.580 --> 00:07:49.100 align:middle line:84%
+Now things always look
+jittery and slightly pixelated
+
+00:07:49.100 --> 00:07:49.900 align:middle line:90%
+around the edges.
+
+00:07:49.900 --> 00:07:52.360 align:middle line:84%
+>>NOORY: So if you were looking
+at me, I'd look jumpy to you?
+
+00:07:52.360 --> 00:07:52.960 align:middle line:90%
+>>PADGETT: Always.
+
+00:07:52.960 --> 00:07:53.760 align:middle line:90%
+Always.
+
+00:07:53.760 --> 00:07:56.350 align:middle line:84%
+And if you're speeding
+up, your picture frames
+
+00:07:56.350 --> 00:07:57.400 align:middle line:90%
+get further apart.
+
+00:07:57.400 --> 00:07:59.710 align:middle line:84%
+And the rate that
+those distances
+
+00:07:59.710 --> 00:08:01.270 align:middle line:84%
+change between
+the picture frames
+
+00:08:01.270 --> 00:08:03.640 align:middle line:84%
+relative to the speed of
+light is your velocity
+
+00:08:03.640 --> 00:08:04.690 align:middle line:90%
+and acceleration.
+
+00:08:04.690 --> 00:08:07.930 align:middle line:84%
+>>NOORY: Would my voice stay
+the same or would that go?
+
+00:08:07.930 --> 00:08:08.800 align:middle line:90%
+>>PADGETT: Nope.
+
+00:08:08.800 --> 00:08:11.170 align:middle line:84%
+I don't notice
+anything with voices.
+
+00:08:11.170 --> 00:08:12.400 align:middle line:90%
+Just visual.
+
+00:08:12.400 --> 00:08:13.510 align:middle line:90%
+It's all visual.
+
+00:08:13.510 --> 00:08:14.530 align:middle line:90%
+>>NOORY: That's amazing.
+
+00:08:14.530 --> 00:08:16.450 align:middle line:84%
+Did you think there was
+something wrong with you?
+
+00:08:16.450 --> 00:08:16.780 align:middle line:90%
+>>PADGETT: Yeah.
+
+00:08:16.780 --> 00:08:17.860 align:middle line:84%
+I knew there was
+something wrong.
+
+00:08:17.860 --> 00:08:19.730 align:middle line:84%
+I started getting
+these muscle twitches
+
+00:08:19.730 --> 00:08:22.070 align:middle line:84%
+and my muscles
+would like vibrate
+
+00:08:22.070 --> 00:08:24.095 align:middle line:84%
+and it would happen
+hundreds of times per day.
+
+00:08:24.095 --> 00:08:25.220 align:middle line:90%
+I started having headaches.
+
+00:08:25.220 --> 00:08:27.613 align:middle line:84%
+I had vertigo and
+difficulty walking.
+
+00:08:27.613 --> 00:08:29.030 align:middle line:84%
+Instead of things--
+it didn't just
+
+00:08:29.030 --> 00:08:30.572 align:middle line:84%
+look like things
+would spin, it would
+
+00:08:30.572 --> 00:08:32.360 align:middle line:90%
+feel like they would spin.
+
+00:08:32.360 --> 00:08:34.760 align:middle line:84%
+And it made it
+difficult for my eyes
+
+00:08:34.760 --> 00:08:37.130 align:middle line:84%
+to move smoothly
+because everything
+
+00:08:37.130 --> 00:08:40.203 align:middle line:84%
+looks jerky and discrete instead
+of smooth and continuous.
+
+00:08:40.203 --> 00:08:41.870 align:middle line:84%
+>>NOORY: How do you
+see the world today?
+
+00:08:41.870 --> 00:08:42.590 align:middle line:90%
+>>PADGETT: The same way.
+
+00:08:42.590 --> 00:08:44.240 align:middle line:84%
+It just takes a while
+to get used to it.
+
+00:08:44.240 --> 00:08:45.040 align:middle line:90%
+And now--
+
+00:08:45.040 --> 00:08:46.160 align:middle line:90%
+>>NOORY: You accept it?
+
+00:08:46.160 --> 00:08:47.077 align:middle line:90%
+>>PADGETT: Absolutely.
+
+00:08:47.077 --> 00:08:48.320 align:middle line:90%
+I love it.
+
+00:08:48.320 --> 00:08:50.450 align:middle line:84%
+Even though there's
+a bad side to it
+
+00:08:50.450 --> 00:08:53.280 align:middle line:84%
+and there's been a lot of
+medical issues from it,
+
+00:08:53.280 --> 00:08:54.390 align:middle line:90%
+it's amazing.
+
+00:08:54.390 --> 00:08:59.790 align:middle line:84%
+I wish everybody could see it
+because I think everybody would
+
+00:08:59.790 --> 00:09:02.970 align:middle line:84%
+understand it because it's much
+more intuitive than equations.
+
+00:09:02.970 --> 00:09:05.820 align:middle line:84%
+Equations are always
+describing geometry.
+
+00:09:05.820 --> 00:09:08.940 align:middle line:84%
+But geometry is more
+natural for us to look at
+
+00:09:08.940 --> 00:09:11.160 align:middle line:84%
+and to understand
+than equations.
+
+00:09:11.160 --> 00:09:14.200 align:middle line:84%
+And so I could
+describe something,
+
+00:09:14.200 --> 00:09:17.670 align:middle line:84%
+and we will later hear-- we'll
+describe calculus 2, calculus 3
+
+00:09:17.670 --> 00:09:20.460 align:middle line:84%
+in terms that are so simple
+that everybody will get it,
+
+00:09:20.460 --> 00:09:22.200 align:middle line:84%
+but it's the exact
+same thing as if you
+
+00:09:22.200 --> 00:09:23.280 align:middle line:90%
+went to school for two years.
+
+00:09:23.280 --> 00:09:25.440 align:middle line:84%
+The only difference is is you
+can't prove it with geometry,
+
+00:09:25.440 --> 00:09:26.970 align:middle line:90%
+but you can still understand it.
+
+00:09:26.970 --> 00:09:30.970 align:middle line:84%
+Whereas mathematics allows
+you to rigorously prove
+
+00:09:30.970 --> 00:09:31.770 align:middle line:90%
+the theorems.
+
+00:09:31.770 --> 00:09:33.300 align:middle line:84%
+>>NOORY: At what
+point, Jason, did
+
+00:09:33.300 --> 00:09:37.050 align:middle line:90%
+you realize I may be a Savant?
+
+00:09:37.050 --> 00:09:39.240 align:middle line:84%
+>>PADGETT: What
+really, really hit me
+
+00:09:39.240 --> 00:09:41.910 align:middle line:84%
+that something big was
+going on is one day,
+
+00:09:41.910 --> 00:09:44.250 align:middle line:84%
+my daughter asked me how
+the television worked,
+
+00:09:44.250 --> 00:09:46.230 align:middle line:84%
+because a commercial
+for like Overstock.com
+
+00:09:46.230 --> 00:09:47.640 align:middle line:90%
+came on and had a big circle.
+
+00:09:47.640 --> 00:09:49.080 align:middle line:84%
+And she said how did
+they make the picture
+
+00:09:49.080 --> 00:09:50.170 align:middle line:90%
+work on the television screen?
+
+00:09:50.170 --> 00:09:51.753 align:middle line:84%
+And I said, Oh,
+there's little pixels.
+
+00:09:51.753 --> 00:09:53.967 align:middle line:84%
+And as they change color,
+that changes the picture.
+
+00:09:53.967 --> 00:09:55.300 align:middle line:90%
+And she goes, you're wrong, dad.
+
+00:09:55.300 --> 00:09:56.320 align:middle line:84%
+And I go what do
+you mean I'm wrong?
+
+00:09:56.320 --> 00:09:58.870 align:middle line:84%
+And she goes, how do you make
+a circle with rectangles?
+
+00:09:58.870 --> 00:10:01.150 align:middle line:84%
+And I was like wait
+a second, you can't.
+
+00:10:01.150 --> 00:10:03.310 align:middle line:84%
+I'm not looking at a
+rectangle on that screen,
+
+00:10:03.310 --> 00:10:04.780 align:middle line:90%
+I'm looking at a zigzag.
+
+00:10:04.780 --> 00:10:07.333 align:middle line:84%
+It's just those pixels are
+so tiny, it looks smooth.
+
+00:10:07.333 --> 00:10:08.500 align:middle line:90%
+>>NOORY: It looks like that.
+
+00:10:08.500 --> 00:10:09.670 align:middle line:84%
+>>PADGETT: But I can
+take those pixels
+
+00:10:09.670 --> 00:10:11.140 align:middle line:84%
+and cut them in
+half to infinity,
+
+00:10:11.140 --> 00:10:12.730 align:middle line:84%
+and you never reach
+a perfect circle.
+
+00:10:12.730 --> 00:10:14.830 align:middle line:84%
+You just approach closer
+and closer forever.
+
+00:10:14.830 --> 00:10:17.770 align:middle line:84%
+>>NOORY: How did you realize
+there was a newer MRI
+
+00:10:17.770 --> 00:10:19.695 align:middle line:90%
+machine available in Finland?
+
+00:10:19.695 --> 00:10:21.820 align:middle line:84%
+>>PADGETT: With one of the
+doctors that I spoke to,
+
+00:10:21.820 --> 00:10:24.153 align:middle line:84%
+I remember speaking with Dr.
+Treffert and another doctor
+
+00:10:24.153 --> 00:10:25.330 align:middle line:90%
+named Berit Brogaard.
+
+00:10:25.330 --> 00:10:28.000 align:middle line:84%
+And they started putting
+me on to these places that
+
+00:10:28.000 --> 00:10:29.950 align:middle line:84%
+were doing studies of
+synesthesia and people
+
+00:10:29.950 --> 00:10:30.850 align:middle line:90%
+with Savant syndrome.
+
+00:10:30.850 --> 00:10:32.650 align:middle line:84%
+>>NOORY: So you flew
+to Finland to find out
+
+00:10:32.650 --> 00:10:34.610 align:middle line:84%
+exactly how the injury
+affected your brain?
+
+00:10:34.610 --> 00:10:35.410 align:middle line:90%
+>>PADGETT: Yes.
+
+00:10:35.410 --> 00:10:37.420 align:middle line:84%
+>>NOORY: And turned
+you into a savant.
+
+00:10:37.420 --> 00:10:38.220 align:middle line:90%
+[VIDEO PLAYBACK]
+
+00:10:38.220 --> 00:10:40.155 align:middle line:90%
+- It was an amazing experience.
+
+00:10:40.155 --> 00:10:41.530 align:middle line:84%
+There was a whole
+bunch of images
+
+00:10:41.530 --> 00:10:45.790 align:middle line:84%
+flashing in front of my eyes
+that were mixed in together.
+
+00:10:45.790 --> 00:10:48.220 align:middle line:84%
+Some were equations
+that I would draw,
+
+00:10:48.220 --> 00:10:50.410 align:middle line:84%
+all sorts of different
+pictures that would flash.
+
+00:10:50.410 --> 00:10:52.330 align:middle line:90%
+Some that were just mixed up.
+
+00:10:52.330 --> 00:10:54.070 align:middle line:90%
+Some that were obvious fractals.
+
+00:10:54.070 --> 00:10:55.160 align:middle line:90%
+Some that weren't.
+
+00:10:55.160 --> 00:10:58.390 align:middle line:84%
+The one that really stands out
+was the one with little circles
+
+00:10:58.390 --> 00:11:00.610 align:middle line:84%
+that would expand and
+get smaller, expand
+
+00:11:00.610 --> 00:11:01.600 align:middle line:90%
+and get smaller.
+
+00:11:01.600 --> 00:11:04.510 align:middle line:84%
+And eventually, it
+would start to look
+
+00:11:04.510 --> 00:11:08.920 align:middle line:84%
+like it was a right triangle
+rotating with the little radius
+
+00:11:08.920 --> 00:11:11.830 align:middle line:84%
+getting smaller and smaller and
+smaller and larger and larger
+
+00:11:11.830 --> 00:11:13.120 align:middle line:90%
+and larger.
+
+00:11:13.120 --> 00:11:14.785 align:middle line:90%
+But it was very intense.
+
+00:11:14.785 --> 00:11:16.990 align:middle line:84%
+After a while, it just
+started to feel hypnotic.
+
+00:11:16.990 --> 00:11:18.407 align:middle line:84%
+- So basically
+what's happening is
+
+00:11:18.407 --> 00:11:20.620 align:middle line:84%
+that there's electric
+current, like electric circuit
+
+00:11:20.620 --> 00:11:22.090 align:middle line:90%
+inside the coil.
+
+00:11:22.090 --> 00:11:25.570 align:middle line:84%
+And that current creates
+a magnetic field.
+
+00:11:25.570 --> 00:11:29.650 align:middle line:84%
+So when we place it
+against your scalp,
+
+00:11:29.650 --> 00:11:32.560 align:middle line:84%
+the magnetic field would
+penetrate your skull,
+
+00:11:32.560 --> 00:11:35.410 align:middle line:84%
+and it will stimulate
+neurons in the brain.
+
+00:11:35.410 --> 00:11:38.068 align:middle line:84%
+So that's basically
+what's happening.
+
+00:11:38.068 --> 00:12:13.440 align:middle line:90%
+
+
+00:12:13.440 --> 00:12:19.963 align:middle line:84%
+- This one when it goes just for
+a second, it just kind of like,
+
+00:12:19.963 --> 00:12:22.630 align:middle line:84%
+I don't know how to describe it,
+except for just suddenly having
+
+00:12:22.630 --> 00:12:25.300 align:middle line:90%
+your brain being distracted.
+
+00:12:25.300 --> 00:12:29.640 align:middle line:84%
+Just very momentarily, and
+then OK, go back to OK,
+
+00:12:29.640 --> 00:12:30.640 align:middle line:90%
+that's what I was doing.
+
+00:12:30.640 --> 00:12:32.500 align:middle line:90%
+That's what I was thinking.
+
+00:12:32.500 --> 00:12:35.110 align:middle line:84%
+I'm trying to think, it's hard
+to even describe the sensation.
+
+00:12:35.110 --> 00:12:38.290 align:middle line:84%
+- It was quite unusual
+to see activations only
+
+00:12:38.290 --> 00:12:39.670 align:middle line:90%
+in the left hemisphere.
+
+00:12:39.670 --> 00:12:41.532 align:middle line:84%
+So normally like
+even in, I think even
+
+00:12:41.532 --> 00:12:43.990 align:middle line:84%
+in language experiments, and
+you see something in the right
+
+00:12:43.990 --> 00:12:44.790 align:middle line:90%
+also.
+
+00:12:44.790 --> 00:12:46.842 align:middle line:84%
+But it's so uniquely
+in the left hemisphere.
+
+00:12:46.842 --> 00:12:47.800 align:middle line:90%
+[END OF VIDEO PLAYBACK]
+
+00:12:47.800 --> 00:12:51.430 align:middle line:84%
+>>NOORY: So after this test,
+what conclusions did they make?
+
+00:12:51.430 --> 00:12:53.560 align:middle line:90%
+What conclusions did you make?
+
+00:12:53.560 --> 00:12:55.270 align:middle line:84%
+>>PADGETT: So they
+made a conclusion
+
+00:12:55.270 --> 00:12:58.210 align:middle line:84%
+that I had conscious
+access to part of the brain
+
+00:12:58.210 --> 00:13:01.150 align:middle line:84%
+that we normally don't
+have conscious access to.
+
+00:13:01.150 --> 00:13:04.360 align:middle line:84%
+And I was told that
+I had Savant syndrome
+
+00:13:04.360 --> 00:13:06.640 align:middle line:90%
+and a form of synesthesia.
+
+00:13:06.640 --> 00:13:10.720 align:middle line:84%
+For me specifically, it's
+seeing numbers as shapes,
+
+00:13:10.720 --> 00:13:14.977 align:middle line:84%
+because shapes are actually
+the natural form of numbers.
+
+00:13:14.977 --> 00:13:16.810 align:middle line:84%
+>>NOORY: And this is
+still happening to you?
+
+00:13:16.810 --> 00:13:17.610 align:middle line:90%
+>>PADGETT: Always.
+
+00:13:17.610 --> 00:13:19.380 align:middle line:84%
+In fact, I can't stop
+thinking about it.
+
+00:13:19.380 --> 00:13:21.130 align:middle line:84%
+I have I have difficulty
+sleeping at night
+
+00:13:21.130 --> 00:13:24.600 align:middle line:84%
+because there's just
+so much to think about,
+
+00:13:24.600 --> 00:13:25.600 align:middle line:90%
+so much to wonder about.
+
+00:13:25.600 --> 00:13:31.450 align:middle line:84%
+And the way that reality works
+is so much more interesting
+
+00:13:31.450 --> 00:13:35.000 align:middle line:84%
+and intricate than what
+I think most people would
+
+00:13:35.000 --> 00:13:35.800 align:middle line:90%
+have imagined.
+
+00:13:35.800 --> 00:13:37.342 align:middle line:84%
+>>NOORY: I notice
+on the screen there
+
+00:13:37.342 --> 00:13:40.090 align:middle line:90%
+was MC square flashed up there.
+
+00:13:40.090 --> 00:13:41.480 align:middle line:90%
+Einstein would be proud of you.
+
+00:13:41.480 --> 00:13:42.280 align:middle line:90%
+>>PADGETT: Yeah.
+
+00:13:42.280 --> 00:13:45.070 align:middle line:84%
+So I have written that in a
+slightly different way, which
+
+00:13:45.070 --> 00:13:47.560 align:middle line:84%
+is called Planck
+constant times frequency
+
+00:13:47.560 --> 00:13:49.840 align:middle line:84%
+equals mass times the
+speed of light squared.
+
+00:13:49.840 --> 00:13:51.792 align:middle line:84%
+But it's still
+describing energy.
+
+00:13:51.792 --> 00:13:52.750 align:middle line:90%
+They both equal energy.
+
+00:13:52.750 --> 00:13:55.180 align:middle line:84%
+But they describe energy
+in different ways.
+
+00:13:55.180 --> 00:13:57.340 align:middle line:84%
+The Planck constant times
+frequency describes it
+
+00:13:57.340 --> 00:14:00.400 align:middle line:84%
+in terms of frequency
+and light, and mass times
+
+00:14:00.400 --> 00:14:04.240 align:middle line:84%
+the speed of light squared
+describes it in terms of mass.
+
+00:14:04.240 --> 00:14:07.630 align:middle line:84%
+So one's quantum mechanics,
+the other one's relativity.
+
+00:14:07.630 --> 00:14:10.870 align:middle line:84%
+>>NOORY: If I told
+you 284 times 20,
+
+00:14:10.870 --> 00:14:12.610 align:middle line:84%
+would you instantly
+know the answer?
+
+00:14:12.610 --> 00:14:12.910 align:middle line:90%
+>>PADGETT: No.
+
+00:14:12.910 --> 00:14:13.630 align:middle line:90%
+I don't do numbers.
+
+00:14:13.630 --> 00:14:14.950 align:middle line:90%
+I'm sure I could figure it out.
+
+00:14:14.950 --> 00:14:19.090 align:middle line:84%
+I'd be like 1,000, I don't know,
+be like 7,200 and something,
+
+00:14:19.090 --> 00:14:19.922 align:middle line:90%
+280 I think.
+
+00:14:19.922 --> 00:14:22.130 align:middle line:84%
+>>NOORY: But we'd all have
+to think it out like that.
+
+00:14:22.130 --> 00:14:22.360 align:middle line:90%
+>>PADGETT: Right.
+
+00:14:22.360 --> 00:14:22.600 align:middle line:90%
+Right.
+
+00:14:22.600 --> 00:14:23.975 align:middle line:84%
+But I still have
+to think it out.
+
+00:14:23.975 --> 00:14:26.530 align:middle line:84%
+I don't-- like I don't do
+like number calculations.
+
+00:14:26.530 --> 00:14:29.990 align:middle line:84%
+It's specifically like
+if I look at a shape,
+
+00:14:29.990 --> 00:14:32.720 align:middle line:84%
+I still have to sit down
+and I can describe it
+
+00:14:32.720 --> 00:14:35.035 align:middle line:84%
+to you in the exact
+same way in layman terms
+
+00:14:35.035 --> 00:14:36.410 align:middle line:84%
+because when this
+happened to me,
+
+00:14:36.410 --> 00:14:39.320 align:middle line:84%
+I had to find a way to
+describe it in normal terms.
+
+00:14:39.320 --> 00:14:43.100 align:middle line:84%
+And so one day, I was actually
+in the mall and I was drawing,
+
+00:14:43.100 --> 00:14:44.642 align:middle line:84%
+and a physicist
+happened to come by
+
+00:14:44.642 --> 00:14:46.100 align:middle line:84%
+and he asked me
+what I was drawing.
+
+00:14:46.100 --> 00:14:47.630 align:middle line:84%
+I said, well, I'm
+trying to describe
+
+00:14:47.630 --> 00:14:50.300 align:middle line:84%
+the discrete
+structure of spacetime
+
+00:14:50.300 --> 00:14:51.620 align:middle line:90%
+and the geometry of it.
+
+00:14:51.620 --> 00:14:52.910 align:middle line:90%
+And so we started talking.
+
+00:14:52.910 --> 00:14:54.980 align:middle line:84%
+And he said, you know,
+it sounds like you're
+
+00:14:54.980 --> 00:14:57.110 align:middle line:84%
+trying to describe
+unified field theory,
+
+00:14:57.110 --> 00:14:58.940 align:middle line:84%
+but you're doing
+it in layman terms.
+
+00:14:58.940 --> 00:15:00.740 align:middle line:84%
+He said you have no
+idea how weird that is.
+
+00:15:00.740 --> 00:15:01.940 align:middle line:84%
+>>NOORY: Because
+you're not a scientist.
+
+00:15:01.940 --> 00:15:02.180 align:middle line:90%
+>>PADGETT: Right.
+
+00:15:02.180 --> 00:15:03.560 align:middle line:84%
+And he said, have
+you ever considered
+
+00:15:03.560 --> 00:15:04.520 align:middle line:90%
+going back to school?
+
+00:15:04.520 --> 00:15:06.920 align:middle line:84%
+And I was like, you know,
+that's probably a good idea.
+
+00:15:06.920 --> 00:15:11.060 align:middle line:84%
+And a week later, I went and
+I enrolled in Math 99 Algebra.
+
+00:15:11.060 --> 00:15:13.880 align:middle line:84%
+And the very first day of class,
+my teacher graphed an equation,
+
+00:15:13.880 --> 00:15:16.170 align:middle line:84%
+and I said you mean that
+equation is that shape?
+
+00:15:16.170 --> 00:15:16.970 align:middle line:90%
+And she said yes.
+
+00:15:16.970 --> 00:15:18.920 align:middle line:84%
+And I said then we're
+talking about the same thing,
+
+00:15:18.920 --> 00:15:20.180 align:middle line:90%
+just in two different ways.
+
+00:15:20.180 --> 00:15:21.647 align:middle line:90%
+I'm drawing what it looks like.
+
+00:15:21.647 --> 00:15:23.480 align:middle line:84%
+You're writing an
+equation that you can then
+
+00:15:23.480 --> 00:15:25.850 align:middle line:84%
+graph what it looks like,
+but they are identical.
+
+00:15:25.850 --> 00:15:27.590 align:middle line:90%
+>>NOORY: Was it easy for you?
+
+00:15:27.590 --> 00:15:29.360 align:middle line:84%
+>>PADGETT: Much of
+it was very easy.
+
+00:15:29.360 --> 00:15:33.710 align:middle line:84%
+In fact, I thought that I came
+in and I had pi drawn out.
+
+00:15:33.710 --> 00:15:35.603 align:middle line:84%
+And I had all these
+drawings done.
+
+00:15:35.603 --> 00:15:37.520 align:middle line:84%
+And I thought I would
+show them to a professor
+
+00:15:37.520 --> 00:15:38.810 align:middle line:84%
+and they would say
+that's the number pi.
+
+00:15:38.810 --> 00:15:40.910 align:middle line:84%
+And let me explain to
+you how we calculate it.
+
+00:15:40.910 --> 00:15:42.800 align:middle line:90%
+And they would say what is that?
+
+00:15:42.800 --> 00:15:43.940 align:middle line:90%
+It's a pretty picture.
+
+00:15:43.940 --> 00:15:46.160 align:middle line:84%
+And it wasn't until I
+got to like trigonometry
+
+00:15:46.160 --> 00:15:49.010 align:middle line:84%
+and calculus that I could
+write it in their terms.
+
+00:15:49.010 --> 00:15:51.620 align:middle line:84%
+And once I wrote it in
+an equation and then put
+
+00:15:51.620 --> 00:15:53.660 align:middle line:84%
+the drawing with it, then
+they were like it's--
+
+00:15:53.660 --> 00:15:55.790 align:middle line:84%
+they would agree 100%,
+they have to agree
+
+00:15:55.790 --> 00:15:57.470 align:middle line:90%
+because it is the same.
+
+00:15:57.470 --> 00:16:00.890 align:middle line:84%
+But it was interesting
+seeing how they didn't see it
+
+00:16:00.890 --> 00:16:04.010 align:middle line:84%
+until I wrote it in the language
+that they were taught to speak,
+
+00:16:04.010 --> 00:16:05.240 align:middle line:90%
+which is equations.
+
+00:16:05.240 --> 00:16:07.970 align:middle line:84%
+>>NOORY: What do you think
+happened to your brain
+
+00:16:07.970 --> 00:16:10.548 align:middle line:90%
+to allow you to do this?
+
+00:16:10.548 --> 00:16:11.840 align:middle line:90%
+>>PADGETT: I think we are all--
+
+00:16:11.840 --> 00:16:13.670 align:middle line:84%
+in fact, I know we
+are all doing it.
+
+00:16:13.670 --> 00:16:15.792 align:middle line:84%
+So like if I throw a
+ball to you, like we
+
+00:16:15.792 --> 00:16:17.000 align:middle line:90%
+don't think we're doing math.
+
+00:16:17.000 --> 00:16:18.500 align:middle line:84%
+But when I throw
+that ball, you have
+
+00:16:18.500 --> 00:16:21.710 align:middle line:84%
+to calculate the acceleration
+of the ball due to gravity.
+
+00:16:21.710 --> 00:16:24.380 align:middle line:84%
+The arc of the ball, the
+three dimensional coordinates
+
+00:16:24.380 --> 00:16:27.230 align:middle line:84%
+of your hand and the ball,
+the time lag from the nerves
+
+00:16:27.230 --> 00:16:29.060 align:middle line:84%
+to your fingers, yet
+you just catch it.
+
+00:16:29.060 --> 00:16:31.477 align:middle line:84%
+But if we were to try to grasp--
+or to sit down and crunch
+
+00:16:31.477 --> 00:16:33.140 align:middle line:84%
+that equation, it
+would take us hours,
+
+00:16:33.140 --> 00:16:34.400 align:middle line:90%
+yet you just catch the ball.
+
+00:16:34.400 --> 00:16:37.820 align:middle line:84%
+So we're all doing
+like estimated calculus
+
+00:16:37.820 --> 00:16:39.320 align:middle line:84%
+in the background,
+even animals are.
+
+00:16:39.320 --> 00:16:41.060 align:middle line:84%
+To be able to
+navigate the world,
+
+00:16:41.060 --> 00:16:45.740 align:middle line:84%
+you are defining velocity,
+acceleration, probabilities.
+
+00:16:45.740 --> 00:16:47.418 align:middle line:84%
+And you're doing it
+in a general way.
+
+00:16:47.418 --> 00:16:48.710 align:middle line:90%
+It just runs in the background.
+
+00:16:48.710 --> 00:16:49.850 align:middle line:90%
+So we're not aware of it.
+
+00:16:49.850 --> 00:16:53.000 align:middle line:84%
+I think it's a it's a
+function of evolution
+
+00:16:53.000 --> 00:16:57.200 align:middle line:84%
+that it's so distracting
+that it makes
+
+00:16:57.200 --> 00:16:58.370 align:middle line:90%
+you less likely to survive.
+
+00:16:58.370 --> 00:17:00.537 align:middle line:84%
+Like if this had happened
+to me in the caveman days,
+
+00:17:00.537 --> 00:17:02.900 align:middle line:84%
+I would have been too busy
+and distracted by everything
+
+00:17:02.900 --> 00:17:03.800 align:middle line:90%
+that was going on around me.
+
+00:17:03.800 --> 00:17:05.480 align:middle line:84%
+And I probably would have been
+eaten by a lion or something.
+
+00:17:05.480 --> 00:17:07.105 align:middle line:84%
+>>NOORY: You would
+have been considered
+
+00:17:07.105 --> 00:17:10.040 align:middle line:84%
+the Marconi of those days
+or something like that.
+
+00:17:10.040 --> 00:17:11.810 align:middle line:84%
+Let's look at some
+of your artwork.
+
+00:17:11.810 --> 00:17:14.390 align:middle line:84%
+You mentioned some of
+the pictures that you do.
+
+00:17:14.390 --> 00:17:17.390 align:middle line:84%
+And you can explain to
+us what we're looking at.
+
+00:17:17.390 --> 00:17:20.960 align:middle line:84%
+>>PADGETT: So that is the
+number pi as it expands.
+
+00:17:20.960 --> 00:17:22.095 align:middle line:90%
+So what pi is--
+
+00:17:22.095 --> 00:17:24.470 align:middle line:84%
+a lot of times people think
+it's like this magical thing.
+
+00:17:24.470 --> 00:17:25.819 align:middle line:90%
+>>NOORY: That's 3.14.
+
+00:17:25.819 --> 00:17:28.010 align:middle line:90%
+>>PADGETT: Yes, 3.14159.
+
+00:17:28.010 --> 00:17:31.130 align:middle line:84%
+But it actually what
+pi is describing
+
+00:17:31.130 --> 00:17:34.670 align:middle line:84%
+is this shape forever
+getting smoother and smoother
+
+00:17:34.670 --> 00:17:37.460 align:middle line:84%
+as it forever approaches a
+circle, but never reaches it
+
+00:17:37.460 --> 00:17:40.320 align:middle line:84%
+because there's actually no
+such thing as a circle anywhere
+
+00:17:40.320 --> 00:17:41.120 align:middle line:90%
+in the universe.
+
+00:17:41.120 --> 00:17:43.328 align:middle line:84%
+There's no such thing as a
+perfect circle or a curve.
+
+00:17:43.328 --> 00:17:45.260 align:middle line:84%
+And the way to think
+about it is everybody
+
+00:17:45.260 --> 00:17:47.300 align:middle line:84%
+who's watching this
+right now on a screen,
+
+00:17:47.300 --> 00:17:49.730 align:middle line:84%
+your screen is made with
+pixels, which are little squares
+
+00:17:49.730 --> 00:17:50.530 align:middle line:90%
+or rectangles.
+
+00:17:50.530 --> 00:17:52.280 align:middle line:84%
+So you're not seeing
+a curve, you're
+
+00:17:52.280 --> 00:17:53.960 align:middle line:84%
+seeing an approximation
+of a curve.
+
+00:17:53.960 --> 00:17:56.055 align:middle line:84%
+And if you look in closely,
+you see the zigzag.
+
+00:17:56.055 --> 00:17:58.430 align:middle line:84%
+>>NOORY: How long did it take
+you, Jason, to sketch this?
+
+00:17:58.430 --> 00:18:00.380 align:middle line:84%
+>>PADGETT: That took
+months because that's
+
+00:18:00.380 --> 00:18:04.737 align:middle line:84%
+720 slices inside of
+about a 18 inch circle.
+
+00:18:04.737 --> 00:18:06.320 align:middle line:84%
+>>NOORY: And you did
+that by freehand?
+
+00:18:06.320 --> 00:18:07.160 align:middle line:90%
+>>PADGETT: That's all freehand.
+
+00:18:07.160 --> 00:18:09.290 align:middle line:84%
+I had to shave pencil
+lead for each line.
+
+00:18:09.290 --> 00:18:10.580 align:middle line:90%
+And it has to be flawless.
+
+00:18:10.580 --> 00:18:11.650 align:middle line:90%
+>>NOORY: Geez.
+
+00:18:11.650 --> 00:18:13.150 align:middle line:84%
+>>PADGETT: So it's
+also the rainbow.
+
+00:18:13.150 --> 00:18:15.580 align:middle line:84%
+When you see a double rainbow,
+that ring that you see,
+
+00:18:15.580 --> 00:18:16.908 align:middle line:90%
+that is the double rainbow.
+
+00:18:16.908 --> 00:18:19.450 align:middle line:84%
+>>NOORY: What does that bright
+light in the middle represent?
+
+00:18:19.450 --> 00:18:20.825 align:middle line:84%
+>>PADGETT: It's
+just light, light
+
+00:18:20.825 --> 00:18:22.468 align:middle line:90%
+bursting out and refracting.
+
+00:18:22.468 --> 00:18:24.760 align:middle line:84%
+You can use this to describe
+a lot of different things.
+
+00:18:24.760 --> 00:18:27.070 align:middle line:84%
+>>NOORY: Doesn't represent
+the sun or anything like that?
+
+00:18:27.070 --> 00:18:27.850 align:middle line:90%
+>>PADGETT: Well, yeah.
+
+00:18:27.850 --> 00:18:30.400 align:middle line:84%
+The sun-- when you see the sun
+or you see any light source,
+
+00:18:30.400 --> 00:18:31.930 align:middle line:84%
+it's going to look
+just like that.
+
+00:18:31.930 --> 00:18:36.280 align:middle line:84%
+This also would represent
+like gravitational lensing.
+
+00:18:36.280 --> 00:18:39.070 align:middle line:84%
+Or when you see rings, if you
+take a camera, a video camera
+
+00:18:39.070 --> 00:18:42.010 align:middle line:84%
+and you point it at a light, you
+start seeing these weird rings.
+
+00:18:42.010 --> 00:18:44.890 align:middle line:84%
+It's how the light refracts
+at different angles.
+
+00:18:44.890 --> 00:18:47.890 align:middle line:84%
+>>NOORY: All right, let's
+look at your second photo.
+
+00:18:47.890 --> 00:18:49.300 align:middle line:90%
+>>PADGETT: So this is--
+
+00:18:49.300 --> 00:18:52.930 align:middle line:84%
+yes, this is like the most
+famous science experiment
+
+00:18:52.930 --> 00:18:53.860 align:middle line:90%
+probably in history.
+
+00:18:53.860 --> 00:18:55.720 align:middle line:90%
+It's the double slit experiment.
+
+00:18:55.720 --> 00:19:01.240 align:middle line:84%
+And it's how light, when you
+shoot photons at two slits,
+
+00:19:01.240 --> 00:19:03.580 align:middle line:84%
+it will-- even if it
+goes through one slit,
+
+00:19:03.580 --> 00:19:06.340 align:middle line:84%
+if you're not observing it, it
+will interfere with itself as
+
+00:19:06.340 --> 00:19:08.170 align:middle line:90%
+though it passed through both.
+
+00:19:08.170 --> 00:19:12.730 align:middle line:84%
+So this shows the wave particle
+duality that light has.
+
+00:19:12.730 --> 00:19:14.680 align:middle line:84%
+>>NOORY: If you show
+this to a mathematician,
+
+00:19:14.680 --> 00:19:16.073 align:middle line:90%
+would they understand it?
+
+00:19:16.073 --> 00:19:16.990 align:middle line:90%
+>>PADGETT: Well, yeah.
+
+00:19:16.990 --> 00:19:18.365 align:middle line:84%
+Most of them would
+understand it.
+
+00:19:18.365 --> 00:19:20.822 align:middle line:84%
+Once I say it's the double--
+well, if it's a physicist,
+
+00:19:20.822 --> 00:19:22.030 align:middle line:90%
+they'll really understand it.
+
+00:19:22.030 --> 00:19:23.920 align:middle line:90%
+Mathematicians, it depends.
+
+00:19:23.920 --> 00:19:26.230 align:middle line:84%
+Everything is becoming
+so specific nowadays.
+
+00:19:26.230 --> 00:19:28.610 align:middle line:84%
+Some mathematicians aren't
+familiar with the double slit
+
+00:19:28.610 --> 00:19:29.410 align:middle line:90%
+test.
+
+00:19:29.410 --> 00:19:30.790 align:middle line:90%
+But I would think most are.
+
+00:19:30.790 --> 00:19:32.350 align:middle line:90%
+It's such a famous experiment.
+
+00:19:32.350 --> 00:19:34.390 align:middle line:84%
+>>NOORY: Have you been
+put under a microscope
+
+00:19:34.390 --> 00:19:35.973 align:middle line:90%
+since this happened to you?
+
+00:19:35.973 --> 00:19:37.390 align:middle line:84%
+>>PADGETT: Not
+under a microscope.
+
+00:19:37.390 --> 00:19:37.570 align:middle line:90%
+No.
+
+00:19:37.570 --> 00:19:40.000 align:middle line:84%
+>>NOORY: I mean, in terms
+of them looking at you
+
+00:19:40.000 --> 00:19:42.820 align:middle line:84%
+and then trying to figure
+out what's going on?
+
+00:19:42.820 --> 00:19:45.220 align:middle line:84%
+>>PADGETT: In some ways,
+it's more with doctors.
+
+00:19:45.220 --> 00:19:46.990 align:middle line:84%
+My professors that
+I worked with,
+
+00:19:46.990 --> 00:19:51.280 align:middle line:84%
+they were just interested in
+the way that I would see things
+
+00:19:51.280 --> 00:19:53.650 align:middle line:84%
+would allow me to find
+solutions that you don't-- that
+
+00:19:53.650 --> 00:19:57.220 align:middle line:84%
+aren't apparent when you're
+looking at it just as numbers.
+
+00:19:57.220 --> 00:19:59.110 align:middle line:84%
+There's a lot more
+involved in these drawings
+
+00:19:59.110 --> 00:20:01.570 align:middle line:84%
+than what I'm
+explaining right now.
+
+00:20:01.570 --> 00:20:04.450 align:middle line:84%
+But when you go
+into how they work,
+
+00:20:04.450 --> 00:20:09.940 align:middle line:84%
+it's much easier to understand
+very high mathematical concepts
+
+00:20:09.940 --> 00:20:13.210 align:middle line:84%
+in regular terms when you're
+just looking at a drawing.
+
+00:20:13.210 --> 00:20:16.720 align:middle line:84%
+Whereas when we go and we
+learn derivatives and integrals
+
+00:20:16.720 --> 00:20:19.510 align:middle line:84%
+and calculus and you're
+just crunching numbers,
+
+00:20:19.510 --> 00:20:24.160 align:middle line:84%
+it's very hard for the students
+and for a lot of professors
+
+00:20:24.160 --> 00:20:28.810 align:middle line:84%
+to visualize how this actually
+applies in the real world,
+
+00:20:28.810 --> 00:20:30.820 align:middle line:84%
+and what it is that
+it's describing.
+
+00:20:30.820 --> 00:20:32.950 align:middle line:84%
+>>NOORY: Have your
+savant abilities
+
+00:20:32.950 --> 00:20:36.920 align:middle line:84%
+helped you in the real
+world or hindered you?
+
+00:20:36.920 --> 00:20:39.410 align:middle line:84%
+>>PADGETT: In some
+ways, in the beginning,
+
+00:20:39.410 --> 00:20:43.250 align:middle line:84%
+it hindered me a lot
+because OCD came on with it.
+
+00:20:43.250 --> 00:20:44.210 align:middle line:90%
+I had like agoraphobia.
+
+00:20:44.210 --> 00:20:47.120 align:middle line:84%
+I didn't leave my house for
+like 3, 3 and 1/2 years,
+
+00:20:47.120 --> 00:20:49.490 align:middle line:90%
+except for just to get food.
+
+00:20:49.490 --> 00:20:50.990 align:middle line:84%
+I was kind of
+depressed for a while.
+
+00:20:50.990 --> 00:20:51.740 align:middle line:90%
+>>NOORY: Panic attacks.
+
+00:20:51.740 --> 00:20:52.540 align:middle line:90%
+>>PADGETT: Yeah.
+
+00:20:52.540 --> 00:20:53.990 align:middle line:90%
+It was very-- it was bad.
+
+00:20:53.990 --> 00:20:56.490 align:middle line:84%
+But at the same time, it was--
+there was this beautiful part
+
+00:20:56.490 --> 00:21:00.020 align:middle line:84%
+of it because this world
+was opening up to me that I
+
+00:21:00.020 --> 00:21:02.330 align:middle line:90%
+had never known existed.
+
+00:21:02.330 --> 00:21:03.800 align:middle line:90%
+I was literally--
+
+00:21:03.800 --> 00:21:06.830 align:middle line:84%
+I would chase girls and party
+and go out and goof off.
+
+00:21:06.830 --> 00:21:10.490 align:middle line:84%
+And life was very simple
+and not very deep.
+
+00:21:10.490 --> 00:21:13.580 align:middle line:84%
+And then suddenly, it was like
+the curtain was pulled back.
+
+00:21:13.580 --> 00:21:18.110 align:middle line:84%
+And bits of the universe that
+I had never even contemplated
+
+00:21:18.110 --> 00:21:20.900 align:middle line:84%
+suddenly were very
+obvious and fascinating.
+
+00:21:20.900 --> 00:21:22.820 align:middle line:84%
+>>NOORY: What does your
+wife think about what
+
+00:21:22.820 --> 00:21:23.810 align:middle line:90%
+has happened to you here?
+
+00:21:23.810 --> 00:21:26.185 align:middle line:84%
+>>PADGETT: So she-- I met her
+when I went back to school.
+
+00:21:26.185 --> 00:21:29.570 align:middle line:84%
+So she never knew me before,
+which is probably good.
+
+00:21:29.570 --> 00:21:30.470 align:middle line:90%
+And I was in--
+
+00:21:30.470 --> 00:21:32.210 align:middle line:84%
+I was at the
+cafeteria in school,
+
+00:21:32.210 --> 00:21:34.070 align:middle line:84%
+and she was an exchange
+student or she was
+
+00:21:34.070 --> 00:21:35.510 align:middle line:90%
+visiting from another country.
+
+00:21:35.510 --> 00:21:38.550 align:middle line:84%
+And I was drawing, and she
+asked me what I was drawing,
+
+00:21:38.550 --> 00:21:39.870 align:middle line:90%
+and we started talking.
+
+00:21:39.870 --> 00:21:43.650 align:middle line:84%
+And she has a lot of patience
+because she's listened
+
+00:21:43.650 --> 00:21:49.470 align:middle line:84%
+to many theories and different
+theorems over the years
+
+00:21:49.470 --> 00:21:51.560 align:middle line:84%
+at all different
+times of the night.
+
+00:21:51.560 --> 00:21:55.500 align:middle line:84%
+But she's very understanding
+and she's very smart too.
+
+00:21:55.500 --> 00:21:59.130 align:middle line:84%
+So I'd like to bounce
+ideas off of her
+
+00:21:59.130 --> 00:22:02.040 align:middle line:84%
+and see what she
+thinks of it sometimes
+
+00:22:02.040 --> 00:22:03.630 align:middle line:90%
+before I tell other people.
+
+00:22:03.630 --> 00:22:06.037 align:middle line:84%
+>>NOORY: Are you a
+scientific study now?
+
+00:22:06.037 --> 00:22:06.870 align:middle line:90%
+>>PADGETT: In some--
+
+00:22:06.870 --> 00:22:08.850 align:middle line:90%
+I have been.
+
+00:22:08.850 --> 00:22:11.280 align:middle line:84%
+For me, the most
+wonderful part about it
+
+00:22:11.280 --> 00:22:13.200 align:middle line:84%
+is just sharing
+this with everybody.
+
+00:22:13.200 --> 00:22:16.260 align:middle line:84%
+It's like I feel like I
+almost like swallowed a star.
+
+00:22:16.260 --> 00:22:18.362 align:middle line:84%
+I just feel like I'm
+bursting with anybody
+
+00:22:18.362 --> 00:22:20.070 align:middle line:84%
+that comes by I just
+want to talk to them
+
+00:22:20.070 --> 00:22:22.445 align:middle line:84%
+and say listen, I know you
+think you don't understand it.
+
+00:22:22.445 --> 00:22:24.480 align:middle line:84%
+I know you think
+you don't like math.
+
+00:22:24.480 --> 00:22:26.250 align:middle line:90%
+But let me tell you about this.
+
+00:22:26.250 --> 00:22:29.250 align:middle line:90%
+I worked in a store for a while.
+
+00:22:29.250 --> 00:22:31.920 align:middle line:84%
+My family owned
+furniture stores.
+
+00:22:31.920 --> 00:22:37.650 align:middle line:84%
+And I would bring up any way
+that I could to discuss math
+
+00:22:37.650 --> 00:22:40.952 align:middle line:84%
+with people, because even though
+at first I would say something
+
+00:22:40.952 --> 00:22:43.410 align:middle line:84%
+about pi and I could see them
+like backing up like, oh boy,
+
+00:22:43.410 --> 00:22:44.430 align:middle line:90%
+I don't want to talk about math.
+
+00:22:44.430 --> 00:22:45.780 align:middle line:84%
+>>NOORY: The only pi
+they want to talk about
+
+00:22:45.780 --> 00:22:46.690 align:middle line:90%
+is apple or cherry.
+
+00:22:46.690 --> 00:22:47.490 align:middle line:90%
+>>PADGETT: Totally.
+
+00:22:47.490 --> 00:22:48.990 align:middle line:84%
+But then within a
+couple of minutes,
+
+00:22:48.990 --> 00:22:52.050 align:middle line:84%
+they would be totally engaged
+because they can understand it.
+
+00:22:52.050 --> 00:22:55.380 align:middle line:84%
+95% of everybody can
+understand exactly what
+
+00:22:55.380 --> 00:22:58.490 align:middle line:84%
+I'm talking about in
+mathematical terms,
+
+00:22:58.490 --> 00:23:00.710 align:middle line:84%
+but in simple mathematical
+terms when you're
+
+00:23:00.710 --> 00:23:01.850 align:middle line:90%
+doing it with the drawings.
+
+00:23:01.850 --> 00:23:03.350 align:middle line:84%
+And it's literally
+the same thing.
+
+00:23:03.350 --> 00:23:04.975 align:middle line:84%
+>>NOORY: A little
+easier to comprehend.
+
+00:23:04.975 --> 00:23:05.810 align:middle line:90%
+>>PADGETT: Yes.
+
+00:23:05.810 --> 00:23:09.020 align:middle line:84%
+>>NOORY: Now joining us via
+Zoom, incredible technology,
+
+00:23:09.020 --> 00:23:12.830 align:middle line:84%
+is Dr. Matt Doll from the
+SSM Health Treffert Center
+
+00:23:12.830 --> 00:23:14.180 align:middle line:90%
+who met with Jason.
+
+00:23:14.180 --> 00:23:16.340 align:middle line:84%
+Is based in Fond
+du Lac, Wisconsin.
+
+00:23:16.340 --> 00:23:18.693 align:middle line:84%
+Dr. Doll, welcome
+to the program.
+
+00:23:18.693 --> 00:23:20.360 align:middle line:84%
+>>MATT DOLL: Thank
+you for having me on.
+
+00:23:20.360 --> 00:23:21.985 align:middle line:84%
+>>NOORY: Tell us a
+little bit about how
+
+00:23:21.985 --> 00:23:25.483 align:middle line:90%
+this meeting with Jason started.
+
+00:23:25.483 --> 00:23:26.900 align:middle line:84%
+>>DOLL: As Jason
+mentioned, he had
+
+00:23:26.900 --> 00:23:29.480 align:middle line:84%
+met Dr. Treffert
+several years ago
+
+00:23:29.480 --> 00:23:32.930 align:middle line:84%
+and had arranged his
+further evaluations.
+
+00:23:32.930 --> 00:23:35.540 align:middle line:84%
+And then he came out
+and visited with us.
+
+00:23:35.540 --> 00:23:38.030 align:middle line:84%
+And at that time, I was
+meeting with Dr. Treffert
+
+00:23:38.030 --> 00:23:40.900 align:middle line:84%
+and had a chance to spend
+some time with Jason.
+
+00:23:40.900 --> 00:23:44.320 align:middle line:84%
+>>NOORY: What do you think
+of Jason's situation?
+
+00:23:44.320 --> 00:23:47.710 align:middle line:84%
+>>DOLL: It's quite remarkable
+and unique and acquired
+
+00:23:47.710 --> 00:23:48.670 align:middle line:90%
+Savant's.
+
+00:23:48.670 --> 00:23:52.120 align:middle line:84%
+For the most part, we see
+injury to the left hemisphere
+
+00:23:52.120 --> 00:23:54.640 align:middle line:84%
+and greater access to
+the right hemisphere.
+
+00:23:54.640 --> 00:23:56.800 align:middle line:84%
+And Jason's case,
+it's quite unique.
+
+00:23:56.800 --> 00:23:59.980 align:middle line:84%
+He had injury to his
+right hemisphere.
+
+00:23:59.980 --> 00:24:04.210 align:middle line:84%
+And then now has access to
+and processing information
+
+00:24:04.210 --> 00:24:05.620 align:middle line:90%
+more with his left hemisphere.
+
+00:24:05.620 --> 00:24:09.750 align:middle line:84%
+>>NOORY: When you look at
+the brain through the scans,
+
+00:24:09.750 --> 00:24:11.945 align:middle line:84%
+does it show things
+that are unusual?
+
+00:24:11.945 --> 00:24:13.320 align:middle line:84%
+I mean, can you
+tell that there's
+
+00:24:13.320 --> 00:24:15.390 align:middle line:90%
+something that happened?
+
+00:24:15.390 --> 00:24:16.190 align:middle line:90%
+>>DOLL: Yes.
+
+00:24:16.190 --> 00:24:19.820 align:middle line:84%
+You would see that a task
+that he would normally
+
+00:24:19.820 --> 00:24:22.490 align:middle line:84%
+in typical brains have
+occurred on both sides
+
+00:24:22.490 --> 00:24:26.150 align:middle line:84%
+of his brain, the activity
+was only on the left side.
+
+00:24:26.150 --> 00:24:28.070 align:middle line:84%
+And that was looking
+at equations that
+
+00:24:28.070 --> 00:24:29.990 align:middle line:90%
+were resulting in an image.
+
+00:24:29.990 --> 00:24:34.310 align:middle line:84%
+Whereas equations that would
+have no resulting image
+
+00:24:34.310 --> 00:24:35.960 align:middle line:90%
+only appeared on both sides.
+
+00:24:35.960 --> 00:24:39.050 align:middle line:84%
+And so how his brain is
+processing information
+
+00:24:39.050 --> 00:24:41.570 align:middle line:84%
+is different from what we
+would typically expect.
+
+00:24:41.570 --> 00:24:44.390 align:middle line:84%
+>>NOORY: Dr. Doll, why does
+it take some kind of injury
+
+00:24:44.390 --> 00:24:47.960 align:middle line:84%
+to the brain to push him into
+that other level of being
+
+00:24:47.960 --> 00:24:50.180 align:middle line:90%
+a savant?
+
+00:24:50.180 --> 00:24:52.790 align:middle line:84%
+>>DOLL: I think in
+all of the stories
+
+00:24:52.790 --> 00:24:56.240 align:middle line:84%
+that we've had from different
+kinds of experiences,
+
+00:24:56.240 --> 00:24:58.730 align:middle line:84%
+there's a process where
+there's damage that occurs,
+
+00:24:58.730 --> 00:25:02.780 align:middle line:84%
+and then there's a recruitment
+or an access to other skills
+
+00:25:02.780 --> 00:25:04.940 align:middle line:90%
+or abilities that we may have.
+
+00:25:04.940 --> 00:25:06.890 align:middle line:84%
+It is very rare,
+and we certainly
+
+00:25:06.890 --> 00:25:09.200 align:middle line:84%
+don't recommend anyone
+harm their head in order
+
+00:25:09.200 --> 00:25:11.150 align:middle line:84%
+to try to get
+better at something.
+
+00:25:11.150 --> 00:25:14.570 align:middle line:84%
+But in these cases like
+Jason, it is perception.
+
+00:25:14.570 --> 00:25:16.680 align:middle line:84%
+He's perceiving the
+world differently.
+
+00:25:16.680 --> 00:25:19.440 align:middle line:84%
+And what he describes
+is sort of almost a look
+
+00:25:19.440 --> 00:25:23.100 align:middle line:84%
+behind the curtain on
+how we track motion.
+
+00:25:23.100 --> 00:25:26.130 align:middle line:84%
+And how our brains
+track motion actually
+
+00:25:26.130 --> 00:25:29.730 align:middle line:84%
+in his visual cortex where that
+injury occurred has changed.
+
+00:25:29.730 --> 00:25:32.100 align:middle line:84%
+And so now as a
+form of synesthesia,
+
+00:25:32.100 --> 00:25:34.890 align:middle line:84%
+he's seeing the lines
+as he describes pi
+
+00:25:34.890 --> 00:25:36.900 align:middle line:90%
+as a series of lines.
+
+00:25:36.900 --> 00:25:40.110 align:middle line:84%
+And so that perceptional
+change is really
+
+00:25:40.110 --> 00:25:42.180 align:middle line:84%
+where he's able to
+understand and start
+
+00:25:42.180 --> 00:25:45.450 align:middle line:84%
+to explain math in a very
+unique and different way.
+
+00:25:45.450 --> 00:25:46.950 align:middle line:84%
+>>NOORY: Do we know
+what will happen
+
+00:25:46.950 --> 00:25:50.010 align:middle line:90%
+in the future with Jason?
+
+00:25:50.010 --> 00:25:51.420 align:middle line:90%
+>>DOLL: You know what?
+
+00:25:51.420 --> 00:25:53.520 align:middle line:84%
+Our years of working
+with acquired Savant's,
+
+00:25:53.520 --> 00:25:56.370 align:middle line:84%
+one of the downsides
+is oftentimes
+
+00:25:56.370 --> 00:26:00.690 align:middle line:84%
+a compulsion, that sense that
+I have to do this new skill.
+
+00:26:00.690 --> 00:26:05.580 align:middle line:84%
+As that skill is practiced over
+time, that pressure lessens.
+
+00:26:05.580 --> 00:26:08.850 align:middle line:84%
+And then people become
+very attached, if you will,
+
+00:26:08.850 --> 00:26:10.200 align:middle line:90%
+to their skill.
+
+00:26:10.200 --> 00:26:12.540 align:middle line:84%
+And there's concern that
+it will fade over time.
+
+00:26:12.540 --> 00:26:15.510 align:middle line:84%
+And to our knowledge, those
+skills do not fade over time.
+
+00:26:15.510 --> 00:26:16.890 align:middle line:90%
+But they do change.
+
+00:26:16.890 --> 00:26:19.680 align:middle line:84%
+And there's a
+further exploration.
+
+00:26:19.680 --> 00:26:21.390 align:middle line:90%
+There's more comfort level.
+
+00:26:21.390 --> 00:26:23.670 align:middle line:84%
+And hopefully, some
+of the negative side
+
+00:26:23.670 --> 00:26:26.250 align:middle line:84%
+effects of the injury
+start to fade a little bit.
+
+00:26:26.250 --> 00:26:29.160 align:middle line:84%
+But as Jason says, he's
+left with chronic headache
+
+00:26:29.160 --> 00:26:31.860 align:middle line:84%
+and a variety of other things
+that he struggles with yet.
+
+00:26:31.860 --> 00:26:34.890 align:middle line:84%
+>>NOORY: The actor Dustin
+Hoffman played in the movie
+
+00:26:34.890 --> 00:26:38.400 align:middle line:84%
+"Rain Man," which reminds
+me a little bit of Jason.
+
+00:26:38.400 --> 00:26:41.310 align:middle line:84%
+Dr. Treffert worked
+with the real "Rain Man"
+
+00:26:41.310 --> 00:26:44.340 align:middle line:84%
+that Dustin Hoffman portrayed
+in the movie "Rain Man."
+
+00:26:44.340 --> 00:26:45.383 align:middle line:90%
+What was that like?
+
+00:26:45.383 --> 00:26:46.800 align:middle line:84%
+>>DOLL: Well, for
+Dr. Treffert, it
+
+00:26:46.800 --> 00:26:50.170 align:middle line:84%
+was important to represent
+these amazing minds
+
+00:26:50.170 --> 00:26:53.920 align:middle line:84%
+in the most accurate
+and supportive way
+
+00:26:53.920 --> 00:26:55.480 align:middle line:90%
+of their unique abilities.
+
+00:26:55.480 --> 00:26:59.740 align:middle line:84%
+Kim Peek is a gentleman that
+had absent corpus callosum.
+
+00:26:59.740 --> 00:27:02.650 align:middle line:84%
+So he missed the connecting
+tissue between his two brains.
+
+00:27:02.650 --> 00:27:06.220 align:middle line:84%
+That actually allowed him
+to read books with each eye
+
+00:27:06.220 --> 00:27:08.350 align:middle line:90%
+independently on each page.
+
+00:27:08.350 --> 00:27:10.990 align:middle line:84%
+And he had this incredible
+memory for that.
+
+00:27:10.990 --> 00:27:15.760 align:middle line:84%
+And so he was considered the
+human encyclopedia at the time.
+
+00:27:15.760 --> 00:27:18.880 align:middle line:84%
+But he also over the course of
+time developed some insights
+
+00:27:18.880 --> 00:27:22.480 align:middle line:84%
+and made some connections, and
+was quite a remarkable thinker.
+
+00:27:22.480 --> 00:27:25.780 align:middle line:84%
+And Dr. Treffert
+really mirrored many
+
+00:27:25.780 --> 00:27:28.090 align:middle line:84%
+of the things he
+recommended in the portrayal
+
+00:27:28.090 --> 00:27:32.150 align:middle line:84%
+that Dustin Hoffman had of the
+savant on some other savants as
+
+00:27:32.150 --> 00:27:32.950 align:middle line:90%
+well.
+
+00:27:32.950 --> 00:27:35.620 align:middle line:84%
+Different skills and abilities
+that they demonstrate too.
+
+00:27:35.620 --> 00:27:37.120 align:middle line:84%
+>>NOORY: And Dr.
+Doll, not everybody
+
+00:27:37.120 --> 00:27:41.830 align:middle line:84%
+who suffers brain trauma turns
+out to be a savant, right?
+
+00:27:41.830 --> 00:27:43.480 align:middle line:90%
+>>DOLL: That's correct.
+
+00:27:43.480 --> 00:27:46.360 align:middle line:84%
+We're finding that there are
+certain areas of the brain.
+
+00:27:46.360 --> 00:27:50.290 align:middle line:84%
+And typically, there's one
+area on the left side that sort
+
+00:27:50.290 --> 00:27:54.070 align:middle line:84%
+of functions as a governor or
+a control over your right side
+
+00:27:54.070 --> 00:27:55.360 align:middle line:90%
+of your brain.
+
+00:27:55.360 --> 00:27:58.450 align:middle line:84%
+Dr. Treffert would talk about
+it as an injury that releases
+
+00:27:58.450 --> 00:28:00.010 align:middle line:90%
+the tyrant of your left brain.
+
+00:28:00.010 --> 00:28:02.410 align:middle line:84%
+So you can access
+your right brain.
+
+00:28:02.410 --> 00:28:06.160 align:middle line:84%
+And that seems to be the most
+consistent finding within
+
+00:28:06.160 --> 00:28:07.210 align:middle line:90%
+Savant's.
+
+00:28:07.210 --> 00:28:10.120 align:middle line:84%
+Congenital savants are
+born with differences.
+
+00:28:10.120 --> 00:28:12.100 align:middle line:84%
+But oftentimes,
+those skills do come
+
+00:28:12.100 --> 00:28:14.470 align:middle line:84%
+from the wiring that
+occurs that allows
+
+00:28:14.470 --> 00:28:16.397 align:middle line:84%
+them access to the right
+side of their brains.
+
+00:28:16.397 --> 00:28:17.980 align:middle line:84%
+>>NOORY: How much
+of the brain have we
+
+00:28:17.980 --> 00:28:20.800 align:middle line:90%
+learned about by this time?
+
+00:28:20.800 --> 00:28:23.020 align:middle line:84%
+>>DOLL: We're still
+in the infancy stage.
+
+00:28:23.020 --> 00:28:25.580 align:middle line:84%
+There are some amazing
+technologies that we've really
+
+00:28:25.580 --> 00:28:26.380 align:middle line:90%
+learned a lot.
+
+00:28:26.380 --> 00:28:28.660 align:middle line:90%
+We're starting to map networks.
+
+00:28:28.660 --> 00:28:32.650 align:middle line:84%
+And in some like diffuse
+imaging technology,
+
+00:28:32.650 --> 00:28:36.280 align:middle line:84%
+it's really fascinating because
+as Jason talks about the lines,
+
+00:28:36.280 --> 00:28:39.100 align:middle line:84%
+you actually see almost
+these lines and patterns
+
+00:28:39.100 --> 00:28:42.100 align:middle line:84%
+in brain architecture
+about the networks that
+
+00:28:42.100 --> 00:28:44.770 align:middle line:90%
+are connecting to each other.
+
+00:28:44.770 --> 00:28:48.040 align:middle line:84%
+>>NOORY: Elon Musk wants to put
+a neuralink chip in our brains.
+
+00:28:48.040 --> 00:28:52.220 align:middle line:90%
+Will that help us or hurt us?
+
+00:28:52.220 --> 00:28:55.700 align:middle line:84%
+>>DOLL: I think that
+technology is something that we
+
+00:28:55.700 --> 00:28:57.650 align:middle line:90%
+have to be very cautious about.
+
+00:28:57.650 --> 00:28:59.660 align:middle line:84%
+We have to understand
+something thoroughly
+
+00:28:59.660 --> 00:29:03.200 align:middle line:84%
+before we start going
+down those roads.
+
+00:29:03.200 --> 00:29:06.500 align:middle line:84%
+It certainly would be appealing
+to try to interface more
+
+00:29:06.500 --> 00:29:07.700 align:middle line:90%
+with computers.
+
+00:29:07.700 --> 00:29:09.440 align:middle line:84%
+But I don't think
+we even understand
+
+00:29:09.440 --> 00:29:11.690 align:middle line:84%
+what we're capable of when
+we're still discovering
+
+00:29:11.690 --> 00:29:14.900 align:middle line:84%
+these amazing connections
+and processes just
+
+00:29:14.900 --> 00:29:17.840 align:middle line:84%
+through the accidental
+injuries that occur.
+
+00:29:17.840 --> 00:29:21.260 align:middle line:84%
+>>NOORY: Why do we need an
+injury or some situation
+
+00:29:21.260 --> 00:29:22.970 align:middle line:90%
+in order to induce this?
+
+00:29:22.970 --> 00:29:26.110 align:middle line:90%
+Why can't we do it without that?
+
+00:29:26.110 --> 00:29:28.630 align:middle line:84%
+>>DOLL: There has been, as
+Jason mentioned, some technology
+
+00:29:28.630 --> 00:29:32.620 align:middle line:84%
+that pulses some
+magnetic interference
+
+00:29:32.620 --> 00:29:34.510 align:middle line:84%
+in different areas of
+our brain, which allows
+
+00:29:34.510 --> 00:29:36.190 align:middle line:90%
+us to access other areas.
+
+00:29:36.190 --> 00:29:37.930 align:middle line:84%
+And we tend to think
+of that especially
+
+00:29:37.930 --> 00:29:40.360 align:middle line:90%
+in our Western technology.
+
+00:29:40.360 --> 00:29:42.370 align:middle line:84%
+We're going to put
+a helmet on instead
+
+00:29:42.370 --> 00:29:45.610 align:middle line:84%
+of learning to meditate,
+for example, or practice
+
+00:29:45.610 --> 00:29:46.750 align:middle line:90%
+mindfulness.
+
+00:29:46.750 --> 00:29:49.990 align:middle line:84%
+We actually change our brain's
+architecture when we meditate.
+
+00:29:49.990 --> 00:29:52.030 align:middle line:84%
+Six weeks of meditation
+will actually
+
+00:29:52.030 --> 00:29:53.350 align:middle line:90%
+change your hypothalamus.
+
+00:29:53.350 --> 00:29:55.420 align:middle line:84%
+So we have more
+control than we think
+
+00:29:55.420 --> 00:29:59.140 align:middle line:84%
+we do over accessing these
+different skills and abilities.
+
+00:29:59.140 --> 00:30:00.910 align:middle line:84%
+It's through injury
+that suddenly we
+
+00:30:00.910 --> 00:30:03.190 align:middle line:84%
+say, oh, I have
+access or sometimes
+
+00:30:03.190 --> 00:30:06.520 align:middle line:84%
+disease process like
+some forms of dementia.
+
+00:30:06.520 --> 00:30:08.980 align:middle line:84%
+But it is also possible
+that through more
+
+00:30:08.980 --> 00:30:11.920 align:middle line:84%
+intentional practice
+and some techniques
+
+00:30:11.920 --> 00:30:15.220 align:middle line:84%
+that we can learn that we
+can access all of our brains.
+
+00:30:15.220 --> 00:30:17.510 align:middle line:84%
+>>NOORY: Are you still
+working with Jason?
+
+00:30:17.510 --> 00:30:18.310 align:middle line:90%
+>>DOLL: Yes.
+
+00:30:18.310 --> 00:30:20.740 align:middle line:84%
+We continue to be
+in conversations.
+
+00:30:20.740 --> 00:30:23.170 align:middle line:84%
+He's hopefully coming up and
+visiting our newest place,
+
+00:30:23.170 --> 00:30:26.570 align:middle line:84%
+the Treffert Studios, so that
+we can help him kind of put
+
+00:30:26.570 --> 00:30:30.920 align:middle line:84%
+together a visual representation
+of how he perceives the world.
+
+00:30:30.920 --> 00:30:34.340 align:middle line:84%
+>>NOORY: Jason, take a few
+minutes and chat with Dr. Doll.
+
+00:30:34.340 --> 00:30:36.057 align:middle line:90%
+>>PADGETT: How's it going?
+
+00:30:36.057 --> 00:30:36.890 align:middle line:90%
+>>DOLL: Really good.
+
+00:30:36.890 --> 00:30:37.640 align:middle line:90%
+How are you been doing?
+
+00:30:37.640 --> 00:30:38.060 align:middle line:90%
+>>PADGETT: Good.
+
+00:30:38.060 --> 00:30:39.727 align:middle line:84%
+I'm looking forward
+to coming out there.
+
+00:30:39.727 --> 00:30:43.370 align:middle line:84%
+We're going to be making
+some videos of how--
+
+00:30:43.370 --> 00:30:45.910 align:middle line:84%
+what pi is describing
+geometrically,
+
+00:30:45.910 --> 00:30:48.410 align:middle line:84%
+and they're going to be helping
+me do some other things that
+
+00:30:48.410 --> 00:30:51.258 align:middle line:84%
+have to do with the
+holographic universe principle.
+
+00:30:51.258 --> 00:30:53.300 align:middle line:84%
+It's been really wonderful
+working with you guys.
+
+00:30:53.300 --> 00:30:55.175 align:middle line:84%
+You guys have changed
+my life for the better.
+
+00:30:55.175 --> 00:30:59.810 align:middle line:84%
+And granted me a lot of
+understanding of what
+
+00:30:59.810 --> 00:31:04.730 align:middle line:84%
+was going on, so that I didn't
+feel quite so different, and so
+
+00:31:04.730 --> 00:31:07.322 align:middle line:90%
+out of place in the world.
+
+00:31:07.322 --> 00:31:08.780 align:middle line:84%
+>>DOLL: It's a real
+rare condition.
+
+00:31:08.780 --> 00:31:13.820 align:middle line:84%
+And I think that while it's
+a truly a gift to mathematics
+
+00:31:13.820 --> 00:31:17.600 align:middle line:84%
+and the things that you're
+able to do, the story that--
+
+00:31:17.600 --> 00:31:20.630 align:middle line:84%
+and when asked like what is it
+about Jason that's so amazing?
+
+00:31:20.630 --> 00:31:23.840 align:middle line:84%
+I also think that part of the
+story, Jason, where you really
+
+00:31:23.840 --> 00:31:26.210 align:middle line:84%
+sought out those people
+that harmed you and looked
+
+00:31:26.210 --> 00:31:27.080 align:middle line:90%
+to reconcile.
+
+00:31:27.080 --> 00:31:29.810 align:middle line:84%
+And I just think your
+kindness and genuine nature
+
+00:31:29.810 --> 00:31:31.720 align:middle line:90%
+is also one of your superpowers.
+
+00:31:31.720 --> 00:31:33.470 align:middle line:84%
+>>PADGETT: That was
+one of the things that
+
+00:31:33.470 --> 00:31:36.200 align:middle line:84%
+was really amazing, is one
+of my attackers reached out
+
+00:31:36.200 --> 00:31:38.540 align:middle line:84%
+to me about three
+years ago and he
+
+00:31:38.540 --> 00:31:40.820 align:middle line:90%
+said he was watching a video.
+
+00:31:40.820 --> 00:31:42.250 align:middle line:84%
+And in the middle
+of the video, he
+
+00:31:42.250 --> 00:31:44.000 align:middle line:84%
+said the video was
+talking about these two
+
+00:31:44.000 --> 00:31:45.308 align:middle line:90%
+guys that attacked somebody.
+
+00:31:45.308 --> 00:31:46.850 align:middle line:84%
+And he said halfway
+through the show,
+
+00:31:46.850 --> 00:31:49.010 align:middle line:90%
+he realized he was the bad guy.
+
+00:31:49.010 --> 00:31:52.250 align:middle line:84%
+And he sent me a
+text on Facebook
+
+00:31:52.250 --> 00:31:54.980 align:middle line:84%
+and said I just want to
+let you know I apologize.
+
+00:31:54.980 --> 00:32:00.127 align:middle line:84%
+And he now sits on a national
+nonprofit for at-risk youth
+
+00:32:00.127 --> 00:32:01.460 align:middle line:90%
+helping them change their lives.
+
+00:32:01.460 --> 00:32:04.130 align:middle line:84%
+So he is-- it turned out
+that in the long run,
+
+00:32:04.130 --> 00:32:06.110 align:middle line:84%
+it turned out to be a
+wonderful thing for me.
+
+00:32:06.110 --> 00:32:07.730 align:middle line:84%
+And in the long
+run, it turned out
+
+00:32:07.730 --> 00:32:09.140 align:middle line:90%
+it made his life better too.
+
+00:32:09.140 --> 00:32:10.700 align:middle line:84%
+>>NOORY: Did you
+get the jacket back?
+
+00:32:10.700 --> 00:32:12.283 align:middle line:84%
+>>PADGETT: Didn't
+get the jacket back.
+
+00:32:12.283 --> 00:32:13.310 align:middle line:90%
+But that's OK.
+
+00:32:13.310 --> 00:32:17.090 align:middle line:84%
+But he did confirm that,
+that was why they did it.
+
+00:32:17.090 --> 00:32:19.190 align:middle line:84%
+One of them said, Oh,
+I like his jacket.
+
+00:32:19.190 --> 00:32:21.260 align:middle line:84%
+And the other guy said,
+Oh, let's take it.
+
+00:32:21.260 --> 00:32:23.480 align:middle line:84%
+And they just-- they
+had too much to drink.
+
+00:32:23.480 --> 00:32:25.700 align:middle line:90%
+And they were young.
+
+00:32:25.700 --> 00:32:28.820 align:middle line:84%
+And had some bad
+life experiences
+
+00:32:28.820 --> 00:32:30.200 align:middle line:90%
+that had just happened to them.
+
+00:32:30.200 --> 00:32:32.510 align:middle line:84%
+And when I look back
+at it now, especially
+
+00:32:32.510 --> 00:32:36.342 align:middle line:84%
+after seeing how he
+changed over the years,
+
+00:32:36.342 --> 00:32:38.670 align:middle line:84%
+I actually feel nothing
+but compassion for him now.
+
+00:32:38.670 --> 00:32:39.470 align:middle line:90%
+>>NOORY: Right.
+
+00:32:39.470 --> 00:32:42.280 align:middle line:84%
+The Treffert Center, how
+has it changed your life?
+
+00:32:42.280 --> 00:32:44.030 align:middle line:84%
+>>PADGETT: It's changed
+my life because it
+
+00:32:44.030 --> 00:32:46.340 align:middle line:84%
+brought a lot more understanding
+to what was going on.
+
+00:32:46.340 --> 00:32:51.110 align:middle line:84%
+It helped to relieve some of
+the fear and also some of that
+
+00:32:51.110 --> 00:32:54.800 align:middle line:84%
+worry that I had of what if
+what if I'm the only one who
+
+00:32:54.800 --> 00:32:56.900 align:middle line:90%
+sees this and it's not real?
+
+00:32:56.900 --> 00:32:58.910 align:middle line:84%
+They helped with that,
+and also going to school
+
+00:32:58.910 --> 00:33:02.000 align:middle line:84%
+helped with that so that I
+was able to write it properly
+
+00:33:02.000 --> 00:33:04.330 align:middle line:84%
+so that we knew for sure
+that what I was doing
+
+00:33:04.330 --> 00:33:06.830 align:middle line:84%
+was correct, because I would
+doubt myselves at time-- myself
+
+00:33:06.830 --> 00:33:10.790 align:middle line:84%
+at times just thinking that
+it was too good to be true.
+
+00:33:10.790 --> 00:33:14.420 align:middle line:84%
+It was too good to be
+true, yet eventually
+
+00:33:14.420 --> 00:33:16.340 align:middle line:84%
+was able to show that
+what I was drawing
+
+00:33:16.340 --> 00:33:19.290 align:middle line:84%
+was what I thought it was,
+just a different way of looking
+
+00:33:19.290 --> 00:33:20.090 align:middle line:90%
+at it.
+
+00:33:20.090 --> 00:33:22.550 align:middle line:84%
+>>NOORY: Dr. Doll, thank you
+for being on Beyond Belief.
+
+00:33:22.550 --> 00:33:24.050 align:middle line:84%
+>>DOLL: It's
+absolutely my pleasure.
+
+00:33:24.050 --> 00:33:26.060 align:middle line:84%
+Thank you very
+much for having me.
+
+00:33:26.060 --> 00:33:28.520 align:middle line:84%
+>>NOORY: Jason, Dr. Doll
+is a fascinating guy.
+
+00:33:28.520 --> 00:33:30.260 align:middle line:84%
+>>PADGETT: Yeah, he's
+a very nice person.
+
+00:33:30.260 --> 00:33:31.550 align:middle line:90%
+They've changed my life.
+
+00:33:31.550 --> 00:33:33.290 align:middle line:90%
+>>NOORY: How did you find them?
+
+00:33:33.290 --> 00:33:35.900 align:middle line:84%
+>>PADGETT: Originally, I was
+watching a television program,
+
+00:33:35.900 --> 00:33:40.550 align:middle line:84%
+and it was about a guy that was
+talking about seeing numbers.
+
+00:33:40.550 --> 00:33:42.260 align:middle line:84%
+And that was the
+first time I'd ever
+
+00:33:42.260 --> 00:33:45.545 align:middle line:84%
+heard anybody describe numbers
+in a way that was visual.
+
+00:33:45.545 --> 00:33:45.890 align:middle line:84%
+>>NOORY: That was
+happening to you.
+
+00:33:45.890 --> 00:33:46.700 align:middle line:90%
+>>PADGETT: Yes.
+
+00:33:46.700 --> 00:33:49.760 align:middle line:84%
+And Dr. Treffert from
+the Treffert Center who
+
+00:33:49.760 --> 00:33:52.580 align:middle line:84%
+works with Dr. Doll
+was on the show,
+
+00:33:52.580 --> 00:33:54.860 align:middle line:84%
+and I wound up emailing
+them, and that's
+
+00:33:54.860 --> 00:33:57.020 align:middle line:84%
+how we came into
+contact with each other.
+
+00:33:57.020 --> 00:33:58.400 align:middle line:90%
+>>NOORY: Fascinating, it is.
+
+00:33:58.400 --> 00:34:00.650 align:middle line:90%
+What about the Doppler effect?
+
+00:34:00.650 --> 00:34:01.780 align:middle line:90%
+Tell me about that.
+
+00:34:01.780 --> 00:34:02.580 align:middle line:90%
+What is that?
+
+00:34:02.580 --> 00:34:04.730 align:middle line:84%
+>>PADGETT: Yeah, the
+Doppler effect is a good way
+
+00:34:04.730 --> 00:34:07.070 align:middle line:84%
+to describe relativity
+so that everybody
+
+00:34:07.070 --> 00:34:10.340 align:middle line:84%
+can understand what
+relativity is describing,
+
+00:34:10.340 --> 00:34:14.300 align:middle line:84%
+and why we all have
+our own unique reality.
+
+00:34:14.300 --> 00:34:16.550 align:middle line:84%
+So you know how you
+hear a car drive by you
+
+00:34:16.550 --> 00:34:19.400 align:middle line:84%
+and it goes and
+it changes pitch?
+
+00:34:19.400 --> 00:34:21.710 align:middle line:84%
+So short wavelengths of
+sound are a high pitch
+
+00:34:21.710 --> 00:34:24.199 align:middle line:84%
+and long wavelengths of
+sound are a low pitch.
+
+00:34:24.199 --> 00:34:26.360 align:middle line:84%
+As the car is moving
+towards me, those waves
+
+00:34:26.360 --> 00:34:28.110 align:middle line:84%
+are squishing together
+and getting closer.
+
+00:34:28.110 --> 00:34:29.670 align:middle line:84%
+And so you hear the
+pitch getting higher,
+
+00:34:29.670 --> 00:34:32.040 align:middle line:84%
+then it goes [VOCALIZES] and
+now it's moving away from me
+
+00:34:32.040 --> 00:34:33.300 align:middle line:84%
+and they stretch out
+and they get longer
+
+00:34:33.300 --> 00:34:34.530 align:middle line:84%
+and you hear the
+pitch getting lower.
+
+00:34:34.530 --> 00:34:36.112 align:middle line:84%
+>>NOORY: Doppler
+radar sort of thing.
+
+00:34:36.112 --> 00:34:38.070 align:middle line:84%
+>>PADGETT: And so now we
+add relativity to that
+
+00:34:38.070 --> 00:34:40.920 align:middle line:84%
+and we say the car is
+driving from me towards you.
+
+00:34:40.920 --> 00:34:42.570 align:middle line:84%
+Well, since it's
+moving away from me,
+
+00:34:42.570 --> 00:34:44.070 align:middle line:84%
+the waves are getting
+longer for me.
+
+00:34:44.070 --> 00:34:45.090 align:middle line:90%
+So I hear a low pitch.
+
+00:34:45.090 --> 00:34:47.628 align:middle line:84%
+But relative to you,
+it's moving towards you.
+
+00:34:47.628 --> 00:34:49.920 align:middle line:84%
+So the waves are compressing
+and you hear a high pitch.
+
+00:34:49.920 --> 00:34:51.360 align:middle line:84%
+And you stop right
+there and say,
+
+00:34:51.360 --> 00:34:53.370 align:middle line:84%
+is the sound that
+the car is making
+
+00:34:53.370 --> 00:34:54.960 align:middle line:90%
+a low pitch or a high pitch?
+
+00:34:54.960 --> 00:34:58.260 align:middle line:84%
+It's making both sounds
+relative to who's looking at it.
+
+00:34:58.260 --> 00:35:00.660 align:middle line:84%
+And then you imagine we have
+an infinite number of people
+
+00:35:00.660 --> 00:35:02.250 align:middle line:90%
+all looking at that car.
+
+00:35:02.250 --> 00:35:04.470 align:middle line:84%
+And they're all moving
+at different velocities.
+
+00:35:04.470 --> 00:35:06.870 align:middle line:84%
+Every single person will
+measure a different wavelength
+
+00:35:06.870 --> 00:35:08.730 align:middle line:84%
+and they'll all hear
+a different sound,
+
+00:35:08.730 --> 00:35:10.710 align:middle line:84%
+yet everybody's
+version of a reality
+
+00:35:10.710 --> 00:35:12.720 align:middle line:84%
+is correct, even though
+they're all different.
+
+00:35:12.720 --> 00:35:13.845 align:middle line:90%
+And that applies to light--
+
+00:35:13.845 --> 00:35:15.065 align:middle line:90%
+>>NOORY: How can that be?
+
+00:35:15.065 --> 00:35:16.440 align:middle line:84%
+>>PADGETT: You
+can take-- one way
+
+00:35:16.440 --> 00:35:19.230 align:middle line:84%
+that you can test it
+is like take two guys
+
+00:35:19.230 --> 00:35:21.990 align:middle line:84%
+can go out with two cell phones
+and have your buddy drive
+
+00:35:21.990 --> 00:35:24.397 align:middle line:84%
+his car in between you
+while you film them.
+
+00:35:24.397 --> 00:35:25.980 align:middle line:84%
+And then play them
+next to each other.
+
+00:35:25.980 --> 00:35:27.300 align:middle line:84%
+And you'll hear the
+high pitch on one,
+
+00:35:27.300 --> 00:35:28.425 align:middle line:90%
+the low pitch on the other.
+
+00:35:28.425 --> 00:35:31.800 align:middle line:84%
+So where you are relative
+to what you're observing
+
+00:35:31.800 --> 00:35:33.258 align:middle line:90%
+defines what it is.
+
+00:35:33.258 --> 00:35:34.800 align:middle line:84%
+But that doesn't
+just apply to sound.
+
+00:35:34.800 --> 00:35:37.080 align:middle line:84%
+That applies to time,
+that applies to light.
+
+00:35:37.080 --> 00:35:38.310 align:middle line:90%
+Everything about something.
+
+00:35:38.310 --> 00:35:39.810 align:middle line:90%
+You can change how big it is.
+
+00:35:39.810 --> 00:35:40.920 align:middle line:90%
+Everything about it.
+
+00:35:40.920 --> 00:35:43.650 align:middle line:84%
+You can change by changing
+your motion relative to it
+
+00:35:43.650 --> 00:35:46.555 align:middle line:90%
+and to you, that is reality.
+
+00:35:46.555 --> 00:35:48.430 align:middle line:84%
+But to somebody else in
+a different position,
+
+00:35:48.430 --> 00:35:50.760 align:middle line:84%
+and a different velocity,
+they have a slightly different
+
+00:35:50.760 --> 00:35:51.560 align:middle line:90%
+picture.
+
+00:35:51.560 --> 00:35:53.910 align:middle line:84%
+But we all can agree
+on reality around us
+
+00:35:53.910 --> 00:35:56.130 align:middle line:84%
+because we're all moving
+generally the same speed.
+
+00:35:56.130 --> 00:35:58.260 align:middle line:84%
+But when you start approaching
+the speed of light,
+
+00:35:58.260 --> 00:35:59.580 align:middle line:90%
+wild things happen.
+
+00:35:59.580 --> 00:36:02.160 align:middle line:84%
+And then you start having
+vastly different experiences.
+
+00:36:02.160 --> 00:36:05.490 align:middle line:84%
+>>NOORY: Did you understand any
+of this prior to your injury?
+
+00:36:05.490 --> 00:36:07.470 align:middle line:84%
+>>PADGETT: I thought
+that I literally
+
+00:36:07.470 --> 00:36:09.120 align:middle line:90%
+would joke how math was stupid.
+
+00:36:09.120 --> 00:36:10.560 align:middle line:84%
+And I would say
+when are you going
+
+00:36:10.560 --> 00:36:12.058 align:middle line:90%
+to use that in the real world?
+
+00:36:12.058 --> 00:36:14.100 align:middle line:84%
+And I remember thinking
+that was so smart to say.
+
+00:36:14.100 --> 00:36:16.515 align:middle line:84%
+And now I look back
+at it and I can't even
+
+00:36:16.515 --> 00:36:17.640 align:middle line:90%
+believe I thought that way.
+
+00:36:17.640 --> 00:36:19.710 align:middle line:90%
+Math is everything.
+
+00:36:19.710 --> 00:36:24.000 align:middle line:84%
+There is nothing that is not
+described by mathematics.
+
+00:36:24.000 --> 00:36:26.910 align:middle line:84%
+>>NOORY: Are you in the
+real world all the time?
+
+00:36:26.910 --> 00:36:29.800 align:middle line:84%
+>>PADGETT: Yeah, it depends on
+what the real world is, right?
+
+00:36:29.800 --> 00:36:34.050 align:middle line:84%
+I think about this over
+and over like every person
+
+00:36:34.050 --> 00:36:37.200 align:middle line:84%
+has their own individual
+version of reality.
+
+00:36:37.200 --> 00:36:41.040 align:middle line:84%
+And I try to think
+in different ways
+
+00:36:41.040 --> 00:36:45.930 align:middle line:84%
+to help me understand some of
+these principles differently.
+
+00:36:45.930 --> 00:36:50.760 align:middle line:84%
+Like I try to think in terms of
+superposition or probability,
+
+00:36:50.760 --> 00:36:54.150 align:middle line:84%
+where you try to imagine
+going from point A
+
+00:36:54.150 --> 00:36:57.390 align:middle line:84%
+to point B. What are all the
+ways that I can go there?
+
+00:36:57.390 --> 00:37:01.410 align:middle line:84%
+And what is the average
+sum of all of those ways?
+
+00:37:01.410 --> 00:37:03.650 align:middle line:84%
+And that describes what
+actually happens in reality.
+
+00:37:03.650 --> 00:37:06.150 align:middle line:84%
+When it gets down into physics,
+that's how they describe it.
+
+00:37:06.150 --> 00:37:09.390 align:middle line:84%
+We are the sum of
+all possibilities.
+
+00:37:09.390 --> 00:37:11.670 align:middle line:84%
+And all of those
+possibilities cancel out.
+
+00:37:11.670 --> 00:37:13.560 align:middle line:84%
+And the one that
+doesn't cancel out
+
+00:37:13.560 --> 00:37:15.612 align:middle line:84%
+is what happens almost
+always in reality.
+
+00:37:15.612 --> 00:37:17.070 align:middle line:84%
+>>NOORY: Now how's
+your health now?
+
+00:37:17.070 --> 00:37:17.940 align:middle line:90%
+You look good.
+
+00:37:17.940 --> 00:37:18.990 align:middle line:84%
+>>PADGETT: Yeah,
+I'm feeling better.
+
+00:37:18.990 --> 00:37:20.910 align:middle line:84%
+I've actually-- when it
+comes to like weight,
+
+00:37:20.910 --> 00:37:21.710 align:middle line:90%
+I'm feeling better.
+
+00:37:21.710 --> 00:37:26.573 align:middle line:84%
+When it comes to other
+problems, they're pretty much
+
+00:37:26.573 --> 00:37:27.990 align:middle line:84%
+going to be there
+for life when it
+
+00:37:27.990 --> 00:37:30.480 align:middle line:84%
+comes to like muscle twitches
+and headaches and things
+
+00:37:30.480 --> 00:37:31.280 align:middle line:90%
+like that.
+
+00:37:31.280 --> 00:37:34.590 align:middle line:84%
+But I've learned to deal
+with it better over time.
+
+00:37:34.590 --> 00:37:36.210 align:middle line:90%
+The OCD has gotten better.
+
+00:37:36.210 --> 00:37:38.370 align:middle line:84%
+I did this thing called
+desensitization therapy.
+
+00:37:38.370 --> 00:37:39.870 align:middle line:84%
+I used to not be
+able to open doors.
+
+00:37:39.870 --> 00:37:41.400 align:middle line:84%
+I would wait at
+doors for somebody
+
+00:37:41.400 --> 00:37:42.780 align:middle line:84%
+to open it because
+I wouldn't touch it.
+
+00:37:42.780 --> 00:37:43.665 align:middle line:90%
+>>NOORY: Why?
+
+00:37:43.665 --> 00:37:45.960 align:middle line:84%
+>>PADGETT: Just because
+you're suddenly aware--
+
+00:37:45.960 --> 00:37:47.460 align:middle line:84%
+being aware of
+everything visually,
+
+00:37:47.460 --> 00:37:49.650 align:middle line:84%
+I would watch somebody watching
+and then wipe their nose
+
+00:37:49.650 --> 00:37:50.850 align:middle line:90%
+and then grab the door handle.
+
+00:37:50.850 --> 00:37:52.920 align:middle line:84%
+And then I would see somebody
+else do something similar, then
+
+00:37:52.920 --> 00:37:55.470 align:middle line:84%
+grab the door handle and I would
+think I just don't want it--
+
+00:37:55.470 --> 00:37:57.750 align:middle line:84%
+it would almost
+feel hot and sticky
+
+00:37:57.750 --> 00:38:00.600 align:middle line:84%
+just because I was so aware of
+everything that was going on
+
+00:38:00.600 --> 00:38:01.200 align:middle line:90%
+that I didn't notice before.
+
+00:38:01.200 --> 00:38:01.860 align:middle line:90%
+>>NOORY: And it bugged you?
+
+00:38:01.860 --> 00:38:03.027 align:middle line:90%
+>>PADGETT: Oh, it was awful.
+
+00:38:03.027 --> 00:38:04.470 align:middle line:90%
+I would carry hand sanitizer.
+
+00:38:04.470 --> 00:38:07.740 align:middle line:84%
+When I went to school, I
+would bleach off the tables.
+
+00:38:07.740 --> 00:38:10.172 align:middle line:84%
+I have a medical grade
+UV light sanitizer--
+
+00:38:10.172 --> 00:38:11.880 align:middle line:84%
+>>NOORY: You were
+pre-COVID, weren't you?
+
+00:38:11.880 --> 00:38:12.030 align:middle line:90%
+>>PADGETT: Yeah.
+
+00:38:12.030 --> 00:38:12.990 align:middle line:90%
+And this was pre-COVID.
+
+00:38:12.990 --> 00:38:15.180 align:middle line:84%
+Now people joke that I
+was just ahead of COVID.
+
+00:38:15.180 --> 00:38:15.930 align:middle line:84%
+>>NOORY: You were
+ahead of your time.
+
+00:38:15.930 --> 00:38:16.620 align:middle line:90%
+>>PADGETT: Yeah.
+
+00:38:16.620 --> 00:38:18.450 align:middle line:84%
+Now everybody's starting
+to feel something
+
+00:38:18.450 --> 00:38:19.410 align:middle line:90%
+similar to what I felt.
+
+00:38:19.410 --> 00:38:21.077 align:middle line:84%
+>>NOORY: I've got a
+light bulb fixation.
+
+00:38:21.077 --> 00:38:23.150 align:middle line:84%
+If it's burned out, I
+have to have it replaced.
+
+00:38:23.150 --> 00:38:23.950 align:middle line:90%
+>>PADGETT: Right.
+
+00:38:23.950 --> 00:38:24.750 align:middle line:90%
+Right.
+
+00:38:24.750 --> 00:38:27.690 align:middle line:84%
+And all those things are
+different forms of compulsions
+
+00:38:27.690 --> 00:38:29.637 align:middle line:90%
+that we all feel.
+
+00:38:29.637 --> 00:38:31.470 align:middle line:84%
+And for me, it was just
+getting to the point
+
+00:38:31.470 --> 00:38:33.960 align:middle line:84%
+where I was a little bit
+more in control of them
+
+00:38:33.960 --> 00:38:36.960 align:middle line:84%
+instead of them being in control
+of me, because a lot of times,
+
+00:38:36.960 --> 00:38:38.790 align:middle line:84%
+I would feel something--
+like I wanted
+
+00:38:38.790 --> 00:38:41.730 align:middle line:84%
+to wash my hands constantly,
+and I knew it was silly,
+
+00:38:41.730 --> 00:38:44.070 align:middle line:84%
+but I would still feel
+the compulsion to do it.
+
+00:38:44.070 --> 00:38:46.590 align:middle line:84%
+And so what I did was
+desensitization therapy,
+
+00:38:46.590 --> 00:38:49.710 align:middle line:84%
+where like we would clean a
+doorknob with a bleach wipe.
+
+00:38:49.710 --> 00:38:51.720 align:middle line:84%
+And then I would make
+myself touch the doorknob
+
+00:38:51.720 --> 00:38:53.610 align:middle line:84%
+and touch my face because
+I know it's clean.
+
+00:38:53.610 --> 00:38:55.650 align:middle line:84%
+And surprisingly, it
+only takes a few days.
+
+00:38:55.650 --> 00:38:57.690 align:middle line:84%
+So if there's anybody
+that's suffering from OCD,
+
+00:38:57.690 --> 00:38:58.950 align:middle line:90%
+try that therapy.
+
+00:38:58.950 --> 00:39:01.260 align:middle line:84%
+You'd be surprised how
+much it can help you.
+
+00:39:01.260 --> 00:39:02.910 align:middle line:90%
+>>NOORY: What is the Bekenstein?
+
+00:39:02.910 --> 00:39:06.750 align:middle line:84%
+>>PADGETT: So the Bekenstein
+bound is the number of ways
+
+00:39:06.750 --> 00:39:10.020 align:middle line:84%
+that our universe
+can be reconfigured.
+
+00:39:10.020 --> 00:39:12.240 align:middle line:84%
+Imagine our universe,
+and our universe
+
+00:39:12.240 --> 00:39:14.220 align:middle line:84%
+is pixelated like a
+television screen,
+
+00:39:14.220 --> 00:39:16.170 align:middle line:84%
+only the pixels are
+very microscopic.
+
+00:39:16.170 --> 00:39:19.140 align:middle line:84%
+And the Bekenstein bound
+asks, how many ways can we
+
+00:39:19.140 --> 00:39:21.390 align:middle line:84%
+rearrange the pixels
+of our universe
+
+00:39:21.390 --> 00:39:25.530 align:middle line:84%
+to create a new and unique film
+or a new and unique timeline?
+
+00:39:25.530 --> 00:39:29.250 align:middle line:84%
+And the number is 2 to the
+10th to the 123rd power.
+
+00:39:29.250 --> 00:39:31.230 align:middle line:84%
+That's the number of
+ways that our universe
+
+00:39:31.230 --> 00:39:34.260 align:middle line:84%
+can be reconfigured to
+make a new timeline.
+
+00:39:34.260 --> 00:39:37.140 align:middle line:84%
+But in that-- but if you
+have that many big bangs,
+
+00:39:37.140 --> 00:39:39.030 align:middle line:84%
+then the pattern
+repeats, or if you go out
+
+00:39:39.030 --> 00:39:42.420 align:middle line:84%
+that many observable sized
+universes in our universe
+
+00:39:42.420 --> 00:39:44.790 align:middle line:84%
+now, if you just go out
+forever, eventually,
+
+00:39:44.790 --> 00:39:50.040 align:middle line:84%
+2 to the 10th power to 123rd
+universe is away from us,
+
+00:39:50.040 --> 00:39:51.330 align:middle line:90%
+the pattern will repeat also.
+
+00:39:51.330 --> 00:39:54.120 align:middle line:84%
+So the Bekenstein bound is
+just describing all the ways
+
+00:39:54.120 --> 00:39:56.670 align:middle line:84%
+that our universe
+can be reconfigured
+
+00:39:56.670 --> 00:39:58.050 align:middle line:90%
+to make a new and unique film.
+
+00:39:58.050 --> 00:40:00.630 align:middle line:84%
+>>NOORY: You have a book
+called "Struck by Genius."
+
+00:40:00.630 --> 00:40:01.585 align:middle line:90%
+Tell us about that.
+
+00:40:01.585 --> 00:40:03.210 align:middle line:84%
+>>PADGETT: Yeah, so
+"Struck by Genius,"
+
+00:40:03.210 --> 00:40:05.460 align:middle line:84%
+I was lucky enough to
+meet Maureen Seaberg.
+
+00:40:05.460 --> 00:40:10.890 align:middle line:84%
+She-- we met when I went to get
+these scans done in Finland.
+
+00:40:10.890 --> 00:40:12.480 align:middle line:90%
+And she writes books.
+
+00:40:12.480 --> 00:40:14.580 align:middle line:84%
+And she wound up
+writing the book for me.
+
+00:40:14.580 --> 00:40:16.350 align:middle line:90%
+And she did a fantastic job.
+
+00:40:16.350 --> 00:40:19.680 align:middle line:84%
+And it was an option to be made
+into a major motion picture.
+
+00:40:19.680 --> 00:40:21.360 align:middle line:84%
+>>NOORY: There are
+some people, Jason,
+
+00:40:21.360 --> 00:40:24.480 align:middle line:84%
+who believe we live in
+a holographic universe.
+
+00:40:24.480 --> 00:40:28.170 align:middle line:84%
+What's your take on that
+mathematically speaking?
+
+00:40:28.170 --> 00:40:30.870 align:middle line:84%
+>>PADGETT: I believe we do
+live in a holographic universe.
+
+00:40:30.870 --> 00:40:32.580 align:middle line:84%
+So the holographic
+universe principle
+
+00:40:32.580 --> 00:40:36.270 align:middle line:84%
+is describing how our
+reality is a projection,
+
+00:40:36.270 --> 00:40:38.130 align:middle line:84%
+like a hologram that
+is projected onto what
+
+00:40:38.130 --> 00:40:40.380 align:middle line:90%
+we call 4D flat spacetime.
+
+00:40:40.380 --> 00:40:42.480 align:middle line:84%
+But it's projected
+from black holes.
+
+00:40:42.480 --> 00:40:45.210 align:middle line:84%
+But one of the problems
+that we're having
+
+00:40:45.210 --> 00:40:46.860 align:middle line:90%
+is, where are the black holes?
+
+00:40:46.860 --> 00:40:48.840 align:middle line:84%
+And I think I have
+a solution that
+
+00:40:48.840 --> 00:40:53.220 align:middle line:84%
+may allow us to
+understand where they are
+
+00:40:53.220 --> 00:40:54.390 align:middle line:90%
+and why we don't see them.
+
+00:40:54.390 --> 00:40:56.670 align:middle line:84%
+>>NOORY: You're talking
+like a savant now.
+
+00:40:56.670 --> 00:40:58.170 align:middle line:84%
+>>PADGETT: Well,
+it's basically just
+
+00:40:58.170 --> 00:41:00.870 align:middle line:84%
+that black holes form
+in between the picture
+
+00:41:00.870 --> 00:41:01.963 align:middle line:90%
+frames of our universe.
+
+00:41:01.963 --> 00:41:03.630 align:middle line:84%
+If you think of our
+universe progressing
+
+00:41:03.630 --> 00:41:06.480 align:middle line:84%
+in time like a movie, in
+between the picture frames when
+
+00:41:06.480 --> 00:41:08.430 align:middle line:84%
+you can't observe any
+particles, they all
+
+00:41:08.430 --> 00:41:09.840 align:middle line:90%
+exist in superposition.
+
+00:41:09.840 --> 00:41:13.560 align:middle line:84%
+And wherever you have two
+photons or the energy of two
+
+00:41:13.560 --> 00:41:16.710 align:middle line:84%
+photons or more on one
+pixel of our universe,
+
+00:41:16.710 --> 00:41:18.630 align:middle line:84%
+it will by definition
+collapse into
+
+00:41:18.630 --> 00:41:20.520 align:middle line:90%
+a tiny microscopic black hole.
+
+00:41:20.520 --> 00:41:23.670 align:middle line:84%
+And that black hole will
+evaporate due to something
+
+00:41:23.670 --> 00:41:25.140 align:middle line:90%
+called Hawking radiation.
+
+00:41:25.140 --> 00:41:28.070 align:middle line:84%
+And that radiation
+imparts a vector
+
+00:41:28.070 --> 00:41:30.860 align:middle line:84%
+onto the pixel, which then
+describes the probability
+
+00:41:30.860 --> 00:41:32.330 align:middle line:90%
+of the wave function collapse.
+
+00:41:32.330 --> 00:41:33.997 align:middle line:84%
+And so the only thing
+that I'm coming up
+
+00:41:33.997 --> 00:41:36.860 align:middle line:84%
+with that is potentially
+new is the reason
+
+00:41:36.860 --> 00:41:38.990 align:middle line:84%
+why we see the effects
+of black holes,
+
+00:41:38.990 --> 00:41:42.410 align:middle line:84%
+but we don't see them is
+because they form and evaporate.
+
+00:41:42.410 --> 00:41:46.430 align:middle line:84%
+What we perceive as
+reality is the evaporation
+
+00:41:46.430 --> 00:41:48.980 align:middle line:84%
+of the black hole,
+so that then reform
+
+00:41:48.980 --> 00:41:50.960 align:middle line:84%
+again in between the
+next picture frames.
+
+00:41:50.960 --> 00:41:53.870 align:middle line:84%
+>>NOORY: How would you like
+to be remembered, Jason?
+
+00:41:53.870 --> 00:41:55.850 align:middle line:84%
+>>PADGETT: I would
+like to be remembered
+
+00:41:55.850 --> 00:42:00.110 align:middle line:84%
+in terms of helping people to
+understand or raise awareness
+
+00:42:00.110 --> 00:42:03.470 align:middle line:84%
+that all of us think
+we don't like math.
+
+00:42:03.470 --> 00:42:06.890 align:middle line:84%
+And I understand the
+courses are difficult.
+
+00:42:06.890 --> 00:42:09.770 align:middle line:84%
+And reading those books,
+they can be monotonous.
+
+00:42:09.770 --> 00:42:12.320 align:middle line:84%
+But if you do it the right
+way, even if you just
+
+00:42:12.320 --> 00:42:15.140 align:middle line:84%
+want to understand it, if
+you look at it geometrically,
+
+00:42:15.140 --> 00:42:18.140 align:middle line:84%
+I've talked to tens of thousands
+of people over the years.
+
+00:42:18.140 --> 00:42:19.790 align:middle line:84%
+And almost all of
+them get nervous
+
+00:42:19.790 --> 00:42:21.165 align:middle line:84%
+when we start
+talking about math.
+
+00:42:21.165 --> 00:42:22.790 align:middle line:84%
+But once we spend
+5 or 10 minutes,
+
+00:42:22.790 --> 00:42:25.340 align:middle line:84%
+they're completely
+engaged because everybody
+
+00:42:25.340 --> 00:42:28.663 align:middle line:84%
+can understand it if it's
+shown to them the proper way.
+
+00:42:28.663 --> 00:42:30.080 align:middle line:84%
+And that's what I
+would like to do
+
+00:42:30.080 --> 00:42:33.140 align:middle line:84%
+is just show everybody
+you can understand it.
+
+00:42:33.140 --> 00:42:35.243 align:middle line:84%
+It's just it needs to
+be in a language, which
+
+00:42:35.243 --> 00:42:37.160 align:middle line:84%
+is visual, which is how
+we all live our lives.
+
+00:42:37.160 --> 00:42:38.835 align:middle line:84%
+We don't live our
+lives with equations.
+
+00:42:38.835 --> 00:42:40.460 align:middle line:84%
+>>NOORY: How do people
+get ahold of you
+
+00:42:40.460 --> 00:42:42.033 align:middle line:90%
+if they want to contact you?
+
+00:42:42.033 --> 00:42:43.700 align:middle line:84%
+>>PADGETT: If people
+want to contact me,
+
+00:42:43.700 --> 00:42:45.968 align:middle line:84%
+one good way is on
+Fine Art America.
+
+00:42:45.968 --> 00:42:47.510 align:middle line:84%
+I have a lot of my
+drawings on there.
+
+00:42:47.510 --> 00:42:49.010 align:middle line:84%
+People contact me
+on email there,
+
+00:42:49.010 --> 00:42:51.770 align:middle line:84%
+or find me on Twitter or
+Facebook and friend me.
+
+00:42:51.770 --> 00:42:54.000 align:middle line:84%
+I have met so many
+amazing people
+
+00:42:54.000 --> 00:42:56.130 align:middle line:90%
+over the years from online.
+
+00:42:56.130 --> 00:42:58.755 align:middle line:84%
+So if you're watching,
+feel free to contact me.
+
+00:42:58.755 --> 00:43:00.480 align:middle line:84%
+>>NOORY: If you
+turn the clock back,
+
+00:43:00.480 --> 00:43:02.670 align:middle line:84%
+would you want this to
+happen to you again?
+
+00:43:02.670 --> 00:43:04.890 align:middle line:84%
+>>PADGETT: I would not
+change this for the world.
+
+00:43:04.890 --> 00:43:07.258 align:middle line:84%
+It was in the long
+run by far the best
+
+00:43:07.258 --> 00:43:08.550 align:middle line:90%
+thing that ever happened to me.
+
+00:43:08.550 --> 00:43:09.120 align:middle line:90%
+>>NOORY: Really?
+
+00:43:09.120 --> 00:43:10.037 align:middle line:90%
+>>PADGETT: Absolutely.
+
+00:43:10.037 --> 00:43:11.280 align:middle line:90%
+I met my wife because of it.
+
+00:43:11.280 --> 00:43:12.360 align:middle line:90%
+My children exist.
+
+00:43:12.360 --> 00:43:13.980 align:middle line:84%
+If I hadn't gotten mugged,
+I wouldn't have met my wife.
+
+00:43:13.980 --> 00:43:15.210 align:middle line:90%
+My kids wouldn't be here.
+
+00:43:15.210 --> 00:43:19.050 align:middle line:84%
+I wouldn't have this
+newfound love and fascination
+
+00:43:19.050 --> 00:43:21.840 align:middle line:84%
+for the world that I
+didn't have before.
+
+00:43:21.840 --> 00:43:25.980 align:middle line:84%
+My life has changed so
+much, and so much of it now
+
+00:43:25.980 --> 00:43:29.802 align:middle line:84%
+is for the better than that
+the negatives are unimportant.
+
+00:43:29.802 --> 00:43:31.260 align:middle line:84%
+>>NOORY: And you
+found forgiveness.
+
+00:43:31.260 --> 00:43:32.710 align:middle line:90%
+>>PADGETT: Absolutely.
+
+00:43:32.710 --> 00:43:35.492 align:middle line:84%
+I was surprised, because for
+years, I hated those guys.
+
+00:43:35.492 --> 00:43:37.950 align:middle line:84%
+I mean, I must have killed them
+in my head a million times.
+
+00:43:37.950 --> 00:43:38.460 align:middle line:90%
+>>NOORY: Who would blame you?
+
+00:43:38.460 --> 00:43:38.970 align:middle line:90%
+>>PADGETT: Right.
+
+00:43:38.970 --> 00:43:40.797 align:middle line:84%
+It was like I had so
+much anger and I've
+
+00:43:40.797 --> 00:43:41.880 align:middle line:90%
+gone through so much pain.
+
+00:43:41.880 --> 00:43:45.720 align:middle line:84%
+But when he contacted me,
+it just like melted away.
+
+00:43:45.720 --> 00:43:48.552 align:middle line:84%
+I realized that he
+had a rough life.
+
+00:43:48.552 --> 00:43:50.760 align:middle line:84%
+And when I heard about what
+had happened to him right
+
+00:43:50.760 --> 00:43:53.040 align:middle line:84%
+before that and that he
+had turned his life around,
+
+00:43:53.040 --> 00:43:54.690 align:middle line:84%
+and he turned his
+life around not
+
+00:43:54.690 --> 00:43:56.085 align:middle line:90%
+because he felt obligated to.
+
+00:43:56.085 --> 00:43:57.960 align:middle line:84%
+He turned his life around
+before he found out
+
+00:43:57.960 --> 00:43:59.335 align:middle line:84%
+anything that had
+happened to me,
+
+00:43:59.335 --> 00:44:01.410 align:middle line:84%
+because he wanted to
+be a better person.
+
+00:44:01.410 --> 00:44:02.820 align:middle line:90%
+And I can understand that.
+
+00:44:02.820 --> 00:44:05.865 align:middle line:90%
+I was a silly teenager.
+
+00:44:05.865 --> 00:44:09.240 align:middle line:84%
+And I can remember some of the
+stupid things that I thought.
+
+00:44:09.240 --> 00:44:11.027 align:middle line:90%
+And he completely changed.
+
+00:44:11.027 --> 00:44:13.110 align:middle line:84%
+>>NOORY: Jason, thanks for
+being on Beyond Belief.
+
+00:44:13.110 --> 00:44:13.530 align:middle line:90%
+>>PADGETT: Thank you.
+
+00:44:13.530 --> 00:44:15.210 align:middle line:84%
+>>NOORY: You're a
+fascinating individual.
+
+00:44:15.210 --> 00:44:16.210 align:middle line:90%
+>>PADGETT: I enjoyed it.
+
+00:44:16.210 --> 00:44:18.420 align:middle line:84%
+>>NOORY: And I wish you all
+the success in the world.
+
+00:44:18.420 --> 00:44:18.990 align:middle line:90%
+>>PADGETT: Thank you.
+
+00:44:18.990 --> 00:44:20.430 align:middle line:90%
+>>NOORY: Fascinating person.
+
+00:44:20.430 --> 00:44:22.620 align:middle line:84%
+Would you want to go
+through what he went through
+
+00:44:22.620 --> 00:44:24.060 align:middle line:90%
+to become a savant?
+
+00:44:24.060 --> 00:44:25.950 align:middle line:90%
+Most of us would say no.
+
+00:44:25.950 --> 00:44:27.690 align:middle line:90%
+But look at the results.
+
+00:44:27.690 --> 00:44:29.370 align:middle line:84%
+Thanks for watching
+Beyond Belief.
+
+00:44:29.370 --> 00:44:33.020 align:middle line:90%
+[THEME MUSIC]
+
+00:44:33.020 --> 00:44:35.000 align:middle line:90%

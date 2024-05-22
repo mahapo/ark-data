@@ -1,0 +1,4704 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.960 align:middle line:90%
+
+
+00:00:04.960 --> 00:00:13.366 align:middle line:10%
+[THEME MUSIC]
+
+00:00:13.366 --> 00:00:14.610 align:middle line:10%
+>>Welcome back.
+
+00:00:14.610 --> 00:00:17.510 align:middle line:10%
+This is our third hour of
+the Ubuntu Contributionism
+
+00:00:17.510 --> 00:00:18.310 align:middle line:10%
+workshop.
+
+00:00:18.310 --> 00:00:21.060 align:middle line:10%
+And we continue
+where we left off,
+
+00:00:21.060 --> 00:00:24.580 align:middle line:10%
+with the wise words of
+Wolfgang Goethe that
+
+00:00:24.580 --> 00:00:29.270 align:middle line:10%
+said, "None are more enslaved
+than those who falsely believe
+
+00:00:29.270 --> 00:00:30.210 align:middle line:10%
+they are free."
+
+00:00:30.210 --> 00:00:33.450 align:middle line:84%
+And the emphasis there was on
+falsely-- because as we know,
+
+00:00:33.450 --> 00:00:35.680 align:middle line:84%
+most of us live
+under the illusion
+
+00:00:35.680 --> 00:00:38.370 align:middle line:84%
+that we are free, when
+everything around us
+
+00:00:38.370 --> 00:00:39.270 align:middle line:90%
+is just tightening.
+
+00:00:39.270 --> 00:00:41.220 align:middle line:84%
+More and more laws
+are being created
+
+00:00:41.220 --> 00:00:42.940 align:middle line:84%
+every month, every
+year, every week,
+
+00:00:42.940 --> 00:00:46.210 align:middle line:84%
+that curb our rights
+and our freedom.
+
+00:00:46.210 --> 00:00:48.710 align:middle line:84%
+These are the laws created by
+the governments and the people
+
+00:00:48.710 --> 00:00:51.420 align:middle line:84%
+we put into positions
+of authority--
+
+00:00:51.420 --> 00:00:54.170 align:middle line:84%
+our slaves, our
+servants that are
+
+00:00:54.170 --> 00:00:55.650 align:middle line:90%
+supposed to serve us, right?
+
+00:00:55.650 --> 00:00:57.780 align:middle line:84%
+And these servants
+are making laws
+
+00:00:57.780 --> 00:01:02.920 align:middle line:84%
+that constantly curtail
+and decrease our rights
+
+00:01:02.920 --> 00:01:04.980 align:middle line:90%
+and our freedoms.
+
+00:01:04.980 --> 00:01:06.560 align:middle line:84%
+So something is
+clearly wrong there,
+
+00:01:06.560 --> 00:01:08.670 align:middle line:84%
+and there's very little
+we can do about it
+
+00:01:08.670 --> 00:01:10.604 align:middle line:90%
+except create a new alternative.
+
+00:01:10.604 --> 00:01:12.020 align:middle line:84%
+And that's what
+this is all about,
+
+00:01:12.020 --> 00:01:14.360 align:middle line:90%
+is creating a new alternative.
+
+00:01:14.360 --> 00:01:17.320 align:middle line:84%
+And we were just talking
+about closing bank accounts
+
+00:01:17.320 --> 00:01:19.540 align:middle line:90%
+and keeping your money.
+
+00:01:19.540 --> 00:01:23.810 align:middle line:84%
+Cyprus was a great example--
+how the banking system can just
+
+00:01:23.810 --> 00:01:24.990 align:middle line:90%
+do what they want.
+
+00:01:24.990 --> 00:01:27.370 align:middle line:84%
+The banks just can
+get away with crimes.
+
+00:01:27.370 --> 00:01:28.980 align:middle line:90%
+No one gets prosecuted.
+
+00:01:28.980 --> 00:01:30.530 align:middle line:90%
+Nobody sees the courtroom.
+
+00:01:30.530 --> 00:01:33.330 align:middle line:84%
+And they just keep doing
+this, over and over again.
+
+00:01:33.330 --> 00:01:38.010 align:middle line:84%
+So what this false
+belief of freedom does
+
+00:01:38.010 --> 00:01:42.650 align:middle line:84%
+is, it has turned our planet
+into a planet of brands,
+
+00:01:42.650 --> 00:01:46.420 align:middle line:84%
+corporations, and where
+people seek careers,
+
+00:01:46.420 --> 00:01:48.880 align:middle line:84%
+where jobs are
+promised to people.
+
+00:01:48.880 --> 00:01:54.690 align:middle line:84%
+Jobs means nothing more,
+nothing less than being a slave.
+
+00:01:54.690 --> 00:01:57.800 align:middle line:84%
+Every time we hear a politician
+talk about, oh, we're
+
+00:01:57.800 --> 00:02:01.240 align:middle line:84%
+going to create a million more
+jobs, all they're really saying
+
+00:02:01.240 --> 00:02:03.550 align:middle line:84%
+is, we're going to create
+a million more slaves.
+
+00:02:03.550 --> 00:02:06.250 align:middle line:84%
+Because when you're no
+longer needed, you get
+
+00:02:06.250 --> 00:02:07.310 align:middle line:90%
+kicked out on the street.
+
+00:02:07.310 --> 00:02:10.030 align:middle line:84%
+And then you're jobless
+and homeless again,
+
+00:02:10.030 --> 00:02:13.420 align:middle line:84%
+and you start looking
+for another job.
+
+00:02:13.420 --> 00:02:17.620 align:middle line:84%
+So this is the illusion that
+gets shoved in our face.
+
+00:02:17.620 --> 00:02:19.800 align:middle line:84%
+The banksters own
+the corporations,
+
+00:02:19.800 --> 00:02:22.310 align:middle line:84%
+and the corporations
+rule the world.
+
+00:02:22.310 --> 00:02:24.360 align:middle line:84%
+That's what our
+world has become.
+
+00:02:24.360 --> 00:02:28.710 align:middle line:84%
+It's incredible that
+corporations have more rights
+
+00:02:28.710 --> 00:02:31.270 align:middle line:84%
+than living, breathing
+human beings.
+
+00:02:31.270 --> 00:02:33.860 align:middle line:84%
+That's what our entire
+legal system has become.
+
+00:02:33.860 --> 00:02:37.740 align:middle line:84%
+That's what I learned in my
+own trials and tribulations
+
+00:02:37.740 --> 00:02:41.030 align:middle line:84%
+in the Supreme Court in South
+Africa, in Johannesburg.
+
+00:02:41.030 --> 00:02:43.250 align:middle line:84%
+When I went up
+against the banks,
+
+00:02:43.250 --> 00:02:45.317 align:middle line:84%
+it becomes very obvious
+to you that that's
+
+00:02:45.317 --> 00:02:46.900 align:middle line:84%
+all about the
+corporations-- upholding
+
+00:02:46.900 --> 00:02:48.200 align:middle line:90%
+the rights of the corporations.
+
+00:02:48.200 --> 00:02:50.500 align:middle line:84%
+Our courts have
+got nothing to do
+
+00:02:50.500 --> 00:02:53.720 align:middle line:84%
+with upholding the rights of
+living, breathing human beings.
+
+00:02:53.720 --> 00:02:59.470 align:middle line:84%
+It's procedure, red tape,
+bureaucracy, and making sure
+
+00:02:59.470 --> 00:03:01.760 align:middle line:90%
+that corporations survive.
+
+00:03:01.760 --> 00:03:06.410 align:middle line:84%
+So when you try and move
+from one country to another,
+
+00:03:06.410 --> 00:03:11.280 align:middle line:84%
+just keep comparing the
+rights between human beings
+
+00:03:11.280 --> 00:03:12.950 align:middle line:90%
+and corporations.
+
+00:03:12.950 --> 00:03:17.090 align:middle line:84%
+If you try and move to
+Australia or Germany, forget it.
+
+00:03:17.090 --> 00:03:18.970 align:middle line:84%
+It's just-- it's
+virtually possible
+
+00:03:18.970 --> 00:03:20.980 align:middle line:84%
+to move to another
+country today.
+
+00:03:20.980 --> 00:03:21.780 align:middle line:90%
+Right?
+
+00:03:21.780 --> 00:03:24.210 align:middle line:84%
+Especially people trying
+to move to the USA.
+
+00:03:24.210 --> 00:03:27.165 align:middle line:84%
+It's very, very
+difficult to immigrate
+
+00:03:27.165 --> 00:03:29.510 align:middle line:90%
+or to move to another country.
+
+00:03:29.510 --> 00:03:33.046 align:middle line:84%
+There are so many restrictions,
+and laws, and hurdles.
+
+00:03:33.046 --> 00:03:35.420 align:middle line:84%
+But if you want to move your
+company to another country--
+
+00:03:35.420 --> 00:03:36.300 align:middle line:90%
+oh, my boy.
+
+00:03:36.300 --> 00:03:37.760 align:middle line:90%
+Of course, welcome.
+
+00:03:37.760 --> 00:03:40.810 align:middle line:84%
+Please move your company
+into our country,
+
+00:03:40.810 --> 00:03:43.530 align:middle line:84%
+because you're going to
+create more slaves for us.
+
+00:03:43.530 --> 00:03:44.630 align:middle line:90%
+Right?
+
+00:03:44.630 --> 00:03:47.210 align:middle line:84%
+This is incredible,
+how corporations
+
+00:03:47.210 --> 00:03:50.780 align:middle line:84%
+can move across borders,
+virtually overnight,
+
+00:03:50.780 --> 00:03:52.810 align:middle line:90%
+but people can't do that.
+
+00:03:52.810 --> 00:03:57.070 align:middle line:84%
+Every time I get to a
+border, especially when
+
+00:03:57.070 --> 00:04:00.110 align:middle line:84%
+you're driving up to borders and
+you pull up at the border post,
+
+00:04:00.110 --> 00:04:01.920 align:middle line:84%
+and you sit there
+waiting to cross.
+
+00:04:01.920 --> 00:04:04.700 align:middle line:84%
+And you see all
+these cars lining up,
+
+00:04:04.700 --> 00:04:06.780 align:middle line:84%
+and people crossing
+and having to fill
+
+00:04:06.780 --> 00:04:08.800 align:middle line:84%
+in all these papers,
+and passports,
+
+00:04:08.800 --> 00:04:11.770 align:middle line:90%
+and this stressful situation.
+
+00:04:11.770 --> 00:04:13.340 align:middle line:84%
+And then you look
+out of the window
+
+00:04:13.340 --> 00:04:16.461 align:middle line:84%
+and you see these
+birds flying across,
+
+00:04:16.461 --> 00:04:18.839 align:middle line:90%
+from one side to the other.
+
+00:04:18.839 --> 00:04:21.920 align:middle line:84%
+And you go, are
+you getting them?
+
+00:04:21.920 --> 00:04:23.950 align:middle line:90%
+They're crossing illegally, man.
+
+00:04:23.950 --> 00:04:26.090 align:middle line:90%
+Get that bird.
+
+00:04:26.090 --> 00:04:29.880 align:middle line:84%
+It's like you
+realize the insanity
+
+00:04:29.880 --> 00:04:33.790 align:middle line:84%
+of this, these synthetic
+lines drawn in the sand.
+
+00:04:33.790 --> 00:04:35.290 align:middle line:84%
+And we're not allowed
+to cross them,
+
+00:04:35.290 --> 00:04:38.050 align:middle line:84%
+when this is supposed
+to be our planet.
+
+00:04:38.050 --> 00:04:40.970 align:middle line:84%
+What this really
+points to is the fact
+
+00:04:40.970 --> 00:04:45.070 align:middle line:84%
+that this thing called money
+has infiltrated every crack
+
+00:04:45.070 --> 00:04:47.640 align:middle line:90%
+and crevice of our existence.
+
+00:04:47.640 --> 00:04:51.190 align:middle line:84%
+And when people don't get
+it, it's difficult for them
+
+00:04:51.190 --> 00:04:54.680 align:middle line:84%
+to understand what it is that
+we have to deal with, to free
+
+00:04:54.680 --> 00:04:56.570 align:middle line:90%
+ourselves from the slavery.
+
+00:04:56.570 --> 00:05:00.130 align:middle line:84%
+Again, like we discussed
+before, until we
+
+00:05:00.130 --> 00:05:02.260 align:middle line:84%
+deal with the issue
+of money, we're
+
+00:05:02.260 --> 00:05:04.400 align:middle line:84%
+never going to
+solve the problems.
+
+00:05:04.400 --> 00:05:07.350 align:middle line:84%
+Every aspect of our lives--
+from the first breath we take,
+
+00:05:07.350 --> 00:05:09.710 align:middle line:84%
+until the last breath
+we breathe out--
+
+00:05:09.710 --> 00:05:13.040 align:middle line:84%
+even after you breathe
+out your last breath,
+
+00:05:13.040 --> 00:05:15.340 align:middle line:90%
+the money still controls you.
+
+00:05:15.340 --> 00:05:18.480 align:middle line:84%
+The bankers and the financial
+institutions, the insurance
+
+00:05:18.480 --> 00:05:21.400 align:middle line:84%
+companies, and the government--
+you need death certificates.
+
+00:05:21.400 --> 00:05:23.950 align:middle line:84%
+You need this and that before
+you can cremate somebody.
+
+00:05:23.950 --> 00:05:25.450 align:middle line:84%
+There has to be a
+death certificate.
+
+00:05:25.450 --> 00:05:28.340 align:middle line:84%
+All these kind of certificates
+and shuffling of papers,
+
+00:05:28.340 --> 00:05:31.930 align:middle line:84%
+and you need money to
+bury your dead these days.
+
+00:05:31.930 --> 00:05:34.330 align:middle line:84%
+We can't even bury our
+loved ones with dignity
+
+00:05:34.330 --> 00:05:38.020 align:middle line:84%
+without the governments and
+corporations getting involved.
+
+00:05:38.020 --> 00:05:41.620 align:middle line:84%
+It's a complete insanity,
+how this has been distorted.
+
+00:05:41.620 --> 00:05:49.200 align:middle line:84%
+This thing of believing that we
+are free needs to be addressed.
+
+00:05:49.200 --> 00:05:53.170 align:middle line:84%
+And the people that still run
+around saying that-- I'm free,
+
+00:05:53.170 --> 00:05:56.930 align:middle line:84%
+I can do what I want-- live in
+a complete and utter illusion.
+
+00:05:56.930 --> 00:06:04.010 align:middle line:84%
+This was one of my favorite
+images from Occupy Wall Street.
+
+00:06:04.010 --> 00:06:06.490 align:middle line:84%
+When the food runs
+out, we can just
+
+00:06:06.490 --> 00:06:12.640 align:middle line:84%
+go and eat the fat bankers--
+emphasis on fat bankers.
+
+00:06:12.640 --> 00:06:15.820 align:middle line:84%
+But again, we've got to stop
+pointing fingers, like we said.
+
+00:06:15.820 --> 00:06:22.160 align:middle line:84%
+We've got to really thank these
+banking institutions and some
+
+00:06:22.160 --> 00:06:24.850 align:middle line:84%
+of the ignorant politicians
+for showing us the way,
+
+00:06:24.850 --> 00:06:26.600 align:middle line:84%
+that this is not what
+we want to be doing.
+
+00:06:26.600 --> 00:06:28.420 align:middle line:90%
+This is not how we want to live.
+
+00:06:28.420 --> 00:06:32.370 align:middle line:84%
+I recently had
+spent an afternoon
+
+00:06:32.370 --> 00:06:34.420 align:middle line:84%
+with the CEO of one of
+the four major banks
+
+00:06:34.420 --> 00:06:36.670 align:middle line:84%
+in South Africa, who
+happens to be the neighbor
+
+00:06:36.670 --> 00:06:37.980 align:middle line:90%
+of a good friend of mine.
+
+00:06:37.980 --> 00:06:41.150 align:middle line:84%
+So my friend Dave said, hey,
+let me invite so-and-so.
+
+00:06:41.150 --> 00:06:42.970 align:middle line:84%
+I'm not going to
+mention names, too.
+
+00:06:42.970 --> 00:06:47.130 align:middle line:84%
+And we got together and watched
+some rugby over some beers,
+
+00:06:47.130 --> 00:06:47.930 align:middle line:90%
+in the afternoon.
+
+00:06:47.930 --> 00:06:50.535 align:middle line:84%
+And he had no idea who
+I was and what I did.
+
+00:06:50.535 --> 00:06:52.410 align:middle line:84%
+He didn't know that two
+months prior to that,
+
+00:06:52.410 --> 00:06:54.520 align:middle line:84%
+I was petitioning
+outside his bank
+
+00:06:54.520 --> 00:06:57.710 align:middle line:84%
+with the march against the
+banks, calling him a coward
+
+00:06:57.710 --> 00:07:01.820 align:middle line:84%
+and calling him to come
+outside and face the crowd.
+
+00:07:01.820 --> 00:07:03.590 align:middle line:84%
+And he never came
+outside, obviously.
+
+00:07:03.590 --> 00:07:07.710 align:middle line:84%
+They sent people to receive
+the petitions, and so forth.
+
+00:07:07.710 --> 00:07:12.110 align:middle line:84%
+So nevertheless,
+what that taught me,
+
+00:07:12.110 --> 00:07:14.290 align:middle line:84%
+however, is that even
+the CEO of a bank
+
+00:07:14.290 --> 00:07:16.590 align:middle line:90%
+has no idea how things work.
+
+00:07:16.590 --> 00:07:18.770 align:middle line:84%
+Because I asked him, how
+did you get this job?
+
+00:07:18.770 --> 00:07:20.650 align:middle line:84%
+How did you land up
+in this position?
+
+00:07:20.650 --> 00:07:23.470 align:middle line:84%
+And he was the CEO of a
+major financial institution,
+
+00:07:23.470 --> 00:07:28.500 align:middle line:84%
+like KPMG or one of these big
+financial accounting firms.
+
+00:07:28.500 --> 00:07:30.415 align:middle line:84%
+And those guys have
+got no clue how money
+
+00:07:30.415 --> 00:07:31.540 align:middle line:90%
+works, where it comes from.
+
+00:07:31.540 --> 00:07:34.760 align:middle line:84%
+They just know how to
+shuffle numbers and push
+
+00:07:34.760 --> 00:07:35.810 align:middle line:90%
+pieces of paper around.
+
+00:07:35.810 --> 00:07:41.220 align:middle line:84%
+So that's how they headhunt
+CEOs and senior management
+
+00:07:41.220 --> 00:07:43.930 align:middle line:84%
+for banks, these days--
+people with huge egos, people
+
+00:07:43.930 --> 00:07:46.430 align:middle line:84%
+who believe they're doing an
+important job because they know
+
+00:07:46.430 --> 00:07:47.910 align:middle line:90%
+how to control and manage money.
+
+00:07:47.910 --> 00:07:50.510 align:middle line:84%
+But they actually have no
+idea how money is created,
+
+00:07:50.510 --> 00:07:53.490 align:middle line:84%
+where it comes
+from, how it works.
+
+00:07:53.490 --> 00:07:55.740 align:middle line:84%
+They just know the
+rules and regulations
+
+00:07:55.740 --> 00:07:58.245 align:middle line:84%
+that they were taught at
+school, at accounting school,
+
+00:07:58.245 --> 00:08:01.365 align:middle line:84%
+or economic school, of
+Bachelor of Commerce school,
+
+00:08:01.365 --> 00:08:06.040 align:middle line:84%
+or all these accounting
+and financial degrees that
+
+00:08:06.040 --> 00:08:10.410 align:middle line:84%
+have been created to create
+a whole new generation
+
+00:08:10.410 --> 00:08:13.740 align:middle line:84%
+of brainwashed people that
+believe they're doing something
+
+00:08:13.740 --> 00:08:15.610 align:middle line:90%
+good for society.
+
+00:08:15.610 --> 00:08:18.660 align:middle line:84%
+So I realized that this poor
+guy was just doing a job,
+
+00:08:18.660 --> 00:08:23.080 align:middle line:84%
+and that my anger or
+frustration at him
+
+00:08:23.080 --> 00:08:25.290 align:middle line:90%
+was completely misplaced.
+
+00:08:25.290 --> 00:08:29.260 align:middle line:84%
+And it was a big wake-up
+call for me, as well.
+
+00:08:29.260 --> 00:08:34.590 align:middle line:84%
+And so most of the people
+in the corporations that we
+
+00:08:34.590 --> 00:08:38.530 align:middle line:84%
+hold accountable for making our
+lives miserable-- politicians
+
+00:08:38.530 --> 00:08:42.080 align:middle line:84%
+included-- most of them
+are completely clueless how
+
+00:08:42.080 --> 00:08:43.130 align:middle line:90%
+things actually work.
+
+00:08:43.130 --> 00:08:45.510 align:middle line:84%
+And many people in
+politics actually
+
+00:08:45.510 --> 00:08:47.220 align:middle line:84%
+go into politics
+believing-- because they
+
+00:08:47.220 --> 00:08:49.660 align:middle line:84%
+want to do something good,
+just like people that join
+
+00:08:49.660 --> 00:08:50.924 align:middle line:90%
+the police force or the army.
+
+00:08:50.924 --> 00:08:53.090 align:middle line:84%
+They believe they're going
+to come and go and defend
+
+00:08:53.090 --> 00:08:56.940 align:middle line:84%
+their country, or fight
+evil, or protect the people
+
+00:08:56.940 --> 00:08:58.704 align:middle line:90%
+against criminals and so forth.
+
+00:08:58.704 --> 00:09:00.370 align:middle line:84%
+And then they get
+trapped in the system,
+
+00:09:00.370 --> 00:09:02.980 align:middle line:84%
+and they have to abide and
+follow rules, and follow
+
+00:09:02.980 --> 00:09:04.355 align:middle line:90%
+protocol and procedure.
+
+00:09:04.355 --> 00:09:05.980 align:middle line:84%
+And if they don't,
+then they get fired.
+
+00:09:05.980 --> 00:09:09.270 align:middle line:84%
+And then they start
+fearing losing their job
+
+00:09:09.270 --> 00:09:13.540 align:middle line:84%
+and protecting their
+families, so they just
+
+00:09:13.540 --> 00:09:17.210 align:middle line:84%
+follow orders and follow
+rules, and irrespective of
+
+00:09:17.210 --> 00:09:18.710 align:middle line:84%
+whether they know
+that it's actually
+
+00:09:18.710 --> 00:09:24.620 align:middle line:84%
+harming their neighbors or
+the members of their society.
+
+00:09:24.620 --> 00:09:27.270 align:middle line:84%
+So the historic
+resistance to money
+
+00:09:27.270 --> 00:09:29.740 align:middle line:90%
+goes back thousands of years.
+
+00:09:29.740 --> 00:09:31.690 align:middle line:90%
+It's not something new.
+
+00:09:31.690 --> 00:09:35.820 align:middle line:84%
+Just a few examples of what
+happened in the past-- Julius
+
+00:09:35.820 --> 00:09:39.260 align:middle line:84%
+Caesar, in 48 BC,
+he did exactly that.
+
+00:09:39.260 --> 00:09:40.422 align:middle line:90%
+He did what JFK did.
+
+00:09:40.422 --> 00:09:41.630 align:middle line:90%
+He did what Adolf Hitler did.
+
+00:09:41.630 --> 00:09:46.410 align:middle line:84%
+He did what a lot of more recent
+politicians and leaders did.
+
+00:09:46.410 --> 00:09:50.700 align:middle line:84%
+He took away the right from the
+money changers to coin money,
+
+00:09:50.700 --> 00:09:53.250 align:middle line:84%
+and he minted coins for
+the benefit of all--
+
+00:09:53.250 --> 00:09:56.380 align:middle line:84%
+and with this state bank,
+if you want to call it that,
+
+00:09:56.380 --> 00:10:00.190 align:middle line:84%
+created public works and made
+Rome a very powerful state.
+
+00:10:00.190 --> 00:10:02.540 align:middle line:84%
+Well, the bankers didn't
+like that, just the way
+
+00:10:02.540 --> 00:10:05.971 align:middle line:84%
+they didn't like what JFK did
+or what Abraham Lincoln did.
+
+00:10:05.971 --> 00:10:08.470 align:middle line:84%
+They didn't like it, and you
+know what the consequences are,
+
+00:10:08.470 --> 00:10:12.150 align:middle line:90%
+and what the consequences were.
+
+00:10:12.150 --> 00:10:14.390 align:middle line:84%
+We all know what happened
+to Julius Caesar.
+
+00:10:14.390 --> 00:10:19.120 align:middle line:84%
+And that was pretty much the
+fall of the Roman Empire,
+
+00:10:19.120 --> 00:10:19.920 align:middle line:90%
+after that.
+
+00:10:19.920 --> 00:10:22.520 align:middle line:10%
+It started to go into demise
+
+00:10:22.520 --> 00:10:25.310 align:middle line:10%
+This is a very
+interesting one-- 1225,
+
+00:10:25.310 --> 00:10:28.960 align:middle line:10%
+St Thomas Aquinas said that
+the charging of interest
+
+00:10:28.960 --> 00:10:32.620 align:middle line:10%
+is wrong, because it applies
+to double-charging-- charging
+
+00:10:32.620 --> 00:10:35.580 align:middle line:10%
+for both the money and
+the use of the money.
+
+00:10:35.580 --> 00:10:38.140 align:middle line:10%
+And the church law
+in the Middle Ages,
+
+00:10:38.140 --> 00:10:41.530 align:middle line:10%
+Europe, forbade the charging
+of interest on loans,
+
+00:10:41.530 --> 00:10:44.750 align:middle line:10%
+and even made it a
+crime called usury.
+
+00:10:44.750 --> 00:10:48.550 align:middle line:84%
+So it's really interesting to
+see how the church got involved
+
+00:10:48.550 --> 00:10:50.890 align:middle line:84%
+in the issuing and
+the use of money,
+
+00:10:50.890 --> 00:10:52.660 align:middle line:90%
+at that period of our history.
+
+00:10:52.660 --> 00:10:56.450 align:middle line:84%
+And then this very
+popular character,
+
+00:10:56.450 --> 00:10:59.780 align:middle line:84%
+Jesus, or Jeshua, or
+Issa-- several names
+
+00:10:59.780 --> 00:11:01.430 align:middle line:90%
+by which he was known.
+
+00:11:01.430 --> 00:11:05.310 align:middle line:84%
+Whoever this particular
+individual may have been,
+
+00:11:05.310 --> 00:11:08.410 align:middle line:84%
+and whatever he means to
+many people around the world,
+
+00:11:08.410 --> 00:11:11.910 align:middle line:84%
+one of the famous incidents
+is when he apparently
+
+00:11:11.910 --> 00:11:15.070 align:middle line:84%
+chased out the bankers or the
+money changers from the temple.
+
+00:11:15.070 --> 00:11:19.660 align:middle line:84%
+One of the few moments, or
+periods, or events of his life
+
+00:11:19.660 --> 00:11:22.130 align:middle line:84%
+where he probably showed
+violence or became violent
+
+00:11:22.130 --> 00:11:23.500 align:middle line:90%
+with other individuals.
+
+00:11:23.500 --> 00:11:25.730 align:middle line:90%
+It was with the bankers.
+
+00:11:25.730 --> 00:11:27.940 align:middle line:84%
+And think about what
+we read in here.
+
+00:11:27.940 --> 00:11:29.320 align:middle line:90%
+Read between the lines.
+
+00:11:29.320 --> 00:11:32.280 align:middle line:84%
+The bankers in the
+temple-- because this
+
+00:11:32.280 --> 00:11:35.820 align:middle line:84%
+is really, really significant--
+the bankers in the temple,
+
+00:11:35.820 --> 00:11:38.280 align:middle line:84%
+and this goes back
+thousands of years,
+
+00:11:38.280 --> 00:11:42.260 align:middle line:84%
+that the original bankers were
+actually the royal priests
+
+00:11:42.260 --> 00:11:43.270 align:middle line:90%
+and the kings.
+
+00:11:43.270 --> 00:11:46.810 align:middle line:84%
+And the first banks
+were their temples.
+
+00:11:46.810 --> 00:11:50.350 align:middle line:84%
+But I'll go into
+that in more detail.
+
+00:11:50.350 --> 00:11:52.170 align:middle line:84%
+This here, for
+the United States,
+
+00:11:52.170 --> 00:11:54.990 align:middle line:84%
+especially, is
+really significant.
+
+00:11:54.990 --> 00:11:57.430 align:middle line:84%
+Thomas Jefferson-- one
+of the founding fathers--
+
+00:11:57.430 --> 00:12:00.000 align:middle line:84%
+said at that stage,
+already, that, "I
+
+00:12:00.000 --> 00:12:02.420 align:middle line:84%
+believe that banking
+institutions are
+
+00:12:02.420 --> 00:12:05.780 align:middle line:84%
+more dangerous to our
+liberties than standing armies.
+
+00:12:05.780 --> 00:12:09.070 align:middle line:84%
+If the American people
+ever allow private banks,"
+
+00:12:09.070 --> 00:12:11.830 align:middle line:90%
+private banks, not state banks.
+
+00:12:11.830 --> 00:12:14.240 align:middle line:84%
+Private banks,
+right? "Private banks
+
+00:12:14.240 --> 00:12:16.780 align:middle line:84%
+to control the issue
+of their currency,
+
+00:12:16.780 --> 00:12:19.700 align:middle line:84%
+first by inflation,
+then by deflation,
+
+00:12:19.700 --> 00:12:22.020 align:middle line:84%
+the banks and the
+corporations that will grow up
+
+00:12:22.020 --> 00:12:25.510 align:middle line:84%
+around the banks will deprive
+the people of all property
+
+00:12:25.510 --> 00:12:28.910 align:middle line:84%
+until their children wake
+up homeless on the continent
+
+00:12:28.910 --> 00:12:30.570 align:middle line:90%
+their fathers conquered."
+
+00:12:30.570 --> 00:12:33.170 align:middle line:84%
+This is exactly
+what has happened.
+
+00:12:33.170 --> 00:12:35.730 align:middle line:84%
+Private banks
+muscled their way in,
+
+00:12:35.730 --> 00:12:38.600 align:middle line:84%
+and the War of Independence
+here in the United States
+
+00:12:38.600 --> 00:12:41.940 align:middle line:84%
+was all about the control of
+the money, the implementation
+
+00:12:41.940 --> 00:12:44.700 align:middle line:84%
+of the private Rothschild
+banking system,
+
+00:12:44.700 --> 00:12:47.550 align:middle line:84%
+against the State
+Bank that created
+
+00:12:47.550 --> 00:12:49.300 align:middle line:84%
+abundance for the
+people, and prosperity
+
+00:12:49.300 --> 00:12:51.730 align:middle line:84%
+for the people of
+the United States.
+
+00:12:51.730 --> 00:12:54.090 align:middle line:84%
+This is really an
+important statement
+
+00:12:54.090 --> 00:12:58.340 align:middle line:84%
+in the history of
+modern Western world.
+
+00:12:58.340 --> 00:13:03.280 align:middle line:10%
+And then JFK, 1963-- seven
+days before his assassination.
+
+00:13:03.280 --> 00:13:07.070 align:middle line:10%
+"There's a plot in this country
+to enslave every man, woman,
+
+00:13:07.070 --> 00:13:08.010 align:middle line:10%
+and child.
+
+00:13:08.010 --> 00:13:09.990 align:middle line:10%
+Before I leave this
+high and noble office,
+
+00:13:09.990 --> 00:13:12.190 align:middle line:10%
+I intend to expose this plot."
+
+00:13:12.190 --> 00:13:13.090 align:middle line:90%
+OK.
+
+00:13:13.090 --> 00:13:16.540 align:middle line:84%
+But just prior to this,
+what he did-- he actually
+
+00:13:16.540 --> 00:13:19.490 align:middle line:84%
+issued what became known
+as the United States
+
+00:13:19.490 --> 00:13:22.690 align:middle line:84%
+notes, where he stopped
+the Fed from printing money
+
+00:13:22.690 --> 00:13:26.840 align:middle line:84%
+and started printing money for
+the people, by the people--
+
+00:13:26.840 --> 00:13:28.810 align:middle line:84%
+in essence, if you
+can call it that.
+
+00:13:28.810 --> 00:13:31.880 align:middle line:84%
+And that pretty much, I believe,
+led to his assassination.
+
+00:13:31.880 --> 00:13:34.746 align:middle line:84%
+Remember, the bankers
+are behind all the wars.
+
+00:13:34.746 --> 00:13:36.120 align:middle line:84%
+They are behind
+all the conflict.
+
+00:13:36.120 --> 00:13:39.390 align:middle line:84%
+They're behind the invasions,
+bringing down governments.
+
+00:13:39.390 --> 00:13:45.520 align:middle line:84%
+This is a very obvious plan
+of action by the bankers--
+
+00:13:45.520 --> 00:13:47.970 align:middle line:84%
+the global elite that
+control the supply of money,
+
+00:13:47.970 --> 00:13:49.680 align:middle line:90%
+that control our governments.
+
+00:13:49.680 --> 00:13:52.940 align:middle line:10%
+So when President J.F.
+Kennedy wrote and signed
+
+00:13:52.940 --> 00:13:57.360 align:middle line:10%
+the executive order 11110
+on the 4th of June, 1963,
+
+00:13:57.360 --> 00:14:00.930 align:middle line:10%
+which ordered the US Treasury
+to issue a new public currency,
+
+00:14:00.930 --> 00:14:03.480 align:middle line:10%
+the United States
+note, he essentially
+
+00:14:03.480 --> 00:14:04.690 align:middle line:10%
+signed his own death warrant.
+
+00:14:04.690 --> 00:14:08.460 align:middle line:10%
+And six months later, he
+was assassinated in Dallas.
+
+00:14:08.460 --> 00:14:11.620 align:middle line:84%
+This is how these
+banking families do it.
+
+00:14:11.620 --> 00:14:14.920 align:middle line:84%
+I might as well tell you right
+now, if you don't know it yet,
+
+00:14:14.920 --> 00:14:20.060 align:middle line:84%
+the global financial institution
+is the largest organized crime
+
+00:14:20.060 --> 00:14:22.390 align:middle line:90%
+syndicate in the world.
+
+00:14:22.390 --> 00:14:23.735 align:middle line:90%
+It's really as simple as that.
+
+00:14:23.735 --> 00:14:25.360 align:middle line:84%
+But they get away
+with it, because they
+
+00:14:25.360 --> 00:14:26.840 align:middle line:90%
+control the governments.
+
+00:14:26.840 --> 00:14:28.112 align:middle line:90%
+They make the laws.
+
+00:14:28.112 --> 00:14:30.320 align:middle line:84%
+And they issue the money
+that control the governments
+
+00:14:30.320 --> 00:14:32.810 align:middle line:90%
+and can control the judiciary.
+
+00:14:32.810 --> 00:14:37.850 align:middle line:84%
+This is the United States
+note that was not the Federal
+
+00:14:37.850 --> 00:14:40.590 align:middle line:90%
+Reserve note-- big difference.
+
+00:14:40.590 --> 00:14:43.970 align:middle line:84%
+About four billion of these
+notes went into circulation.
+
+00:14:43.970 --> 00:14:45.950 align:middle line:84%
+But unfortunately,
+JFK paid the price.
+
+00:14:45.950 --> 00:14:48.257 align:middle line:84%
+Now, I believe that if he
+was more vocal about it,
+
+00:14:48.257 --> 00:14:50.590 align:middle line:84%
+if he was telling the American
+people what he was doing,
+
+00:14:50.590 --> 00:14:52.510 align:middle line:84%
+everybody would have
+stood behind him.
+
+00:14:52.510 --> 00:14:54.270 align:middle line:90%
+But it was pretty much a secret.
+
+00:14:54.270 --> 00:14:55.860 align:middle line:90%
+Nobody knew about it.
+
+00:14:55.860 --> 00:14:58.560 align:middle line:84%
+Nobody knew the
+difference, at that stage.
+
+00:14:58.560 --> 00:15:00.289 align:middle line:90%
+People were just oblivious.
+
+00:15:00.289 --> 00:15:01.830 align:middle line:84%
+If you went out and
+said, we're going
+
+00:15:01.830 --> 00:15:04.045 align:middle line:84%
+to issue our own money-- we're
+going to shut down the Fed
+
+00:15:04.045 --> 00:15:05.160 align:middle line:84%
+and issue our own
+money-- he would
+
+00:15:05.160 --> 00:15:06.690 align:middle line:90%
+have had everybody on his side.
+
+00:15:06.690 --> 00:15:10.250 align:middle line:84%
+That would not have necessarily
+prevented the assassination,
+
+00:15:10.250 --> 00:15:13.360 align:middle line:84%
+but it would have made
+it a lot more obvious.
+
+00:15:13.360 --> 00:15:16.210 align:middle line:84%
+And people would not think that
+it was some crazy guy called
+
+00:15:16.210 --> 00:15:18.920 align:middle line:90%
+Lee Harvey Oswald, right?
+
+00:15:18.920 --> 00:15:25.090 align:middle line:84%
+A lone gunman with a magic gun,
+and all that hogwash that had
+
+00:15:25.090 --> 00:15:26.880 align:middle line:90%
+been shoved down our throats.
+
+00:15:26.880 --> 00:15:30.230 align:middle line:84%
+So this whole thing about money
+is really fascinating when
+
+00:15:30.230 --> 00:15:33.390 align:middle line:84%
+you start asking, well, where
+does money actually come from?
+
+00:15:33.390 --> 00:15:36.620 align:middle line:84%
+This is where most people's
+knowledge and information
+
+00:15:36.620 --> 00:15:38.580 align:middle line:90%
+hits the wall.
+
+00:15:38.580 --> 00:15:41.450 align:middle line:84%
+Very few people actually
+have any clue or idea
+
+00:15:41.450 --> 00:15:43.830 align:middle line:90%
+where money really comes from.
+
+00:15:43.830 --> 00:15:47.630 align:middle line:84%
+This is a huge,
+huge wake-up call.
+
+00:15:47.630 --> 00:15:51.700 align:middle line:84%
+So the origins of money-- when
+and how did it get so bad?
+
+00:15:51.700 --> 00:15:53.630 align:middle line:84%
+What was the first
+money created?
+
+00:15:53.630 --> 00:15:56.120 align:middle line:84%
+How did it come into
+existence and creation?
+
+00:15:56.120 --> 00:15:59.470 align:middle line:84%
+And this really
+challenges our knowledge
+
+00:15:59.470 --> 00:16:03.840 align:middle line:84%
+about origins of humankind and
+the really murky and mysterious
+
+00:16:03.840 --> 00:16:06.260 align:middle line:84%
+history that we face
+as the human race.
+
+00:16:06.260 --> 00:16:10.370 align:middle line:84%
+And the critical information
+about the origins of money
+
+00:16:10.370 --> 00:16:13.450 align:middle line:84%
+comes to us from the Sumerian
+texts, the Sumerian tablets,
+
+00:16:13.450 --> 00:16:15.800 align:middle line:84%
+and especially
+these two here, that
+
+00:16:15.800 --> 00:16:17.790 align:middle line:90%
+are known as the King's Lists.
+
+00:16:17.790 --> 00:16:20.360 align:middle line:84%
+They give us a lot of
+information about the earliest
+
+00:16:20.360 --> 00:16:25.440 align:middle line:84%
+kings, the first kings, and
+the control of the world
+
+00:16:25.440 --> 00:16:26.890 align:middle line:90%
+and a lot of other information.
+
+00:16:26.890 --> 00:16:31.560 align:middle line:84%
+But it, in essence, tells
+us about a time when kingdom
+
+00:16:31.560 --> 00:16:33.370 align:middle line:84%
+was lowered to
+Earth from heaven,
+
+00:16:33.370 --> 00:16:36.280 align:middle line:84%
+and the first kings
+and priest kings
+
+00:16:36.280 --> 00:16:38.090 align:middle line:90%
+were appointed by the gods.
+
+00:16:38.090 --> 00:16:41.130 align:middle line:84%
+Now, what this was and
+who these gods were
+
+00:16:41.130 --> 00:16:43.180 align:middle line:84%
+is a whole other
+debate, so we're not
+
+00:16:43.180 --> 00:16:44.570 align:middle line:90%
+going to dwell on that.
+
+00:16:44.570 --> 00:16:47.090 align:middle line:84%
+But basically, this
+tells us that there
+
+00:16:47.090 --> 00:16:50.410 align:middle line:84%
+was a time in history-- and
+the Sumerian texts, as we know,
+
+00:16:50.410 --> 00:16:54.590 align:middle line:84%
+still remain the oldest written
+record of human history.
+
+00:16:54.590 --> 00:16:57.110 align:middle line:84%
+And there are millions
+of clay tablets,
+
+00:16:57.110 --> 00:16:59.680 align:middle line:84%
+and hundreds of thousands
+have been translated.
+
+00:16:59.680 --> 00:17:01.680 align:middle line:84%
+And they all tell
+us the same stories,
+
+00:17:01.680 --> 00:17:04.030 align:middle line:84%
+or they give us a
+lot of information.
+
+00:17:04.030 --> 00:17:08.079 align:middle line:84%
+But there's a recurring
+story about these gods
+
+00:17:08.079 --> 00:17:10.630 align:middle line:84%
+that were causing
+havoc on planet Earth,
+
+00:17:10.630 --> 00:17:13.619 align:middle line:84%
+and especially in
+the land of Sumer,
+
+00:17:13.619 --> 00:17:16.270 align:middle line:84%
+and interacting with
+the Sumerian people.
+
+00:17:16.270 --> 00:17:19.569 align:middle line:84%
+And it tells us that
+there was a time
+
+00:17:19.569 --> 00:17:22.920 align:middle line:84%
+that the royal bloodline
+suddenly emerged on Earth,
+
+00:17:22.920 --> 00:17:26.579 align:middle line:84%
+and that these priest kings,
+these first priest kings,
+
+00:17:26.579 --> 00:17:31.980 align:middle line:84%
+were actually appointed and took
+on this role and the control
+
+00:17:31.980 --> 00:17:32.780 align:middle line:90%
+of humanity.
+
+00:17:32.780 --> 00:17:36.060 align:middle line:84%
+So the first priest kings
+were appointed by the gods,
+
+00:17:36.060 --> 00:17:37.940 align:middle line:84%
+and we suddenly
+see the appearance
+
+00:17:37.940 --> 00:17:39.990 align:middle line:84%
+of the royal
+political bloodlines.
+
+00:17:39.990 --> 00:17:41.950 align:middle line:84%
+This goes back,
+thousands of years back.
+
+00:17:41.950 --> 00:17:45.870 align:middle line:84%
+And these elite bloodlines
+took control of the world.
+
+00:17:45.870 --> 00:17:48.830 align:middle line:84%
+And then suddenly,
+they had all this money
+
+00:17:48.830 --> 00:17:51.510 align:middle line:90%
+and they owned all the land.
+
+00:17:51.510 --> 00:17:53.875 align:middle line:84%
+The whole idea of
+royalty and where
+
+00:17:53.875 --> 00:17:57.650 align:middle line:84%
+do kings and royalty comes
+from, is a great mystery.
+
+00:17:57.650 --> 00:17:59.740 align:middle line:84%
+Well, the Sumerian texts
+tell us very clearly
+
+00:17:59.740 --> 00:18:01.640 align:middle line:84%
+where the royal
+bloodlines come from,
+
+00:18:01.640 --> 00:18:04.430 align:middle line:84%
+and that they were given
+fierce weapons, and knowledge
+
+00:18:04.430 --> 00:18:07.460 align:middle line:84%
+of alchemy, and weaponry,
+and sorcery, or whatever,
+
+00:18:07.460 --> 00:18:09.710 align:middle line:84%
+with which to
+control the people.
+
+00:18:09.710 --> 00:18:12.520 align:middle line:84%
+And obviously, they must
+have had serious knowledge
+
+00:18:12.520 --> 00:18:16.427 align:middle line:84%
+of this advanced technology,
+in those days, because they
+
+00:18:16.427 --> 00:18:18.010 align:middle line:84%
+did control the
+people, and the people
+
+00:18:18.010 --> 00:18:19.860 align:middle line:84%
+feared them and they
+feared for their lives.
+
+00:18:19.860 --> 00:18:22.470 align:middle line:84%
+Otherwise, they would
+have never obeyed them.
+
+00:18:22.470 --> 00:18:25.240 align:middle line:84%
+So this is the origins
+of the royal bloodlines.
+
+00:18:25.240 --> 00:18:29.220 align:middle line:84%
+And these are the guys that have
+passed down the royal bloodline
+
+00:18:29.220 --> 00:18:31.750 align:middle line:90%
+control for thousands of years.
+
+00:18:31.750 --> 00:18:33.320 align:middle line:84%
+And the banking
+families are part
+
+00:18:33.320 --> 00:18:36.510 align:middle line:84%
+of this ancient royal
+bloodline, that run and control
+
+00:18:36.510 --> 00:18:37.880 align:middle line:90%
+the world today.
+
+00:18:37.880 --> 00:18:41.290 align:middle line:84%
+Real estate-- we use the
+word in English, real estate.
+
+00:18:41.290 --> 00:18:43.730 align:middle line:84%
+Well, in French it's a
+much better description--
+
+00:18:43.730 --> 00:18:44.650 align:middle line:90%
+real, royale.
+
+00:18:44.650 --> 00:18:45.940 align:middle line:90%
+Royal estate.
+
+00:18:45.940 --> 00:18:50.090 align:middle line:84%
+It belongs to the
+royalty-- royal estate.
+
+00:18:50.090 --> 00:18:54.150 align:middle line:90%
+In English it loses its meaning.
+
+00:18:54.150 --> 00:18:55.939 align:middle line:84%
+So the origins of
+money-- this is
+
+00:18:55.939 --> 00:18:58.480 align:middle line:84%
+one of the oldest forms of money
+that I've been able to find,
+
+00:18:58.480 --> 00:19:02.220 align:middle line:84%
+and it comes in the
+form of a clay tablet.
+
+00:19:02.220 --> 00:19:07.770 align:middle line:84%
+It's probably the oldest bill of
+exchange that we have on record
+
+00:19:07.770 --> 00:19:11.740 align:middle line:84%
+today-- a 4,000-year-old
+bill of exchange.
+
+00:19:11.740 --> 00:19:13.540 align:middle line:84%
+What this tells us
+is the banks have
+
+00:19:13.540 --> 00:19:17.060 align:middle line:84%
+been doing the same thing
+for at least 4,000 years--
+
+00:19:17.060 --> 00:19:21.330 align:middle line:84%
+creating bills of exchange,
+making money out of nothing,
+
+00:19:21.330 --> 00:19:25.830 align:middle line:84%
+fresh air-- just taking a piece
+of clay, stamping some letters
+
+00:19:25.830 --> 00:19:26.630 align:middle line:90%
+on it.
+
+00:19:26.630 --> 00:19:29.010 align:middle line:84%
+Because remember, in
+the ancient times,
+
+00:19:29.010 --> 00:19:30.900 align:middle line:90%
+people didn't know how to write.
+
+00:19:30.900 --> 00:19:32.500 align:middle line:84%
+Only the royalty
+knew how to write.
+
+00:19:32.500 --> 00:19:33.500 align:middle line:90%
+They had scribes.
+
+00:19:33.500 --> 00:19:35.590 align:middle line:84%
+Only written material
+ever came out
+
+00:19:35.590 --> 00:19:38.714 align:middle line:84%
+of the royal palaces and the
+temples, with the scribes.
+
+00:19:38.714 --> 00:19:40.630 align:middle line:84%
+The average people didn't
+know how to do that.
+
+00:19:40.630 --> 00:19:43.850 align:middle line:84%
+So they couldn't even read,
+and they could be lied to
+
+00:19:43.850 --> 00:19:45.300 align:middle line:90%
+and manipulated.
+
+00:19:45.300 --> 00:19:48.690 align:middle line:84%
+So this is how far back
+this control of money goes.
+
+00:19:48.690 --> 00:19:51.980 align:middle line:84%
+It's a spectacular awakening
+when we start seeing this.
+
+00:19:51.980 --> 00:19:56.960 align:middle line:84%
+With a sleight of hand,
+oh, this is very important.
+
+00:19:56.960 --> 00:19:58.460 align:middle line:84%
+As you see, this
+piece of clay here,
+
+00:19:58.460 --> 00:20:02.810 align:middle line:84%
+it's got the seal of the King,
+the seal of the high priest,
+
+00:20:02.810 --> 00:20:04.470 align:middle line:90%
+and the seal of whoever.
+
+00:20:04.470 --> 00:20:06.344 align:middle line:90%
+And this is very important.
+
+00:20:06.344 --> 00:20:08.010 align:middle line:84%
+And that's the same
+thing goes on today.
+
+00:20:08.010 --> 00:20:10.210 align:middle line:84%
+At least in the
+ancient times, they
+
+00:20:10.210 --> 00:20:12.520 align:middle line:84%
+created the bills of
+exchange out of clay.
+
+00:20:12.520 --> 00:20:16.000 align:middle line:84%
+At least they can
+survive a fire.
+
+00:20:16.000 --> 00:20:19.650 align:middle line:84%
+It gets preserved when it gets
+exposed to fire-- you bake it,
+
+00:20:19.650 --> 00:20:21.080 align:middle line:90%
+gets stronger.
+
+00:20:21.080 --> 00:20:23.710 align:middle line:84%
+In today's pieces of
+paper, they burn up
+
+00:20:23.710 --> 00:20:26.550 align:middle line:84%
+and they disappear
+into nothingness.
+
+00:20:26.550 --> 00:20:28.704 align:middle line:84%
+Today, our banks
+do the same thing.
+
+00:20:28.704 --> 00:20:30.120 align:middle line:84%
+They take an empty
+piece of paper.
+
+00:20:30.120 --> 00:20:32.350 align:middle line:84%
+They write a bunch
+of fancy stuff on it,
+
+00:20:32.350 --> 00:20:35.280 align:middle line:84%
+a bunch of nonsense, put some
+fancy logos and stamps on it,
+
+00:20:35.280 --> 00:20:38.090 align:middle line:84%
+and suddenly an empty piece
+of paper is worth $20 billion.
+
+00:20:38.090 --> 00:20:40.920 align:middle line:90%
+Wow, that's magic.
+
+00:20:40.920 --> 00:20:43.040 align:middle line:84%
+And that's exactly
+how they do it.
+
+00:20:43.040 --> 00:20:47.180 align:middle line:84%
+So this is very important
+for us to digest.
+
+00:20:47.180 --> 00:20:51.940 align:middle line:84%
+Money was maliciously introduced
+as a tool of enslavement.
+
+00:20:51.940 --> 00:20:54.890 align:middle line:84%
+This seems to be the
+moment that this happened,
+
+00:20:54.890 --> 00:20:58.810 align:middle line:84%
+in these ancient times-- when
+the first royal bloodlines were
+
+00:20:58.810 --> 00:21:01.640 align:middle line:84%
+introduced, when these
+first priest-kings suddenly
+
+00:21:01.640 --> 00:21:04.740 align:middle line:84%
+appear and control the
+planet, control the world,
+
+00:21:04.740 --> 00:21:07.410 align:middle line:84%
+and suddenly have these
+temples filled of money,
+
+00:21:07.410 --> 00:21:11.360 align:middle line:84%
+or the ability to create money
+and control all the land.
+
+00:21:11.360 --> 00:21:13.210 align:middle line:84%
+And the people had
+to work for the kings
+
+00:21:13.210 --> 00:21:17.090 align:middle line:84%
+and earn money so they could
+pay taxes to the kings,
+
+00:21:17.090 --> 00:21:20.130 align:middle line:84%
+because suddenly the
+kings owned all the land.
+
+00:21:20.130 --> 00:21:25.020 align:middle line:84%
+So this is the one point
+that people will probably
+
+00:21:25.020 --> 00:21:28.320 align:middle line:84%
+argue with you, when they first
+come across this information,
+
+00:21:28.320 --> 00:21:32.280 align:middle line:84%
+because most of us are
+under the misconception
+
+00:21:32.280 --> 00:21:34.870 align:middle line:84%
+that money is a
+consequence of thousands
+
+00:21:34.870 --> 00:21:36.650 align:middle line:90%
+of years of barter and trade.
+
+00:21:36.650 --> 00:21:38.020 align:middle line:90%
+And that is a lie.
+
+00:21:38.020 --> 00:21:40.600 align:middle line:90%
+That is not true.
+
+00:21:40.600 --> 00:21:43.990 align:middle line:84%
+Money was maliciously introduced
+as a tool of enslavement.
+
+00:21:43.990 --> 00:21:48.220 align:middle line:84%
+That is its only pure
+intent, is to enslave people.
+
+00:21:48.220 --> 00:21:50.660 align:middle line:84%
+Instead of having
+chains and whips,
+
+00:21:50.660 --> 00:21:52.390 align:middle line:90%
+you have a thing called money.
+
+00:21:52.390 --> 00:21:55.820 align:middle line:84%
+That becomes the
+tool of enslavement.
+
+00:21:55.820 --> 00:21:58.950 align:middle line:84%
+And I mentioned
+previously that the most
+
+00:21:58.950 --> 00:22:01.760 align:middle line:84%
+recent archaeological
+discoveries and the conclusions
+
+00:22:01.760 --> 00:22:07.380 align:middle line:84%
+actually support exactly this--
+that people in ancient towns,
+
+00:22:07.380 --> 00:22:09.380 align:middle line:84%
+and ancient cultures,
+and ancient villagers
+
+00:22:09.380 --> 00:22:11.340 align:middle line:90%
+did not barter and trade.
+
+00:22:11.340 --> 00:22:14.550 align:middle line:84%
+They lived in harmonious
+Ubuntu kind of communities,
+
+00:22:14.550 --> 00:22:17.290 align:middle line:84%
+where they shared everything,
+where they created abundance
+
+00:22:17.290 --> 00:22:19.090 align:middle line:90%
+for everyone in the community.
+
+00:22:19.090 --> 00:22:22.090 align:middle line:84%
+The bartering and trading
+was a slow development,
+
+00:22:22.090 --> 00:22:24.630 align:middle line:84%
+and a consequence of people
+moving around and traveling
+
+00:22:24.630 --> 00:22:28.140 align:middle line:84%
+and then spending the
+night, being looked after,
+
+00:22:28.140 --> 00:22:31.220 align:middle line:84%
+and giving being given food
+and shelter for the night,
+
+00:22:31.220 --> 00:22:34.860 align:middle line:84%
+and then feeling--
+out of gratitude,
+
+00:22:34.860 --> 00:22:38.180 align:middle line:84%
+leaving behind a horse
+or something of value
+
+00:22:38.180 --> 00:22:40.930 align:middle line:84%
+that they felt had
+value to the people
+
+00:22:40.930 --> 00:22:42.740 align:middle line:90%
+that offered them hospitality.
+
+00:22:42.740 --> 00:22:48.020 align:middle line:84%
+So money did not evolve
+out of barter and trade.
+
+00:22:48.020 --> 00:22:50.100 align:middle line:84%
+The first kings
+owned all the land.
+
+00:22:50.100 --> 00:22:53.150 align:middle line:84%
+They were the first
+bankers, and the temples
+
+00:22:53.150 --> 00:22:55.100 align:middle line:90%
+were the first banks.
+
+00:22:55.100 --> 00:22:59.000 align:middle line:84%
+So this is where we
+find the global elite
+
+00:22:59.000 --> 00:23:03.850 align:middle line:84%
+and the rise of the central
+banks-- the global control.
+
+00:23:03.850 --> 00:23:07.060 align:middle line:84%
+Some people, some researchers,
+call it the Babylonian Magic
+
+00:23:07.060 --> 00:23:08.990 align:middle line:90%
+Money Slavery System.
+
+00:23:08.990 --> 00:23:12.640 align:middle line:84%
+It was created exactly for
+that purpose-- somehow imbued
+
+00:23:12.640 --> 00:23:15.580 align:middle line:84%
+with some sort of black
+magic that has turned people
+
+00:23:15.580 --> 00:23:18.490 align:middle line:90%
+into mumbling idiots, often.
+
+00:23:18.490 --> 00:23:20.180 align:middle line:90%
+Look what money does to people.
+
+00:23:20.180 --> 00:23:21.750 align:middle line:90%
+It makes some people go crazy.
+
+00:23:21.750 --> 00:23:23.680 align:middle line:90%
+It makes people commit murder.
+
+00:23:23.680 --> 00:23:26.580 align:middle line:84%
+It makes people kill their
+families, kill their friends,
+
+00:23:26.580 --> 00:23:28.550 align:middle line:84%
+kill their partners--
+makes people
+
+00:23:28.550 --> 00:23:31.430 align:middle line:84%
+commit horrendous crimes,
+because of this thing called
+
+00:23:31.430 --> 00:23:32.830 align:middle line:90%
+money.
+
+00:23:32.830 --> 00:23:34.760 align:middle line:90%
+It's tainted with blood.
+
+00:23:34.760 --> 00:23:37.290 align:middle line:84%
+And this is what we
+need to get away from.
+
+00:23:37.290 --> 00:23:42.010 align:middle line:84%
+So what do these central
+private banks do?
+
+00:23:42.010 --> 00:23:44.110 align:middle line:84%
+Remember that they are
+private corporations.
+
+00:23:44.110 --> 00:23:48.420 align:middle line:84%
+These private corporations,
+just like in ancient times,
+
+00:23:48.420 --> 00:23:50.450 align:middle line:90%
+create money out of thin air.
+
+00:23:50.450 --> 00:23:52.430 align:middle line:10%
+They have the exclusive
+rights to do this.
+
+00:23:52.430 --> 00:23:55.620 align:middle line:10%
+If you and I go
+and create money,
+
+00:23:55.620 --> 00:23:57.040 align:middle line:10%
+it's called counterfeiting.
+
+00:23:57.040 --> 00:23:57.840 align:middle line:90%
+Right?
+
+00:23:57.840 --> 00:24:00.160 align:middle line:84%
+And we go to jail
+for life for that.
+
+00:24:00.160 --> 00:24:05.010 align:middle line:84%
+Wow, it's incredible how
+they skew the legal system
+
+00:24:05.010 --> 00:24:06.710 align:middle line:84%
+for the benefit
+of those that have
+
+00:24:06.710 --> 00:24:09.020 align:middle line:90%
+retained this exclusive right.
+
+00:24:09.020 --> 00:24:10.060 align:middle line:90%
+We can't do that.
+
+00:24:10.060 --> 00:24:11.900 align:middle line:90%
+And yet, we can.
+
+00:24:11.900 --> 00:24:14.230 align:middle line:84%
+There are ways of creating
+your own promissory notes.
+
+00:24:14.230 --> 00:24:17.420 align:middle line:84%
+There are ways of doing it so
+that it becomes a legal tender.
+
+00:24:17.420 --> 00:24:20.190 align:middle line:84%
+But then you've got to know
+a little bit more about it.
+
+00:24:20.190 --> 00:24:21.900 align:middle line:84%
+I'm not going to
+delve into this,
+
+00:24:21.900 --> 00:24:26.320 align:middle line:84%
+or spend time on this in this
+workshop because, in a way,
+
+00:24:26.320 --> 00:24:30.310 align:middle line:84%
+it's playing back into the hands
+of those that create the money.
+
+00:24:30.310 --> 00:24:32.570 align:middle line:84%
+We don't want to use
+their money or anything
+
+00:24:32.570 --> 00:24:35.650 align:middle line:84%
+resembling their money-- any
+form of trade or exchange.
+
+00:24:35.650 --> 00:24:37.130 align:middle line:90%
+We need to move away from that.
+
+00:24:37.130 --> 00:24:39.370 align:middle line:84%
+As long as we've got
+pieces of paper or anything
+
+00:24:39.370 --> 00:24:40.810 align:middle line:84%
+that we're sharing
+and exchanging,
+
+00:24:40.810 --> 00:24:43.660 align:middle line:84%
+we have an opportunity
+for somebody
+
+00:24:43.660 --> 00:24:47.560 align:middle line:84%
+to abuse that and use it against
+us, or against the people.
+
+00:24:47.560 --> 00:24:49.850 align:middle line:84%
+Somebody is going to
+devise a scheme, somehow,
+
+00:24:49.850 --> 00:24:55.790 align:middle line:84%
+to use those tools of
+exchange against the people,
+
+00:24:55.790 --> 00:24:57.540 align:middle line:90%
+for their own personal benefit.
+
+00:24:57.540 --> 00:25:00.340 align:middle line:84%
+That's, unfortunately,
+what happens.
+
+00:25:00.340 --> 00:25:03.820 align:middle line:84%
+Because it creates
+that scarcity,
+
+00:25:03.820 --> 00:25:07.216 align:middle line:84%
+and demand, and
+value, and that's
+
+00:25:07.216 --> 00:25:08.340 align:middle line:90%
+what we need to break down.
+
+00:25:08.340 --> 00:25:12.260 align:middle line:84%
+So it's critical
+to also recognize
+
+00:25:12.260 --> 00:25:15.950 align:middle line:84%
+that these private corporations
+called central banks that
+
+00:25:15.950 --> 00:25:19.010 align:middle line:84%
+control the other
+banks-- central banks is
+
+00:25:19.010 --> 00:25:22.250 align:middle line:84%
+like the Federal Reserve
+System, Federal Reserve
+
+00:25:22.250 --> 00:25:28.020 align:middle line:84%
+Bank in the USA-- these guys
+control all the other banks.
+
+00:25:28.020 --> 00:25:32.400 align:middle line:84%
+And there's this interesting
+relationship between the banks
+
+00:25:32.400 --> 00:25:35.170 align:middle line:84%
+that you go walk into
+on the street, and then
+
+00:25:35.170 --> 00:25:36.120 align:middle line:90%
+the central banks.
+
+00:25:36.120 --> 00:25:40.940 align:middle line:84%
+And they try and mask their
+relationship very carefully.
+
+00:25:40.940 --> 00:25:43.360 align:middle line:84%
+Remember, the entire
+money banking system
+
+00:25:43.360 --> 00:25:45.350 align:middle line:90%
+is a giant Ponzi scheme.
+
+00:25:45.350 --> 00:25:47.600 align:middle line:84%
+It's layers and
+layers of deception,
+
+00:25:47.600 --> 00:25:51.100 align:middle line:84%
+to make it look very complicated
+and very difficult to break
+
+00:25:51.100 --> 00:25:52.880 align:middle line:84%
+through the veneer,
+to really figure out,
+
+00:25:52.880 --> 00:25:53.810 align:middle line:90%
+well, who's behind it?
+
+00:25:53.810 --> 00:25:54.890 align:middle line:90%
+Who's really in control?
+
+00:25:54.890 --> 00:25:55.690 align:middle line:90%
+Who owns who?
+
+00:25:55.690 --> 00:25:56.700 align:middle line:90%
+Who owns what?
+
+00:25:56.700 --> 00:25:59.580 align:middle line:84%
+Because it is so
+deeply convoluted
+
+00:25:59.580 --> 00:26:03.580 align:middle line:84%
+that it's very difficult to
+really get to the root of who's
+
+00:26:03.580 --> 00:26:04.380 align:middle line:90%
+really behind it.
+
+00:26:04.380 --> 00:26:05.890 align:middle line:84%
+But what we know
+is that there are
+
+00:26:05.890 --> 00:26:08.110 align:middle line:84%
+a number of banking
+families that are behind all
+
+00:26:08.110 --> 00:26:09.360 align:middle line:90%
+of this global control.
+
+00:26:09.360 --> 00:26:12.600 align:middle line:10%
+The Rothschilds really sit
+at the top of the pile,
+
+00:26:12.600 --> 00:26:15.500 align:middle line:10%
+on the global banking control.
+
+00:26:15.500 --> 00:26:17.430 align:middle line:10%
+The rest of you, you
+know well by now,
+
+00:26:17.430 --> 00:26:20.400 align:middle line:10%
+I'm sure, the Rockefellers,
+the Morgans, the Carnegies,
+
+00:26:20.400 --> 00:26:23.290 align:middle line:10%
+the Schiffs, the Harriman, the
+Warburgs, the Vanderbilts--
+
+00:26:23.290 --> 00:26:26.800 align:middle line:10%
+and there are a number of
+other families in this pecking
+
+00:26:26.800 --> 00:26:28.870 align:middle line:10%
+order that go from
+the United States,
+
+00:26:28.870 --> 00:26:31.640 align:middle line:10%
+to Europe, and to China,
+right across the world.
+
+00:26:31.640 --> 00:26:33.660 align:middle line:90%
+And these guys run the world.
+
+00:26:33.660 --> 00:26:35.910 align:middle line:90%
+They control the world.
+
+00:26:35.910 --> 00:26:37.770 align:middle line:84%
+They own all of the
+banks in the world--
+
+00:26:37.770 --> 00:26:39.930 align:middle line:84%
+all the central banks
+and all the other banks.
+
+00:26:39.930 --> 00:26:42.840 align:middle line:84%
+Somehow, somewhere, they
+always have control.
+
+00:26:42.840 --> 00:26:46.310 align:middle line:84%
+And the little banks that they
+don't control, in essence,
+
+00:26:46.310 --> 00:26:48.380 align:middle line:84%
+are really completely
+ineffective.
+
+00:26:48.380 --> 00:26:49.690 align:middle line:90%
+And they don't really matter.
+
+00:26:49.690 --> 00:26:53.250 align:middle line:84%
+They cannot-- they have no
+impact on the greater scheme
+
+00:26:53.250 --> 00:26:55.740 align:middle line:84%
+of things and the
+control of the world.
+
+00:26:55.740 --> 00:27:01.180 align:middle line:84%
+So through these central
+banks, like the Reserve Bank,
+
+00:27:01.180 --> 00:27:04.310 align:middle line:84%
+the Federal Reserve in the
+USA, the Bank of England,
+
+00:27:04.310 --> 00:27:06.850 align:middle line:84%
+the South African Reserve Bank,
+Reserve Bank of Australia,
+
+00:27:06.850 --> 00:27:11.220 align:middle line:84%
+and so forth-- this is how
+they control the governments.
+
+00:27:11.220 --> 00:27:12.960 align:middle line:90%
+It's not the other way around.
+
+00:27:12.960 --> 00:27:15.240 align:middle line:84%
+The banks control
+the governments.
+
+00:27:15.240 --> 00:27:19.790 align:middle line:84%
+And this is a huge thing for
+some people to get across.
+
+00:27:19.790 --> 00:27:22.420 align:middle line:84%
+And in fact, when
+you talk to people
+
+00:27:22.420 --> 00:27:26.600 align:middle line:84%
+about this, when you start
+engaging people in this debate,
+
+00:27:26.600 --> 00:27:29.070 align:middle line:84%
+this is generally a
+good point of departure.
+
+00:27:29.070 --> 00:27:30.880 align:middle line:84%
+Because first of
+all, it's a shock
+
+00:27:30.880 --> 00:27:32.505 align:middle line:84%
+to the system when
+you tell people, oh,
+
+00:27:32.505 --> 00:27:34.470 align:middle line:84%
+did you know that the
+Central Bank or the Fed
+
+00:27:34.470 --> 00:27:35.734 align:middle line:90%
+is a private company?
+
+00:27:35.734 --> 00:27:37.150 align:middle line:84%
+Some people are
+not aware of this.
+
+00:27:37.150 --> 00:27:39.100 align:middle line:84%
+They're still under
+the misconception
+
+00:27:39.100 --> 00:27:42.100 align:middle line:84%
+that the central bank
+belongs to the government.
+
+00:27:42.100 --> 00:27:45.410 align:middle line:90%
+No, it's the other way around.
+
+00:27:45.410 --> 00:27:48.620 align:middle line:10%
+The central banks all around the
+world control the governments
+
+00:27:48.620 --> 00:27:51.820 align:middle line:10%
+and they own all the other
+financial institutions.
+
+00:27:51.820 --> 00:27:56.580 align:middle line:10%
+The World Bank is controlled
+by these central bankers.
+
+00:27:56.580 --> 00:28:01.490 align:middle line:84%
+The European Central Bank--
+the European Central Banking
+
+00:28:01.490 --> 00:28:05.080 align:middle line:84%
+System, just to show
+you how they control all
+
+00:28:05.080 --> 00:28:06.430 align:middle line:90%
+the central banks of Europe.
+
+00:28:06.430 --> 00:28:09.530 align:middle line:84%
+And we get to the
+International Monetary Fund--
+
+00:28:09.530 --> 00:28:12.530 align:middle line:84%
+all controlled by these
+same banking families.
+
+00:28:12.530 --> 00:28:17.200 align:middle line:84%
+And then all the central banks
+of the world are controlled,
+
+00:28:17.200 --> 00:28:24.750 align:middle line:84%
+most of them, are controlled by
+this mysterious place in Basel,
+
+00:28:24.750 --> 00:28:30.060 align:middle line:84%
+Switzerland, called the Bank
+of International Settlements.
+
+00:28:30.060 --> 00:28:32.870 align:middle line:84%
+When you try and get
+information on these things,
+
+00:28:32.870 --> 00:28:34.580 align:middle line:90%
+it's not that easy.
+
+00:28:34.580 --> 00:28:38.010 align:middle line:84%
+Again, it's layers and layers of
+deception-- smoke and mirrors,
+
+00:28:38.010 --> 00:28:39.380 align:middle line:90%
+wherever you go.
+
+00:28:39.380 --> 00:28:41.150 align:middle line:84%
+You try and find
+out who actually
+
+00:28:41.150 --> 00:28:45.270 align:middle line:84%
+owns-- who are the owners
+of these central banks,
+
+00:28:45.270 --> 00:28:48.400 align:middle line:90%
+and you never know.
+
+00:28:48.400 --> 00:28:50.600 align:middle line:90%
+It's like a secret society.
+
+00:28:50.600 --> 00:28:52.610 align:middle line:84%
+There is no document
+anywhere that will show you
+
+00:28:52.610 --> 00:28:53.680 align:middle line:90%
+who these owners are.
+
+00:28:53.680 --> 00:28:56.870 align:middle line:84%
+And this is how, often,
+they confuse people.
+
+00:28:56.870 --> 00:29:02.220 align:middle line:84%
+So this BIS controls, as I
+said, the Federal Reserve Bank.
+
+00:29:02.220 --> 00:29:04.930 align:middle line:10%
+Here's a picture of
+some of the agents
+
+00:29:04.930 --> 00:29:07.900 align:middle line:10%
+who started the Federal
+Reserve in 1913.
+
+00:29:07.900 --> 00:29:10.300 align:middle line:10%
+You see that some of the names
+that I mentioned earlier.
+
+00:29:10.300 --> 00:29:14.680 align:middle line:10%
+And in the United States,
+the Federal Reserve System
+
+00:29:14.680 --> 00:29:17.590 align:middle line:10%
+has been broken up into,
+interestingly enough,
+
+00:29:17.590 --> 00:29:20.030 align:middle line:10%
+into 12 districts.
+
+00:29:20.030 --> 00:29:23.250 align:middle line:84%
+They like to work with sacred
+geometric numbers, right?
+
+00:29:23.250 --> 00:29:25.340 align:middle line:84%
+Even these guys-- remember
+what we said earlier,
+
+00:29:25.340 --> 00:29:26.140 align:middle line:90%
+what we discussed.
+
+00:29:26.140 --> 00:29:29.170 align:middle line:84%
+The guys are not in control
+by accident, because they're
+
+00:29:29.170 --> 00:29:30.140 align:middle line:90%
+stupid or ignorant.
+
+00:29:30.140 --> 00:29:32.880 align:middle line:84%
+They are in control because
+they know how things work.
+
+00:29:32.880 --> 00:29:34.660 align:middle line:84%
+They understand
+the laws of nature.
+
+00:29:34.660 --> 00:29:36.190 align:middle line:90%
+They understand sacred geometry.
+
+00:29:36.190 --> 00:29:38.110 align:middle line:84%
+They understand
+the flow of energy.
+
+00:29:38.110 --> 00:29:39.840 align:middle line:90%
+This is why they're in control.
+
+00:29:39.840 --> 00:29:42.580 align:middle line:84%
+This is why they've had
+secret societies for thousands
+
+00:29:42.580 --> 00:29:45.430 align:middle line:84%
+of years, holding onto this
+ancient and occult knowledge,
+
+00:29:45.430 --> 00:29:47.870 align:middle line:84%
+with which they've controlled
+humanity and controlled
+
+00:29:47.870 --> 00:29:48.670 align:middle line:90%
+all of us.
+
+00:29:48.670 --> 00:29:51.139 align:middle line:84%
+But the cat's out
+of the bag, now.
+
+00:29:51.139 --> 00:29:53.180 align:middle line:84%
+The knowledge and the
+information are spread out,
+
+00:29:53.180 --> 00:29:56.230 align:middle line:84%
+and we have been
+fortunate enough
+
+00:29:56.230 --> 00:29:58.410 align:middle line:84%
+to share this
+knowledge with millions
+
+00:29:58.410 --> 00:29:59.550 align:middle line:90%
+of people around the world.
+
+00:29:59.550 --> 00:30:01.350 align:middle line:84%
+And this is why this
+collapse of the system
+
+00:30:01.350 --> 00:30:03.190 align:middle line:90%
+is happening on its own.
+
+00:30:03.190 --> 00:30:04.555 align:middle line:90%
+There is not much we have to do.
+
+00:30:04.555 --> 00:30:06.180 align:middle line:84%
+We don't have to try
+and bring it down.
+
+00:30:06.180 --> 00:30:08.290 align:middle line:90%
+It's collapsing itself.
+
+00:30:08.290 --> 00:30:10.780 align:middle line:84%
+We just need to create
+a new alternative,
+
+00:30:10.780 --> 00:30:13.390 align:middle line:84%
+so when this thing
+collapses, we've
+
+00:30:13.390 --> 00:30:16.280 align:middle line:84%
+actually got another
+path to walk already,
+
+00:30:16.280 --> 00:30:19.790 align:middle line:90%
+because we're working on it.
+
+00:30:19.790 --> 00:30:23.800 align:middle line:84%
+Or while it's collapsing, we're
+creating a new alternative.
+
+00:30:23.800 --> 00:30:27.060 align:middle line:84%
+So before it collapses
+we'll just-- they'll
+
+00:30:27.060 --> 00:30:31.300 align:middle line:84%
+be leaders that lead nobody, and
+banks that have no customers,
+
+00:30:31.300 --> 00:30:35.860 align:middle line:84%
+and presidents that
+control nobody.
+
+00:30:35.860 --> 00:30:39.000 align:middle line:10%
+So the Bank of
+England-- and you just
+
+00:30:39.000 --> 00:30:40.600 align:middle line:10%
+see all these grand buildings.
+
+00:30:40.600 --> 00:30:43.630 align:middle line:10%
+It's amazing, these
+huge, grand buildings
+
+00:30:43.630 --> 00:30:48.040 align:middle line:10%
+that all resemble ancient
+temples in Egypt and Sumer.
+
+00:30:48.040 --> 00:30:53.230 align:middle line:84%
+You see the construction, and
+even the South African Reserve
+
+00:30:53.230 --> 00:30:55.960 align:middle line:84%
+Bank-- you start looking
+at these ominous buildings
+
+00:30:55.960 --> 00:30:58.910 align:middle line:84%
+that they spend
+billions of dollars,
+
+00:30:58.910 --> 00:31:02.590 align:middle line:84%
+or millions and hundreds of
+millions of dollars putting up.
+
+00:31:02.590 --> 00:31:04.150 align:middle line:84%
+If you notice how
+banks have always
+
+00:31:04.150 --> 00:31:07.000 align:middle line:84%
+got the most biggest and
+most advanced buildings
+
+00:31:07.000 --> 00:31:09.420 align:middle line:90%
+and all the latest technology.
+
+00:31:09.420 --> 00:31:11.110 align:middle line:90%
+It's amazing.
+
+00:31:11.110 --> 00:31:13.920 align:middle line:84%
+And people are--
+well, not everyone--
+
+00:31:13.920 --> 00:31:16.440 align:middle line:84%
+but the majority
+of the people still
+
+00:31:16.440 --> 00:31:19.520 align:middle line:84%
+think that banks are places
+where we go put our money.
+
+00:31:19.520 --> 00:31:21.450 align:middle line:90%
+They work with our money.
+
+00:31:21.450 --> 00:31:23.570 align:middle line:84%
+So where would they be
+getting all the money from,
+
+00:31:23.570 --> 00:31:25.028 align:middle line:84%
+to build all these
+fancy buildings,
+
+00:31:25.028 --> 00:31:27.210 align:middle line:90%
+if they were using our money?
+
+00:31:27.210 --> 00:31:29.900 align:middle line:84%
+That one little thought
+should wake us all up.
+
+00:31:29.900 --> 00:31:31.440 align:middle line:84%
+Whose money are
+they using to build
+
+00:31:31.440 --> 00:31:34.150 align:middle line:90%
+all these fancy buildings?
+
+00:31:34.150 --> 00:31:36.780 align:middle line:84%
+They create money
+out of thin air.
+
+00:31:36.780 --> 00:31:38.160 align:middle line:90%
+They can do anything.
+
+00:31:38.160 --> 00:31:40.370 align:middle line:84%
+They can play that game
+for as long as they want,
+
+00:31:40.370 --> 00:31:43.020 align:middle line:84%
+because they're in control
+of creating that money out
+
+00:31:43.020 --> 00:31:44.560 align:middle line:90%
+of thin air.
+
+00:31:44.560 --> 00:31:49.490 align:middle line:84%
+The Reserve Bank of Australia,
+Reserve Bank of India,
+
+00:31:49.490 --> 00:31:53.800 align:middle line:84%
+and so it goes, on and on--
+the World Trade Organization,
+
+00:31:53.800 --> 00:31:55.920 align:middle line:84%
+all controlled by
+these banking families.
+
+00:31:55.920 --> 00:31:57.870 align:middle line:84%
+And the other important
+thing to realize,
+
+00:31:57.870 --> 00:32:00.780 align:middle line:84%
+that this global control
+of the money system
+
+00:32:00.780 --> 00:32:03.130 align:middle line:84%
+seems to be coming
+from what is referred
+
+00:32:03.130 --> 00:32:05.460 align:middle line:84%
+to as the Trinity
+of Global Control--
+
+00:32:05.460 --> 00:32:08.530 align:middle line:84%
+the three independent states
+within other countries.
+
+00:32:08.530 --> 00:32:11.120 align:middle line:10%
+And that's-- the religious
+state is the Vatican City.
+
+00:32:11.120 --> 00:32:13.950 align:middle line:84%
+Finance is controlled
+from the City of London.
+
+00:32:13.950 --> 00:32:17.450 align:middle line:84%
+And the City of London is
+not London, the London town.
+
+00:32:17.450 --> 00:32:20.610 align:middle line:84%
+It's this square mile
+in the heart of London
+
+00:32:20.610 --> 00:32:23.710 align:middle line:84%
+that's known as the City of
+London, an independent state
+
+00:32:23.710 --> 00:32:28.720 align:middle line:84%
+with its own constitution,
+with its own governance, which
+
+00:32:28.720 --> 00:32:32.910 align:middle line:84%
+is not part of the
+British-- or what we believe
+
+00:32:32.910 --> 00:32:35.270 align:middle line:90%
+is the existing control system.
+
+00:32:35.270 --> 00:32:36.980 align:middle line:10%
+And then Washington
+DC-- so we've
+
+00:32:36.980 --> 00:32:40.410 align:middle line:10%
+got the religious, the finance,
+and the military headquarters
+
+00:32:40.410 --> 00:32:42.830 align:middle line:10%
+of this global elite control.
+
+00:32:42.830 --> 00:32:44.660 align:middle line:10%
+What I find fascinating
+is this picture--
+
+00:32:44.660 --> 00:32:47.530 align:middle line:10%
+they all have these
+obelisks, again,
+
+00:32:47.530 --> 00:32:50.440 align:middle line:10%
+bringing us back to the
+ancient civilizations,
+
+00:32:50.440 --> 00:32:52.910 align:middle line:10%
+reminding us that
+they've inherited this
+
+00:32:52.910 --> 00:32:56.990 align:middle line:10%
+from the Sumerian times, when
+those first priest-kings were
+
+00:32:56.990 --> 00:33:00.030 align:middle line:10%
+appointed and took control,
+and that their temples were
+
+00:33:00.030 --> 00:33:01.510 align:middle line:10%
+the first banks.
+
+00:33:01.510 --> 00:33:04.030 align:middle line:84%
+These reminders all
+over the place--
+
+00:33:04.030 --> 00:33:05.880 align:middle line:90%
+this is how far back it goes.
+
+00:33:05.880 --> 00:33:07.880 align:middle line:84%
+So when people
+tell you that money
+
+00:33:07.880 --> 00:33:11.070 align:middle line:84%
+is a consequence of thousands
+of years of barter and trade,
+
+00:33:11.070 --> 00:33:14.800 align:middle line:84%
+just shows how ignorant they
+are or that they've just bought
+
+00:33:14.800 --> 00:33:18.210 align:middle line:84%
+the lies and the deceptions
+of our education system,
+
+00:33:18.210 --> 00:33:20.950 align:middle line:84%
+because that's what our
+education system tells us.
+
+00:33:20.950 --> 00:33:23.080 align:middle line:90%
+And that is not true.
+
+00:33:23.080 --> 00:33:24.500 align:middle line:84%
+Those are the lies
+and deceptions.
+
+00:33:24.500 --> 00:33:28.290 align:middle line:84%
+So it is now very clear that the
+banking families own the world.
+
+00:33:28.290 --> 00:33:30.340 align:middle line:84%
+They control our
+governments, and they
+
+00:33:30.340 --> 00:33:31.570 align:middle line:90%
+operate outside the law.
+
+00:33:31.570 --> 00:33:34.750 align:middle line:84%
+You cannot succeed against
+the banks in a court of law.
+
+00:33:34.750 --> 00:33:40.040 align:middle line:84%
+There is a great interview
+with the old governor-- would
+
+00:33:40.040 --> 00:33:42.690 align:middle line:90%
+you call him-- of the Fed.
+
+00:33:42.690 --> 00:33:44.094 align:middle line:90%
+What was his name again?
+
+00:33:44.094 --> 00:33:45.010 align:middle line:90%
+>>It's Alan Greenspan.
+
+00:33:45.010 --> 00:33:46.480 align:middle line:90%
+>>Greenspan.
+
+00:33:46.480 --> 00:33:48.830 align:middle line:84%
+And he was asked-- I think
+it was on "60 Minutes"--
+
+00:33:48.830 --> 00:33:51.830 align:middle line:84%
+and he was asked, so what
+is your relationship between
+
+00:33:51.830 --> 00:33:55.370 align:middle line:84%
+the Fed, and the President,
+and the government?
+
+00:33:55.370 --> 00:33:57.440 align:middle line:84%
+And he said, oh, we have
+a very good relationship
+
+00:33:57.440 --> 00:33:59.200 align:middle line:84%
+between the Fed
+and the government.
+
+00:33:59.200 --> 00:34:01.390 align:middle line:84%
+There's always been a
+very good relationship.
+
+00:34:01.390 --> 00:34:04.340 align:middle line:84%
+But then he says,
+but you know, we're
+
+00:34:04.340 --> 00:34:06.940 align:middle line:90%
+a independent institution.
+
+00:34:06.940 --> 00:34:09.359 align:middle line:84%
+We don't fall under the
+legislation of the United
+
+00:34:09.359 --> 00:34:10.159 align:middle line:90%
+States.
+
+00:34:10.159 --> 00:34:12.800 align:middle line:84%
+We operate outside
+of the system.
+
+00:34:12.800 --> 00:34:15.810 align:middle line:84%
+So he actually tells everybody
+that they are untouchable.
+
+00:34:15.810 --> 00:34:18.370 align:middle line:90%
+They can do what they want.
+
+00:34:18.370 --> 00:34:21.840 align:middle line:90%
+It's spectacular.
+
+00:34:21.840 --> 00:34:27.620 align:middle line:84%
+So it's the central banks that
+dictate the economic policy
+
+00:34:27.620 --> 00:34:29.880 align:middle line:84%
+to the government, not
+the other way around.
+
+00:34:29.880 --> 00:34:33.530 align:middle line:10%
+They decide how they're
+going to manage the country's
+
+00:34:33.530 --> 00:34:35.989 align:middle line:10%
+economy for the next 12 months.
+
+00:34:35.989 --> 00:34:39.310 align:middle line:84%
+So every year when the
+Minister of Finance, or whoever
+
+00:34:39.310 --> 00:34:43.690 align:middle line:84%
+runs the money in the country,
+stands up and does the budget
+
+00:34:43.690 --> 00:34:46.270 align:middle line:84%
+speech, it's got nothing
+to do with what's
+
+00:34:46.270 --> 00:34:48.679 align:middle line:84%
+good for the people,
+and everything
+
+00:34:48.679 --> 00:34:51.190 align:middle line:84%
+to do with the agenda
+of the central bankers--
+
+00:34:51.190 --> 00:34:54.340 align:middle line:84%
+how are they going to manipulate
+and control the people?
+
+00:34:54.340 --> 00:35:00.734 align:middle line:84%
+Remember that we've
+seen a huge collapse
+
+00:35:00.734 --> 00:35:02.900 align:middle line:84%
+of a number of countries
+around the world in Europe,
+
+00:35:02.900 --> 00:35:07.277 align:middle line:84%
+like Greece, and Ireland,
+and Portugal, and Spain,
+
+00:35:07.277 --> 00:35:09.360 align:middle line:84%
+and I forget which other
+countries were in trouble
+
+00:35:09.360 --> 00:35:11.670 align:middle line:84%
+with the central
+banks, big trouble,
+
+00:35:11.670 --> 00:35:14.286 align:middle line:84%
+because they owe so
+much money to the banks
+
+00:35:14.286 --> 00:35:15.410 align:middle line:90%
+and they can't pay it back.
+
+00:35:15.410 --> 00:35:17.380 align:middle line:84%
+Just that thought
+alone, just how
+
+00:35:17.380 --> 00:35:20.830 align:middle line:84%
+could a country be
+indebted to a bank?
+
+00:35:20.830 --> 00:35:21.630 align:middle line:90%
+Right?
+
+00:35:21.630 --> 00:35:24.270 align:middle line:84%
+And yet people
+don't question that.
+
+00:35:24.270 --> 00:35:27.530 align:middle line:84%
+And then these banks
+come along and they
+
+00:35:27.530 --> 00:35:28.850 align:middle line:90%
+start bailing out countries.
+
+00:35:28.850 --> 00:35:30.560 align:middle line:84%
+They say, oh, well,
+we'll bail you out.
+
+00:35:30.560 --> 00:35:32.560 align:middle line:84%
+How can a bank, which
+is a private company,
+
+00:35:32.560 --> 00:35:34.620 align:middle line:90%
+bail out a country?
+
+00:35:34.620 --> 00:35:36.230 align:middle line:90%
+It's an insane thought, right?
+
+00:35:36.230 --> 00:35:37.240 align:middle line:90%
+And yet we accept it.
+
+00:35:37.240 --> 00:35:38.920 align:middle line:90%
+We see it on the news.
+
+00:35:38.920 --> 00:35:41.430 align:middle line:84%
+They shove it down our throats,
+and we buy all this stuff.
+
+00:35:41.430 --> 00:35:44.150 align:middle line:84%
+And we think, well, this
+is just how it works.
+
+00:35:44.150 --> 00:35:46.470 align:middle line:84%
+No, this is how
+they've infiltrated
+
+00:35:46.470 --> 00:35:48.380 align:middle line:84%
+our countries, taken
+over our governments,
+
+00:35:48.380 --> 00:35:52.040 align:middle line:84%
+imposed themselves as a private
+corporation on our government
+
+00:35:52.040 --> 00:35:54.830 align:middle line:84%
+and they lend money
+to our government.
+
+00:35:54.830 --> 00:35:59.370 align:middle line:84%
+So the government borrows
+money from this private company
+
+00:35:59.370 --> 00:36:01.780 align:middle line:84%
+that creates money
+out of thin air
+
+00:36:01.780 --> 00:36:03.650 align:middle line:84%
+and then gives it
+to our government,
+
+00:36:03.650 --> 00:36:05.180 align:middle line:90%
+lends it to our government.
+
+00:36:05.180 --> 00:36:06.797 align:middle line:84%
+They call it bonds
+and treasury bonds,
+
+00:36:06.797 --> 00:36:08.630 align:middle line:84%
+and all these fancy
+names that they make up.
+
+00:36:08.630 --> 00:36:11.030 align:middle line:84%
+And they put a bunch
+of fancy logos on them.
+
+00:36:11.030 --> 00:36:15.087 align:middle line:84%
+And then we have to work as the
+slaves, through our government,
+
+00:36:15.087 --> 00:36:17.170 align:middle line:84%
+to pay the money back to
+this private corporation,
+
+00:36:17.170 --> 00:36:18.580 align:middle line:90%
+the Central Bank.
+
+00:36:18.580 --> 00:36:19.480 align:middle line:90%
+This is insanity.
+
+00:36:19.480 --> 00:36:21.570 align:middle line:84%
+We can print pieces
+of paper ourself.
+
+00:36:21.570 --> 00:36:23.310 align:middle line:84%
+We don't need some
+private corporation
+
+00:36:23.310 --> 00:36:24.510 align:middle line:90%
+to print the money for us.
+
+00:36:24.510 --> 00:36:27.490 align:middle line:84%
+We can do it very, very
+comfortably ourselves.
+
+00:36:27.490 --> 00:36:30.510 align:middle line:84%
+And this, really,
+is why there is
+
+00:36:30.510 --> 00:36:32.520 align:middle line:84%
+inflation-- why
+we have inflation,
+
+00:36:32.520 --> 00:36:37.330 align:middle line:84%
+why we pay taxes, why
+there's VAT and income
+
+00:36:37.330 --> 00:36:40.210 align:middle line:84%
+tax, and personal tax,
+and levies, and fees,
+
+00:36:40.210 --> 00:36:42.490 align:middle line:84%
+and import duty,
+and export duty--
+
+00:36:42.490 --> 00:36:45.320 align:middle line:84%
+all this stuff is
+synthetically, artificially
+
+00:36:45.320 --> 00:36:48.580 align:middle line:84%
+created to keep this
+money scam going,
+
+00:36:48.580 --> 00:36:51.372 align:middle line:84%
+because of the private
+banking institutions
+
+00:36:51.372 --> 00:36:52.580 align:middle line:90%
+that control our governments.
+
+00:36:52.580 --> 00:36:55.330 align:middle line:84%
+Everything controlled is
+controlled by the money.
+
+00:36:55.330 --> 00:36:56.130 align:middle line:90%
+Think about it.
+
+00:36:56.130 --> 00:37:00.340 align:middle line:84%
+You drive down the road,
+you get a traffic fine.
+
+00:37:00.340 --> 00:37:02.730 align:middle line:84%
+Do they make you go and
+pick potatoes in the field?
+
+00:37:02.730 --> 00:37:04.176 align:middle line:90%
+No, you have to pay money.
+
+00:37:04.176 --> 00:37:04.976 align:middle line:90%
+All right?
+
+00:37:04.976 --> 00:37:07.960 align:middle line:84%
+So everything is controlled
+by the money system.
+
+00:37:07.960 --> 00:37:10.280 align:middle line:84%
+If you come into a country
+you have to buy a visa,
+
+00:37:10.280 --> 00:37:12.610 align:middle line:84%
+and you have to pay
+money to get a visa
+
+00:37:12.610 --> 00:37:14.782 align:middle line:90%
+to enter another country.
+
+00:37:14.782 --> 00:37:16.240 align:middle line:84%
+Everything is
+controlled by money--
+
+00:37:16.240 --> 00:37:19.330 align:middle line:84%
+these bankers that have imposed
+themselves on our governments
+
+00:37:19.330 --> 00:37:23.210 align:middle line:84%
+and just run amok,
+completely taking control.
+
+00:37:23.210 --> 00:37:26.850 align:middle line:90%
+They bail out countries.
+
+00:37:26.850 --> 00:37:31.180 align:middle line:84%
+That is insane, how private
+banks can bail out countries.
+
+00:37:31.180 --> 00:37:32.820 align:middle line:84%
+And every time they
+bail out a country,
+
+00:37:32.820 --> 00:37:34.710 align:middle line:84%
+they enslave the
+people even more,
+
+00:37:34.710 --> 00:37:36.810 align:middle line:84%
+because now the
+people have agreed--
+
+00:37:36.810 --> 00:37:38.530 align:middle line:84%
+through their
+government, of course,
+
+00:37:38.530 --> 00:37:41.390 align:middle line:84%
+because the government is the
+agent of the central bank--
+
+00:37:41.390 --> 00:37:42.770 align:middle line:90%
+so the government's, oh no.
+
+00:37:42.770 --> 00:37:45.400 align:middle line:84%
+We have to take out
+this austerity measure--
+
+00:37:45.400 --> 00:37:49.090 align:middle line:84%
+just that word, austerity
+measure, is like whoa, right?
+
+00:37:49.090 --> 00:37:52.300 align:middle line:84%
+So these nasty measures
+and indebtedness
+
+00:37:52.300 --> 00:37:54.810 align:middle line:84%
+that the people sign up for,
+through their governments,
+
+00:37:54.810 --> 00:37:57.230 align:middle line:84%
+to pay back money to
+these banks, money
+
+00:37:57.230 --> 00:37:59.070 align:middle line:84%
+that they just created
+out of thin air.
+
+00:37:59.070 --> 00:37:59.870 align:middle line:90%
+It's an insanity.
+
+00:37:59.870 --> 00:38:00.912 align:middle line:90%
+We need to get rid of it.
+
+00:38:00.912 --> 00:38:02.411 align:middle line:84%
+We need to create
+a new alternative.
+
+00:38:02.411 --> 00:38:03.220 align:middle line:90%
+It doesn't work.
+
+00:38:03.220 --> 00:38:05.370 align:middle line:84%
+How these countries are
+invaded and controlled
+
+00:38:05.370 --> 00:38:09.185 align:middle line:84%
+is beautifully spelled out by
+John Perkins in "Confessions
+
+00:38:09.185 --> 00:38:11.980 align:middle line:90%
+of an Economic Hit Man".
+
+00:38:11.980 --> 00:38:15.510 align:middle line:84%
+And this just explains
+how, through the bankers
+
+00:38:15.510 --> 00:38:18.970 align:middle line:84%
+and the money system-- how they
+invade countries, infiltrate
+
+00:38:18.970 --> 00:38:21.910 align:middle line:84%
+the governments, bribe
+people, threaten them, hijack
+
+00:38:21.910 --> 00:38:24.140 align:middle line:84%
+them, kill them,
+whatever-- and eventually
+
+00:38:24.140 --> 00:38:26.320 align:middle line:90%
+take over the government.
+
+00:38:26.320 --> 00:38:28.290 align:middle line:84%
+And we've seen this
+over the last 20 years.
+
+00:38:28.290 --> 00:38:31.200 align:middle line:84%
+Until about the year
+2000 there were a number
+
+00:38:31.200 --> 00:38:34.490 align:middle line:84%
+of countries that had
+state banks that did not
+
+00:38:34.490 --> 00:38:38.850 align:middle line:84%
+belong to the Rothschild family,
+the Rothschild banking empire.
+
+00:38:38.850 --> 00:38:40.520 align:middle line:84%
+And these countries--
+I think you'll
+
+00:38:40.520 --> 00:38:43.390 align:middle line:84%
+start seeing the agenda
+here, very quickly, right?
+
+00:38:43.390 --> 00:38:48.650 align:middle line:10%
+Cuba, Iran, Libya, Iraq, North
+Korea, Sudan, Afghanistan,
+
+00:38:48.650 --> 00:38:54.300 align:middle line:10%
+Syria-- well, very, very
+few of those remain.
+
+00:38:54.300 --> 00:38:55.170 align:middle line:90%
+Right?
+
+00:38:55.170 --> 00:38:56.930 align:middle line:84%
+Even Cuba is now
+out of the picture,
+
+00:38:56.930 --> 00:38:59.650 align:middle line:84%
+because the United States is
+suddenly big buddies with Cuba.
+
+00:38:59.650 --> 00:39:03.140 align:middle line:84%
+So that means Cuba's
+independence is out
+
+00:39:03.140 --> 00:39:07.030 align:middle line:84%
+of the window, and they're
+now being infiltrated.
+
+00:39:07.030 --> 00:39:09.090 align:middle line:84%
+There is, however, very
+interesting information
+
+00:39:09.090 --> 00:39:14.610 align:middle line:84%
+about Bolivia, as a
+country that has basically
+
+00:39:14.610 --> 00:39:17.200 align:middle line:84%
+kicked out the
+international bankers
+
+00:39:17.200 --> 00:39:20.500 align:middle line:84%
+and taken control of
+their own money supply.
+
+00:39:20.500 --> 00:39:22.370 align:middle line:84%
+But you'll never see
+that on the news,
+
+00:39:22.370 --> 00:39:25.540 align:middle line:84%
+because all the news
+and media is controlled
+
+00:39:25.540 --> 00:39:26.980 align:middle line:90%
+by the same banking families.
+
+00:39:26.980 --> 00:39:28.396 align:middle line:84%
+So they're never
+going to tell us,
+
+00:39:28.396 --> 00:39:31.980 align:middle line:84%
+oh, Bolivia's cut ties with the
+International Monetary Fund,
+
+00:39:31.980 --> 00:39:34.299 align:middle line:84%
+and they've kicked out the
+Fed, and blah, blah, blah.
+
+00:39:34.299 --> 00:39:35.590 align:middle line:90%
+You're never going to see that.
+
+00:39:35.590 --> 00:39:38.180 align:middle line:84%
+And according to the reports
+that I've been given,
+
+00:39:38.180 --> 00:39:42.890 align:middle line:84%
+the life in Bolivia
+has just exploded.
+
+00:39:42.890 --> 00:39:49.110 align:middle line:84%
+They are experiencing a boom,
+economic boom, and prosperity
+
+00:39:49.110 --> 00:39:50.880 align:middle line:84%
+of the people, because
+they've taken back
+
+00:39:50.880 --> 00:39:52.540 align:middle line:90%
+the control of their own money.
+
+00:39:52.540 --> 00:39:55.330 align:middle line:84%
+We're not going to see that
+on the news or any newspapers.
+
+00:39:55.330 --> 00:39:57.910 align:middle line:84%
+So that needs more
+investigation.
+
+00:39:57.910 --> 00:40:00.220 align:middle line:84%
+It's relatively new information
+that I've been given,
+
+00:40:00.220 --> 00:40:02.160 align:middle line:84%
+and I need to go and
+research this more.
+
+00:40:02.160 --> 00:40:04.190 align:middle line:84%
+So anyone that has
+the ability to go
+
+00:40:04.190 --> 00:40:07.260 align:middle line:84%
+and look into this, please do
+so, and put it on the internet.
+
+00:40:07.260 --> 00:40:08.260 align:middle line:90%
+Share it with everybody.
+
+00:40:08.260 --> 00:40:10.610 align:middle line:84%
+And when you find
+out what's happening
+
+00:40:10.610 --> 00:40:14.510 align:middle line:84%
+in countries like Bolivia,
+and share that with everybody.
+
+00:40:14.510 --> 00:40:18.100 align:middle line:84%
+We're going to talk about
+Iceland, because many people--
+
+00:40:18.100 --> 00:40:20.630 align:middle line:84%
+I wrote about Iceland
+in the Ubuntu book,
+
+00:40:20.630 --> 00:40:22.870 align:middle line:84%
+but what I can tell
+you, in hindsight now,
+
+00:40:22.870 --> 00:40:24.390 align:middle line:90%
+that was another trick.
+
+00:40:24.390 --> 00:40:29.470 align:middle line:84%
+Do not underestimate the
+evilness and the cunningness
+
+00:40:29.470 --> 00:40:32.200 align:middle line:90%
+of the banking families.
+
+00:40:32.200 --> 00:40:36.650 align:middle line:84%
+These guys are so
+cunning, and they
+
+00:40:36.650 --> 00:40:37.829 align:middle line:90%
+know how to play this game.
+
+00:40:37.829 --> 00:40:39.870 align:middle line:84%
+They've been playing this
+for thousands of years.
+
+00:40:39.870 --> 00:40:41.930 align:middle line:90%
+They'll set up scenarios.
+
+00:40:41.930 --> 00:40:44.400 align:middle line:84%
+They'll set up
+false flag events.
+
+00:40:44.400 --> 00:40:46.940 align:middle line:84%
+They'll sacrifice
+their own people
+
+00:40:46.940 --> 00:40:49.850 align:middle line:84%
+to make it look like
+it's legitimate.
+
+00:40:49.850 --> 00:40:53.600 align:middle line:84%
+The Iceland event was not
+what we believe it is.
+
+00:40:53.600 --> 00:40:56.960 align:middle line:84%
+Iceland was another test
+to see what would happen.
+
+00:40:56.960 --> 00:40:59.780 align:middle line:84%
+The same president or prime
+minister is still in charge.
+
+00:40:59.780 --> 00:41:03.010 align:middle line:84%
+The same central bank
+is still in charge.
+
+00:41:03.010 --> 00:41:05.290 align:middle line:84%
+But what the latest thing
+has happened in Iceland
+
+00:41:05.290 --> 00:41:07.820 align:middle line:84%
+is what everyone
+is excited about.
+
+00:41:07.820 --> 00:41:09.780 align:middle line:84%
+They said, OK, we're
+no longer going
+
+00:41:09.780 --> 00:41:12.590 align:middle line:84%
+to allow the private
+banks to issue money--
+
+00:41:12.590 --> 00:41:15.320 align:middle line:90%
+the banks on the corner, right?
+
+00:41:15.320 --> 00:41:17.730 align:middle line:84%
+They're no longer going
+to be able to issue money.
+
+00:41:17.730 --> 00:41:20.690 align:middle line:84%
+The issuing of money is
+going to be restricted only
+
+00:41:20.690 --> 00:41:22.300 align:middle line:90%
+to the central bank.
+
+00:41:22.300 --> 00:41:25.470 align:middle line:84%
+And this is what people
+suddenly think, OK.
+
+00:41:25.470 --> 00:41:26.430 align:middle line:90%
+That's great.
+
+00:41:26.430 --> 00:41:28.250 align:middle line:90%
+No, no, no-- it's another con.
+
+00:41:28.250 --> 00:41:31.920 align:middle line:84%
+The central bank still
+belongs to the banking empire.
+
+00:41:31.920 --> 00:41:34.810 align:middle line:84%
+So this is just smoke
+and mirrors, again,
+
+00:41:34.810 --> 00:41:36.130 align:middle line:90%
+that they are playing with us.
+
+00:41:36.130 --> 00:41:38.870 align:middle line:84%
+When the whole Iceland thing
+happened several years ago,
+
+00:41:38.870 --> 00:41:41.980 align:middle line:84%
+they sacrificed
+some of the bankers.
+
+00:41:41.980 --> 00:41:43.170 align:middle line:90%
+The bankers went to jail.
+
+00:41:43.170 --> 00:41:47.836 align:middle line:84%
+They're out, and no one
+really paid a big price.
+
+00:41:47.836 --> 00:41:49.710 align:middle line:84%
+They were probably paid
+huge amounts of money
+
+00:41:49.710 --> 00:41:51.970 align:middle line:90%
+to do some jail time.
+
+00:41:51.970 --> 00:41:54.870 align:middle line:84%
+And that was just used
+to give the people
+
+00:41:54.870 --> 00:41:57.610 align:middle line:84%
+a false sense of security, and
+a belief that something good
+
+00:41:57.610 --> 00:41:58.930 align:middle line:90%
+is happening.
+
+00:41:58.930 --> 00:42:02.110 align:middle line:84%
+But we're going to talk a little
+bit more, also, about Cyprus.
+
+00:42:02.110 --> 00:42:06.250 align:middle line:84%
+So this is clearly an agenda
+by the banking families
+
+00:42:06.250 --> 00:42:09.040 align:middle line:90%
+and global banking empire.
+
+00:42:09.040 --> 00:42:12.380 align:middle line:84%
+And through this kind of
+infiltration and taking
+
+00:42:12.380 --> 00:42:14.300 align:middle line:84%
+over governments, this
+is how they start wars,
+
+00:42:14.300 --> 00:42:16.180 align:middle line:90%
+and they control wars.
+
+00:42:16.180 --> 00:42:18.890 align:middle line:84%
+They've done this, not just
+for the last few hundred years.
+
+00:42:18.890 --> 00:42:22.490 align:middle line:84%
+This has been going on
+for thousands of years.
+
+00:42:22.490 --> 00:42:26.360 align:middle line:84%
+Even in ancient times,
+when the kings of Europe
+
+00:42:26.360 --> 00:42:28.140 align:middle line:84%
+wanted to go to war
+against each other,
+
+00:42:28.140 --> 00:42:31.800 align:middle line:84%
+they would have to go and
+borrow money to wage war.
+
+00:42:31.800 --> 00:42:36.009 align:middle line:84%
+And they would go into debt,
+with the banking families
+
+00:42:36.009 --> 00:42:38.300 align:middle line:84%
+in those days, already,
+because they wanted to wage war
+
+00:42:38.300 --> 00:42:40.634 align:middle line:90%
+against other kingdoms and all.
+
+00:42:40.634 --> 00:42:42.800 align:middle line:84%
+And then the Pope would
+have to give them permission
+
+00:42:42.800 --> 00:42:46.240 align:middle line:84%
+to go into war against
+another country.
+
+00:42:46.240 --> 00:42:47.870 align:middle line:90%
+It's just insanity.
+
+00:42:47.870 --> 00:42:49.320 align:middle line:84%
+OK, you can attack
+another country
+
+00:42:49.320 --> 00:42:50.950 align:middle line:90%
+and go kill those people.
+
+00:42:50.950 --> 00:42:52.240 align:middle line:90%
+This from the Pope, right?
+
+00:42:52.240 --> 00:42:53.410 align:middle line:90%
+So really?
+
+00:42:53.410 --> 00:42:56.610 align:middle line:90%
+What's going on here?
+
+00:42:56.610 --> 00:43:00.430 align:middle line:90%
+So money controls the wars.
+
+00:43:00.430 --> 00:43:03.730 align:middle line:84%
+And here are some fascinating
+statements by politicians.
+
+00:43:03.730 --> 00:43:07.780 align:middle line:84%
+"The refusal of King George
+3rd, to allow the colonies
+
+00:43:07.780 --> 00:43:10.450 align:middle line:84%
+to operate an honest
+money system, which
+
+00:43:10.450 --> 00:43:13.370 align:middle line:84%
+freed the ordinary man from
+the clutches of the money
+
+00:43:13.370 --> 00:43:16.340 align:middle line:84%
+manipulators, was
+probably the prime cause
+
+00:43:16.340 --> 00:43:19.560 align:middle line:84%
+of the revolution."--
+Benjamin Franklin.
+
+00:43:19.560 --> 00:43:21.760 align:middle line:84%
+So this is just an
+indication to show you
+
+00:43:21.760 --> 00:43:25.530 align:middle line:84%
+what the War of Independence
+and all the wars in the United
+
+00:43:25.530 --> 00:43:27.400 align:middle line:84%
+States-- it was all
+about the money.
+
+00:43:27.400 --> 00:43:30.280 align:middle line:84%
+It was always about the money,
+and the control of the United
+
+00:43:30.280 --> 00:43:33.150 align:middle line:84%
+States, and this part of
+the world, of the Americas.
+
+00:43:33.150 --> 00:43:37.700 align:middle line:84%
+Mayor Amschel Rothschild--
+one of the founding Rothschild
+
+00:43:37.700 --> 00:43:41.860 align:middle line:84%
+family members-- "Let me issue
+and control a nation's money
+
+00:43:41.860 --> 00:43:44.810 align:middle line:84%
+and I care not who
+makes the laws."
+
+00:43:44.810 --> 00:43:46.680 align:middle line:84%
+And that's how it
+operates today.
+
+00:43:46.680 --> 00:43:50.430 align:middle line:84%
+Those who issue and control the
+money control the governments.
+
+00:43:50.430 --> 00:43:51.770 align:middle line:90%
+This just blows my mind.
+
+00:43:51.770 --> 00:43:54.820 align:middle line:84%
+Remember, this is a banker
+talking about a country.
+
+00:43:54.820 --> 00:43:58.270 align:middle line:84%
+He says, "Either the application
+for renewal of the charter
+
+00:43:58.270 --> 00:44:00.392 align:middle line:84%
+is granted," the
+charter was a charter
+
+00:44:00.392 --> 00:44:02.850 align:middle line:84%
+that allowed the private bank
+to control the United States,
+
+00:44:02.850 --> 00:44:04.740 align:middle line:84%
+or to issue the money
+for the United States.
+
+00:44:04.740 --> 00:44:07.490 align:middle line:84%
+So, "Either the application
+for the renewal of the charter
+
+00:44:07.490 --> 00:44:10.940 align:middle line:84%
+is granted, or the United
+States will find itself involved
+
+00:44:10.940 --> 00:44:12.470 align:middle line:90%
+in a most disastrous war."
+
+00:44:12.470 --> 00:44:15.480 align:middle line:84%
+Here's a banker threatening
+a country with war
+
+00:44:15.480 --> 00:44:19.830 align:middle line:84%
+unless they allow him to
+institute his own private bank.
+
+00:44:19.830 --> 00:44:23.540 align:middle line:84%
+"Teach those impudent
+Americans a lesson.
+
+00:44:23.540 --> 00:44:26.580 align:middle line:84%
+Bring them back to
+colonial status."
+
+00:44:26.580 --> 00:44:31.430 align:middle line:84%
+These are bankers, people--
+manipulating countries
+
+00:44:31.430 --> 00:44:34.220 align:middle line:90%
+and people of those countries.
+
+00:44:34.220 --> 00:44:35.345 align:middle line:90%
+This is the "London Times".
+
+00:44:35.345 --> 00:44:40.210 align:middle line:10%
+It says, "If this mischievous
+financial policy, which
+
+00:44:40.210 --> 00:44:42.460 align:middle line:10%
+has its origins
+in North America,
+
+00:44:42.460 --> 00:44:45.350 align:middle line:10%
+shall become endurated
+down to a fixture,
+
+00:44:45.350 --> 00:44:48.480 align:middle line:10%
+then that government will
+furnish its own money
+
+00:44:48.480 --> 00:44:49.560 align:middle line:10%
+without cost.
+
+00:44:49.560 --> 00:44:52.660 align:middle line:10%
+It will pay off debts
+and be without debt.
+
+00:44:52.660 --> 00:44:55.150 align:middle line:10%
+It will have all the
+money necessary to carry
+
+00:44:55.150 --> 00:44:56.480 align:middle line:10%
+on its commerce.
+
+00:44:56.480 --> 00:44:58.930 align:middle line:10%
+It will become prosperous
+without precedent
+
+00:44:58.930 --> 00:45:01.080 align:middle line:10%
+in the history of the world.
+
+00:45:01.080 --> 00:45:03.200 align:middle line:10%
+The brains and the
+wealth of all countries
+
+00:45:03.200 --> 00:45:04.900 align:middle line:10%
+will go to North America.
+
+00:45:04.900 --> 00:45:07.970 align:middle line:10%
+That country must be
+destroyed or it will destroy
+
+00:45:07.970 --> 00:45:10.800 align:middle line:10%
+every monarchy on the globe."
+
+00:45:10.800 --> 00:45:14.500 align:middle line:84%
+This is just insane,
+when you read this.
+
+00:45:14.500 --> 00:45:16.030 align:middle line:84%
+This is how these
+banking families
+
+00:45:16.030 --> 00:45:18.080 align:middle line:84%
+have been controlling
+all our countries,
+
+00:45:18.080 --> 00:45:22.030 align:middle line:84%
+and especially this one
+here, the United States.
+
+00:45:22.030 --> 00:45:25.200 align:middle line:84%
+This is a famous
+one by Henry Ford--
+
+00:45:25.200 --> 00:45:26.730 align:middle line:84%
+now that you know
+how it works, you
+
+00:45:26.730 --> 00:45:28.160 align:middle line:84%
+can imagine how
+he felt about it,
+
+00:45:28.160 --> 00:45:29.550 align:middle line:90%
+because he knew how it worked.
+
+00:45:29.550 --> 00:45:31.230 align:middle line:90%
+Imagine his sleepless nights.
+
+00:45:31.230 --> 00:45:32.030 align:middle line:90%
+Right?
+
+00:45:32.030 --> 00:45:34.270 align:middle line:84%
+When you know this stuff,
+and you can't really
+
+00:45:34.270 --> 00:45:36.060 align:middle line:84%
+share it with the
+people-- because then
+
+00:45:36.060 --> 00:45:39.860 align:middle line:84%
+you basically destroy your
+own business, your own empire.
+
+00:45:39.860 --> 00:45:42.200 align:middle line:10%
+"It is well enough that
+the people of the nation
+
+00:45:42.200 --> 00:45:44.920 align:middle line:10%
+do not understand our
+banking and monetary system,
+
+00:45:44.920 --> 00:45:48.120 align:middle line:10%
+for if they did, I believe
+there would be a revolution
+
+00:45:48.120 --> 00:45:49.830 align:middle line:10%
+before tomorrow morning."
+
+00:45:49.830 --> 00:45:53.210 align:middle line:84%
+And that's exactly what would
+happen, and will happen,
+
+00:45:53.210 --> 00:45:55.610 align:middle line:90%
+and is happening right now.
+
+00:45:55.610 --> 00:45:59.310 align:middle line:84%
+People are waking up to
+these lies and deceptions.
+
+00:45:59.310 --> 00:46:02.860 align:middle line:10%
+Winston Churchill-- one of the
+most evil men of the last 100
+
+00:46:02.860 --> 00:46:07.320 align:middle line:10%
+years, or 120 years--
+"Should Germany merchandise
+
+00:46:07.320 --> 00:46:10.250 align:middle line:10%
+or do business again
+in the next 50 years,
+
+00:46:10.250 --> 00:46:12.370 align:middle line:10%
+we have led this war in vain."
+
+00:46:12.370 --> 00:46:16.440 align:middle line:10%
+It means the intention was to
+destroy Germany and its ability
+
+00:46:16.440 --> 00:46:19.630 align:middle line:10%
+to create its own money.
+
+00:46:19.630 --> 00:46:22.940 align:middle line:84%
+And that's exactly what
+Adolf Hitler did, in case
+
+00:46:22.940 --> 00:46:24.160 align:middle line:90%
+you don't know this yet.
+
+00:46:24.160 --> 00:46:27.275 align:middle line:84%
+The main reason that
+he was lured into war,
+
+00:46:27.275 --> 00:46:30.850 align:middle line:84%
+or was pushed into
+war, was-- there's
+
+00:46:30.850 --> 00:46:32.620 align:middle line:84%
+obviously a huge
+debate about this,
+
+00:46:32.620 --> 00:46:34.980 align:middle line:84%
+because we know very little
+about what really happened.
+
+00:46:34.980 --> 00:46:38.100 align:middle line:84%
+We only know what we've
+been told by the media.
+
+00:46:38.100 --> 00:46:40.770 align:middle line:84%
+But it was all about the fact
+that Germany became incredibly
+
+00:46:40.770 --> 00:46:43.290 align:middle line:84%
+powerful and prosperous,
+because of the money issued
+
+00:46:43.290 --> 00:46:47.820 align:middle line:84%
+by the German National
+Bank, that did not belong
+
+00:46:47.820 --> 00:46:49.730 align:middle line:90%
+to the Rothschild family.
+
+00:46:49.730 --> 00:46:52.580 align:middle line:10%
+So, "Germany becomes
+too powerful.
+
+00:46:52.580 --> 00:46:55.110 align:middle line:10%
+We have to crush it."
+says Winston Churchill.
+
+00:46:55.110 --> 00:46:59.530 align:middle line:10%
+"We will force this war upon
+Hitler, if he wants it or not."
+
+00:46:59.530 --> 00:47:00.740 align:middle line:90%
+Says Winston Churchill.
+
+00:47:00.740 --> 00:47:05.890 align:middle line:84%
+And by all my research, points
+very clearly that Hitler
+
+00:47:05.890 --> 00:47:07.860 align:middle line:90%
+didn't want to go into war.
+
+00:47:07.860 --> 00:47:11.450 align:middle line:84%
+He really-- he did everything
+in his power to avoid war.
+
+00:47:11.450 --> 00:47:14.060 align:middle line:84%
+He was trying to reach
+treaties and peace agreements.
+
+00:47:14.060 --> 00:47:15.190 align:middle line:90%
+He was forced into war.
+
+00:47:15.190 --> 00:47:18.780 align:middle line:84%
+It was forced upon him by
+this evil man here, Winston
+
+00:47:18.780 --> 00:47:20.160 align:middle line:90%
+Churchill.
+
+00:47:20.160 --> 00:47:23.690 align:middle line:84%
+"This war is an English war,"
+says Churchill. "Its goal
+
+00:47:23.690 --> 00:47:25.690 align:middle line:90%
+is the destruction of Germany."
+
+00:47:25.690 --> 00:47:29.280 align:middle line:84%
+Because Germany was
+becoming too powerful,
+
+00:47:29.280 --> 00:47:32.390 align:middle line:84%
+and where was the control of
+the global banking empire?
+
+00:47:32.390 --> 00:47:36.160 align:middle line:84%
+In the City of
+London-- so you start
+
+00:47:36.160 --> 00:47:39.220 align:middle line:84%
+seeing how everything
+we believe to be true,
+
+00:47:39.220 --> 00:47:41.680 align:middle line:84%
+everything we've
+been told, is a lie.
+
+00:47:41.680 --> 00:47:44.540 align:middle line:84%
+Just remind yourself of
+that again, how close
+
+00:47:44.540 --> 00:47:46.860 align:middle line:84%
+and how accurate that
+statement becomes.
+
+00:47:46.860 --> 00:47:49.520 align:middle line:10%
+More of Winston
+Churchill, "The war
+
+00:47:49.520 --> 00:47:51.640 align:middle line:10%
+wasn't only about
+abolishing fascism,
+
+00:47:51.640 --> 00:47:54.110 align:middle line:10%
+but to conquer sales markets.
+
+00:47:54.110 --> 00:47:56.440 align:middle line:10%
+We could have, if
+we had intended so,
+
+00:47:56.440 --> 00:48:00.590 align:middle line:10%
+prevented this war from breaking
+out without doing one shot.
+
+00:48:00.590 --> 00:48:03.490 align:middle line:10%
+But we didn't want to."
+
+00:48:03.490 --> 00:48:08.260 align:middle line:84%
+It's just spectacular--
+millions and millions of lives,
+
+00:48:08.260 --> 00:48:11.530 align:middle line:84%
+because of politicians and
+the control of the banking
+
+00:48:11.530 --> 00:48:13.170 align:middle line:90%
+institutions.
+
+00:48:13.170 --> 00:48:16.620 align:middle line:84%
+"Germany's unforgivable
+crime before World War II
+
+00:48:16.620 --> 00:48:20.660 align:middle line:84%
+was its attempt to loosen its
+economy out of the world trade
+
+00:48:20.660 --> 00:48:23.680 align:middle line:84%
+system and to build up
+an independent exchange
+
+00:48:23.680 --> 00:48:26.580 align:middle line:84%
+system from which the
+world finance could not
+
+00:48:26.580 --> 00:48:28.190 align:middle line:90%
+profit anymore.
+
+00:48:28.190 --> 00:48:30.590 align:middle line:90%
+We butchered the wrong pig."
+
+00:48:30.590 --> 00:48:32.230 align:middle line:84%
+So let's just
+recap, because we've
+
+00:48:32.230 --> 00:48:34.790 align:middle line:84%
+come to the end of
+this one-hour session.
+
+00:48:34.790 --> 00:48:37.330 align:middle line:84%
+And we're going to
+go into question,
+
+00:48:37.330 --> 00:48:40.930 align:middle line:90%
+or your comments on this.
+
+00:48:40.930 --> 00:48:43.210 align:middle line:84%
+Let's just recap
+here, to finish off,
+
+00:48:43.210 --> 00:48:46.240 align:middle line:84%
+to remind ourselves that
+the banking industry is
+
+00:48:46.240 --> 00:48:48.860 align:middle line:84%
+the largest organized crime
+syndicate the planet has ever
+
+00:48:48.860 --> 00:48:49.660 align:middle line:90%
+seen.
+
+00:48:49.660 --> 00:48:51.390 align:middle line:90%
+It is legalized crime.
+
+00:48:51.390 --> 00:48:55.290 align:middle line:84%
+Their activities are upheld
+by the courts and the judges,
+
+00:48:55.290 --> 00:48:58.120 align:middle line:84%
+ignorantly protected by the
+police and other security
+
+00:48:58.120 --> 00:49:00.130 align:middle line:84%
+forces, not knowing
+what they're really
+
+00:49:00.130 --> 00:49:02.810 align:middle line:84%
+doing-- oppressing their
+brothers and sisters,
+
+00:49:02.810 --> 00:49:05.540 align:middle line:84%
+all because they've
+been told to do
+
+00:49:05.540 --> 00:49:08.120 align:middle line:84%
+so-- not because they believe
+they're doing the right thing.
+
+00:49:08.120 --> 00:49:09.911 align:middle line:84%
+They've been given
+orders and instructions.
+
+00:49:09.911 --> 00:49:12.810 align:middle line:84%
+And all of these
+crimes against humanity
+
+00:49:12.810 --> 00:49:16.200 align:middle line:84%
+are being perpetrated, top
+down, controlled by the banking
+
+00:49:16.200 --> 00:49:18.000 align:middle line:84%
+families, the
+banking institutions,
+
+00:49:18.000 --> 00:49:21.090 align:middle line:84%
+that write the legal
+systems that control
+
+00:49:21.090 --> 00:49:23.080 align:middle line:90%
+our countries and our lives.
+
+00:49:23.080 --> 00:49:26.480 align:middle line:84%
+So in the last 10
+minutes, if anyone
+
+00:49:26.480 --> 00:49:29.085 align:middle line:84%
+has anything to say or
+contribute, please do so.
+
+00:49:29.085 --> 00:49:29.885 align:middle line:90%
+>>Good afternoon.
+
+00:49:29.885 --> 00:49:32.780 align:middle line:84%
+I'm Patrick Anderson,
+and I wanted
+
+00:49:32.780 --> 00:49:36.410 align:middle line:84%
+to say that before you were
+talking about the banking
+
+00:49:36.410 --> 00:49:37.630 align:middle line:90%
+system in Bolivia.
+
+00:49:37.630 --> 00:49:40.920 align:middle line:84%
+And I could be
+mistaken, but they
+
+00:49:40.920 --> 00:49:45.820 align:middle line:84%
+are working with the
+Venezuelan government
+
+00:49:45.820 --> 00:49:49.200 align:middle line:84%
+and the Cuban government to
+make sure that the United States
+
+00:49:49.200 --> 00:49:54.610 align:middle line:84%
+and worldwide banking systems
+are not impacting them the way
+
+00:49:54.610 --> 00:49:57.300 align:middle line:90%
+that it is their intention.
+
+00:49:57.300 --> 00:49:59.970 align:middle line:84%
+Simon Bolivar is
+a perfect example
+
+00:49:59.970 --> 00:50:04.260 align:middle line:84%
+of a gentleman that conquered
+a certain area for the purpose
+
+00:50:04.260 --> 00:50:06.870 align:middle line:84%
+of freedom, and
+then was executed
+
+00:50:06.870 --> 00:50:10.680 align:middle line:84%
+as the country of Gran
+Colombia was instituted.
+
+00:50:10.680 --> 00:50:12.140 align:middle line:90%
+>>Yeah, thanks for sharing that.
+
+00:50:12.140 --> 00:50:12.940 align:middle line:90%
+Yeah.
+
+00:50:12.940 --> 00:50:15.980 align:middle line:84%
+Well, hopefully there'll be
+more information coming out
+
+00:50:15.980 --> 00:50:16.790 align:middle line:90%
+about Bolivia.
+
+00:50:16.790 --> 00:50:18.998 align:middle line:84%
+But I'm certainly very keen
+to learn more about that.
+
+00:50:18.998 --> 00:50:22.630 align:middle line:84%
+>>An indigenous group of
+people, like my brothers here.
+
+00:50:22.630 --> 00:50:24.590 align:middle line:90%
+>>Awesome.
+
+00:50:24.590 --> 00:50:26.290 align:middle line:90%
+Anybody else?
+
+00:50:26.290 --> 00:50:27.090 align:middle line:90%
+>>Hi.
+
+00:50:27.090 --> 00:50:27.960 align:middle line:90%
+My name's Mark.
+
+00:50:27.960 --> 00:50:30.370 align:middle line:84%
+And this is really
+dark material,
+
+00:50:30.370 --> 00:50:32.940 align:middle line:84%
+and it's definitely a
+downer, as you've mentioned.
+
+00:50:32.940 --> 00:50:36.370 align:middle line:84%
+My question is, how
+do you personally
+
+00:50:36.370 --> 00:50:39.130 align:middle line:90%
+keep your positive attitude?
+
+00:50:39.130 --> 00:50:41.430 align:middle line:84%
+What do you personally
+do in your life?
+
+00:50:41.430 --> 00:50:42.640 align:middle line:90%
+Do you have practices?
+
+00:50:42.640 --> 00:50:47.960 align:middle line:84%
+Do you have beliefs
+that you align with?
+
+00:50:47.960 --> 00:50:51.110 align:middle line:84%
+How do you stay so
+positive and optimistic,
+
+00:50:51.110 --> 00:50:52.860 align:middle line:90%
+and your eye on the vision?
+
+00:50:52.860 --> 00:50:55.100 align:middle line:84%
+Because this is
+really depressing--
+
+00:50:55.100 --> 00:50:58.010 align:middle line:84%
+it's so hard to really
+face some of this stuff.
+
+00:50:58.010 --> 00:51:00.710 align:middle line:84%
+And that's one of the
+problems I come up
+
+00:51:00.710 --> 00:51:03.150 align:middle line:84%
+against a lot, when I
+try to share information,
+
+00:51:03.150 --> 00:51:04.950 align:middle line:90%
+is people go to sleep.
+
+00:51:04.950 --> 00:51:06.300 align:middle line:90%
+Their eyes glaze over.
+
+00:51:06.300 --> 00:51:09.320 align:middle line:84%
+Even my eyes are glazing
+over, with this stuff.
+
+00:51:09.320 --> 00:51:14.330 align:middle line:84%
+And so how do you stay
+connected, aligned, positive,
+
+00:51:14.330 --> 00:51:17.240 align:middle line:84%
+in the midst of
+facing all this stuff?
+
+00:51:17.240 --> 00:51:18.060 align:middle line:90%
+>>Thanks.
+
+00:51:18.060 --> 00:51:19.893 align:middle line:84%
+I'm glad you brought
+that up, because it is.
+
+00:51:19.893 --> 00:51:23.092 align:middle line:84%
+As you go through it, you
+realize how dark this is.
+
+00:51:23.092 --> 00:51:24.580 align:middle line:84%
+That's why I said
+right up front,
+
+00:51:24.580 --> 00:51:26.090 align:middle line:84%
+let's realize
+we're going to have
+
+00:51:26.090 --> 00:51:28.830 align:middle line:84%
+to go through a lot of dark
+and depressing material
+
+00:51:28.830 --> 00:51:31.930 align:middle line:84%
+to get to the root
+of the problem.
+
+00:51:31.930 --> 00:51:34.260 align:middle line:84%
+But we have to go
+through this, to be
+
+00:51:34.260 --> 00:51:36.940 align:middle line:84%
+able to dig
+ourselves out of this
+
+00:51:36.940 --> 00:51:38.430 align:middle line:90%
+and find the new alternative.
+
+00:51:38.430 --> 00:51:40.320 align:middle line:84%
+Without knowing this
+and understanding this,
+
+00:51:40.320 --> 00:51:44.290 align:middle line:84%
+it's virtually impossible to
+find an alternative system,
+
+00:51:44.290 --> 00:51:46.980 align:middle line:90%
+because this is the clue.
+
+00:51:46.980 --> 00:51:50.570 align:middle line:84%
+These are the clues that point
+us in the right direction.
+
+00:51:50.570 --> 00:51:53.400 align:middle line:84%
+So that's how I stay
+positive and optimistic
+
+00:51:53.400 --> 00:51:56.180 align:middle line:84%
+about it-- knowing that
+we have a solution.
+
+00:51:56.180 --> 00:51:59.480 align:middle line:84%
+By learning about this, we
+know exactly what not to do.
+
+00:51:59.480 --> 00:52:01.670 align:middle line:84%
+And it gives us a
+very clear direction.
+
+00:52:01.670 --> 00:52:03.769 align:middle line:84%
+And when we get
+beyond this and we
+
+00:52:03.769 --> 00:52:05.560 align:middle line:84%
+start talking about
+the solutions-- really,
+
+00:52:05.560 --> 00:52:08.350 align:middle line:84%
+the Ubuntu philosophy,
+the plan of action--
+
+00:52:08.350 --> 00:52:11.060 align:middle line:84%
+that's when you start seeing all
+this knowledge and information
+
+00:52:11.060 --> 00:52:13.290 align:middle line:84%
+actually becomes
+fodder and ammunition
+
+00:52:13.290 --> 00:52:17.110 align:middle line:84%
+for raising the new
+philosophy to greater heights,
+
+00:52:17.110 --> 00:52:19.710 align:middle line:84%
+and realizing how
+brilliant and simple it is.
+
+00:52:19.710 --> 00:52:24.000 align:middle line:84%
+Out of this deep, dark,
+ancient control, manipulation
+
+00:52:24.000 --> 00:52:27.030 align:middle line:84%
+of evil enslavement
+of humanity, suddenly
+
+00:52:27.030 --> 00:52:32.120 align:middle line:84%
+rises this simple, elegant,
+and brilliant solution
+
+00:52:32.120 --> 00:52:38.470 align:middle line:84%
+that we are not only
+dreaming of, or thinking of,
+
+00:52:38.470 --> 00:52:41.050 align:middle line:84%
+or believe it's possible--
+we're doing it already.
+
+00:52:41.050 --> 00:52:42.410 align:middle line:90%
+We're already on that path.
+
+00:52:42.410 --> 00:52:45.460 align:middle line:84%
+And that's why I
+remain positive,
+
+00:52:45.460 --> 00:52:49.660 align:middle line:84%
+because I know it's
+not only possible,
+
+00:52:49.660 --> 00:52:51.880 align:middle line:84%
+but I know how we're going
+to do it and the fact
+
+00:52:51.880 --> 00:52:54.100 align:middle line:84%
+that we're already
+engaged in doing it.
+
+00:52:54.100 --> 00:52:59.640 align:middle line:84%
+>>One of the things that is very
+important for me to remember
+
+00:52:59.640 --> 00:53:03.350 align:middle line:84%
+is that all of us are
+living in this system.
+
+00:53:03.350 --> 00:53:06.925 align:middle line:84%
+And many people who earn
+their living working
+
+00:53:06.925 --> 00:53:09.050 align:middle line:84%
+in the systems that are
+part of the problem-- we're
+
+00:53:09.050 --> 00:53:13.240 align:middle line:84%
+all, most of us are doing
+part of what's the problem.
+
+00:53:13.240 --> 00:53:15.250 align:middle line:84%
+And that it's not that
+everybody's a bad guy.
+
+00:53:15.250 --> 00:53:16.050 align:middle line:90%
+>>Exactly.
+
+00:53:16.050 --> 00:53:19.040 align:middle line:84%
+>>People are just not
+aware-- the people
+
+00:53:19.040 --> 00:53:23.170 align:middle line:84%
+who are working in their local
+banks, the schoolteachers,
+
+00:53:23.170 --> 00:53:25.770 align:middle line:84%
+the doctors, the pharmaceutical
+companies-- all these
+
+00:53:25.770 --> 00:53:27.960 align:middle line:90%
+that are part of the system.
+
+00:53:27.960 --> 00:53:30.370 align:middle line:84%
+And for me that's helpful,
+because otherwise-- when
+
+00:53:30.370 --> 00:53:31.786 align:middle line:84%
+I first learned
+about this-- like,
+
+00:53:31.786 --> 00:53:33.230 align:middle line:90%
+there's bad guys everywhere.
+
+00:53:33.230 --> 00:53:35.865 align:middle line:84%
+And it's like, well, and I
+am too because of course, I
+
+00:53:35.865 --> 00:53:37.930 align:middle line:90%
+am supporting the system.
+
+00:53:37.930 --> 00:53:41.120 align:middle line:84%
+So for me, it's really important
+to keep the bigger picture
+
+00:53:41.120 --> 00:53:43.339 align:middle line:84%
+in mind-- that it's the
+system that's the problem.
+
+00:53:43.339 --> 00:53:45.130 align:middle line:84%
+And as long as we go
+along with the system,
+
+00:53:45.130 --> 00:53:47.047 align:middle line:84%
+then we're all part
+of the problem.
+
+00:53:47.047 --> 00:53:48.880 align:middle line:84%
+But it doesn't mean we
+all have a bad heart.
+
+00:53:48.880 --> 00:53:50.210 align:middle line:90%
+It just means we're ignorant.
+
+00:53:50.210 --> 00:53:51.690 align:middle line:90%
+>>Exactly.
+
+00:53:51.690 --> 00:53:52.940 align:middle line:90%
+We're born into the system.
+
+00:53:52.940 --> 00:53:55.110 align:middle line:84%
+We're blissfully ignorant
+of what we're doing.
+
+00:53:55.110 --> 00:53:57.597 align:middle line:84%
+And then suddenly, we
+find ourselves in a job.
+
+00:53:57.597 --> 00:53:58.680 align:middle line:90%
+And we realize, oh my god.
+
+00:53:58.680 --> 00:54:00.244 align:middle line:90%
+I'm destroying people's lives.
+
+00:54:00.244 --> 00:54:01.660 align:middle line:84%
+And I think that's
+got a lot to do
+
+00:54:01.660 --> 00:54:04.860 align:middle line:84%
+with so many bankers committing
+suicide, because they wake up
+
+00:54:04.860 --> 00:54:08.540 align:middle line:84%
+suddenly-- and you may be
+aware of how many bankers have
+
+00:54:08.540 --> 00:54:11.700 align:middle line:84%
+committed suicide in the last
+few years, senior bankers
+
+00:54:11.700 --> 00:54:14.110 align:middle line:84%
+around the world--
+because they obviously,
+
+00:54:14.110 --> 00:54:17.360 align:middle line:84%
+many of them-- I suppose maybe
+some of them were killed,
+
+00:54:17.360 --> 00:54:19.580 align:middle line:84%
+thrown off buildings,
+because a lot of them
+
+00:54:19.580 --> 00:54:22.080 align:middle line:84%
+seem to be jumping
+out of closed windows
+
+00:54:22.080 --> 00:54:25.710 align:middle line:84%
+or off the rooftops
+of their buildings.
+
+00:54:25.710 --> 00:54:29.340 align:middle line:84%
+But I think some of them
+do actually commit suicide,
+
+00:54:29.340 --> 00:54:32.420 align:middle line:84%
+because they don't know how to
+deal with their own reality.
+
+00:54:32.420 --> 00:54:34.390 align:middle line:84%
+Suddenly, they
+realize that they've
+
+00:54:34.390 --> 00:54:37.306 align:middle line:84%
+been the cause of millions
+of people's misery,
+
+00:54:37.306 --> 00:54:39.180 align:middle line:84%
+that they actually have
+blood on their hands.
+
+00:54:39.180 --> 00:54:41.290 align:middle line:84%
+And that probably
+has a deep effect
+
+00:54:41.290 --> 00:54:44.800 align:middle line:84%
+on a lot of people that suddenly
+try and find introspection.
+
+00:54:44.800 --> 00:54:46.890 align:middle line:84%
+And so my message
+to those people is,
+
+00:54:46.890 --> 00:54:49.030 align:middle line:90%
+don't take it upon yourself.
+
+00:54:49.030 --> 00:54:53.750 align:middle line:84%
+Like you said, we
+end up in situations,
+
+00:54:53.750 --> 00:54:56.230 align:middle line:84%
+not knowing what we're
+getting ourselves into.
+
+00:54:56.230 --> 00:54:58.920 align:middle line:84%
+Just as long as you recognize
+that when you're in it,
+
+00:54:58.920 --> 00:55:02.680 align:middle line:84%
+recognize that you can no longer
+do that, and move out and go
+
+00:55:02.680 --> 00:55:03.770 align:middle line:90%
+do something else.
+
+00:55:03.770 --> 00:55:07.460 align:middle line:90%
+Go grow cabbage or corn.
+
+00:55:07.460 --> 00:55:11.330 align:middle line:84%
+Go live out in the country
+and groom horses or something.
+
+00:55:11.330 --> 00:55:14.360 align:middle line:84%
+Get out of the system,
+and stop feeding it,
+
+00:55:14.360 --> 00:55:17.350 align:middle line:84%
+and do something
+for yourself, if you
+
+00:55:17.350 --> 00:55:18.790 align:middle line:84%
+feel that you've
+been responsible
+
+00:55:18.790 --> 00:55:21.740 align:middle line:90%
+for the misery of other people.
+
+00:55:21.740 --> 00:55:24.200 align:middle line:84%
+And it's not your
+fault. You were just
+
+00:55:24.200 --> 00:55:25.230 align:middle line:90%
+trapped in the system.
+
+00:55:25.230 --> 00:55:28.160 align:middle line:84%
+And we can't blame
+ourselves for any of this.
+
+00:55:28.160 --> 00:55:31.020 align:middle line:84%
+We need to recognize
+that we are coming up
+
+00:55:31.020 --> 00:55:33.090 align:middle line:84%
+with the solutions
+for the problem,
+
+00:55:33.090 --> 00:55:36.700 align:middle line:84%
+and nobody is to
+blame for anything.
+
+00:55:36.700 --> 00:55:40.050 align:middle line:84%
+It's a recognition that
+we need to learn from this
+
+00:55:40.050 --> 00:55:42.040 align:middle line:90%
+and find the new alternative.
+
+00:55:42.040 --> 00:55:44.520 align:middle line:84%
+And I believe we have
+the new alternative.
+
+00:55:44.520 --> 00:55:46.746 align:middle line:90%
+It's just for us to embrace it.
+
+00:55:46.746 --> 00:55:49.200 align:middle line:84%
+>>And in a way,
+it's very much going
+
+00:55:49.200 --> 00:55:52.700 align:middle line:84%
+to be a freeing thing when the
+new system comes into play,
+
+00:55:52.700 --> 00:55:56.070 align:middle line:84%
+so that those people who
+care about those things--
+
+00:55:56.070 --> 00:55:59.410 align:middle line:84%
+I mean like the doctors who
+truly want to help people to be
+
+00:55:59.410 --> 00:56:02.370 align:middle line:84%
+healthier, but they're caught in
+the medical system, which often
+
+00:56:02.370 --> 00:56:04.010 align:middle line:90%
+makes people sicker.
+
+00:56:04.010 --> 00:56:07.432 align:middle line:84%
+When they are able to learn
+alternative ways to be--
+
+00:56:07.432 --> 00:56:09.890 align:middle line:84%
+and I realize that's not what
+we're talking about-- but any
+
+00:56:09.890 --> 00:56:11.950 align:middle line:84%
+of the systems that
+are not working well,
+
+00:56:11.950 --> 00:56:14.977 align:middle line:84%
+I think it's a great gift
+to all of the people that
+
+00:56:14.977 --> 00:56:17.060 align:middle line:84%
+are currently working in
+systems that are working,
+
+00:56:17.060 --> 00:56:18.230 align:middle line:90%
+to show them a better way.
+
+00:56:18.230 --> 00:56:19.030 align:middle line:90%
+>>Yeah.
+
+00:56:19.030 --> 00:56:20.488 align:middle line:84%
+Thank you very much
+for bringing up
+
+00:56:20.488 --> 00:56:23.190 align:middle line:84%
+the health thing, because we are
+going to be talking about that.
+
+00:56:23.190 --> 00:56:24.600 align:middle line:90%
+That's part of the solution.
+
+00:56:24.600 --> 00:56:27.890 align:middle line:84%
+The fact that we have found
+the cure for all disease that's
+
+00:56:27.890 --> 00:56:30.280 align:middle line:84%
+been hidden is another
+indicator of how
+
+00:56:30.280 --> 00:56:34.215 align:middle line:84%
+our lives have been manipulated
+and controlled by the system.
+
+00:56:34.215 --> 00:56:35.590 align:middle line:84%
+So we're going to
+pick up on that
+
+00:56:35.590 --> 00:56:39.060 align:middle line:90%
+in some of the upcoming chats.
+
+00:56:39.060 --> 00:56:42.620 align:middle line:84%
+And in the meantime, we're
+going to close this episode off.
+
+00:56:42.620 --> 00:56:45.880 align:middle line:84%
+And thanks very much for being
+here and participating in this.
+
+00:56:45.880 --> 00:56:46.740 align:middle line:90%
+Thank you.
+
+00:56:46.740 --> 00:56:52.192 align:middle line:90%
+[APPLAUSE]
+
+00:56:52.192 --> 00:56:58.261 align:middle line:90%

@@ -1,0 +1,4716 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:13.270 align:middle line:90%
+
+
+00:00:13.270 --> 00:00:16.500 align:middle line:10%
+>>Hello, and welcome to the
+final episode of the Ubuntu
+
+00:00:16.500 --> 00:00:19.960 align:middle line:10%
+Contribution workshop,
+shot here in location
+
+00:00:19.960 --> 00:00:22.680 align:middle line:10%
+at Gaia in Boulder, Colorado.
+
+00:00:22.680 --> 00:00:26.190 align:middle line:84%
+Over the last two days, we've
+shared some amazing philosophy
+
+00:00:26.190 --> 00:00:29.260 align:middle line:84%
+about a world without
+money and discussed
+
+00:00:29.260 --> 00:00:30.950 align:middle line:90%
+the implementation of it.
+
+00:00:30.950 --> 00:00:34.180 align:middle line:84%
+And in this episode, we're going
+to really take this thing home
+
+00:00:34.180 --> 00:00:38.030 align:middle line:84%
+and answer any more unfinished
+questions that might still
+
+00:00:38.030 --> 00:00:43.050 align:middle line:84%
+be lingering in people's minds
+or any hesitation that might
+
+00:00:43.050 --> 00:00:45.730 align:middle line:90%
+still be alive in your hearts.
+
+00:00:45.730 --> 00:00:47.730 align:middle line:84%
+So what I'd like to
+do is to start off
+
+00:00:47.730 --> 00:00:53.380 align:middle line:84%
+with by saying to you is please
+make a note of what you think
+
+00:00:53.380 --> 00:00:57.310 align:middle line:84%
+is possibly the most difficult
+or insurmountable hurdle we
+
+00:00:57.310 --> 00:00:59.990 align:middle line:84%
+need to cross in a
+world without money?
+
+00:00:59.990 --> 00:01:04.760 align:middle line:84%
+Or how will this or that work
+in this utopian world of ours?
+
+00:01:04.760 --> 00:01:07.190 align:middle line:84%
+And remember, utopian
+is a good word, right?
+
+00:01:07.190 --> 00:01:08.330 align:middle line:90%
+It's not a bad word.
+
+00:01:08.330 --> 00:01:09.930 align:middle line:90%
+We should use it more often.
+
+00:01:09.930 --> 00:01:12.370 align:middle line:84%
+And some people say, oh, this
+sounds like a utopian idea.
+
+00:01:12.370 --> 00:01:13.800 align:middle line:90%
+And I say, yeah, it is.
+
+00:01:13.800 --> 00:01:14.660 align:middle line:90%
+It's a good idea.
+
+00:01:14.660 --> 00:01:15.460 align:middle line:90%
+Utopian.
+
+00:01:15.460 --> 00:01:17.390 align:middle line:84%
+Let's say it over
+and over again.
+
+00:01:17.390 --> 00:01:21.590 align:middle line:84%
+So come up with what you think
+is the most difficult hurdle
+
+00:01:21.590 --> 00:01:24.460 align:middle line:84%
+for us to cross in a
+world without money
+
+00:01:24.460 --> 00:01:26.250 align:middle line:90%
+or how would this possibly work?
+
+00:01:26.250 --> 00:01:28.210 align:middle line:84%
+Or how are we going to
+solve these problems?
+
+00:01:28.210 --> 00:01:30.970 align:middle line:84%
+Because I'd like us to
+leave here today with being
+
+00:01:30.970 --> 00:01:33.830 align:middle line:84%
+able to answer any
+kind of problem
+
+00:01:33.830 --> 00:01:38.850 align:middle line:84%
+that we can throw or
+imagine in this environment.
+
+00:01:38.850 --> 00:01:42.680 align:middle line:84%
+What I'd also like
+to continue is
+
+00:01:42.680 --> 00:01:44.970 align:middle line:84%
+some of the frequently
+asked questions
+
+00:01:44.970 --> 00:01:48.210 align:middle line:84%
+that we want to revisit and
+see if we can answer those
+
+00:01:48.210 --> 00:01:50.650 align:middle line:84%
+with a lot more
+ease at this stage,
+
+00:01:50.650 --> 00:01:53.530 align:middle line:84%
+without me prompting
+anybody, so that it actually
+
+00:01:53.530 --> 00:01:55.650 align:middle line:90%
+comes from you and not from me.
+
+00:01:55.650 --> 00:01:58.180 align:middle line:84%
+But before we get
+there, let's look
+
+00:01:58.180 --> 00:02:02.420 align:middle line:84%
+at a few of the final subjects
+that we haven't reached yet.
+
+00:02:02.420 --> 00:02:05.950 align:middle line:84%
+And just remind us where
+we left off previously.
+
+00:02:05.950 --> 00:02:08.600 align:middle line:84%
+In a world of Ubuntu
+and Contributionism,
+
+00:02:08.600 --> 00:02:12.760 align:middle line:84%
+once we implement this
+ideology and this philosophy
+
+00:02:12.760 --> 00:02:16.480 align:middle line:84%
+and this world of abundance
+where everything is possible
+
+00:02:16.480 --> 00:02:19.540 align:middle line:84%
+because we choose to
+do it so, everything
+
+00:02:19.540 --> 00:02:23.440 align:middle line:84%
+becomes recyclable,
+renewable, and reusable.
+
+00:02:23.440 --> 00:02:26.580 align:middle line:84%
+And that is a very important
+point of departure for us
+
+00:02:26.580 --> 00:02:30.110 align:middle line:84%
+here to kickstart
+this final episode.
+
+00:02:30.110 --> 00:02:34.570 align:middle line:84%
+No more pollution, no more
+destroying our planet,
+
+00:02:34.570 --> 00:02:40.620 align:middle line:84%
+no more being forced to live
+in metropolitan urban jungles,
+
+00:02:40.620 --> 00:02:43.440 align:middle line:84%
+where people have been
+really herded and forced
+
+00:02:43.440 --> 00:02:46.820 align:middle line:84%
+to live together, mostly
+against their will,
+
+00:02:46.820 --> 00:02:51.670 align:middle line:84%
+because of social pressures and
+circumstances that drove them
+
+00:02:51.670 --> 00:02:57.360 align:middle line:84%
+there beyond what normally
+would be their choice,
+
+00:02:57.360 --> 00:02:59.380 align:middle line:84%
+looking for jobs,
+looking for careers,
+
+00:02:59.380 --> 00:03:02.590 align:middle line:84%
+looking for opportunities
+that they can't find out
+
+00:03:02.590 --> 00:03:06.110 align:middle line:84%
+in the country where
+people would prefer
+
+00:03:06.110 --> 00:03:08.620 align:middle line:90%
+to stay more often than not.
+
+00:03:08.620 --> 00:03:12.210 align:middle line:84%
+So the question is, how do
+we include city slickers
+
+00:03:12.210 --> 00:03:13.780 align:middle line:90%
+in this philosophy?
+
+00:03:13.780 --> 00:03:17.380 align:middle line:84%
+And that's an interesting
+way of looking and trying
+
+00:03:17.380 --> 00:03:20.210 align:middle line:84%
+to bring the people that live
+in the metropolitan areas
+
+00:03:20.210 --> 00:03:23.610 align:middle line:84%
+and urban jungles, how would
+they interact and interface
+
+00:03:23.610 --> 00:03:25.580 align:middle line:84%
+with these communities
+of abundance
+
+00:03:25.580 --> 00:03:28.160 align:middle line:84%
+that we're going to start
+to create in the small towns
+
+00:03:28.160 --> 00:03:29.850 align:middle line:90%
+and villages?
+
+00:03:29.850 --> 00:03:34.150 align:middle line:84%
+What happens to the millions of
+people that live in the cities?
+
+00:03:34.150 --> 00:03:37.150 align:middle line:84%
+And this is an
+interesting thing,
+
+00:03:37.150 --> 00:03:39.570 align:middle line:84%
+because the people
+that live in the cities
+
+00:03:39.570 --> 00:03:41.720 align:middle line:90%
+all have skills and talents.
+
+00:03:41.720 --> 00:03:44.270 align:middle line:90%
+They are all good at something.
+
+00:03:44.270 --> 00:03:47.140 align:middle line:84%
+They don't always do
+what they're good at,
+
+00:03:47.140 --> 00:03:51.040 align:middle line:84%
+but what happens quite often
+with people in the cities
+
+00:03:51.040 --> 00:03:54.890 align:middle line:84%
+is that they have a cottage
+in the country, isn't it?
+
+00:03:54.890 --> 00:03:56.770 align:middle line:84%
+And they can't wait
+for the long weekend
+
+00:03:56.770 --> 00:03:58.550 align:middle line:84%
+so they can get in
+their car and escape
+
+00:03:58.550 --> 00:04:00.490 align:middle line:90%
+to their cottage in the country.
+
+00:04:00.490 --> 00:04:02.920 align:middle line:84%
+So just imagine the
+scenario, right?
+
+00:04:02.920 --> 00:04:05.640 align:middle line:84%
+So you've got a
+cottage in the country,
+
+00:04:05.640 --> 00:04:07.980 align:middle line:84%
+and you drive out
+to your cottage
+
+00:04:07.980 --> 00:04:10.910 align:middle line:84%
+in the country on
+one long weekend.
+
+00:04:10.910 --> 00:04:13.360 align:middle line:84%
+And you suddenly discover
+that the town that you've
+
+00:04:13.360 --> 00:04:17.529 align:middle line:84%
+got your cottage in has become
+a Ubuntu, or a Contributionist
+
+00:04:17.529 --> 00:04:18.574 align:middle line:90%
+community.
+
+00:04:18.574 --> 00:04:20.740 align:middle line:84%
+And the people have their
+own supply of electricity.
+
+00:04:20.740 --> 00:04:22.100 align:middle line:84%
+And you weren't
+even aware of this,
+
+00:04:22.100 --> 00:04:24.641 align:middle line:84%
+because you haven't been there
+for six months, because you've
+
+00:04:24.641 --> 00:04:26.870 align:middle line:84%
+been so busy caught up in
+the rat race in the city.
+
+00:04:26.870 --> 00:04:29.114 align:middle line:84%
+And you arrive in
+your little town,
+
+00:04:29.114 --> 00:04:31.030 align:middle line:84%
+only to find that they've
+got their own supply
+
+00:04:31.030 --> 00:04:31.929 align:middle line:90%
+of electricity.
+
+00:04:31.929 --> 00:04:34.470 align:middle line:84%
+They've got all these community
+projects that they've set up.
+
+00:04:34.470 --> 00:04:37.120 align:middle line:84%
+And everybody is getting
+everything for free,
+
+00:04:37.120 --> 00:04:40.240 align:middle line:84%
+because they've set it up
+to benefit the community.
+
+00:04:40.240 --> 00:04:41.750 align:middle line:84%
+And you're a part
+of that community,
+
+00:04:41.750 --> 00:04:43.600 align:middle line:90%
+because you have a house there.
+
+00:04:43.600 --> 00:04:46.540 align:middle line:84%
+And they suddenly call
+you into the council
+
+00:04:46.540 --> 00:04:52.980 align:middle line:84%
+of elders or the group that is
+managing or guiding that town
+
+00:04:52.980 --> 00:04:55.490 align:middle line:84%
+and that community and
+say, Michael, listen.
+
+00:04:55.490 --> 00:04:57.910 align:middle line:84%
+You're a homeowner here and
+you belong to our community,
+
+00:04:57.910 --> 00:05:00.820 align:middle line:84%
+so we'd like to tell you
+about the latest developments.
+
+00:05:00.820 --> 00:05:03.980 align:middle line:84%
+And we'd like you to know that
+you can benefit from everything
+
+00:05:03.980 --> 00:05:06.410 align:middle line:84%
+that we've set up and created
+here, but all you have to do
+
+00:05:06.410 --> 00:05:09.300 align:middle line:84%
+is participate in one of
+the community projects.
+
+00:05:09.300 --> 00:05:10.420 align:middle line:90%
+What are you going to say?
+
+00:05:10.420 --> 00:05:11.644 align:middle line:90%
+What are you going to do?
+
+00:05:11.644 --> 00:05:13.060 align:middle line:84%
+And well, the
+question is probably
+
+00:05:13.060 --> 00:05:15.880 align:middle line:84%
+going to be firstly, if you're
+new to this, well, what's
+
+00:05:15.880 --> 00:05:16.680 align:middle line:90%
+in it for me?
+
+00:05:16.680 --> 00:05:17.650 align:middle line:90%
+What do I have to do?
+
+00:05:17.650 --> 00:05:19.212 align:middle line:90%
+And what do I get in return?
+
+00:05:19.212 --> 00:05:20.670 align:middle line:84%
+Because that's how
+we think, right?
+
+00:05:20.670 --> 00:05:23.030 align:middle line:90%
+Well, what's in it for me?
+
+00:05:23.030 --> 00:05:25.560 align:middle line:84%
+And the answer is-- you all
+know the answer already, right?
+
+00:05:25.560 --> 00:05:28.520 align:middle line:84%
+Well, first of all, you're
+going to get free electricity.
+
+00:05:28.520 --> 00:05:30.350 align:middle line:84%
+And you can run your
+household and don't
+
+00:05:30.350 --> 00:05:33.210 align:middle line:84%
+worry about paying
+electricity ever again.
+
+00:05:33.210 --> 00:05:36.360 align:middle line:84%
+And I think everybody will
+be pleasantly surprised
+
+00:05:36.360 --> 00:05:39.870 align:middle line:84%
+when they get confronted
+by that kind of offer.
+
+00:05:39.870 --> 00:05:40.670 align:middle line:90%
+And say, what?
+
+00:05:40.670 --> 00:05:41.260 align:middle line:90%
+Really?
+
+00:05:41.260 --> 00:05:43.690 align:middle line:84%
+I mean, so what do I have to
+do for that free electricity?
+
+00:05:43.690 --> 00:05:46.380 align:middle line:84%
+And the answer is well,
+just, these are the projects
+
+00:05:46.380 --> 00:05:47.180 align:middle line:90%
+that we've set up.
+
+00:05:47.180 --> 00:05:48.679 align:middle line:84%
+And all you need
+to do is every time
+
+00:05:48.679 --> 00:05:52.390 align:middle line:84%
+you come out, spend
+three hours per week
+
+00:05:52.390 --> 00:05:55.230 align:middle line:84%
+in one of these
+community projects.
+
+00:05:55.230 --> 00:05:56.936 align:middle line:84%
+And I think the answer
+to that is going
+
+00:05:56.936 --> 00:05:58.060 align:middle line:90%
+to be, wow, that's amazing.
+
+00:05:58.060 --> 00:05:59.560 align:middle line:90%
+And then what else?
+
+00:05:59.560 --> 00:06:00.722 align:middle line:90%
+What else?
+
+00:06:00.722 --> 00:06:01.930 align:middle line:90%
+Are there any other benefits?
+
+00:06:01.930 --> 00:06:03.550 align:middle line:90%
+And the answer is yeah.
+
+00:06:03.550 --> 00:06:07.054 align:middle line:84%
+Well, if you spend
+three hours a week
+
+00:06:07.054 --> 00:06:08.470 align:middle line:84%
+in one of the
+projects, that means
+
+00:06:08.470 --> 00:06:11.360 align:middle line:84%
+that you can get whatever else
+we're creating and developing.
+
+00:06:11.360 --> 00:06:14.420 align:middle line:84%
+That means food and
+clean water and we've
+
+00:06:14.420 --> 00:06:17.720 align:middle line:84%
+got a textile factory, so
+you can get some fabrics
+
+00:06:17.720 --> 00:06:20.500 align:middle line:84%
+and you can make
+clothing and whatever.
+
+00:06:20.500 --> 00:06:24.390 align:middle line:84%
+And you start
+realizing, hold on.
+
+00:06:24.390 --> 00:06:28.270 align:middle line:84%
+So I live in the city,
+I work like a slave.
+
+00:06:28.270 --> 00:06:32.350 align:middle line:84%
+And suddenly, when I come
+out to my little cottage
+
+00:06:32.350 --> 00:06:36.124 align:middle line:84%
+in the country, I can work
+for three hours a week
+
+00:06:36.124 --> 00:06:38.040 align:middle line:84%
+in these community
+projects and I can actually
+
+00:06:38.040 --> 00:06:44.280 align:middle line:84%
+live for free in my little town
+in my cottage in the country.
+
+00:06:44.280 --> 00:06:47.957 align:middle line:84%
+So the question is going to
+start playing on your mind
+
+00:06:47.957 --> 00:06:53.680 align:middle line:84%
+as to why am I going to go
+back to the city, right?
+
+00:06:53.680 --> 00:06:56.860 align:middle line:84%
+So what's going to happen,
+I think, as this unfolds,
+
+00:06:56.860 --> 00:06:59.060 align:middle line:84%
+I have no idea how
+it will unfold.
+
+00:06:59.060 --> 00:07:01.660 align:middle line:84%
+But something along
+these lines, where
+
+00:07:01.660 --> 00:07:04.410 align:middle line:84%
+people are going to escape
+to the little cottage
+
+00:07:04.410 --> 00:07:07.460 align:middle line:84%
+in the country, and at
+some stage they're just
+
+00:07:07.460 --> 00:07:08.680 align:middle line:90%
+going to stay there.
+
+00:07:08.680 --> 00:07:10.471 align:middle line:84%
+They're going to say,
+well, why the hell am
+
+00:07:10.471 --> 00:07:11.810 align:middle line:90%
+I going to go back to the city?
+
+00:07:11.810 --> 00:07:13.050 align:middle line:90%
+To do what?
+
+00:07:13.050 --> 00:07:15.420 align:middle line:84%
+Let me sell my place
+in the city-- that's
+
+00:07:15.420 --> 00:07:17.850 align:middle line:84%
+if they have a place--
+or just give up the rent
+
+00:07:17.850 --> 00:07:20.350 align:middle line:84%
+and move into my little
+cottage in the country
+
+00:07:20.350 --> 00:07:23.209 align:middle line:84%
+and live in paradise
+and help to contribute
+
+00:07:23.209 --> 00:07:25.000 align:middle line:84%
+towards that community,
+because I'm already
+
+00:07:25.000 --> 00:07:27.430 align:middle line:90%
+getting all the benefits.
+
+00:07:27.430 --> 00:07:29.860 align:middle line:84%
+And that's an interesting
+way of looking
+
+00:07:29.860 --> 00:07:32.970 align:middle line:84%
+at what will happen to
+people in the city moving out
+
+00:07:32.970 --> 00:07:34.110 align:middle line:90%
+to the country.
+
+00:07:34.110 --> 00:07:38.570 align:middle line:84%
+The other thing is people,
+young people, that are maybe
+
+00:07:38.570 --> 00:07:42.560 align:middle line:84%
+not married or individuals that
+have got skills and talents,
+
+00:07:42.560 --> 00:07:45.300 align:middle line:84%
+working farms have become
+quite popular, right?
+
+00:07:45.300 --> 00:07:48.450 align:middle line:84%
+People go on holiday
+and they no longer just
+
+00:07:48.450 --> 00:07:51.720 align:middle line:84%
+want to go on holiday
+and become observers
+
+00:07:51.720 --> 00:07:55.470 align:middle line:84%
+on a tourist bus looking
+at all the people
+
+00:07:55.470 --> 00:07:59.490 align:middle line:84%
+in their environment, which is
+like a really strange voyeur
+
+00:07:59.490 --> 00:08:01.380 align:middle line:90%
+kind of mentality, right?
+
+00:08:01.380 --> 00:08:05.620 align:middle line:90%
+And people in a zoo, right?
+
+00:08:05.620 --> 00:08:07.800 align:middle line:84%
+On a bus looking at the
+animals in their homes
+
+00:08:07.800 --> 00:08:10.490 align:middle line:84%
+and doing things
+while the tourist bus
+
+00:08:10.490 --> 00:08:12.180 align:middle line:90%
+goes through your town.
+
+00:08:12.180 --> 00:08:14.430 align:middle line:84%
+I've always found
+that really bizarre.
+
+00:08:14.430 --> 00:08:17.940 align:middle line:84%
+But so this is why these
+working farms have become quite
+
+00:08:17.940 --> 00:08:19.720 align:middle line:90%
+a major thing around the world.
+
+00:08:19.720 --> 00:08:22.900 align:middle line:84%
+People want to go to another
+country or a town or a village
+
+00:08:22.900 --> 00:08:25.400 align:middle line:84%
+and integrate, become
+part of that community,
+
+00:08:25.400 --> 00:08:26.570 align:middle line:90%
+and go and do something.
+
+00:08:26.570 --> 00:08:28.350 align:middle line:90%
+And that's how you meet people.
+
+00:08:28.350 --> 00:08:30.860 align:middle line:84%
+You get to know about
+the community, the people
+
+00:08:30.860 --> 00:08:33.184 align:middle line:84%
+in the town, and the
+village, and understand
+
+00:08:33.184 --> 00:08:34.309 align:middle line:90%
+a little bit more about it.
+
+00:08:34.309 --> 00:08:35.642 align:middle line:90%
+So you actually go do something.
+
+00:08:35.642 --> 00:08:37.900 align:middle line:84%
+So that's exactly what
+will happen as well.
+
+00:08:37.900 --> 00:08:40.120 align:middle line:84%
+So these towns and
+communities will
+
+00:08:40.120 --> 00:08:43.809 align:middle line:84%
+become like working farms
+or working villages,
+
+00:08:43.809 --> 00:08:46.110 align:middle line:84%
+where the people in
+the city are going
+
+00:08:46.110 --> 00:08:49.480 align:middle line:84%
+to be given the opportunity
+to come out there.
+
+00:08:49.480 --> 00:08:52.000 align:middle line:84%
+And what are they going
+to get in exchange?
+
+00:08:52.000 --> 00:08:54.820 align:middle line:84%
+Come out for the weekend,
+work for three hours in one
+
+00:08:54.820 --> 00:08:57.540 align:middle line:84%
+of the community projects,
+and you get free accommodation
+
+00:08:57.540 --> 00:08:59.670 align:middle line:90%
+and free food.
+
+00:08:59.670 --> 00:09:02.740 align:middle line:84%
+So that's a win-win situation
+for everybody, isn't it?
+
+00:09:02.740 --> 00:09:04.170 align:middle line:84%
+So slowly but
+surely, you're going
+
+00:09:04.170 --> 00:09:06.140 align:middle line:84%
+to get these city
+slickers that work
+
+00:09:06.140 --> 00:09:09.290 align:middle line:84%
+in offices and
+these horrible jobs
+
+00:09:09.290 --> 00:09:10.810 align:middle line:90%
+that they don't really like.
+
+00:09:10.810 --> 00:09:12.560 align:middle line:84%
+And they're going
+to start ascribing
+
+00:09:12.560 --> 00:09:16.320 align:middle line:84%
+more and more to these little
+towns all over the place.
+
+00:09:16.320 --> 00:09:19.640 align:middle line:84%
+And the more of these
+little towns there are,
+
+00:09:19.640 --> 00:09:21.990 align:middle line:84%
+the more opportunity is
+going to be presented
+
+00:09:21.990 --> 00:09:23.240 align:middle line:90%
+to people that live in cities.
+
+00:09:23.240 --> 00:09:24.500 align:middle line:84%
+So well, this weekend
+I'm going to go
+
+00:09:24.500 --> 00:09:25.960 align:middle line:90%
+to that little town over there.
+
+00:09:25.960 --> 00:09:27.500 align:middle line:84%
+Next weekend, I'm
+flying over there.
+
+00:09:27.500 --> 00:09:28.390 align:middle line:90%
+And then I'm going to go there.
+
+00:09:28.390 --> 00:09:29.806 align:middle line:84%
+And sooner or
+later, they're going
+
+00:09:29.806 --> 00:09:33.080 align:middle line:84%
+to find a town that they
+fall in love with, say wow,
+
+00:09:33.080 --> 00:09:33.960 align:middle line:90%
+I love this place.
+
+00:09:33.960 --> 00:09:35.645 align:middle line:84%
+I don't want to go
+back to the city.
+
+00:09:35.645 --> 00:09:37.520 align:middle line:84%
+And they're going to be
+given an opportunity.
+
+00:09:37.520 --> 00:09:38.980 align:middle line:84%
+Well, you don't have
+to go back to the city.
+
+00:09:38.980 --> 00:09:40.260 align:middle line:90%
+You can stay in our community.
+
+00:09:40.260 --> 00:09:43.370 align:middle line:90%
+Just contribute to the projects.
+
+00:09:43.370 --> 00:09:46.980 align:middle line:84%
+So this is how I think,
+something like this,
+
+00:09:46.980 --> 00:09:50.920 align:middle line:84%
+we will start getting the
+people to leave the cities
+
+00:09:50.920 --> 00:09:54.280 align:middle line:84%
+and feel free to go
+integrate into small towns
+
+00:09:54.280 --> 00:09:57.110 align:middle line:84%
+and small communities,
+because of the opportunities
+
+00:09:57.110 --> 00:09:59.320 align:middle line:90%
+that naturally get presented.
+
+00:09:59.320 --> 00:10:03.030 align:middle line:84%
+And they will bring their
+own set of talents and skills
+
+00:10:03.030 --> 00:10:06.080 align:middle line:84%
+to that community that
+will automatically benefit
+
+00:10:06.080 --> 00:10:08.770 align:middle line:90%
+the people in that community.
+
+00:10:08.770 --> 00:10:10.390 align:middle line:90%
+So everybody benefits.
+
+00:10:10.390 --> 00:10:14.294 align:middle line:84%
+It is a win-win
+situation for everyone.
+
+00:10:14.294 --> 00:10:16.210 align:middle line:84%
+There will be other
+things that happen that we
+
+00:10:16.210 --> 00:10:18.300 align:middle line:90%
+can't predict right now.
+
+00:10:18.300 --> 00:10:20.130 align:middle line:90%
+And that's the beauty of this.
+
+00:10:20.130 --> 00:10:22.370 align:middle line:90%
+It is that unknown factor.
+
+00:10:22.370 --> 00:10:25.060 align:middle line:84%
+And that's what makes
+it even more exciting.
+
+00:10:25.060 --> 00:10:29.100 align:middle line:84%
+And this will only be
+exposed and show itself
+
+00:10:29.100 --> 00:10:33.600 align:middle line:84%
+once we start actually doing
+this in these communities.
+
+00:10:33.600 --> 00:10:36.085 align:middle line:84%
+That's when it
+becomes so exciting.
+
+00:10:36.085 --> 00:10:39.420 align:middle line:84%
+So another interesting
+area of opportunity
+
+00:10:39.420 --> 00:10:43.460 align:middle line:84%
+is in countries that have
+tribal leaders and tribal lands.
+
+00:10:43.460 --> 00:10:47.630 align:middle line:84%
+And that includes the United
+States, Canada, South Africa,
+
+00:10:47.630 --> 00:10:50.190 align:middle line:84%
+Australia, and other
+parts of the world,
+
+00:10:50.190 --> 00:10:53.500 align:middle line:84%
+South America, countries
+that have tribal leaders
+
+00:10:53.500 --> 00:10:55.140 align:middle line:90%
+and tribal lands.
+
+00:10:55.140 --> 00:10:57.120 align:middle line:84%
+Because many of
+these tribal leaders
+
+00:10:57.120 --> 00:10:59.670 align:middle line:84%
+have already been under
+attack by their governments.
+
+00:10:59.670 --> 00:11:02.400 align:middle line:84%
+Their land is
+constantly being stolen,
+
+00:11:02.400 --> 00:11:05.380 align:middle line:84%
+they are under constant threat
+of their tribal land being
+
+00:11:05.380 --> 00:11:08.200 align:middle line:84%
+taken away from them,
+and d being bribed
+
+00:11:08.200 --> 00:11:09.590 align:middle line:90%
+and cheated out of their land.
+
+00:11:09.590 --> 00:11:13.040 align:middle line:84%
+And especially in
+South Africa, where
+
+00:11:13.040 --> 00:11:18.190 align:middle line:84%
+there are around 200 tribal
+lands and tribal chiefs
+
+00:11:18.190 --> 00:11:22.600 align:middle line:84%
+and tribal leaders, many of them
+have been bribed and corrupted
+
+00:11:22.600 --> 00:11:23.910 align:middle line:90%
+by the government.
+
+00:11:23.910 --> 00:11:27.650 align:middle line:84%
+And there's a lot of
+loss of this tribal land
+
+00:11:27.650 --> 00:11:29.750 align:middle line:84%
+that the government
+has really stolen
+
+00:11:29.750 --> 00:11:31.650 align:middle line:90%
+from these tribal leaders.
+
+00:11:31.650 --> 00:11:34.630 align:middle line:84%
+But many of them are
+wise to this activity
+
+00:11:34.630 --> 00:11:35.430 align:middle line:90%
+of the government.
+
+00:11:35.430 --> 00:11:37.263 align:middle line:84%
+And they are holding
+onto their tribal land.
+
+00:11:37.263 --> 00:11:40.500 align:middle line:84%
+But it's not easy, because
+many of these tribal chiefs
+
+00:11:40.500 --> 00:11:42.430 align:middle line:90%
+and leaders are very poor.
+
+00:11:42.430 --> 00:11:44.620 align:middle line:90%
+They're very poor individuals.
+
+00:11:44.620 --> 00:11:46.410 align:middle line:90%
+And they have very little.
+
+00:11:46.410 --> 00:11:49.176 align:middle line:84%
+And in most
+instances, their lands
+
+00:11:49.176 --> 00:11:50.800 align:middle line:84%
+have been destroyed
+by the government--
+
+00:11:50.800 --> 00:11:54.580 align:middle line:84%
+again, by design, to
+force the people to leave
+
+00:11:54.580 --> 00:11:57.920 align:middle line:84%
+the tribal lands to move to
+the cities in search of jobs.
+
+00:11:57.920 --> 00:11:59.680 align:middle line:84%
+And that's when they
+get stuck and trapped
+
+00:11:59.680 --> 00:12:03.430 align:middle line:84%
+in those metropolitan
+jungles and become slaves
+
+00:12:03.430 --> 00:12:04.920 align:middle line:90%
+to the system.
+
+00:12:04.920 --> 00:12:08.000 align:middle line:84%
+So the tribal leaders
+are more and more
+
+00:12:08.000 --> 00:12:11.390 align:middle line:84%
+increasingly losing people
+from the tribal lands that
+
+00:12:11.390 --> 00:12:14.510 align:middle line:84%
+are leaving because
+there's very little to do
+
+00:12:14.510 --> 00:12:17.637 align:middle line:84%
+and they have no idea how to
+solve that problem they haven't
+
+00:12:17.637 --> 00:12:19.470 align:middle line:84%
+figured this out, that
+we've discussed here,
+
+00:12:19.470 --> 00:12:22.370 align:middle line:84%
+how easy it is when you start
+working together, right?
+
+00:12:22.370 --> 00:12:24.950 align:middle line:84%
+And so they are losing people,
+especially young people
+
+00:12:24.950 --> 00:12:26.940 align:middle line:90%
+are being lured to the cities.
+
+00:12:26.940 --> 00:12:29.450 align:middle line:84%
+And they're becoming
+leaders to nobody.
+
+00:12:29.450 --> 00:12:32.680 align:middle line:84%
+And all this tribal land--
+the most beautiful land
+
+00:12:32.680 --> 00:12:34.530 align:middle line:90%
+that you can imagine.
+
+00:12:34.530 --> 00:12:36.080 align:middle line:84%
+So many of these
+leaders have now
+
+00:12:36.080 --> 00:12:38.450 align:middle line:84%
+been finding out
+about what we're
+
+00:12:38.450 --> 00:12:41.270 align:middle line:84%
+doing with Ubuntu and this
+philosophy and they love it,
+
+00:12:41.270 --> 00:12:44.850 align:middle line:84%
+because they realize that this
+can save their tribal lands
+
+00:12:44.850 --> 00:12:47.540 align:middle line:84%
+and help bring the people
+back to their communities
+
+00:12:47.540 --> 00:12:52.090 align:middle line:84%
+to start participating in
+this collective, cooperative
+
+00:12:52.090 --> 00:12:55.540 align:middle line:84%
+structure to bring abundance to
+the people in the tribal lands
+
+00:12:55.540 --> 00:12:57.840 align:middle line:90%
+and reactivate the tribal lands.
+
+00:12:57.840 --> 00:13:01.110 align:middle line:84%
+So this is a really
+interesting opportunity,
+
+00:13:01.110 --> 00:13:03.520 align:middle line:84%
+because also in
+the tribal lands,
+
+00:13:03.520 --> 00:13:05.910 align:middle line:84%
+it's the chief that
+makes the final decision.
+
+00:13:05.910 --> 00:13:07.400 align:middle line:84%
+You don't have to
+ask permission.
+
+00:13:07.400 --> 00:13:09.290 align:middle line:84%
+You don't have to
+win an election.
+
+00:13:09.290 --> 00:13:11.260 align:middle line:84%
+You don't have to
+go to the polls.
+
+00:13:11.260 --> 00:13:14.410 align:middle line:84%
+You just have an
+agreement with the chief
+
+00:13:14.410 --> 00:13:17.049 align:middle line:84%
+and the tribal leaders say
+this is what we'd like to do.
+
+00:13:17.049 --> 00:13:18.590 align:middle line:84%
+And then the chief
+can call a meeting
+
+00:13:18.590 --> 00:13:21.320 align:middle line:84%
+of all the elders and
+the headmen and say,
+
+00:13:21.320 --> 00:13:22.870 align:middle line:90%
+this is what I propose we do.
+
+00:13:22.870 --> 00:13:25.510 align:middle line:84%
+And I must tell you
+that at this stage,
+
+00:13:25.510 --> 00:13:28.710 align:middle line:84%
+there are probably around
+12 tribal leaders in South
+
+00:13:28.710 --> 00:13:33.300 align:middle line:84%
+Africa that have either
+requested a meeting with me
+
+00:13:33.300 --> 00:13:36.140 align:middle line:84%
+and I've already met with
+one or two or three of them.
+
+00:13:36.140 --> 00:13:38.450 align:middle line:84%
+The interest is
+growing so quickly
+
+00:13:38.450 --> 00:13:40.420 align:middle line:90%
+that I'm absolutely amazed.
+
+00:13:40.420 --> 00:13:43.070 align:middle line:84%
+I believe the same
+can happen in the USA,
+
+00:13:43.070 --> 00:13:47.920 align:middle line:84%
+in the Native American
+tribal lands, and Canada,
+
+00:13:47.920 --> 00:13:50.680 align:middle line:84%
+and Australia, and South
+American countries,
+
+00:13:50.680 --> 00:13:52.910 align:middle line:84%
+wherever there are still
+tribal leaders that
+
+00:13:52.910 --> 00:13:58.130 align:middle line:84%
+hold on to the pride of
+their natural custodianship.
+
+00:13:58.130 --> 00:14:00.090 align:middle line:84%
+So I'm going to just
+leave that there,
+
+00:14:00.090 --> 00:14:02.210 align:middle line:84%
+because this is an
+evolving process.
+
+00:14:02.210 --> 00:14:04.310 align:middle line:84%
+This is something
+that's in development.
+
+00:14:04.310 --> 00:14:08.870 align:middle line:84%
+Obviously it's going to
+require money and funding,
+
+00:14:08.870 --> 00:14:12.630 align:middle line:84%
+setting up the community
+projects in those tribal lands,
+
+00:14:12.630 --> 00:14:14.450 align:middle line:84%
+because those people
+are all very poor.
+
+00:14:14.450 --> 00:14:16.380 align:middle line:84%
+These are the poorest
+of the poor people.
+
+00:14:16.380 --> 00:14:17.510 align:middle line:90%
+They have very little.
+
+00:14:17.510 --> 00:14:19.410 align:middle line:84%
+This is going to be an
+interesting challenge.
+
+00:14:19.410 --> 00:14:21.440 align:middle line:90%
+But we'll see how this unfolds.
+
+00:14:21.440 --> 00:14:24.660 align:middle line:84%
+And this is possibly
+where international
+
+00:14:24.660 --> 00:14:28.630 align:middle line:84%
+or global crowdfunding
+could come into play.
+
+00:14:28.630 --> 00:14:31.940 align:middle line:84%
+Or this is where you can find
+these conscious millionaires
+
+00:14:31.940 --> 00:14:33.710 align:middle line:90%
+or billionaires that say, wow.
+
+00:14:33.710 --> 00:14:37.850 align:middle line:84%
+I want to help this tribal,
+this traditional chief here,
+
+00:14:37.850 --> 00:14:41.810 align:middle line:84%
+and come and put some money into
+setting up these projects that
+
+00:14:41.810 --> 00:14:46.020 align:middle line:84%
+really start to help the people
+in these very, very rural areas
+
+00:14:46.020 --> 00:14:49.000 align:middle line:84%
+and create those pockets
+of abundance that
+
+00:14:49.000 --> 00:14:52.810 align:middle line:84%
+start to affect all the other
+tribal lands around them.
+
+00:14:52.810 --> 00:14:54.470 align:middle line:84%
+There's quite a
+lot of stuff that
+
+00:14:54.470 --> 00:14:58.520 align:middle line:84%
+needs to be done to really
+take the ownership back.
+
+00:14:58.520 --> 00:15:00.310 align:middle line:84%
+For example, one
+of the suggestions
+
+00:15:00.310 --> 00:15:03.910 align:middle line:84%
+I've made to the
+one chief is that we
+
+00:15:03.910 --> 00:15:07.410 align:middle line:84%
+make signs, little billboards,
+that we actually put up
+
+00:15:07.410 --> 00:15:12.620 align:middle line:84%
+on all the roads as you enter
+that traditional land to say,
+
+00:15:12.620 --> 00:15:16.270 align:middle line:84%
+you're entering the tribal
+land of chief so-and-so,
+
+00:15:16.270 --> 00:15:18.560 align:middle line:84%
+and have a picture of
+him, and show the land,
+
+00:15:18.560 --> 00:15:21.437 align:middle line:84%
+show the geographical
+area of that tribal land.
+
+00:15:21.437 --> 00:15:23.270 align:middle line:84%
+So when people drive
+in there, they actually
+
+00:15:23.270 --> 00:15:25.500 align:middle line:84%
+know that you're driving
+into the tribal land.
+
+00:15:25.500 --> 00:15:28.140 align:middle line:84%
+Because at the moment,
+it's not designated.
+
+00:15:28.140 --> 00:15:28.940 align:middle line:90%
+Nobody knows.
+
+00:15:28.940 --> 00:15:30.900 align:middle line:90%
+So it's this gray area.
+
+00:15:30.900 --> 00:15:33.580 align:middle line:84%
+So just by doing
+that, it's taking back
+
+00:15:33.580 --> 00:15:36.440 align:middle line:84%
+and claiming the land
+for those tribal leaders
+
+00:15:36.440 --> 00:15:39.240 align:middle line:84%
+is a very important
+point of departure.
+
+00:15:39.240 --> 00:15:41.490 align:middle line:84%
+And that automatically
+gives them
+
+00:15:41.490 --> 00:15:47.060 align:middle line:84%
+a sense of more pride
+and elevating them
+
+00:15:47.060 --> 00:15:49.300 align:middle line:84%
+to the prominent
+status that they
+
+00:15:49.300 --> 00:15:50.710 align:middle line:90%
+should hold in their community.
+
+00:15:50.710 --> 00:15:53.790 align:middle line:84%
+This is a really exciting and
+challenging, at the same time
+
+00:15:53.790 --> 00:15:56.480 align:middle line:84%
+challenging, opportunity
+that faces us, especially
+
+00:15:56.480 --> 00:16:00.280 align:middle line:84%
+in South Africa, where there
+is an absolute determination
+
+00:16:00.280 --> 00:16:03.490 align:middle line:84%
+to destroy the tribal chiefs
+and the tribal leaders
+
+00:16:03.490 --> 00:16:06.680 align:middle line:84%
+and take the land away
+from them and put it
+
+00:16:06.680 --> 00:16:08.890 align:middle line:84%
+into the hands of
+the government.
+
+00:16:08.890 --> 00:16:11.100 align:middle line:84%
+We need to stop
+that at all costs.
+
+00:16:11.100 --> 00:16:16.690 align:middle line:84%
+This is just one of the recent
+tribal activities in our town.
+
+00:16:16.690 --> 00:16:18.530 align:middle line:90%
+There was a coronation.
+
+00:16:18.530 --> 00:16:20.710 align:middle line:90%
+A new chief was appointed.
+
+00:16:20.710 --> 00:16:23.220 align:middle line:84%
+Just some of the ceremonies
+and activities that took
+
+00:16:23.220 --> 00:16:27.460 align:middle line:84%
+place and I was an invited
+special guest at this event.
+
+00:16:27.460 --> 00:16:31.920 align:middle line:84%
+At this stage, I'd like to come
+back to the 13 frequently asked
+
+00:16:31.920 --> 00:16:32.790 align:middle line:90%
+questions.
+
+00:16:32.790 --> 00:16:34.410 align:middle line:10%
+Well, actually more than 13.
+
+00:16:34.410 --> 00:16:36.250 align:middle line:84%
+And just go through
+them and see if there
+
+00:16:36.250 --> 00:16:38.080 align:middle line:84%
+are any these
+questions that you'd
+
+00:16:38.080 --> 00:16:40.720 align:middle line:84%
+like to have a stab at that
+we didn't answer before.
+
+00:16:40.720 --> 00:16:43.290 align:middle line:84%
+I think we sort of
+covered most of them.
+
+00:16:43.290 --> 00:16:46.710 align:middle line:84%
+I'm just-- who's going
+to shovel the crap?
+
+00:16:46.710 --> 00:16:48.360 align:middle line:84%
+I think we've dealt
+with that, right?
+
+00:16:48.360 --> 00:16:52.120 align:middle line:84%
+If everything is free, I'll just
+sit on my ass and do nothing
+
+00:16:52.120 --> 00:16:53.500 align:middle line:90%
+and people must bring me stuff.
+
+00:16:53.500 --> 00:16:57.950 align:middle line:84%
+I think, does anybody
+have a problem with it?
+
+00:16:57.950 --> 00:16:59.210 align:middle line:90%
+We all now know, right?
+
+00:16:59.210 --> 00:17:01.660 align:middle line:84%
+We've gone beyond
+wondering how are we
+
+00:17:01.660 --> 00:17:03.320 align:middle line:90%
+going to solve this, right?
+
+00:17:03.320 --> 00:17:06.560 align:middle line:84%
+The 50 Ferraris and 20
+mansions is a beautiful one.
+
+00:17:06.560 --> 00:17:08.000 align:middle line:84%
+Anybody still have
+a problem with
+
+00:17:08.000 --> 00:17:11.500 align:middle line:84%
+that, not really understanding
+how we deal with that?
+
+00:17:11.500 --> 00:17:13.220 align:middle line:84%
+Are we going back
+to the dark ages?
+
+00:17:13.220 --> 00:17:14.280 align:middle line:90%
+Really?
+
+00:17:14.280 --> 00:17:17.099 align:middle line:90%
+Is that a valid question?
+
+00:17:17.099 --> 00:17:18.790 align:middle line:84%
+No, I think we've
+made it very clear
+
+00:17:18.790 --> 00:17:20.670 align:middle line:90%
+that we're going to the stars.
+
+00:17:20.670 --> 00:17:23.150 align:middle line:84%
+We're unlocking the
+infinite potential
+
+00:17:23.150 --> 00:17:26.660 align:middle line:84%
+of the human spirit of
+creation and creativity
+
+00:17:26.660 --> 00:17:28.420 align:middle line:90%
+by taking away the money.
+
+00:17:28.420 --> 00:17:29.900 align:middle line:90%
+Is this a lawless society?
+
+00:17:29.900 --> 00:17:31.140 align:middle line:90%
+Absolutely not.
+
+00:17:31.140 --> 00:17:33.110 align:middle line:84%
+We have our council
+of elders that
+
+00:17:33.110 --> 00:17:36.270 align:middle line:84%
+creates the structure
+and the foundation
+
+00:17:36.270 --> 00:17:38.450 align:middle line:84%
+and the guidance
+for our community.
+
+00:17:38.450 --> 00:17:41.510 align:middle line:84%
+But the laws are made by
+the people of the community,
+
+00:17:41.510 --> 00:17:42.820 align:middle line:90%
+not the council of elders.
+
+00:17:42.820 --> 00:17:43.990 align:middle line:90%
+They don't make the laws.
+
+00:17:43.990 --> 00:17:47.410 align:middle line:84%
+They just guide
+and apply the laws
+
+00:17:47.410 --> 00:17:49.710 align:middle line:90%
+that are made by the people.
+
+00:17:49.710 --> 00:17:51.360 align:middle line:90%
+So it's not a lawless society.
+
+00:17:51.360 --> 00:17:57.340 align:middle line:84%
+In fact, in a world
+with infinite freedom
+
+00:17:57.340 --> 00:18:02.140 align:middle line:84%
+comes a responsibility
+of infinite control.
+
+00:18:02.140 --> 00:18:04.890 align:middle line:84%
+But control within
+the guidelines
+
+00:18:04.890 --> 00:18:06.420 align:middle line:84%
+that we've set
+for ourselves, not
+
+00:18:06.420 --> 00:18:09.860 align:middle line:84%
+controlled by somebody outside
+of us that controls us.
+
+00:18:09.860 --> 00:18:12.880 align:middle line:84%
+So we set the guidelines
+for ourselves.
+
+00:18:12.880 --> 00:18:16.676 align:middle line:84%
+And we know what is
+good for our community
+
+00:18:16.676 --> 00:18:18.050 align:middle line:84%
+and what's bad
+for our community.
+
+00:18:18.050 --> 00:18:21.580 align:middle line:84%
+And therefore, it will
+be imposed by ourselves
+
+00:18:21.580 --> 00:18:22.820 align:middle line:90%
+on ourselves.
+
+00:18:22.820 --> 00:18:25.600 align:middle line:84%
+We become our own
+disciplinarians,
+
+00:18:25.600 --> 00:18:28.610 align:middle line:84%
+if you can use that
+word, to make sure
+
+00:18:28.610 --> 00:18:30.680 align:middle line:84%
+that we don't step out
+of line or infringe
+
+00:18:30.680 --> 00:18:33.810 align:middle line:84%
+on the rights of anybody
+else in our community.
+
+00:18:33.810 --> 00:18:36.320 align:middle line:84%
+>>I guess a lot of the
+teenagers are rebellious and are
+
+00:18:36.320 --> 00:18:39.100 align:middle line:90%
+getting out of control, right?
+
+00:18:39.100 --> 00:18:43.620 align:middle line:84%
+And they've destroyed some of
+the facilities that are close
+
+00:18:43.620 --> 00:18:46.870 align:middle line:84%
+to and in your community,
+and you're looking forward
+
+00:18:46.870 --> 00:18:48.410 align:middle line:90%
+to rebuilding them.
+
+00:18:48.410 --> 00:18:50.435 align:middle line:84%
+But somebody has
+vandalized a great deal
+
+00:18:50.435 --> 00:18:51.720 align:middle line:90%
+and a great many things.
+
+00:18:51.720 --> 00:18:54.250 align:middle line:84%
+>>You don't have that kind
+of vandalism in societies
+
+00:18:54.250 --> 00:18:56.990 align:middle line:84%
+where you have a beautiful
+home built for you by the best
+
+00:18:56.990 --> 00:19:00.250 align:middle line:84%
+architects that money can't
+buy, by the best builders
+
+00:19:00.250 --> 00:19:02.820 align:middle line:84%
+that money can't buy,
+by the best materials
+
+00:19:02.820 --> 00:19:04.320 align:middle line:90%
+that money can't buy.
+
+00:19:04.320 --> 00:19:06.750 align:middle line:84%
+The way you want it
+built for yourself--
+
+00:19:06.750 --> 00:19:08.650 align:middle line:84%
+either by the river
+up on the mountain,
+
+00:19:08.650 --> 00:19:10.340 align:middle line:84%
+in a community of
+your own choice.
+
+00:19:10.340 --> 00:19:13.010 align:middle line:84%
+Vandalism and the
+rebellion doesn't even
+
+00:19:13.010 --> 00:19:14.780 align:middle line:90%
+enter the equation.
+
+00:19:14.780 --> 00:19:17.062 align:middle line:90%
+That is completely not part of--
+
+00:19:17.062 --> 00:19:19.270 align:middle line:84%
+>>I just live in a city
+called Chicago and things can
+
+00:19:19.270 --> 00:19:21.470 align:middle line:90%
+be pretty crazy there.
+
+00:19:21.470 --> 00:19:24.700 align:middle line:84%
+>>So this is again why
+people in the cities
+
+00:19:24.700 --> 00:19:27.570 align:middle line:84%
+are going to probably make
+a very quick move away
+
+00:19:27.570 --> 00:19:30.150 align:middle line:84%
+from the cities into
+these small towns
+
+00:19:30.150 --> 00:19:33.170 align:middle line:84%
+where we take control
+of our communities,
+
+00:19:33.170 --> 00:19:35.150 align:middle line:84%
+we know everybody
+in the community,
+
+00:19:35.150 --> 00:19:39.000 align:middle line:84%
+we've collectively
+decided what we're doing,
+
+00:19:39.000 --> 00:19:42.760 align:middle line:84%
+we have a council of elders
+that manages and controls
+
+00:19:42.760 --> 00:19:45.530 align:middle line:84%
+the situation on
+behalf of the people.
+
+00:19:45.530 --> 00:19:47.960 align:middle line:84%
+That council of elders
+can be changed every day
+
+00:19:47.960 --> 00:19:52.360 align:middle line:84%
+if necessary by the people if
+one of them steps out of line.
+
+00:19:52.360 --> 00:19:55.050 align:middle line:84%
+It's not an elected
+parliament that
+
+00:19:55.050 --> 00:19:56.800 align:middle line:84%
+has to be there for
+four years and there's
+
+00:19:56.800 --> 00:19:58.640 align:middle line:90%
+nothing you can do about them.
+
+00:19:58.640 --> 00:20:01.780 align:middle line:84%
+This is an important point
+that I may not have mentioned.
+
+00:20:01.780 --> 00:20:05.800 align:middle line:84%
+The council of elders is
+there by choice of the people.
+
+00:20:05.800 --> 00:20:09.730 align:middle line:84%
+And if any one of those
+members of the council
+
+00:20:09.730 --> 00:20:12.560 align:middle line:84%
+is seen to be
+suspicious or doing
+
+00:20:12.560 --> 00:20:15.190 align:middle line:84%
+things that is not
+necessarily for the benefit
+
+00:20:15.190 --> 00:20:18.360 align:middle line:84%
+of the whole community, the
+community votes him out, says,
+
+00:20:18.360 --> 00:20:21.450 align:middle line:84%
+sorry, we don't think you
+deserve to be on the council
+
+00:20:21.450 --> 00:20:23.770 align:middle line:84%
+anymore because you've
+done x, y, and z.
+
+00:20:23.770 --> 00:20:26.210 align:middle line:84%
+And we're going to
+replace you by John,
+
+00:20:26.210 --> 00:20:31.060 align:middle line:84%
+who's an honorable, respectable
+member of our community.
+
+00:20:31.060 --> 00:20:36.660 align:middle line:84%
+So it's absolute control of the
+community of their own destiny,
+
+00:20:36.660 --> 00:20:39.220 align:middle line:84%
+of what they do on
+a day to day basis,
+
+00:20:39.220 --> 00:20:42.520 align:middle line:84%
+and the structures and
+the legal guidelines
+
+00:20:42.520 --> 00:20:43.992 align:middle line:90%
+they set for themselves.
+
+00:20:43.992 --> 00:20:46.200 align:middle line:84%
+How are they going to deal
+with rebellious teenagers?
+
+00:20:46.200 --> 00:20:47.050 align:middle line:90%
+I have no idea.
+
+00:20:47.050 --> 00:20:49.320 align:middle line:84%
+It's up to that
+community to decide.
+
+00:20:49.320 --> 00:20:52.020 align:middle line:84%
+Are we going to have
+rebellious teenagers?
+
+00:20:52.020 --> 00:20:54.580 align:middle line:90%
+In the beginning, maybe.
+
+00:20:54.580 --> 00:20:56.080 align:middle line:84%
+But they'll be dealt
+with in the way
+
+00:20:56.080 --> 00:20:57.730 align:middle line:90%
+that that community decides.
+
+00:20:57.730 --> 00:20:59.890 align:middle line:84%
+As time goes by, I
+don't think we're
+
+00:20:59.890 --> 00:21:02.310 align:middle line:84%
+going to have rebellious
+anybody, because people are
+
+00:21:02.310 --> 00:21:04.680 align:middle line:84%
+so happy, fulfilling
+their lives,
+
+00:21:04.680 --> 00:21:09.450 align:middle line:84%
+living their lives, not having
+the stresses and the anxieties
+
+00:21:09.450 --> 00:21:12.350 align:middle line:84%
+and the fears that we
+grow up with today.
+
+00:21:12.350 --> 00:21:15.560 align:middle line:84%
+That is not part of
+our reality anymore.
+
+00:21:15.560 --> 00:21:17.170 align:middle line:84%
+And therefore, we
+can't even begin
+
+00:21:17.170 --> 00:21:22.110 align:middle line:84%
+to imagine how this balanced
+and integrated society
+
+00:21:22.110 --> 00:21:25.820 align:middle line:84%
+and community is going to
+look 20 years from now.
+
+00:21:25.820 --> 00:21:29.380 align:middle line:84%
+It's almost impossible
+for us to try and project
+
+00:21:29.380 --> 00:21:33.270 align:middle line:84%
+that in this capitalist,
+oppressive society
+
+00:21:33.270 --> 00:21:37.084 align:middle line:90%
+we find ourselves in today.
+
+00:21:37.084 --> 00:21:39.250 align:middle line:84%
+>>There's a couple of things
+about all the questions
+
+00:21:39.250 --> 00:21:42.330 align:middle line:84%
+that have been kind
+of coming up for me
+
+00:21:42.330 --> 00:21:44.780 align:middle line:90%
+since we saw this slide first.
+
+00:21:44.780 --> 00:21:48.680 align:middle line:84%
+And for me, I don't
+have a problem
+
+00:21:48.680 --> 00:21:54.280 align:middle line:84%
+seeing what the answers
+can be in the future
+
+00:21:54.280 --> 00:21:57.650 align:middle line:84%
+when the Ubuntu
+community is together.
+
+00:21:57.650 --> 00:21:59.720 align:middle line:84%
+Where I see the
+challenge is, how
+
+00:21:59.720 --> 00:22:03.910 align:middle line:84%
+do we talk to people
+to bridge that gap?
+
+00:22:03.910 --> 00:22:10.220 align:middle line:84%
+And on the issue of
+lawlessness, some
+
+00:22:10.220 --> 00:22:13.830 align:middle line:84%
+of the problems I think
+we're going to face
+
+00:22:13.830 --> 00:22:19.130 align:middle line:84%
+are that the new laws that we
+form from this ground to being
+
+00:22:19.130 --> 00:22:23.590 align:middle line:84%
+will look so different from
+what a law looks like now
+
+00:22:23.590 --> 00:22:27.170 align:middle line:84%
+that we won't be
+able to recognize it.
+
+00:22:27.170 --> 00:22:30.080 align:middle line:84%
+Because one of the
+things I've put
+
+00:22:30.080 --> 00:22:32.960 align:middle line:84%
+into a d curriculum for
+kids that I've written
+
+00:22:32.960 --> 00:22:36.590 align:middle line:84%
+is that I always ask them,
+where do rules come from?
+
+00:22:36.590 --> 00:22:40.370 align:middle line:84%
+And they say, parents and
+teachers and principals.
+
+00:22:40.370 --> 00:22:41.640 align:middle line:90%
+And I say, well, surprise.
+
+00:22:41.640 --> 00:22:44.020 align:middle line:84%
+That's not where
+rules come from.
+
+00:22:44.020 --> 00:22:47.780 align:middle line:84%
+Rules come through people, but
+they don't come from people.
+
+00:22:47.780 --> 00:22:50.490 align:middle line:90%
+Rules actually come from goals.
+
+00:22:50.490 --> 00:22:52.950 align:middle line:84%
+As a matter of fact,
+you can't write a rule
+
+00:22:52.950 --> 00:22:54.890 align:middle line:90%
+unless you have a goal in mind.
+
+00:22:54.890 --> 00:22:58.120 align:middle line:84%
+It's actually physically
+impossible to do.
+
+00:22:58.120 --> 00:23:02.310 align:middle line:84%
+So the ground of
+being and the goals
+
+00:23:02.310 --> 00:23:08.690 align:middle line:84%
+are so different from a
+capitalist and the me, me, me
+
+00:23:08.690 --> 00:23:14.540 align:middle line:84%
+society to a group
+society, it was
+
+00:23:14.540 --> 00:23:17.150 align:middle line:84%
+one of the things that even
+knowing this tripped me up
+
+00:23:17.150 --> 00:23:19.480 align:middle line:84%
+for a little bit,
+because I kept looking
+
+00:23:19.480 --> 00:23:22.250 align:middle line:90%
+for the rule in the old form.
+
+00:23:22.250 --> 00:23:24.980 align:middle line:84%
+And then I realized, it's
+not rule in the old form.
+
+00:23:24.980 --> 00:23:26.240 align:middle line:90%
+It's process.
+
+00:23:26.240 --> 00:23:28.910 align:middle line:84%
+It's essentially the
+difference of looking
+
+00:23:28.910 --> 00:23:31.770 align:middle line:84%
+from one end of the
+telescope or the other.
+
+00:23:31.770 --> 00:23:35.120 align:middle line:84%
+And when you're looking through
+the right end of the telescope,
+
+00:23:35.120 --> 00:23:37.450 align:middle line:90%
+then you have Ubuntu.
+
+00:23:37.450 --> 00:23:39.360 align:middle line:84%
+When you're looking
+at it backwards,
+
+00:23:39.360 --> 00:23:44.420 align:middle line:84%
+you've got the other crazy,
+economic, hierarchical, bad
+
+00:23:44.420 --> 00:23:46.170 align:middle line:90%
+hierarchical systems.
+
+00:23:46.170 --> 00:23:48.380 align:middle line:84%
+So I think the biggest
+challenge that I
+
+00:23:48.380 --> 00:23:54.140 align:middle line:84%
+see is learning this language
+and inventing the language,
+
+00:23:54.140 --> 00:23:57.860 align:middle line:84%
+so that we can bridge that
+gap and bridge it faster.
+
+00:23:57.860 --> 00:24:01.660 align:middle line:84%
+Because as you said,
+a few years ago,
+
+00:24:01.660 --> 00:24:04.480 align:middle line:84%
+it took a long time to
+convince somebody of this work.
+
+00:24:04.480 --> 00:24:05.870 align:middle line:90%
+And now, it's going faster.
+
+00:24:05.870 --> 00:24:09.290 align:middle line:84%
+We're going to have to
+learn new terms, new words,
+
+00:24:09.290 --> 00:24:11.410 align:middle line:84%
+and learn how to
+bridge that gap.
+
+00:24:11.410 --> 00:24:13.620 align:middle line:84%
+And I think part of
+bridging that gap
+
+00:24:13.620 --> 00:24:16.300 align:middle line:84%
+is what we're going to
+need in those communities,
+
+00:24:16.300 --> 00:24:17.910 align:middle line:84%
+because we don't
+bridge gaps now.
+
+00:24:17.910 --> 00:24:20.260 align:middle line:90%
+We beat people up.
+
+00:24:20.260 --> 00:24:23.095 align:middle line:84%
+So the challenge
+is one of language.
+
+00:24:23.095 --> 00:24:23.970 align:middle line:90%
+>>That's great, Joan.
+
+00:24:23.970 --> 00:24:25.120 align:middle line:90%
+Thanks for bringing that up.
+
+00:24:25.120 --> 00:24:26.203 align:middle line:90%
+And language is a problem.
+
+00:24:26.203 --> 00:24:29.730 align:middle line:84%
+I mean, I catch myself all the
+time doing these workshops.
+
+00:24:29.730 --> 00:24:32.220 align:middle line:84%
+I still somehow,
+every now and then,
+
+00:24:32.220 --> 00:24:33.900 align:middle line:84%
+use expressions that
+I've told myself
+
+00:24:33.900 --> 00:24:36.670 align:middle line:84%
+not to use, and realize,
+no, you can't say that,
+
+00:24:36.670 --> 00:24:39.310 align:middle line:90%
+because this is old paradigm.
+
+00:24:39.310 --> 00:24:42.210 align:middle line:84%
+This doesn't apply
+to where we're going.
+
+00:24:42.210 --> 00:24:46.850 align:middle line:84%
+And I'll constantly try and find
+new expressions and new words
+
+00:24:46.850 --> 00:24:49.440 align:middle line:84%
+or ways to describe
+things without falling
+
+00:24:49.440 --> 00:24:51.910 align:middle line:84%
+into the trap of using the
+wrong words or expressions
+
+00:24:51.910 --> 00:24:53.400 align:middle line:90%
+or definitions.
+
+00:24:53.400 --> 00:24:56.730 align:middle line:84%
+And it's not easy, because we're
+creating a whole new reality
+
+00:24:56.730 --> 00:25:00.900 align:middle line:84%
+that was going to require new
+descriptions, new definitions,
+
+00:25:00.900 --> 00:25:03.140 align:middle line:90%
+new words.
+
+00:25:03.140 --> 00:25:03.940 align:middle line:90%
+And it's great.
+
+00:25:03.940 --> 00:25:07.230 align:middle line:90%
+It's a great challenge for us.
+
+00:25:07.230 --> 00:25:10.080 align:middle line:84%
+>>One of the things we found in
+the projects-based curriculum
+
+00:25:10.080 --> 00:25:13.930 align:middle line:84%
+that I did throughout
+the LA school system
+
+00:25:13.930 --> 00:25:17.160 align:middle line:84%
+was after the kids did the rules
+and agreements module where
+
+00:25:17.160 --> 00:25:23.330 align:middle line:84%
+they came to understand
+that rules came from goals,
+
+00:25:23.330 --> 00:25:28.330 align:middle line:84%
+whole campuses transformed
+within 30 days of just doing
+
+00:25:28.330 --> 00:25:31.440 align:middle line:84%
+one fourth and
+fifth grade class.
+
+00:25:31.440 --> 00:25:36.010 align:middle line:84%
+Because for example, in the
+San Fernando Valley, the minute
+
+00:25:36.010 --> 00:25:39.810 align:middle line:84%
+I put my foot on campus, I
+knew there was a war going on.
+
+00:25:39.810 --> 00:25:42.130 align:middle line:84%
+And so I'm doing the rules
+and agreements module,
+
+00:25:42.130 --> 00:25:44.320 align:middle line:84%
+and I asked the kids,
+OK, what's the war?
+
+00:25:44.320 --> 00:25:45.800 align:middle line:90%
+What war?
+
+00:25:45.800 --> 00:25:47.770 align:middle line:84%
+The one that's going
+on this campus,
+
+00:25:47.770 --> 00:25:49.860 align:middle line:90%
+because you can't miss it.
+
+00:25:49.860 --> 00:25:53.330 align:middle line:84%
+And it turned out they didn't
+like the playground rules.
+
+00:25:53.330 --> 00:25:56.270 align:middle line:84%
+So after learning that
+rules came from goals,
+
+00:25:56.270 --> 00:25:58.560 align:middle line:84%
+and then taking
+the rules, guessing
+
+00:25:58.560 --> 00:26:02.020 align:middle line:84%
+at what the goals were, and
+realizing that they probably
+
+00:26:02.020 --> 00:26:04.490 align:middle line:84%
+had the same goals
+as the principal,
+
+00:26:04.490 --> 00:26:08.030 align:middle line:84%
+they put a crew
+together of five kids,
+
+00:26:08.030 --> 00:26:10.590 align:middle line:84%
+went into the principal's
+office, and said,
+
+00:26:10.590 --> 00:26:13.342 align:middle line:84%
+we made a guess as to
+what your goals are.
+
+00:26:13.342 --> 00:26:14.760 align:middle line:90%
+Are these your goals?
+
+00:26:14.760 --> 00:26:17.080 align:middle line:84%
+Because we agree with
+these kind of goals.
+
+00:26:17.080 --> 00:26:21.100 align:middle line:84%
+Maybe we could work together to
+come up with playground rules
+
+00:26:21.100 --> 00:26:23.150 align:middle line:84%
+that work for us
+and work for you,
+
+00:26:23.150 --> 00:26:25.020 align:middle line:90%
+because we have the same goals.
+
+00:26:25.020 --> 00:26:28.580 align:middle line:84%
+And within six weeks,
+that whole campus
+
+00:26:28.580 --> 00:26:30.210 align:middle line:90%
+was completely transformed.
+
+00:26:30.210 --> 00:26:33.900 align:middle line:90%
+There was no more war.
+
+00:26:33.900 --> 00:26:35.440 align:middle line:84%
+>>You just reminded
+me of something
+
+00:26:35.440 --> 00:26:42.350 align:middle line:84%
+that I didn't really touch upon
+under the education heading.
+
+00:26:42.350 --> 00:26:44.960 align:middle line:84%
+And that was education
+for children,
+
+00:26:44.960 --> 00:26:46.840 align:middle line:84%
+because we spoke
+about how adults
+
+00:26:46.840 --> 00:26:49.190 align:middle line:84%
+will benefit from
+the skills for life,
+
+00:26:49.190 --> 00:26:50.730 align:middle line:84%
+from the various
+community projects.
+
+00:26:50.730 --> 00:26:54.400 align:middle line:84%
+But the same will apply to
+the children of the community.
+
+00:26:54.400 --> 00:26:57.070 align:middle line:84%
+Slowly but surely from
+the earliest of age,
+
+00:26:57.070 --> 00:27:02.260 align:middle line:84%
+engaging in playing into action,
+but including in their day
+
+00:27:02.260 --> 00:27:06.330 align:middle line:84%
+to day activity and play and to
+action, community activities,
+
+00:27:06.330 --> 00:27:11.740 align:middle line:84%
+from growing, planting seeds,
+learning the love for planet
+
+00:27:11.740 --> 00:27:13.130 align:middle line:90%
+Earth to start off with.
+
+00:27:13.130 --> 00:27:15.660 align:middle line:84%
+And I really believe that
+that's a very critical point
+
+00:27:15.660 --> 00:27:17.740 align:middle line:84%
+of departure from
+the earliest of age,
+
+00:27:17.740 --> 00:27:20.470 align:middle line:84%
+teaching children the
+love for planet Earth,
+
+00:27:20.470 --> 00:27:23.720 align:middle line:84%
+so they grow up into
+understanding and being
+
+00:27:23.720 --> 00:27:26.260 align:middle line:84%
+in harmony with the earth
+and not allowing others
+
+00:27:26.260 --> 00:27:28.296 align:middle line:90%
+to harm our planet.
+
+00:27:28.296 --> 00:27:29.920 align:middle line:84%
+And that's something
+that's desperately
+
+00:27:29.920 --> 00:27:32.740 align:middle line:84%
+missing in our education
+today and starting
+
+00:27:32.740 --> 00:27:35.060 align:middle line:90%
+from that point of departure.
+
+00:27:35.060 --> 00:27:37.520 align:middle line:84%
+And then slowly as
+they grow older,
+
+00:27:37.520 --> 00:27:41.060 align:middle line:84%
+they are exposed
+to little workshops
+
+00:27:41.060 --> 00:27:43.580 align:middle line:84%
+and little internships if
+you want to call it that,
+
+00:27:43.580 --> 00:27:49.120 align:middle line:84%
+from planting seedlings to
+all kinds of activities.
+
+00:27:49.120 --> 00:27:51.760 align:middle line:84%
+And it grows from an
+hour a day to two hours
+
+00:27:51.760 --> 00:27:52.800 align:middle line:90%
+to longer and longer.
+
+00:27:52.800 --> 00:27:57.150 align:middle line:84%
+And by the time they are 10 12,
+14 years old, they are engaging
+
+00:27:57.150 --> 00:28:00.200 align:middle line:84%
+in activities of their
+choice that they naturally
+
+00:28:00.200 --> 00:28:03.690 align:middle line:84%
+are drawn towards, whether
+they like to work with wood,
+
+00:28:03.690 --> 00:28:06.270 align:middle line:84%
+they'll go spend more time
+with in the carpentry shop
+
+00:28:06.270 --> 00:28:10.450 align:middle line:84%
+and learning from the
+master wood craftsman
+
+00:28:10.450 --> 00:28:12.050 align:middle line:90%
+and learning those skills.
+
+00:28:12.050 --> 00:28:16.160 align:middle line:84%
+So by the time a child is 16
+years old in this community,
+
+00:28:16.160 --> 00:28:20.390 align:middle line:84%
+it would have been exposed to
+every facet of life, from arts
+
+00:28:20.390 --> 00:28:22.790 align:middle line:84%
+and culture to science
+and technology,
+
+00:28:22.790 --> 00:28:25.980 align:middle line:84%
+from creating new materials
+to building rockets
+
+00:28:25.980 --> 00:28:28.300 align:middle line:84%
+to developing free
+energy devices
+
+00:28:28.300 --> 00:28:32.110 align:middle line:84%
+and having a complete
+understanding and hands
+
+00:28:32.110 --> 00:28:34.540 align:middle line:84%
+on experience in
+all these areas.
+
+00:28:34.540 --> 00:28:38.430 align:middle line:84%
+So you can imagine a 16-year-old
+in this Contributionism
+
+00:28:38.430 --> 00:28:42.310 align:middle line:84%
+community will be wiser and more
+balanced and more integrated
+
+00:28:42.310 --> 00:28:46.870 align:middle line:84%
+into their community, won't
+have any of the imbalances
+
+00:28:46.870 --> 00:28:50.180 align:middle line:84%
+that our teenagers have today,
+because they would grow up
+
+00:28:50.180 --> 00:28:53.340 align:middle line:84%
+in a community where everything
+is provided that they can
+
+00:28:53.340 --> 00:28:58.270 align:middle line:84%
+express their natural
+born talents and skills,
+
+00:28:58.270 --> 00:29:00.320 align:middle line:84%
+and they can choose
+what they do.
+
+00:29:00.320 --> 00:29:04.690 align:middle line:84%
+So by the time they're 16, I
+say that any 16-year-old will
+
+00:29:04.690 --> 00:29:08.270 align:middle line:84%
+have more knowledge than all the
+professors in the world today,
+
+00:29:08.270 --> 00:29:11.500 align:middle line:84%
+because they would
+have done it hands on
+
+00:29:11.500 --> 00:29:13.300 align:middle line:90%
+and they will know how it works.
+
+00:29:13.300 --> 00:29:17.480 align:middle line:84%
+They didn't sit-in a classroom,
+reading theory from a book,
+
+00:29:17.480 --> 00:29:20.320 align:middle line:84%
+not understanding what they say,
+trying to remember the stuff
+
+00:29:20.320 --> 00:29:22.300 align:middle line:84%
+so they can cram
+it into an exam,
+
+00:29:22.300 --> 00:29:24.870 align:middle line:84%
+so they can pass and get
+an A on their report,
+
+00:29:24.870 --> 00:29:27.250 align:middle line:90%
+so they can find a job.
+
+00:29:27.250 --> 00:29:29.220 align:middle line:90%
+That flies out the window.
+
+00:29:29.220 --> 00:29:31.140 align:middle line:84%
+So now you've got
+real knowledge,
+
+00:29:31.140 --> 00:29:35.310 align:middle line:84%
+real hands on skills,
+and a deep understanding,
+
+00:29:35.310 --> 00:29:38.980 align:middle line:84%
+and an integrated individual
+into the community.
+
+00:29:38.980 --> 00:29:41.210 align:middle line:84%
+By the time you're
+16, you'll already
+
+00:29:41.210 --> 00:29:43.440 align:middle line:84%
+be pursuing your
+passions and your love.
+
+00:29:43.440 --> 00:29:45.560 align:middle line:84%
+And all the people
+in your community
+
+00:29:45.560 --> 00:29:48.700 align:middle line:84%
+will already recognize
+you at that young age
+
+00:29:48.700 --> 00:29:51.344 align:middle line:84%
+of what you are contributing
+to your community,
+
+00:29:51.344 --> 00:29:52.760 align:middle line:84%
+because you'll
+probably already be
+
+00:29:52.760 --> 00:29:56.750 align:middle line:84%
+doing that as part of
+your passion in your day
+
+00:29:56.750 --> 00:29:58.440 align:middle line:90%
+to day activities.
+
+00:29:58.440 --> 00:30:00.920 align:middle line:84%
+>>Rebellion will be a
+less likely endeavor.
+
+00:30:00.920 --> 00:30:05.240 align:middle line:84%
+>>There is zero possibility
+of youthful rebellion,
+
+00:30:05.240 --> 00:30:08.640 align:middle line:84%
+because now you're actually
+giving the children
+
+00:30:08.640 --> 00:30:10.600 align:middle line:84%
+an opportunity to
+express themselves
+
+00:30:10.600 --> 00:30:12.210 align:middle line:90%
+the way they want to.
+
+00:30:12.210 --> 00:30:14.890 align:middle line:84%
+Today's society
+prevents our youth
+
+00:30:14.890 --> 00:30:16.650 align:middle line:90%
+from expressing themselves.
+
+00:30:16.650 --> 00:30:18.680 align:middle line:90%
+We do exactly the opposite.
+
+00:30:18.680 --> 00:30:23.360 align:middle line:84%
+>>There is a saying in the
+'80s, in a personal development
+
+00:30:23.360 --> 00:30:24.890 align:middle line:84%
+seminar, that when
+people don't feel
+
+00:30:24.890 --> 00:30:28.305 align:middle line:84%
+that they can make a difference,
+they try to be different.
+
+00:30:28.305 --> 00:30:30.850 align:middle line:90%
+
+
+00:30:30.850 --> 00:30:33.950 align:middle line:84%
+>>So my question is, is
+from your perspective,
+
+00:30:33.950 --> 00:30:36.070 align:middle line:84%
+obviously most of
+this seems to be
+
+00:30:36.070 --> 00:30:38.100 align:middle line:90%
+relative to transition period.
+
+00:30:38.100 --> 00:30:41.920 align:middle line:84%
+We can see where things will be
+when all this is established.
+
+00:30:41.920 --> 00:30:47.370 align:middle line:84%
+But in regards to
+the military and what
+
+00:30:47.370 --> 00:30:50.370 align:middle line:84%
+do you think as far as
+how that will transition?
+
+00:30:50.370 --> 00:30:56.990 align:middle line:84%
+How that will eventually become
+irrelevant or something else,
+
+00:30:56.990 --> 00:30:59.610 align:middle line:90%
+useful for something else?
+
+00:30:59.610 --> 00:31:04.840 align:middle line:84%
+How is all that going to
+become transitioned into this,
+
+00:31:04.840 --> 00:31:11.490 align:middle line:84%
+and either become obsolete
+or useful in that sense,
+
+00:31:11.490 --> 00:31:13.430 align:middle line:84%
+relative to how things
+are going to be?
+
+00:31:13.430 --> 00:31:15.880 align:middle line:84%
+Because that's a big--
+there's a lot of people,
+
+00:31:15.880 --> 00:31:18.460 align:middle line:84%
+a lot of jobs, a lot of
+people that are really
+
+00:31:18.460 --> 00:31:21.760 align:middle line:84%
+in the mindset of we need
+military, we need defense,
+
+00:31:21.760 --> 00:31:22.960 align:middle line:90%
+we need all of these things.
+
+00:31:22.960 --> 00:31:25.561 align:middle line:90%
+
+
+00:31:25.561 --> 00:31:26.810 align:middle line:90%
+>>Thanks for bringing that up.
+
+00:31:26.810 --> 00:31:28.590 align:middle line:84%
+It's a very important
+question that
+
+00:31:28.590 --> 00:31:31.960 align:middle line:84%
+applies to the police force,
+and all the so-called forces.
+
+00:31:31.960 --> 00:31:34.180 align:middle line:84%
+The Defense Force,
+the Air Force.
+
+00:31:34.180 --> 00:31:36.540 align:middle line:84%
+Now, the word force is a part
+of all those words, right?
+
+00:31:36.540 --> 00:31:38.750 align:middle line:84%
+>>And a big part
+of the fear factor
+
+00:31:38.750 --> 00:31:43.480 align:middle line:84%
+that maintains the
+dependent mindset that we're
+
+00:31:43.480 --> 00:31:47.840 align:middle line:84%
+all-- there again, once
+we're all empowered,
+
+00:31:47.840 --> 00:31:50.762 align:middle line:84%
+there's not going to
+be a sense of that.
+
+00:31:50.762 --> 00:31:53.970 align:middle line:84%
+>>Again, that's part of
+the natural progression
+
+00:31:53.970 --> 00:31:58.810 align:middle line:84%
+and the natural
+dissolution or dissolving
+
+00:31:58.810 --> 00:32:01.680 align:middle line:90%
+of those parts of our society.
+
+00:32:01.680 --> 00:32:04.750 align:middle line:84%
+Also because all the people
+in the military and the police
+
+00:32:04.750 --> 00:32:06.740 align:middle line:84%
+force and the Air Force
+and all these forces,
+
+00:32:06.740 --> 00:32:09.580 align:middle line:84%
+they're all somebody's
+sons and daughters.
+
+00:32:09.580 --> 00:32:11.810 align:middle line:84%
+And sooner or
+later, these people
+
+00:32:11.810 --> 00:32:14.380 align:middle line:84%
+are going to also wake up to
+what their brothers and sisters
+
+00:32:14.380 --> 00:32:16.630 align:middle line:84%
+and fathers and mothers are
+doing in their small towns
+
+00:32:16.630 --> 00:32:17.570 align:middle line:90%
+and communities.
+
+00:32:17.570 --> 00:32:19.986 align:middle line:84%
+And they're going to hear about
+the abundance that they're
+
+00:32:19.986 --> 00:32:24.520 align:middle line:84%
+creating and these incredible
+places of harmony and unity
+
+00:32:24.520 --> 00:32:27.460 align:middle line:84%
+and abundance, and they're going
+to be amazed by this, realizing
+
+00:32:27.460 --> 00:32:30.950 align:middle line:84%
+that these guys are developing
+technology that is matching
+
+00:32:30.950 --> 00:32:35.410 align:middle line:84%
+the technology of the military
+that is run by the government,
+
+00:32:35.410 --> 00:32:37.400 align:middle line:84%
+and they're going to
+say, well, hold on.
+
+00:32:37.400 --> 00:32:39.670 align:middle line:84%
+I'm not going to point
+a gun at my grandmother.
+
+00:32:39.670 --> 00:32:41.155 align:middle line:90%
+She's done nothing, right?
+
+00:32:41.155 --> 00:32:42.530 align:middle line:84%
+So sooner or later,
+there's going
+
+00:32:42.530 --> 00:32:45.580 align:middle line:84%
+to come a time, which I
+think has come already.
+
+00:32:45.580 --> 00:32:47.850 align:middle line:84%
+A lot of people in
+the current military,
+
+00:32:47.850 --> 00:32:51.950 align:middle line:84%
+and especially in Europe and I
+know in Germany, for example,
+
+00:32:51.950 --> 00:32:54.249 align:middle line:84%
+and Austria I think
+as well, a lot
+
+00:32:54.249 --> 00:32:56.290 align:middle line:84%
+of the members of the
+police are saying, hold on.
+
+00:32:56.290 --> 00:32:58.522 align:middle line:84%
+We're not going to march
+against or we're not
+
+00:32:58.522 --> 00:33:00.230 align:middle line:84%
+going to get violent
+with the people that
+
+00:33:00.230 --> 00:33:03.860 align:middle line:84%
+are standing up against the
+oppression of the society.
+
+00:33:03.860 --> 00:33:06.350 align:middle line:10%
+And there have been some
+interesting examples
+
+00:33:06.350 --> 00:33:08.850 align:middle line:10%
+where the police actually
+take off their helmets
+
+00:33:08.850 --> 00:33:11.980 align:middle line:10%
+and they march with the people.
+
+00:33:11.980 --> 00:33:13.087 align:middle line:90%
+So that's happening more.
+
+00:33:13.087 --> 00:33:15.170 align:middle line:84%
+And that's going to start
+happening more and more.
+
+00:33:15.170 --> 00:33:18.400 align:middle line:84%
+These soldiers and
+people in those positions
+
+00:33:18.400 --> 00:33:20.010 align:middle line:90%
+are also human beings.
+
+00:33:20.010 --> 00:33:24.690 align:middle line:84%
+They've been brainwashed
+and shoved into situations
+
+00:33:24.690 --> 00:33:25.750 align:middle line:90%
+that are not natural.
+
+00:33:25.750 --> 00:33:28.570 align:middle line:84%
+They're not natural
+to our human spirit
+
+00:33:28.570 --> 00:33:31.440 align:middle line:84%
+and to this unity
+consciousness that's evolving.
+
+00:33:31.440 --> 00:33:33.640 align:middle line:84%
+And they're going to
+find that very quickly
+
+00:33:33.640 --> 00:33:36.090 align:middle line:84%
+and feel far more
+at home and resonate
+
+00:33:36.090 --> 00:33:38.820 align:middle line:84%
+with what's happening on the
+ground with their families
+
+00:33:38.820 --> 00:33:41.260 align:middle line:84%
+and their friends in these
+towns and villages that
+
+00:33:41.260 --> 00:33:42.679 align:middle line:90%
+are creating this new reality.
+
+00:33:42.679 --> 00:33:44.220 align:middle line:84%
+And they're going
+to believe, they're
+
+00:33:44.220 --> 00:33:47.120 align:middle line:84%
+going to find themselves
+attracted to that automatically
+
+00:33:47.120 --> 00:33:50.020 align:middle line:84%
+and naturally, than rather being
+attracted toward supporting
+
+00:33:50.020 --> 00:33:54.200 align:middle line:84%
+a fascist regime that is trying
+to invade other countries
+
+00:33:54.200 --> 00:33:56.200 align:middle line:84%
+and force themselves
+on other people.
+
+00:33:56.200 --> 00:33:59.100 align:middle line:84%
+Say, well, why are we doing that
+when we live in paradise here?
+
+00:33:59.100 --> 00:34:01.530 align:middle line:90%
+No one's threatening us.
+
+00:34:01.530 --> 00:34:03.080 align:middle line:90%
+We don't have any money.
+
+00:34:03.080 --> 00:34:04.690 align:middle line:90%
+We don't need money.
+
+00:34:04.690 --> 00:34:10.790 align:middle line:84%
+Once again, all this war
+mongering and violence
+
+00:34:10.790 --> 00:34:14.710 align:middle line:84%
+is all driven by money
+and the control of money.
+
+00:34:14.710 --> 00:34:15.510 align:middle line:90%
+>>That's the goal.
+
+00:34:15.510 --> 00:34:17.449 align:middle line:84%
+>>Invasion of countries
+and governments
+
+00:34:17.449 --> 00:34:18.600 align:middle line:90%
+taking over government.
+
+00:34:18.600 --> 00:34:19.766 align:middle line:90%
+Remember, we discussed that.
+
+00:34:19.766 --> 00:34:23.040 align:middle line:84%
+John Perkins in his book
+"Confessions of an Economic
+
+00:34:23.040 --> 00:34:26.590 align:middle line:84%
+Hitman," makes it very clear how
+this has happened in the past.
+
+00:34:26.590 --> 00:34:27.830 align:middle line:90%
+So that flies out the window.
+
+00:34:27.830 --> 00:34:29.354 align:middle line:90%
+That no longer applies.
+
+00:34:29.354 --> 00:34:31.880 align:middle line:84%
+So this is a rapid
+transition from that kind
+
+00:34:31.880 --> 00:34:35.860 align:middle line:84%
+of violent, invasive
+mentality towards an embracing
+
+00:34:35.860 --> 00:34:37.389 align:middle line:90%
+cooperative mentality.
+
+00:34:37.389 --> 00:34:41.409 align:middle line:84%
+>>And once we stop discarding
+people and everybody is
+
+00:34:41.409 --> 00:34:44.980 align:middle line:84%
+made to have a worth, that
+they're, like you said before,
+
+00:34:44.980 --> 00:34:49.429 align:middle line:84%
+that every human being is born,
+you're already successful.
+
+00:34:49.429 --> 00:34:51.369 align:middle line:90%
+You can't fail.
+
+00:34:51.369 --> 00:34:52.550 align:middle line:90%
+>>You're breathing.
+
+00:34:52.550 --> 00:34:54.110 align:middle line:84%
+You're alive, you're
+walking around.
+
+00:34:54.110 --> 00:34:56.219 align:middle line:84%
+>>So when we give that
+back to everybody,
+
+00:34:56.219 --> 00:34:59.260 align:middle line:84%
+because we don't take away
+their worth by saying,
+
+00:34:59.260 --> 00:35:02.020 align:middle line:84%
+well, your worth is
+based on what you have
+
+00:35:02.020 --> 00:35:06.970 align:middle line:84%
+or we give them their worth back
+by their ability to contribute.
+
+00:35:06.970 --> 00:35:09.920 align:middle line:84%
+>>What I think may also
+happen-- and again, this
+
+00:35:09.920 --> 00:35:13.740 align:middle line:84%
+is just hypothetically
+and theory--
+
+00:35:13.740 --> 00:35:18.227 align:middle line:84%
+but some of these
+soldiers and police forces
+
+00:35:18.227 --> 00:35:19.810 align:middle line:84%
+are going to actually
+start protecting
+
+00:35:19.810 --> 00:35:24.390 align:middle line:84%
+the communities from
+invasion and collapse
+
+00:35:24.390 --> 00:35:26.980 align:middle line:90%
+from outside forces.
+
+00:35:26.980 --> 00:35:29.334 align:middle line:84%
+Once they see that these
+are united communities
+
+00:35:29.334 --> 00:35:31.500 align:middle line:84%
+doing amazing things, they're
+going to say, hold on,
+
+00:35:31.500 --> 00:35:33.280 align:middle line:84%
+we're going to start
+protecting this.
+
+00:35:33.280 --> 00:35:36.640 align:middle line:84%
+And in fact, they're going to
+start serving the community,
+
+00:35:36.640 --> 00:35:39.290 align:middle line:84%
+serving the people, which is
+what they're supposed to do.
+
+00:35:39.290 --> 00:35:41.490 align:middle line:84%
+Serve to protect the
+people, not serve
+
+00:35:41.490 --> 00:35:44.970 align:middle line:84%
+to protect a fascist
+regime and government.
+
+00:35:44.970 --> 00:35:47.480 align:middle line:84%
+And so that's a turn
+around in the way
+
+00:35:47.480 --> 00:35:53.260 align:middle line:84%
+that that structure of
+balance or balancing equation
+
+00:35:53.260 --> 00:35:55.270 align:middle line:90%
+will play itself out.
+
+00:35:55.270 --> 00:35:56.635 align:middle line:90%
+>>Civil war of kindness.
+
+00:35:56.635 --> 00:35:59.174 align:middle line:90%
+
+
+00:35:59.174 --> 00:36:00.090 align:middle line:90%
+>>Once again, Michael.
+
+00:36:00.090 --> 00:36:00.660 align:middle line:90%
+Thank you.
+
+00:36:00.660 --> 00:36:01.610 align:middle line:90%
+I'm Richard.
+
+00:36:01.610 --> 00:36:02.790 align:middle line:84%
+And I'm glad he brought
+that up, because I
+
+00:36:02.790 --> 00:36:04.070 align:middle line:90%
+was going to ask the question.
+
+00:36:04.070 --> 00:36:05.720 align:middle line:84%
+And during the
+conversation, the question
+
+00:36:05.720 --> 00:36:06.820 align:middle line:90%
+started answering itself.
+
+00:36:06.820 --> 00:36:08.430 align:middle line:84%
+Because one of
+the arguments when
+
+00:36:08.430 --> 00:36:11.160 align:middle line:84%
+I've talked about any
+of this kind of thing,
+
+00:36:11.160 --> 00:36:14.180 align:middle line:84%
+not specifically Ubuntu,
+at the risk of stepping
+
+00:36:14.180 --> 00:36:16.790 align:middle line:84%
+on some politically
+correct toes,
+
+00:36:16.790 --> 00:36:19.000 align:middle line:84%
+there are people
+out there that think
+
+00:36:19.000 --> 00:36:21.130 align:middle line:84%
+they're called to a
+higher thing or whatever
+
+00:36:21.130 --> 00:36:26.150 align:middle line:84%
+and do real aggressive
+meaningful damage to people.
+
+00:36:26.150 --> 00:36:28.687 align:middle line:84%
+Not for money, not for
+any reason, other than you
+
+00:36:28.687 --> 00:36:30.770 align:middle line:84%
+don't believe like I
+believe, and so therefore I'm
+
+00:36:30.770 --> 00:36:32.020 align:middle line:90%
+going to kill you.
+
+00:36:32.020 --> 00:36:33.150 align:middle line:90%
+How does that change?
+
+00:36:33.150 --> 00:36:34.260 align:middle line:90%
+And what does that change?
+
+00:36:34.260 --> 00:36:39.040 align:middle line:84%
+And can that change
+in this format?
+
+00:36:39.040 --> 00:36:40.700 align:middle line:90%
+>>This is a huge subject.
+
+00:36:40.700 --> 00:36:43.030 align:middle line:84%
+And some people are going
+to struggle with this.
+
+00:36:43.030 --> 00:36:46.400 align:middle line:84%
+And they're going to
+find it a lot easier
+
+00:36:46.400 --> 00:36:50.760 align:middle line:84%
+to accept once you start to work
+in these united communities,
+
+00:36:50.760 --> 00:36:53.850 align:middle line:84%
+because then they realize,
+well, nobody wants to attack us.
+
+00:36:53.850 --> 00:36:55.940 align:middle line:90%
+They just want to live like us.
+
+00:36:55.940 --> 00:36:58.520 align:middle line:84%
+And now they know how
+to do it, so they're
+
+00:36:58.520 --> 00:37:01.380 align:middle line:84%
+going to do it for themselves
+in their own country.
+
+00:37:01.380 --> 00:37:04.620 align:middle line:84%
+And when we start creating
+these communities in the USA,
+
+00:37:04.620 --> 00:37:08.460 align:middle line:84%
+they'll be created in
+Afghanistan and Iraq
+
+00:37:08.460 --> 00:37:13.120 align:middle line:84%
+and in Syria and in Iran
+and in Russia and in China
+
+00:37:13.120 --> 00:37:16.140 align:middle line:84%
+and in Australia and in Germany
+and in all the countries
+
+00:37:16.140 --> 00:37:17.160 align:middle line:90%
+of the world.
+
+00:37:17.160 --> 00:37:19.000 align:middle line:90%
+People are going to do the same.
+
+00:37:19.000 --> 00:37:20.930 align:middle line:84%
+You're not going to
+be able to stop it.
+
+00:37:20.930 --> 00:37:24.770 align:middle line:84%
+No amount of guns are going
+to be able to stop this.
+
+00:37:24.770 --> 00:37:26.170 align:middle line:90%
+That time is over.
+
+00:37:26.170 --> 00:37:29.490 align:middle line:84%
+And the people that drive
+around wielding their guns
+
+00:37:29.490 --> 00:37:32.620 align:middle line:84%
+are going to stop doing
+that, because there's
+
+00:37:32.620 --> 00:37:34.710 align:middle line:90%
+no payoff for them.
+
+00:37:34.710 --> 00:37:37.240 align:middle line:84%
+They're not going to get any
+more money, because we're going
+
+00:37:37.240 --> 00:37:39.530 align:middle line:90%
+to destroy the money supply.
+
+00:37:39.530 --> 00:37:41.500 align:middle line:90%
+It's not going to flow anymore.
+
+00:37:41.500 --> 00:37:44.970 align:middle line:84%
+So there's no real reason
+for them to be doing it.
+
+00:37:44.970 --> 00:37:47.260 align:middle line:84%
+One of the questions here
+that we haven't covered,
+
+00:37:47.260 --> 00:37:49.420 align:middle line:84%
+and somebody asked
+me this question
+
+00:37:49.420 --> 00:37:51.940 align:middle line:84%
+I think it was in Austria
+when I was there recently,
+
+00:37:51.940 --> 00:37:52.740 align:middle line:90%
+the last one today.
+
+00:37:52.740 --> 00:37:54.550 align:middle line:84%
+What about the
+elderly and taking
+
+00:37:54.550 --> 00:37:56.510 align:middle line:84%
+care of people
+with disabilities?
+
+00:37:56.510 --> 00:38:00.480 align:middle line:84%
+Anybody want to
+handle that answer?
+
+00:38:00.480 --> 00:38:03.540 align:middle line:84%
+>>As far as helping
+the elderly and taking
+
+00:38:03.540 --> 00:38:06.840 align:middle line:84%
+care of people with
+disabilities and really
+
+00:38:06.840 --> 00:38:10.530 align:middle line:84%
+taking care of anyone, I think
+will become a huge part of what
+
+00:38:10.530 --> 00:38:12.090 align:middle line:90%
+empowers people.
+
+00:38:12.090 --> 00:38:15.860 align:middle line:84%
+The more we're all
+OK, the more everybody
+
+00:38:15.860 --> 00:38:21.850 align:middle line:84%
+feels good and benefits and
+there again, it's empowerment.
+
+00:38:21.850 --> 00:38:25.505 align:middle line:84%
+If our main idea in society
+is empowerment means
+
+00:38:25.505 --> 00:38:27.130 align:middle line:84%
+how much money you
+have in your pocket,
+
+00:38:27.130 --> 00:38:32.220 align:middle line:84%
+then we've really deterred
+our whole evolution
+
+00:38:32.220 --> 00:38:33.710 align:middle line:90%
+and our whole mindset.
+
+00:38:33.710 --> 00:38:38.080 align:middle line:84%
+And I think that that,
+out of all the questions,
+
+00:38:38.080 --> 00:38:40.380 align:middle line:90%
+should be one of the easiest.
+
+00:38:40.380 --> 00:38:42.640 align:middle line:84%
+You take care of the
+people that you love.
+
+00:38:42.640 --> 00:38:45.550 align:middle line:84%
+And so the people that
+have taken care of us,
+
+00:38:45.550 --> 00:38:48.490 align:middle line:84%
+by the time they get to the
+point where they need some help
+
+00:38:48.490 --> 00:38:51.740 align:middle line:84%
+and taken care of, I think
+that's a process that everybody
+
+00:38:51.740 --> 00:38:53.720 align:middle line:90%
+will be happy to contribute to.
+
+00:38:53.720 --> 00:38:57.470 align:middle line:84%
+Kids are great as far as
+doing things like that.
+
+00:38:57.470 --> 00:38:58.614 align:middle line:90%
+>>So thank you.
+
+00:38:58.614 --> 00:38:59.530 align:middle line:90%
+That's a great answer.
+
+00:38:59.530 --> 00:39:01.800 align:middle line:84%
+But let's take it even
+a bit further, right?
+
+00:39:01.800 --> 00:39:05.860 align:middle line:84%
+So let's just remind ourselves
+of the kind of community
+
+00:39:05.860 --> 00:39:06.680 align:middle line:90%
+we are in.
+
+00:39:06.680 --> 00:39:08.888 align:middle line:84%
+We are in a community where
+we have the best possible
+
+00:39:08.888 --> 00:39:11.980 align:middle line:84%
+healthcare, where we're
+curing disease, where
+
+00:39:11.980 --> 00:39:14.730 align:middle line:84%
+we have community projects
+that deal with every aspect
+
+00:39:14.730 --> 00:39:19.240 align:middle line:84%
+of our community, and dealing
+and helping with elders
+
+00:39:19.240 --> 00:39:22.270 align:middle line:84%
+and looking after the elders is
+part of the community project
+
+00:39:22.270 --> 00:39:23.889 align:middle line:90%
+and community activity.
+
+00:39:23.889 --> 00:39:25.430 align:middle line:84%
+So there will be
+people that actively
+
+00:39:25.430 --> 00:39:29.640 align:middle line:84%
+do that all the time,
+nonstop, providing
+
+00:39:29.640 --> 00:39:32.260 align:middle line:84%
+the elders and the
+disabled-- first of all,
+
+00:39:32.260 --> 00:39:35.110 align:middle line:84%
+with healthcare that will
+cure their disability.
+
+00:39:35.110 --> 00:39:37.850 align:middle line:84%
+You know that the technology
+is there to regrow organs,
+
+00:39:37.850 --> 00:39:39.680 align:middle line:90%
+to regrow limbs.
+
+00:39:39.680 --> 00:39:41.280 align:middle line:84%
+I mean, we can't
+even start this.
+
+00:39:41.280 --> 00:39:43.310 align:middle line:84%
+Some people find that
+too weird to believe,
+
+00:39:43.310 --> 00:39:46.660 align:middle line:84%
+and yet that the knowledge
+and the know how exists.
+
+00:39:46.660 --> 00:39:47.580 align:middle line:90%
+That will come out.
+
+00:39:47.580 --> 00:39:52.630 align:middle line:84%
+So we will not have that many
+disabled and sickly people.
+
+00:39:52.630 --> 00:39:55.990 align:middle line:84%
+And the fact that
+elderly people are today,
+
+00:39:55.990 --> 00:39:58.230 align:middle line:84%
+they're a problem to
+the current system.
+
+00:39:58.230 --> 00:40:01.020 align:middle line:84%
+The current governments wants
+to get rid of the old people,
+
+00:40:01.020 --> 00:40:02.510 align:middle line:90%
+because they cost them money.
+
+00:40:02.510 --> 00:40:04.837 align:middle line:84%
+So we put our old people
+into old age homes
+
+00:40:04.837 --> 00:40:06.670 align:middle line:84%
+and we hope they die
+as quickly as possible,
+
+00:40:06.670 --> 00:40:09.950 align:middle line:84%
+so that the government can stop
+paying their monthly looking
+
+00:40:09.950 --> 00:40:12.450 align:middle line:84%
+after them, because
+it's just too expensive.
+
+00:40:12.450 --> 00:40:14.580 align:middle line:90%
+This changes completely.
+
+00:40:14.580 --> 00:40:17.430 align:middle line:84%
+In integrated,
+united communities,
+
+00:40:17.430 --> 00:40:18.530 align:middle line:90%
+the elderly are the wise.
+
+00:40:18.530 --> 00:40:19.550 align:middle line:90%
+These are the wise people.
+
+00:40:19.550 --> 00:40:21.591 align:middle line:84%
+They've got the most
+experience and the knowledge
+
+00:40:21.591 --> 00:40:23.650 align:middle line:84%
+and the wisdom,
+especially if they grow up
+
+00:40:23.650 --> 00:40:24.910 align:middle line:90%
+in these kind of communities.
+
+00:40:24.910 --> 00:40:26.660 align:middle line:90%
+They've got the most experience.
+
+00:40:26.660 --> 00:40:28.865 align:middle line:84%
+They pass on their knowledge
+and their experience.
+
+00:40:28.865 --> 00:40:30.990 align:middle line:84%
+And the other thing is that
+just because you're old
+
+00:40:30.990 --> 00:40:32.560 align:middle line:84%
+doesn't mean you don't
+want to do stuff.
+
+00:40:32.560 --> 00:40:34.090 align:middle line:84%
+Just because you
+can't walk too well
+
+00:40:34.090 --> 00:40:35.980 align:middle line:84%
+or carry stuff or
+pick things up doesn't
+
+00:40:35.980 --> 00:40:39.720 align:middle line:84%
+mean you don't like to paint
+or do pottery or do things
+
+00:40:39.720 --> 00:40:41.670 align:middle line:84%
+that you can sit and
+chitchat around a table,
+
+00:40:41.670 --> 00:40:44.970 align:middle line:84%
+have a great time, and spend the
+whole day creating things that
+
+00:40:44.970 --> 00:40:46.980 align:middle line:90%
+actually benefit the community.
+
+00:40:46.980 --> 00:40:49.420 align:middle line:84%
+So again, it is
+up to the elderly
+
+00:40:49.420 --> 00:40:51.860 align:middle line:84%
+to decide what they will
+do for the community
+
+00:40:51.860 --> 00:40:54.790 align:middle line:84%
+and they'll be supported
+in every possible way.
+
+00:40:54.790 --> 00:40:56.940 align:middle line:84%
+And if people need
+wheelchairs, they'll
+
+00:40:56.940 --> 00:40:58.130 align:middle line:90%
+have the best wheelchairs.
+
+00:40:58.130 --> 00:40:59.650 align:middle line:90%
+They'll be levitating.
+
+00:40:59.650 --> 00:41:03.370 align:middle line:84%
+They don't need somebody
+to push them along,
+
+00:41:03.370 --> 00:41:05.580 align:middle line:84%
+because that
+technology is there.
+
+00:41:05.580 --> 00:41:09.420 align:middle line:84%
+So this reminds me of something
+that I wanted to come back
+
+00:41:09.420 --> 00:41:11.100 align:middle line:90%
+to about the security.
+
+00:41:11.100 --> 00:41:13.750 align:middle line:84%
+Because let's just backtrack
+a little bit and talk
+
+00:41:13.750 --> 00:41:15.750 align:middle line:84%
+about the technology
+and the scientists
+
+00:41:15.750 --> 00:41:17.695 align:middle line:84%
+and the inventors
+and the-- what are
+
+00:41:17.695 --> 00:41:19.890 align:middle line:84%
+we going to-- our
+research laboratories
+
+00:41:19.890 --> 00:41:22.520 align:middle line:84%
+and the free electricity
+and all that kind of stuff.
+
+00:41:22.520 --> 00:41:25.100 align:middle line:84%
+With all these crazy
+scientists and inventors,
+
+00:41:25.100 --> 00:41:27.120 align:middle line:84%
+do you not think
+that there are people
+
+00:41:27.120 --> 00:41:31.190 align:middle line:84%
+that understand advanced
+knowledge in weaponry and laser
+
+00:41:31.190 --> 00:41:33.829 align:middle line:84%
+beams and saser beam
+technology and how
+
+00:41:33.829 --> 00:41:35.370 align:middle line:84%
+to create a laser
+beam that takes out
+
+00:41:35.370 --> 00:41:37.390 align:middle line:90%
+a satellite in a split second?
+
+00:41:37.390 --> 00:41:39.710 align:middle line:84%
+This is very easy
+stuff for people
+
+00:41:39.710 --> 00:41:41.520 align:middle line:84%
+that have the know
+how, that used
+
+00:41:41.520 --> 00:41:44.740 align:middle line:84%
+to work in the secret or
+industrial military complex,
+
+00:41:44.740 --> 00:41:47.860 align:middle line:84%
+or in the military, that used
+to be involved in those things.
+
+00:41:47.860 --> 00:41:49.590 align:middle line:90%
+And we know those scientists.
+
+00:41:49.590 --> 00:41:51.189 align:middle line:84%
+We talk to them
+on a daily basis.
+
+00:41:51.189 --> 00:41:52.730 align:middle line:84%
+And these are the
+guys that are going
+
+00:41:52.730 --> 00:41:55.840 align:middle line:84%
+to be helping us develop
+the technology for our towns
+
+00:41:55.840 --> 00:41:57.260 align:middle line:90%
+and our communities.
+
+00:41:57.260 --> 00:42:03.060 align:middle line:84%
+So in essence, our knowledge
+and our advanced technology
+
+00:42:03.060 --> 00:42:07.000 align:middle line:84%
+will become our defense
+mechanism as well.
+
+00:42:07.000 --> 00:42:11.790 align:middle line:84%
+OK, just understand
+how quickly these guys
+
+00:42:11.790 --> 00:42:15.080 align:middle line:84%
+can develop a weapon
+of mass destruction
+
+00:42:15.080 --> 00:42:18.060 align:middle line:84%
+that uses sound or
+saser technology.
+
+00:42:18.060 --> 00:42:20.110 align:middle line:84%
+I mean, I know people
+who can do that
+
+00:42:20.110 --> 00:42:23.460 align:middle line:84%
+in a week, that can put this
+together very quickly if you
+
+00:42:23.460 --> 00:42:25.230 align:middle line:90%
+know how it works.
+
+00:42:25.230 --> 00:42:29.230 align:middle line:84%
+And this is why the moment
+you open up this and invite
+
+00:42:29.230 --> 00:42:32.400 align:middle line:84%
+these inventors and crazy
+scientists into your community,
+
+00:42:32.400 --> 00:42:35.860 align:middle line:84%
+it becomes your own
+protection device as well.
+
+00:42:35.860 --> 00:42:39.265 align:middle line:84%
+So again, it's the
+moment you take money out
+
+00:42:39.265 --> 00:42:43.120 align:middle line:84%
+of the system,
+everything changes.
+
+00:42:43.120 --> 00:42:45.420 align:middle line:90%
+Immediately.
+
+00:42:45.420 --> 00:42:48.660 align:middle line:10%
+Dealing with the elderly and
+taking care of the people
+
+00:42:48.660 --> 00:42:50.840 align:middle line:10%
+with disabilities.
+
+00:42:50.840 --> 00:42:53.320 align:middle line:84%
+It's not even a
+discussion anymore.
+
+00:42:53.320 --> 00:42:55.300 align:middle line:84%
+It's so obvious how
+that gets handled,
+
+00:42:55.300 --> 00:42:58.814 align:middle line:84%
+so I'm glad that you all
+see it and-- see, already?
+
+00:42:58.814 --> 00:43:00.230 align:middle line:84%
+None of these
+questions that we've
+
+00:43:00.230 --> 00:43:02.840 align:middle line:84%
+posed here-- if I'd
+asked you these questions
+
+00:43:02.840 --> 00:43:04.759 align:middle line:84%
+at the beginning
+of this workshop,
+
+00:43:04.759 --> 00:43:06.800 align:middle line:84%
+you would have probably
+said, yeah, I don't know.
+
+00:43:06.800 --> 00:43:07.990 align:middle line:90%
+I'm scratching my head.
+
+00:43:07.990 --> 00:43:09.200 align:middle line:90%
+How is this going to work?
+
+00:43:09.200 --> 00:43:12.440 align:middle line:84%
+By the time we've processed and
+gone through these eight hours,
+
+00:43:12.440 --> 00:43:14.710 align:middle line:84%
+it's not even a
+consideration anymore,
+
+00:43:14.710 --> 00:43:17.150 align:middle line:84%
+because it's just
+so insignificant, so
+
+00:43:17.150 --> 00:43:19.080 align:middle line:90%
+easy to overcome and answer.
+
+00:43:19.080 --> 00:43:22.330 align:middle line:84%
+But I've challenged
+you to come up
+
+00:43:22.330 --> 00:43:25.620 align:middle line:84%
+with possible hurdles and
+questions that are really
+
+00:43:25.620 --> 00:43:26.910 align:middle line:90%
+difficult to overcome.
+
+00:43:26.910 --> 00:43:28.900 align:middle line:84%
+And I don't know if
+you had something
+
+00:43:28.900 --> 00:43:31.240 align:middle line:90%
+that you wanted to raise.
+
+00:43:31.240 --> 00:43:32.710 align:middle line:90%
+>>Thank you, Michael.
+
+00:43:32.710 --> 00:43:37.270 align:middle line:84%
+Yeah, a question I have
+was one of the things I
+
+00:43:37.270 --> 00:43:39.820 align:middle line:84%
+see that causes the most
+division in our world
+
+00:43:39.820 --> 00:43:41.310 align:middle line:90%
+is religion.
+
+00:43:41.310 --> 00:43:45.150 align:middle line:84%
+And I'm curious as
+to your thoughts
+
+00:43:45.150 --> 00:43:50.420 align:middle line:84%
+on how the Ubuntu philosophy
+influences religion and vice
+
+00:43:50.420 --> 00:43:51.220 align:middle line:90%
+versa.
+
+00:43:51.220 --> 00:43:53.960 align:middle line:84%
+When we start to
+transition, there's
+
+00:43:53.960 --> 00:43:57.670 align:middle line:84%
+people with core values, core
+beliefs that have been passed
+
+00:43:57.670 --> 00:44:00.080 align:middle line:90%
+on for thousands of years.
+
+00:44:00.080 --> 00:44:03.210 align:middle line:84%
+What impact is
+that going to have
+
+00:44:03.210 --> 00:44:06.960 align:middle line:84%
+on both religious communities
+and Ubuntu communities
+
+00:44:06.960 --> 00:44:10.100 align:middle line:90%
+and so forth?
+
+00:44:10.100 --> 00:44:12.360 align:middle line:84%
+>>Very good and a very
+important question.
+
+00:44:12.360 --> 00:44:13.650 align:middle line:90%
+Thanks for raising that.
+
+00:44:13.650 --> 00:44:17.870 align:middle line:84%
+Again, it is a
+part of our society
+
+00:44:17.870 --> 00:44:22.160 align:middle line:84%
+that doesn't necessarily
+create conflict or division
+
+00:44:22.160 --> 00:44:23.280 align:middle line:90%
+on its own.
+
+00:44:23.280 --> 00:44:26.540 align:middle line:84%
+That conflict and division
+is imposed on the people
+
+00:44:26.540 --> 00:44:30.350 align:middle line:84%
+by religious leaders
+that tell their followers
+
+00:44:30.350 --> 00:44:32.610 align:middle line:84%
+that those people
+over there are bad.
+
+00:44:32.610 --> 00:44:35.310 align:middle line:84%
+If you just leave people
+to their own device,
+
+00:44:35.310 --> 00:44:37.800 align:middle line:84%
+they're not going to pick
+up arms and run over there
+
+00:44:37.800 --> 00:44:38.970 align:middle line:90%
+and kill those Christians.
+
+00:44:38.970 --> 00:44:42.930 align:middle line:84%
+It takes somebody to tell them
+that somebody is doing bad
+
+00:44:42.930 --> 00:44:44.577 align:middle line:84%
+or they believe
+something different.
+
+00:44:44.577 --> 00:44:46.160 align:middle line:84%
+And in essence, when
+you start talking
+
+00:44:46.160 --> 00:44:49.100 align:middle line:84%
+to different religious groups,
+fundamentally their core belief
+
+00:44:49.100 --> 00:44:50.000 align:middle line:90%
+system is the same.
+
+00:44:50.000 --> 00:44:53.730 align:middle line:84%
+They all believe in a creator,
+they all believe in the soul,
+
+00:44:53.730 --> 00:44:56.290 align:middle line:84%
+and they all believe in
+things that actually you
+
+00:44:56.290 --> 00:44:58.480 align:middle line:84%
+find common ground very
+quickly when you start
+
+00:44:58.480 --> 00:45:00.020 align:middle line:90%
+talking to different religions.
+
+00:45:00.020 --> 00:45:02.100 align:middle line:84%
+It's not difficult to
+find common ground.
+
+00:45:02.100 --> 00:45:04.620 align:middle line:84%
+But what happens with this
+Ubuntu and contributions
+
+00:45:04.620 --> 00:45:06.480 align:middle line:84%
+and philosophy is
+that you actually
+
+00:45:06.480 --> 00:45:08.710 align:middle line:90%
+avoid that, you bypass that.
+
+00:45:08.710 --> 00:45:11.400 align:middle line:84%
+You allow people their
+own belief system
+
+00:45:11.400 --> 00:45:14.620 align:middle line:84%
+as long as they don't
+impose it on anybody else.
+
+00:45:14.620 --> 00:45:16.520 align:middle line:90%
+Again, be part of our community.
+
+00:45:16.520 --> 00:45:18.060 align:middle line:84%
+You can believe
+whatever you want,
+
+00:45:18.060 --> 00:45:20.980 align:middle line:84%
+as long as your belief system
+doesn't impose negatively
+
+00:45:20.980 --> 00:45:23.470 align:middle line:84%
+on the people that contribute
+towards the well-being
+
+00:45:23.470 --> 00:45:24.830 align:middle line:90%
+of your community.
+
+00:45:24.830 --> 00:45:28.070 align:middle line:84%
+And what that does,
+it allows people--
+
+00:45:28.070 --> 00:45:32.600 align:middle line:84%
+first of all, the oppressive
+conditions under which people
+
+00:45:32.600 --> 00:45:34.440 align:middle line:84%
+live in many of
+the countries that
+
+00:45:34.440 --> 00:45:37.780 align:middle line:84%
+have these sort of
+fascist religious belief
+
+00:45:37.780 --> 00:45:40.690 align:middle line:84%
+systems imposed on
+them, that gets lifted.
+
+00:45:40.690 --> 00:45:45.290 align:middle line:84%
+Suddenly, they no longer have
+this desperate oppression
+
+00:45:45.290 --> 00:45:47.330 align:middle line:84%
+through religion
+imposed on them.
+
+00:45:47.330 --> 00:45:51.360 align:middle line:84%
+And that changes their way,
+their personal reaction
+
+00:45:51.360 --> 00:45:54.280 align:middle line:84%
+and relationship with their
+own religious beliefs.
+
+00:45:54.280 --> 00:45:57.120 align:middle line:84%
+So that evolves
+very quickly itself.
+
+00:45:57.120 --> 00:46:00.600 align:middle line:84%
+How that will happen
+I can't predict.
+
+00:46:00.600 --> 00:46:03.541 align:middle line:84%
+But what I do know is
+that by nature, people
+
+00:46:03.541 --> 00:46:05.290 align:middle line:84%
+don't want to run out
+and kill each other.
+
+00:46:05.290 --> 00:46:07.060 align:middle line:90%
+That is not the human spirit.
+
+00:46:07.060 --> 00:46:10.950 align:middle line:84%
+That is the inhumane part of
+what has been imposed on us.
+
+00:46:10.950 --> 00:46:13.420 align:middle line:84%
+The way people
+behave, or the way
+
+00:46:13.420 --> 00:46:17.420 align:middle line:84%
+we send our young
+people into war
+
+00:46:17.420 --> 00:46:20.190 align:middle line:84%
+to kill other people
+in other countries,
+
+00:46:20.190 --> 00:46:23.060 align:middle line:84%
+because our governments
+have been lured into it
+
+00:46:23.060 --> 00:46:24.820 align:middle line:90%
+by the banking families.
+
+00:46:24.820 --> 00:46:26.510 align:middle line:90%
+That's the problem.
+
+00:46:26.510 --> 00:46:28.760 align:middle line:84%
+And religion is being
+used as the tool
+
+00:46:28.760 --> 00:46:30.080 align:middle line:90%
+of division and separation.
+
+00:46:30.080 --> 00:46:32.600 align:middle line:90%
+It's one of the best tools.
+
+00:46:32.600 --> 00:46:34.470 align:middle line:84%
+The moment you get
+rid of money, you also
+
+00:46:34.470 --> 00:46:38.460 align:middle line:84%
+get rid of that divisive tool
+that separates and divides
+
+00:46:38.460 --> 00:46:40.895 align:middle line:84%
+people through religious
+belief systems.
+
+00:46:40.895 --> 00:46:43.020 align:middle line:84%
+I believe we will overcome
+that very, very quickly.
+
+00:46:43.020 --> 00:46:45.060 align:middle line:84%
+And we're going to
+see a unification
+
+00:46:45.060 --> 00:46:49.480 align:middle line:84%
+of different religions
+that start to form around
+
+00:46:49.480 --> 00:46:53.810 align:middle line:84%
+the common denominator
+belief structures that
+
+00:46:53.810 --> 00:46:55.090 align:middle line:90%
+start to unite the people.
+
+00:46:55.090 --> 00:46:56.770 align:middle line:84%
+And very quickly,
+we're going to have
+
+00:46:56.770 --> 00:47:00.560 align:middle line:84%
+one global, spiritual
+belief system that
+
+00:47:00.560 --> 00:47:03.950 align:middle line:84%
+forgets about the
+indoctrinating religions
+
+00:47:03.950 --> 00:47:08.350 align:middle line:84%
+that we've seen over the
+last few thousand years.
+
+00:47:08.350 --> 00:47:09.150 align:middle line:90%
+>>Hi.
+
+00:47:09.150 --> 00:47:11.030 align:middle line:90%
+My name is William.
+
+00:47:11.030 --> 00:47:12.850 align:middle line:84%
+And I want to
+thank you, Michael,
+
+00:47:12.850 --> 00:47:16.540 align:middle line:84%
+and I want to thank my
+divinity for choosing
+
+00:47:16.540 --> 00:47:18.050 align:middle line:90%
+me to be here today.
+
+00:47:18.050 --> 00:47:21.670 align:middle line:84%
+I feel very honored
+and special to be
+
+00:47:21.670 --> 00:47:27.500 align:middle line:84%
+part of this beautiful group
+of people and everybody here.
+
+00:47:27.500 --> 00:47:28.660 align:middle line:90%
+We have been chosen.
+
+00:47:28.660 --> 00:47:34.130 align:middle line:84%
+And this is beautiful to be
+part of this manifestation that
+
+00:47:34.130 --> 00:47:37.430 align:middle line:84%
+is already in progress
+and nothing can stop it.
+
+00:47:37.430 --> 00:47:39.690 align:middle line:90%
+I can feel that energy already.
+
+00:47:39.690 --> 00:47:41.430 align:middle line:90%
+And it's beautiful.
+
+00:47:41.430 --> 00:47:44.170 align:middle line:84%
+And I was going to ask the
+same question as Aaron,
+
+00:47:44.170 --> 00:47:48.250 align:middle line:84%
+but now I'm inspired to
+also add to the answer
+
+00:47:48.250 --> 00:47:50.580 align:middle line:90%
+that Michael gave you.
+
+00:47:50.580 --> 00:47:54.690 align:middle line:84%
+And I just feel that freedom
+to experience ourselves
+
+00:47:54.690 --> 00:47:58.420 align:middle line:84%
+from our heart and
+doing the services
+
+00:47:58.420 --> 00:48:04.480 align:middle line:84%
+and creating the products
+to better humanity,
+
+00:48:04.480 --> 00:48:08.440 align:middle line:84%
+there's God himself for
+those who believe in God.
+
+00:48:08.440 --> 00:48:13.780 align:middle line:84%
+There's divinity itself
+being manifested here.
+
+00:48:13.780 --> 00:48:17.900 align:middle line:84%
+I feel the wonderful,
+wonderful loving energy
+
+00:48:17.900 --> 00:48:23.420 align:middle line:84%
+that is transpiring right now in
+this beautiful work being done.
+
+00:48:23.420 --> 00:48:24.220 align:middle line:90%
+>>Thanks, William.
+
+00:48:24.220 --> 00:48:25.020 align:middle line:90%
+>>Thank you.
+
+00:48:25.020 --> 00:48:27.120 align:middle line:90%
+>>Thank you for sharing that.
+
+00:48:27.120 --> 00:48:32.850 align:middle line:84%
+Any other shattering
+questions or hurdles
+
+00:48:32.850 --> 00:48:37.060 align:middle line:84%
+that might collapse
+our philosophy here?
+
+00:48:37.060 --> 00:48:39.390 align:middle line:84%
+>>In reference to the free
+energy that you're offering,
+
+00:48:39.390 --> 00:48:42.130 align:middle line:84%
+you said you've got technology
+that operates with the rivers
+
+00:48:42.130 --> 00:48:42.930 align:middle line:90%
+and streams.
+
+00:48:42.930 --> 00:48:44.120 align:middle line:90%
+>>Yes.
+
+00:48:44.120 --> 00:48:46.830 align:middle line:84%
+>>So the small communities-- for
+example, Northeast Kansas where
+
+00:48:46.830 --> 00:48:50.170 align:middle line:84%
+I'm at-- there's several
+small communities,
+
+00:48:50.170 --> 00:48:53.270 align:middle line:84%
+Native American tribes, that
+are quite a distance away
+
+00:48:53.270 --> 00:48:55.980 align:middle line:90%
+from any rivers or streams.
+
+00:48:55.980 --> 00:48:58.170 align:middle line:84%
+Is there other technology
+that's going to offer
+
+00:48:58.170 --> 00:49:00.155 align:middle line:90%
+that electricity as well?
+
+00:49:00.155 --> 00:49:01.030 align:middle line:90%
+>>Of course there is.
+
+00:49:01.030 --> 00:49:06.570 align:middle line:84%
+We all know that the
+alternative, eccentric, new
+
+00:49:06.570 --> 00:49:10.110 align:middle line:84%
+age, whatever word you want to
+throw at it technology exists.
+
+00:49:10.110 --> 00:49:12.310 align:middle line:84%
+Free energy devices
+have been developed.
+
+00:49:12.310 --> 00:49:15.740 align:middle line:84%
+Nikola Tesla's obviously
+the most famous inventor
+
+00:49:15.740 --> 00:49:18.720 align:middle line:84%
+of free energy, that
+gave us all free energy
+
+00:49:18.720 --> 00:49:21.670 align:middle line:84%
+and free electricity around the
+world that was removed from us.
+
+00:49:21.670 --> 00:49:23.160 align:middle line:90%
+And there have been many others.
+
+00:49:23.160 --> 00:49:25.830 align:middle line:84%
+And same goes for healing
+and curing all disease.
+
+00:49:25.830 --> 00:49:28.520 align:middle line:84%
+The moment we open our
+doors to those inventors
+
+00:49:28.520 --> 00:49:31.090 align:middle line:84%
+and those scientists that
+have got those technologies,
+
+00:49:31.090 --> 00:49:33.390 align:middle line:84%
+they'll be coming
+out of the woodwork.
+
+00:49:33.390 --> 00:49:37.650 align:middle line:84%
+It's going to be like
+green grass on a spring day
+
+00:49:37.650 --> 00:49:39.180 align:middle line:90%
+after the first rain.
+
+00:49:39.180 --> 00:49:42.260 align:middle line:84%
+You open your doors up
+and invite these inventors
+
+00:49:42.260 --> 00:49:43.080 align:middle line:90%
+and scientists.
+
+00:49:43.080 --> 00:49:44.705 align:middle line:84%
+They're going to come
+out of every nook
+
+00:49:44.705 --> 00:49:47.800 align:middle line:84%
+and cranny, out of every
+country, out of every city.
+
+00:49:47.800 --> 00:49:50.570 align:middle line:84%
+There are thousands
+of them out there.
+
+00:49:50.570 --> 00:49:52.820 align:middle line:84%
+Right now, they live
+in fear, because they
+
+00:49:52.820 --> 00:49:56.260 align:middle line:84%
+know what has happened to
+others that came before them.
+
+00:49:56.260 --> 00:49:58.010 align:middle line:84%
+Many of them were
+quite ignorant.
+
+00:49:58.010 --> 00:50:00.410 align:middle line:84%
+And they discovered this
+technology and the energy,
+
+00:50:00.410 --> 00:50:02.660 align:middle line:84%
+and then they come out
+thinking that the world's going
+
+00:50:02.660 --> 00:50:04.997 align:middle line:84%
+to sing their praises and
+they're going to become famous
+
+00:50:04.997 --> 00:50:07.330 align:middle line:84%
+and they're going to make
+billions of dollars out of it,
+
+00:50:07.330 --> 00:50:11.255 align:middle line:84%
+only to find out that their
+inventions get bought up,
+
+00:50:11.255 --> 00:50:13.630 align:middle line:84%
+their patents get bought up,
+they get offered some money,
+
+00:50:13.630 --> 00:50:17.350 align:middle line:84%
+they get bribed or threatened,
+and they simply disappear.
+
+00:50:17.350 --> 00:50:20.470 align:middle line:84%
+So that technology, I believe--
+and this is why, again,
+
+00:50:20.470 --> 00:50:23.880 align:middle line:84%
+if you do it from a
+political authority,
+
+00:50:23.880 --> 00:50:25.270 align:middle line:90%
+everything would change.
+
+00:50:25.270 --> 00:50:28.400 align:middle line:84%
+If I, as a mayor, go
+out there and put out
+
+00:50:28.400 --> 00:50:31.660 align:middle line:84%
+a global invitation to the
+inventors and scientists that
+
+00:50:31.660 --> 00:50:35.130 align:middle line:84%
+have got free energy and
+alternative electricity
+
+00:50:35.130 --> 00:50:39.830 align:middle line:84%
+devices to come out and
+share it with us in our town
+
+00:50:39.830 --> 00:50:42.360 align:middle line:84%
+or come and work in the
+research laboratories
+
+00:50:42.360 --> 00:50:45.840 align:middle line:84%
+that we set up for them to
+perfect what they've started
+
+00:50:45.840 --> 00:50:51.950 align:middle line:84%
+working on, they're going
+to be coming to us in droves
+
+00:50:51.950 --> 00:50:55.310 align:middle line:84%
+to share with us their
+inventions, because ultimately
+
+00:50:55.310 --> 00:50:56.790 align:middle line:90%
+they're creative souls.
+
+00:50:56.790 --> 00:50:59.700 align:middle line:84%
+They're doing this
+because they were either
+
+00:50:59.700 --> 00:51:02.690 align:middle line:84%
+given this information or
+they discovered it or found it
+
+00:51:02.690 --> 00:51:07.470 align:middle line:84%
+in a dream or somehow came upon
+this knowledge and information.
+
+00:51:07.470 --> 00:51:09.270 align:middle line:84%
+And they want to share
+it with the world.
+
+00:51:09.270 --> 00:51:11.700 align:middle line:84%
+And just like other
+creative people,
+
+00:51:11.700 --> 00:51:13.170 align:middle line:84%
+they've been
+prevented from sharing
+
+00:51:13.170 --> 00:51:14.970 align:middle line:90%
+their creation with the world.
+
+00:51:14.970 --> 00:51:17.880 align:middle line:84%
+They want their creations
+to be shared by the people.
+
+00:51:17.880 --> 00:51:19.930 align:middle line:84%
+They want it to land in
+the hands of the people.
+
+00:51:19.930 --> 00:51:22.245 align:middle line:84%
+They don't want it to land
+in some obscure room hidden
+
+00:51:22.245 --> 00:51:23.045 align:middle line:90%
+from society.
+
+00:51:23.045 --> 00:51:25.240 align:middle line:90%
+
+
+00:51:25.240 --> 00:51:26.040 align:middle line:90%
+>>OK.
+
+00:51:26.040 --> 00:51:29.200 align:middle line:84%
+This might open up a
+whole other can of worms,
+
+00:51:29.200 --> 00:51:30.980 align:middle line:84%
+so you might need
+to edit this out,
+
+00:51:30.980 --> 00:51:37.160 align:middle line:84%
+but earlier you alluded to the
+fact that above the banksters
+
+00:51:37.160 --> 00:51:41.140 align:middle line:84%
+and above the families,
+there's another sort
+
+00:51:41.140 --> 00:51:46.760 align:middle line:84%
+of power structure, which
+maybe you might think of as ETs
+
+00:51:46.760 --> 00:51:47.560 align:middle line:90%
+perhaps.
+
+00:51:47.560 --> 00:51:51.070 align:middle line:90%
+But what happens with that?
+
+00:51:51.070 --> 00:51:51.970 align:middle line:90%
+What happens to them?
+
+00:51:51.970 --> 00:51:55.340 align:middle line:84%
+What's the vision
+for-- I totally
+
+00:51:55.340 --> 00:51:57.910 align:middle line:84%
+have a vision of this
+enlightened society,
+
+00:51:57.910 --> 00:52:01.710 align:middle line:84%
+and I even have a vision for
+the banksters to come aboard,
+
+00:52:01.710 --> 00:52:04.800 align:middle line:84%
+many of them, except maybe
+the sociopathic ones.
+
+00:52:04.800 --> 00:52:10.360 align:middle line:84%
+But do you have
+a sense or do you
+
+00:52:10.360 --> 00:52:16.870 align:middle line:84%
+have a vision or an inside
+view to this potential future?
+
+00:52:16.870 --> 00:52:19.220 align:middle line:84%
+And what happens
+to-- I just can't
+
+00:52:19.220 --> 00:52:23.180 align:middle line:84%
+imagine these beings
+giving up control
+
+00:52:23.180 --> 00:52:27.210 align:middle line:84%
+of this planet, this garden
+that we have, that we live on,
+
+00:52:27.210 --> 00:52:30.180 align:middle line:90%
+this beautiful planet.
+
+00:52:30.180 --> 00:52:33.690 align:middle line:84%
+I know that's a huge
+question, but I just
+
+00:52:33.690 --> 00:52:35.420 align:middle line:84%
+thought I'd toss that
+out there to you.
+
+00:52:35.420 --> 00:52:36.220 align:middle line:90%
+>>Yeah.
+
+00:52:36.220 --> 00:52:37.260 align:middle line:90%
+That is a big question.
+
+00:52:37.260 --> 00:52:39.500 align:middle line:84%
+And I'm not sure if
+I have a very clear
+
+00:52:39.500 --> 00:52:41.640 align:middle line:90%
+and definitive answer for that.
+
+00:52:41.640 --> 00:52:44.040 align:middle line:84%
+What comes to mind
+immediately is
+
+00:52:44.040 --> 00:52:49.010 align:middle line:84%
+that whoever these beings are
+that have been somehow pulling
+
+00:52:49.010 --> 00:52:53.620 align:middle line:84%
+the strings over
+those that impose
+
+00:52:53.620 --> 00:52:57.310 align:middle line:84%
+their control over humanity
+here from a higher level
+
+00:52:57.310 --> 00:53:02.290 align:middle line:84%
+seem to be utilizing or using
+humanity in various ways,
+
+00:53:02.290 --> 00:53:05.200 align:middle line:90%
+possibly using people as food.
+
+00:53:05.200 --> 00:53:07.370 align:middle line:90%
+That's a definite possibility.
+
+00:53:07.370 --> 00:53:10.400 align:middle line:84%
+They're possibly using
+us as an energy source.
+
+00:53:10.400 --> 00:53:14.520 align:middle line:84%
+And that energy source comes
+from our state of being,
+
+00:53:14.520 --> 00:53:17.950 align:middle line:84%
+our lower consciousness,
+fear-based beings.
+
+00:53:17.950 --> 00:53:20.760 align:middle line:84%
+The moment we elevate ourselves
+to a higher consciousness,
+
+00:53:20.760 --> 00:53:23.200 align:middle line:84%
+a unity consciousness,
+lose the fear,
+
+00:53:23.200 --> 00:53:27.340 align:middle line:84%
+and understand that we are
+part of the infinite creation,
+
+00:53:27.340 --> 00:53:32.020 align:middle line:84%
+that we never really
+die, and lose the fear,
+
+00:53:32.020 --> 00:53:36.970 align:middle line:84%
+we start to dissolve any of
+this potential control that
+
+00:53:36.970 --> 00:53:40.580 align:middle line:84%
+is imposed to us by lower
+consciousness beings that
+
+00:53:40.580 --> 00:53:43.060 align:middle line:84%
+might have had
+developed technology
+
+00:53:43.060 --> 00:53:44.940 align:middle line:90%
+that can traverse space.
+
+00:53:44.940 --> 00:53:47.390 align:middle line:84%
+Well, we're going to
+get there very quickly
+
+00:53:47.390 --> 00:53:49.110 align:middle line:84%
+and get to higher
+levels of consciousness
+
+00:53:49.110 --> 00:53:51.480 align:middle line:84%
+and higher levels of
+technology and understanding
+
+00:53:51.480 --> 00:53:55.150 align:middle line:84%
+and utilizing our ability
+to reverse space as well.
+
+00:53:55.150 --> 00:53:57.830 align:middle line:84%
+So not only are we going
+to match their ability
+
+00:53:57.830 --> 00:54:01.490 align:middle line:84%
+to control us, we're going to
+surpass that very, very quickly
+
+00:54:01.490 --> 00:54:04.760 align:middle line:84%
+by elevating ourselves to a
+higher state of consciousness,
+
+00:54:04.760 --> 00:54:07.570 align:middle line:84%
+a state of unity
+consciousness, and overcoming
+
+00:54:07.570 --> 00:54:13.070 align:middle line:84%
+any of the negative control that
+has been imposed on us because
+
+00:54:13.070 --> 00:54:15.660 align:middle line:90%
+of being an unconscious species.
+
+00:54:15.660 --> 00:54:19.400 align:middle line:84%
+The moment we become conscious,
+that kind of level of control
+
+00:54:19.400 --> 00:54:22.170 align:middle line:90%
+can no longer be imposed on us.
+
+00:54:22.170 --> 00:54:23.970 align:middle line:90%
+That's how I see it.
+
+00:54:23.970 --> 00:54:25.690 align:middle line:84%
+I might be completely
+off the mark.
+
+00:54:25.690 --> 00:54:27.780 align:middle line:90%
+I hope I'm not.
+
+00:54:27.780 --> 00:54:31.820 align:middle line:84%
+So I suppose that brings us
+to the end of this workshop,
+
+00:54:31.820 --> 00:54:35.940 align:middle line:84%
+and ending with a really
+heavyweight question, which
+
+00:54:35.940 --> 00:54:39.830 align:middle line:84%
+I think is probably an
+appropriate way to end this,
+
+00:54:39.830 --> 00:54:44.450 align:middle line:84%
+because we've covered in the
+last two days and eight hours
+
+00:54:44.450 --> 00:54:49.120 align:middle line:84%
+a huge, vast areas of
+information that started
+
+00:54:49.120 --> 00:54:53.510 align:middle line:84%
+with some really informative
+and enlightening information,
+
+00:54:53.510 --> 00:54:56.800 align:middle line:84%
+opening up a deep understanding
+of the origins of money
+
+00:54:56.800 --> 00:55:00.750 align:middle line:84%
+and how it became a tool of
+control, how it was imposed
+
+00:55:00.750 --> 00:55:03.170 align:middle line:84%
+on humanity, the rise
+of the banking families
+
+00:55:03.170 --> 00:55:05.740 align:middle line:84%
+and the royal
+bloodlines and the dark,
+
+00:55:05.740 --> 00:55:07.760 align:middle line:84%
+sinister activities
+of the governments,
+
+00:55:07.760 --> 00:55:11.604 align:middle line:84%
+which could be seen as a
+depressing lot of information.
+
+00:55:11.604 --> 00:55:13.020 align:middle line:84%
+But I think we've
+come out of that
+
+00:55:13.020 --> 00:55:18.410 align:middle line:84%
+and seen it as a foundation and
+a part of liberating knowledge
+
+00:55:18.410 --> 00:55:21.370 align:middle line:84%
+and information that gives us
+the foundation from which we
+
+00:55:21.370 --> 00:55:23.870 align:middle line:84%
+can build these
+future communities
+
+00:55:23.870 --> 00:55:27.210 align:middle line:84%
+of abundance and united
+people that create
+
+00:55:27.210 --> 00:55:30.230 align:middle line:84%
+abundance in beautiful
+communities that work together
+
+00:55:30.230 --> 00:55:32.890 align:middle line:84%
+in cooperation
+and collaboration,
+
+00:55:32.890 --> 00:55:37.750 align:middle line:84%
+getting to the point of how to
+do it, how to use communities,
+
+00:55:37.750 --> 00:55:40.890 align:middle line:84%
+and the political
+arms to work together.
+
+00:55:40.890 --> 00:55:43.070 align:middle line:84%
+I believe that the
+political arena
+
+00:55:43.070 --> 00:55:46.060 align:middle line:84%
+is a tool we can
+use and should use
+
+00:55:46.060 --> 00:55:50.460 align:middle line:84%
+and must use to help us
+possibly fast track this much
+
+00:55:50.460 --> 00:55:52.960 align:middle line:84%
+quicker than we could have
+imagined, because we use
+
+00:55:52.960 --> 00:55:56.400 align:middle line:84%
+the tools that they created
+against us to actually serve us
+
+00:55:56.400 --> 00:55:57.370 align:middle line:90%
+for a change.
+
+00:55:57.370 --> 00:56:00.500 align:middle line:84%
+And the political arena
+can serve us very quickly
+
+00:56:00.500 --> 00:56:02.850 align:middle line:90%
+if we use it cleverly.
+
+00:56:02.850 --> 00:56:04.840 align:middle line:90%
+So I suggest that we do that.
+
+00:56:04.840 --> 00:56:07.650 align:middle line:84%
+And we can see
+the implementation
+
+00:56:07.650 --> 00:56:11.050 align:middle line:84%
+of these first utopian
+communities very,
+
+00:56:11.050 --> 00:56:13.450 align:middle line:84%
+very quickly,
+possibly within months
+
+00:56:13.450 --> 00:56:16.390 align:middle line:84%
+based on the elections coming
+up in various countries,
+
+00:56:16.390 --> 00:56:19.370 align:middle line:84%
+including South Africa, the
+local municipal elections
+
+00:56:19.370 --> 00:56:21.440 align:middle line:90%
+in 2016.
+
+00:56:21.440 --> 00:56:24.320 align:middle line:84%
+So to end on a
+high note, I would
+
+00:56:24.320 --> 00:56:28.070 align:middle line:84%
+like to say this-- that all
+this knowledge that we've
+
+00:56:28.070 --> 00:56:31.900 align:middle line:84%
+taken and brought together into
+this room and into the studio
+
+00:56:31.900 --> 00:56:35.840 align:middle line:84%
+and shared with ourselves and
+captured on camera for others
+
+00:56:35.840 --> 00:56:42.420 align:middle line:84%
+to share and absorb and resonate
+with, it ends on the high note.
+
+00:56:42.420 --> 00:56:49.740 align:middle line:84%
+We can achieve all of this-- and
+it starts in one little town.
+
+00:56:49.740 --> 00:56:53.940 align:middle line:84%
+That's how powerful this
+simple philosophy is.
+
+00:56:53.940 --> 00:56:57.720 align:middle line:84%
+It starts with one little town
+that will be the first domino
+
+00:56:57.720 --> 00:57:02.590 align:middle line:84%
+to fall and start to bring down
+the global, capitalist control
+
+00:57:02.590 --> 00:57:07.880 align:middle line:84%
+over humanity and allow us
+all to live in communities
+
+00:57:07.880 --> 00:57:11.780 align:middle line:84%
+of our choice, in utopian
+societies of abundance
+
+00:57:11.780 --> 00:57:13.970 align:middle line:90%
+and harmony and unity.
+
+00:57:13.970 --> 00:57:17.290 align:middle line:84%
+Thanks for participating
+in this workshop.
+
+00:57:17.290 --> 00:57:19.770 align:middle line:84%
+I really appreciate
+your time and energy.
+
+00:57:19.770 --> 00:57:21.490 align:middle line:84%
+It was fantastic
+sharing it with you
+
+00:57:21.490 --> 00:57:24.550 align:middle line:84%
+and everyone that is going to
+be watching this in their homes.
+
+00:57:24.550 --> 00:57:26.170 align:middle line:90%
+Thank you for watching this.
+
+00:57:26.170 --> 00:57:27.850 align:middle line:90%
+And let's make this a reality.
+
+00:57:27.850 --> 00:57:31.260 align:middle line:84%
+Remember, we are the
+creators of our own reality.
+
+00:57:31.260 --> 00:57:34.750 align:middle line:84%
+It's up to us what we
+do with this information
+
+00:57:34.750 --> 00:57:35.930 align:middle line:90%
+into the future.
+
+00:57:35.930 --> 00:57:39.240 align:middle line:84%
+Let's start manifesting
+this reality for ourselves.
+
+00:57:39.240 --> 00:57:40.250 align:middle line:90%
+Thanks for watching.
+
+00:57:40.250 --> 00:57:42.730 align:middle line:84%
+Go out there and share this
+with everyone you know,
+
+00:57:42.730 --> 00:57:46.410 align:middle line:84%
+because once they've heard
+it, they can never unhear it.
+
+00:57:46.410 --> 00:57:47.210 align:middle line:90%
+Thank you.
+
+00:57:47.210 --> 00:57:50.613 align:middle line:90%
+
+
+00:57:50.613 --> 00:57:51.413 align:middle line:90%
+Thanks.
+
+00:57:51.413 --> 00:57:53.960 align:middle line:90%
+
+
+00:57:53.960 --> 00:57:54.760 align:middle line:90%
+Thanks, everyone.
+
+00:57:54.760 --> 00:57:57.832 align:middle line:90%
+
+
+00:57:57.832 --> 00:57:59.126 align:middle line:90%
+Cheers.
+
+00:57:59.126 --> 00:58:02.160 align:middle line:90%
+Thanks so much.
+
+00:58:02.160 --> 00:58:08.368 align:middle line:90%

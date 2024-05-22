@@ -1,0 +1,28 @@
+[
+  {
+    "@content.downloadUrl": "https://pyyrgw.bn.files.1drv.com/y4m-kj5eFIgta4BzERuWOwDZtEGW_t1L0sB1DfXDmR3FtIwLIGmFJ8ykN4lncxDXto9-GJd5DvflmpZwTBCW576Je3FGEHmv8bVbRUDxkyRK-lC8NN0PtUg0hGfqSS_tquMEScMtGyvDlPrsaUvGlwYNcW71prxHe4_ntLIEK7zbw7NxwGm4YfdERkYA5PkJhXFkF2Zrl6yGgq95OBCQYBGSA",
+    "createdDateTime": "2022-05-27T05:12:02.447Z",
+    "cTag": "aYzo5RDM0NDhCMkIzMDVFMzVEITEzMTE0My4yNTc",
+    "eTag": "aOUQzNDQ4QjJCMzA1RTM1RCExMzExNDMuMA",
+    "id": "9D3448B2B305E35D!131143",
+    "lastModifiedDateTime": "2022-05-27T05:12:02.447Z",
+    "name": "David Hawkins - Power vs. Force.epub",
+    "parentReference": {
+      "driveId": "9d3448b2b305e35d",
+      "driveType": "personal",
+      "id": "9D3448B2B305E35D!120863",
+      "name": "David Hawkins",
+      "path": "/drives/9d3448b2b305e35d/items/9D3448B2B305E35D!43500:/Books/David%20Hawkins"
+    },
+    "size": 1281367,
+    "webUrl": "https://1drv.ms/u/s!Al3jBbOySDSdiIBHod7gE9Z15-voqQ",
+    "file": {
+      "hashes": {
+        "quickXorHash": "q8wmUDujHgSlQ+h3e6LXoa3mDrE=",
+        "sha1Hash": "2F7BF3C9F87A1D41DA70EC9264B05C350790FD0E",
+        "sha256Hash": "A474F63E002CD68728C8815690B2D43D31DA830FAE1C5B03509FEB23991DF909"
+      },
+      "mimeType": "application/octet-stream"
+    }
+  }
+]

@@ -1,0 +1,1 @@
+{"id":"rare-earth","type":"wms","name":"Rare Earth","description":"Rare Earth","url":"https://mrdata.usgs.gov/services/ree?request=getcapabilities&service=WMS&version=1.1.1&","dataCustodian":"[mrdata.usgs.gov](https://mrdata.usgs.gov)","layers":"ree","parameters":{"tiled":true}}

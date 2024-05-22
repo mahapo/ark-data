@@ -1,0 +1,1 @@
+{"id":"3d-world","type":"group","name":"World","members":[{"id":"3d-buildings-google","name":"Google Photorealistic 3D Tiles","ionAssetId":2275207,"opacity":1,"type":"3d-tiles"},{"id":"3d-buildings-osm-3d-buildings","name":"OSM-3D-Buildings","ionAssetId":96188,"opacity":1,"type":"3d-tiles"}]}

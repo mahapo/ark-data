@@ -1,0 +1,567 @@
+[
+  {
+    "@content.downloadUrl": "https://3qivqg.bn.files.1drv.com/y4mOVeoVVUYRVaB2VtzfP5leIyEjrAlMRNHY4SH0mxWDiM62T51Qg-YMvXPKLS5XGFdM5frKiAIeBQ7DVqC_-LuHiwQYa16-BSBAF89uo_B0qlbEES7Pa47GeBo9cVt9DnZ-AKnp0uz6AncJYSDgLmLGE0JOPq8Q1JrppleOdAsYBOKfN4t39n17YVV_Ids-j1RsMY4LOxnFLqqcLlL2smPxg",
+    "createdDateTime": "2021-09-11T19:56:07.603Z",
+    "cTag": "aYzo5RDM0NDhCMkIzMDVFMzVEITExOTA4Ni4yNTc",
+    "description": "",
+    "eTag": "aOUQzNDQ4QjJCMzA1RTM1RCExMTkwODYuMg",
+    "id": "9D3448B2B305E35D!119086",
+    "lastModifiedDateTime": "2021-09-11T19:56:08.927Z",
+    "name": "81903.mp3",
+    "parentReference": {
+      "driveId": "9d3448b2b305e35d",
+      "driveType": "personal",
+      "id": "9D3448B2B305E35D!119052",
+      "name": "Ian Xel Lungold",
+      "path": "/drives/9d3448b2b305e35d/items/9D3448B2B305E35D!43500:/Audio/Ian%20Xel%20Lungold"
+    },
+    "size": 8874371,
+    "webUrl": "https://1drv.ms/u/s!Al3jBbOySDSdh6Iuod7gE9Z15-voqQ",
+    "audio": {
+      "album": "Ian Xel Lungold",
+      "artist": "Ian Xel Lungold",
+      "bitrate": 16,
+      "duration": 4437089,
+      "hasDrm": false,
+      "isVariableBitrate": false,
+      "title": ""
+    },
+    "file": {
+      "hashes": {
+        "quickXorHash": "IzUSAPXYURfsku5mLm3lNPPn1Dc=",
+        "sha1Hash": "0401AE35F6EEDE5FAB5AA4FB9ED90FCA73471A8D",
+        "sha256Hash": "5B2843752D00FDEDD10048447C8E09B371E923369353482CC91138471CBF3A8C"
+      },
+      "mimeType": "audio/mpeg"
+    }
+  },
+  {
+    "@content.downloadUrl": "https://3qivqg.bn.files.1drv.com/y4mAYpjn-jVktJ07c3Q9LTdtkokSA8Zt0_1MDtI3AltpweWOmmOO2DtojoCVHz6xmN3kUm5i75fFQksTDQKYGsP5JvoTsrA6mVAGx_ZMWdTDM3hQctpLoJi2A-xyFIlUtK94_0ChBLwpx49c2nFstvY5JJQMsK_wAyDcTBm0k98v8VdqyyIccwOQ5xdoWtqGdNvh3XuTo6H_qxdHVgvm4J3Qw",
+    "createdDateTime": "2021-09-11T19:57:41.43Z",
+    "cTag": "aYzo5RDM0NDhCMkIzMDVFMzVEITExOTA5Ny4yNTc",
+    "eTag": "aOUQzNDQ4QjJCMzA1RTM1RCExMTkwOTcuMg",
+    "id": "9D3448B2B305E35D!119097",
+    "lastModifiedDateTime": "2021-09-11T19:57:43.417Z",
+    "name": "feet2fire_04_04.mp3",
+    "parentReference": {
+      "driveId": "9d3448b2b305e35d",
+      "driveType": "personal",
+      "id": "9D3448B2B305E35D!119052",
+      "name": "Ian Xel Lungold",
+      "path": "/drives/9d3448b2b305e35d/items/9D3448B2B305E35D!43500:/Audio/Ian%20Xel%20Lungold"
+    },
+    "size": 15578465,
+    "webUrl": "https://1drv.ms/u/s!Al3jBbOySDSdh6I5od7gE9Z15-voqQ",
+    "audio": {
+      "album": "Ian Xel Lungold",
+      "artist": "Ian Xel Lungold",
+      "bitrate": 20,
+      "duration": 6231363,
+      "hasDrm": false,
+      "isVariableBitrate": true
+    },
+    "file": {
+      "hashes": {
+        "quickXorHash": "9jM6VM10qsqq1hSVQ3onE+yBXrM=",
+        "sha1Hash": "706FD6FB5362FC9940C506E6B637D4F601ADF796",
+        "sha256Hash": "C6591C49791B7B4B5FA06CF2794396B370ED94A4F318AAA8177BB81CFCEF2B75"
+      },
+      "mimeType": "audio/mpeg"
+    }
+  },
+  {
+    "@content.downloadUrl": "https://3qivqg.bn.files.1drv.com/y4mfpYO1-2Qq7nlBdNCCnk7Q9FXtGckx687sG4euSsbt4BG1bZo9LnabH7JxDIny_ElGD-jDSFXoUtF4nUqLPOu-vIVIzyGCKh-VGokxSz7aRvyQ_tH8xU7tXnRjgmTgGIKrz_5R-1NbDc0-uC-d6stywUvUtUy3fpqNqRc2XLjpJEtmqKa61mlS2VnyXVGjC1mjpRA18NX1u0bB7z9G1ZVxg",
+    "createdDateTime": "2021-09-11T19:57:41.337Z",
+    "cTag": "aYzo5RDM0NDhCMkIzMDVFMzVEITExOTA5Ni4yNTc",
+    "description": "The Evolution Continues",
+    "eTag": "aOUQzNDQ4QjJCMzA1RTM1RCExMTkwOTYuMg",
+    "id": "9D3448B2B305E35D!119096",
+    "lastModifiedDateTime": "2021-09-11T19:57:49.407Z",
+    "name": "Ian Lungold - The Evolution Continues.mp3",
+    "parentReference": {
+      "driveId": "9d3448b2b305e35d",
+      "driveType": "personal",
+      "id": "9D3448B2B305E35D!119052",
+      "name": "Ian Xel Lungold",
+      "path": "/drives/9d3448b2b305e35d/items/9D3448B2B305E35D!43500:/Audio/Ian%20Xel%20Lungold"
+    },
+    "size": 40221603,
+    "webUrl": "https://1drv.ms/u/s!Al3jBbOySDSdh6I4od7gE9Z15-voqQ",
+    "audio": {
+      "album": "Ian Xel Lungold",
+      "artist": "Ian Xel Lungold",
+      "bitrate": 32,
+      "duration": 10055366,
+      "genre": "Blues",
+      "hasDrm": false,
+      "isVariableBitrate": false,
+      "title": "The Evolution Continues"
+    },
+    "file": {
+      "hashes": {
+        "quickXorHash": "jRRXXt4HZnkvUi5XWB0+p/Gkke0=",
+        "sha1Hash": "C186784ABBDC2FCC5091E56D82EF52C834255E89",
+        "sha256Hash": "BF2B007FA1356B540F654DC213DA9DF8DB3FAA826A14802487BD3540F7DE472E"
+      },
+      "mimeType": "audio/mpeg"
+    }
+  },
+  {
+    "@content.downloadUrl": "https://3qivqg.bn.files.1drv.com/y4m48ll2Y2KbOLL3loSQiCZInvP6ABeDYT8REHj85sAOiuSBkq7KmV93ojvAGKiSS_LiX_FP0BrvPQP4j5nYFU2FQDag7kChe5_xfH7VXQSkj_opuRuwDNi9K4QxgE4sazn7j8E_KxTymcH_Va0v6v-eFutKEBGKu-ZQNERmmez8b6dOWxDfU0-LJ12-Ru4tTi_PVa-kws1iSYVOWqq2kldEw",
+    "createdDateTime": "2021-09-11T20:47:36.63Z",
+    "cTag": "aYzo5RDM0NDhCMkIzMDVFMzVEITExOTg3Ny4yNTc",
+    "eTag": "aOUQzNDQ4QjJCMzA1RTM1RCExMTk4NzcuMQ",
+    "id": "9D3448B2B305E35D!119877",
+    "lastModifiedDateTime": "2021-09-11T20:47:37.45Z",
+    "name": "ian_intro.mp3",
+    "parentReference": {
+      "driveId": "9d3448b2b305e35d",
+      "driveType": "personal",
+      "id": "9D3448B2B305E35D!119052",
+      "name": "Ian Xel Lungold",
+      "path": "/drives/9d3448b2b305e35d/items/9D3448B2B305E35D!43500:/Audio/Ian%20Xel%20Lungold"
+    },
+    "size": 5279978,
+    "webUrl": "https://1drv.ms/u/s!Al3jBbOySDSdh6hFod7gE9Z15-voqQ",
+    "audio": {
+      "album": "Ian Xel Lungold",
+      "artist": "Ian Xel Lungold",
+      "bitrate": 48,
+      "duration": 879987,
+      "hasDrm": false,
+      "isVariableBitrate": false
+    },
+    "file": {
+      "hashes": {
+        "quickXorHash": "vtPgquNtf9pxph6A541nTA1LEB0=",
+        "sha1Hash": "E0F795E4156C05E864CC871FFECF71A9B715ED0D",
+        "sha256Hash": "ABC3985BB188884DE5CCA33D800FF7D96E62090DC8350B1F43DE90F77A4478EB"
+      },
+      "mimeType": "audio/mpeg"
+    }
+  },
+  {
+    "@content.downloadUrl": "https://3qivqg.bn.files.1drv.com/y4m-rcI_Oo9x8Wqm0WJD4G1Wu7XGR2NBvJ_LuKVFPHRiEepNvWbh2XcTsJcEvreCRTu0a5aZXGBSVNvrBWu3oGfcgtysRwRpqyXusOPWlAjQPneH_a61_wgEvWN-_7qwzzBNkzlbKaUGyVTKa14G-3iakyt5UkaQHZ33oCDqgjc1E7IgcdA-MYgJAi1JOJ7leUac7FQmfhWRji5s6CBP7KiaA",
+    "createdDateTime": "2021-09-11T19:55:33.883Z",
+    "cTag": "aYzo5RDM0NDhCMkIzMDVFMzVEITExOTA2Ni4yNTc",
+    "description": "",
+    "eTag": "aOUQzNDQ4QjJCMzA1RTM1RCExMTkwNjYuMQ",
+    "id": "9D3448B2B305E35D!119066",
+    "lastModifiedDateTime": "2021-09-11T19:55:34.73Z",
+    "name": "ianlungold8304.mp3",
+    "parentReference": {
+      "driveId": "9d3448b2b305e35d",
+      "driveType": "personal",
+      "id": "9D3448B2B305E35D!119052",
+      "name": "Ian Xel Lungold",
+      "path": "/drives/9d3448b2b305e35d/items/9D3448B2B305E35D!43500:/Audio/Ian%20Xel%20Lungold"
+    },
+    "size": 7403194,
+    "webUrl": "https://1drv.ms/u/s!Al3jBbOySDSdh6Iaod7gE9Z15-voqQ",
+    "audio": {
+      "album": "Ian Xel Lungold",
+      "artist": "Ian Xel Lungold",
+      "bitrate": 16,
+      "duration": 3701501,
+      "hasDrm": false,
+      "isVariableBitrate": false,
+      "title": ""
+    },
+    "file": {
+      "hashes": {
+        "quickXorHash": "cWOSuQgaRigV56lmPexl5PrG/oI=",
+        "sha1Hash": "CB5A6913AB6F09F8747A28A0BC1FCE6C5F3D90F3",
+        "sha256Hash": "AA76D6577142C93925914607EB2D8147C5843F0C2DE26940C294AD3698AA8B0F"
+      },
+      "mimeType": "audio/mpeg"
+    }
+  },
+  {
+    "@content.downloadUrl": "https://3qivqg.bn.files.1drv.com/y4mm9QpNjjjwVEgAKhWmQvKvDATvaahfWE6hi3ggb9DPtNvMzysZnk6PMMoYxGcGbjLw552MyIgO5uZCdRYMVp6htfUwti7jtgtD8NH502iUxoA9y0LSbBsOq9Xlgrt4yPlVdjOJd1dXA2fDbOojScb-KLJ832yyS3Zi8gUKri2vSqgtsyCfpO1pj4HmnjMnh5PydgeSMkM2UeW4Zqp5fO7SQ",
+    "createdDateTime": "2021-09-11T19:57:00.71Z",
+    "cTag": "aYzo5RDM0NDhCMkIzMDVFMzVEITExOTA5MS4yNTc",
+    "description": "ianlungold10703",
+    "eTag": "aOUQzNDQ4QjJCMzA1RTM1RCExMTkwOTEuMQ",
+    "id": "9D3448B2B305E35D!119091",
+    "lastModifiedDateTime": "2021-09-11T19:57:01.747Z",
+    "name": "ianlungold10703.mp3",
+    "parentReference": {
+      "driveId": "9d3448b2b305e35d",
+      "driveType": "personal",
+      "id": "9D3448B2B305E35D!119052",
+      "name": "Ian Xel Lungold",
+      "path": "/drives/9d3448b2b305e35d/items/9D3448B2B305E35D!43500:/Audio/Ian%20Xel%20Lungold"
+    },
+    "size": 7809243,
+    "webUrl": "https://1drv.ms/u/s!Al3jBbOySDSdh6Izod7gE9Z15-voqQ",
+    "audio": {
+      "album": "Ian Xel Lungold",
+      "artist": "Ian Xel Lungold",
+      "bitrate": 16,
+      "duration": 3904512,
+      "hasDrm": false,
+      "isVariableBitrate": false,
+      "title": "ianlungold10703"
+    },
+    "file": {
+      "hashes": {
+        "quickXorHash": "Gw+QRGVf1wQ2YtA+0JdnDhyFq/c=",
+        "sha1Hash": "07D85DF31F73F20280BD921D9857F2E7EBAB4558",
+        "sha256Hash": "56FF391206BDC56EF9E58EFF9C0295703B2BE7AB8948CBBF4425B66E4D0F86D8"
+      },
+      "mimeType": "audio/mpeg"
+    }
+  },
+  {
+    "@content.downloadUrl": "https://3qivqg.bn.files.1drv.com/y4mRNU_5FniqAMCko3DlLl0A1dSl-1yLEqeUVyJrsULYGjDa6xGWb0Wd_C6GPe6pfy-4KOPGDS7qpisVB8kkn3n1LyRZjiH6gy4pr2fhIU6qMHktbmVZLYw04RWmiIRCi7a0iKltbckJxtaxUqUGC-wCtyMlucaeVHrEa9MZouywNuvfN9FHDLYfBZaDAweT2gXLpGRc6dAryYv5XuRyWMcwg",
+    "createdDateTime": "2021-09-11T20:54:51.707Z",
+    "cTag": "aYzo5RDM0NDhCMkIzMDVFMzVEITExOTk1Ni4yNTc",
+    "description": "",
+    "eTag": "aOUQzNDQ4QjJCMzA1RTM1RCExMTk5NTYuMg",
+    "id": "9D3448B2B305E35D!119956",
+    "lastModifiedDateTime": "2021-09-11T20:54:57.003Z",
+    "name": "ianlungold012204.mp3",
+    "parentReference": {
+      "driveId": "9d3448b2b305e35d",
+      "driveType": "personal",
+      "id": "9D3448B2B305E35D!119052",
+      "name": "Ian Xel Lungold",
+      "path": "/drives/9d3448b2b305e35d/items/9D3448B2B305E35D!43500:/Audio/Ian%20Xel%20Lungold"
+    },
+    "size": 27750221,
+    "webUrl": "https://1drv.ms/u/s!Al3jBbOySDSdh6kUod7gE9Z15-voqQ",
+    "audio": {
+      "album": "Ian Xel Lungold",
+      "artist": "Ian Xel Lungold",
+      "bitrate": 56,
+      "duration": 3964289,
+      "hasDrm": false,
+      "isVariableBitrate": false,
+      "title": ""
+    },
+    "file": {
+      "hashes": {
+        "quickXorHash": "uTbbNA0lWpyodYlsgZu7fCKPssY=",
+        "sha1Hash": "FCF55AE97ED7864A9CAC2F06C80E94345066931C",
+        "sha256Hash": "806BBC8D02E3508F9EFC32199419268A63AFFCAB46D9CF6875D7D980E7AA4ABA"
+      },
+      "mimeType": "audio/mpeg"
+    }
+  },
+  {
+    "@content.downloadUrl": "https://3qivqg.bn.files.1drv.com/y4m07OqK_AyQ5rKPccmZSrw-mF1NoqA6iK5AS4dHtWMYdZh_DNletkiSVz0JxEvhxMGSVrZMhganzQ-gjhIxR8pvJ43WuAQIsnmKOiPdD4CXN3j7Vukf8ka9EkWC5OsMvKDmnLErQp79KxbVRUT2_hHYD86SGeK_lUtS1Mx0h2izLkg5ZHUdsECUx6uQ_61t_IbWLiLfLoUtslAkbhq9VryRg",
+    "createdDateTime": "2021-09-11T19:56:57.22Z",
+    "cTag": "aYzo5RDM0NDhCMkIzMDVFMzVEITExOTA5MC4yNTc",
+    "description": "",
+    "eTag": "aOUQzNDQ4QjJCMzA1RTM1RCExMTkwOTAuMQ",
+    "id": "9D3448B2B305E35D!119090",
+    "lastModifiedDateTime": "2021-09-11T19:57:20.443Z",
+    "name": "ianlungold22604.mp3",
+    "parentReference": {
+      "driveId": "9d3448b2b305e35d",
+      "driveType": "personal",
+      "id": "9D3448B2B305E35D!119052",
+      "name": "Ian Xel Lungold",
+      "path": "/drives/9d3448b2b305e35d/items/9D3448B2B305E35D!43500:/Audio/Ian%20Xel%20Lungold"
+    },
+    "size": 7675565,
+    "webUrl": "https://1drv.ms/u/s!Al3jBbOySDSdh6Iyod7gE9Z15-voqQ",
+    "audio": {
+      "album": "Ian Xel Lungold",
+      "artist": "Ian Xel Lungold",
+      "bitrate": 16,
+      "duration": 3837686,
+      "hasDrm": false,
+      "isVariableBitrate": false,
+      "title": ""
+    },
+    "file": {
+      "hashes": {
+        "quickXorHash": "U9kzskSVJI4KuS9cfLS44MLzHNA=",
+        "sha1Hash": "F2989C9245FE09BE41B6AFBEF05174EB32EB9C31",
+        "sha256Hash": "397824D2B1CD553E7794FDEDC86F5811CA38D6EFBFA00337EFA81CF2C904B685"
+      },
+      "mimeType": "audio/mpeg"
+    }
+  },
+  {
+    "@content.downloadUrl": "https://3qivqg.bn.files.1drv.com/y4mO1l85uTcTjMMLTJPsL8SLlYi7dhY_9z8i_PByviszD-IcpH6ro4P8aT73be98PJssNliKVhSrUc4Qc-EirtOSfDA78KxTZ88_2qmhrhKPLyxJEzFwzWHxTHDHvfzyHvdDQfUVudSz4aNknAKeyUPzxkqMAqltM0s28e0NmM8DC1vXgizsoYMgyQK_ZBF2mOx-1vJxTW6k4Ss-zqHY5aj8g",
+    "createdDateTime": "2021-09-11T20:52:13.08Z",
+    "cTag": "aYzo5RDM0NDhCMkIzMDVFMzVEITExOTkwOS4yNTc",
+    "description": "",
+    "eTag": "aOUQzNDQ4QjJCMzA1RTM1RCExMTk5MDkuMQ",
+    "id": "9D3448B2B305E35D!119909",
+    "lastModifiedDateTime": "2021-09-11T20:52:14.14Z",
+    "name": "ianlungold33004.mp3",
+    "parentReference": {
+      "driveId": "9d3448b2b305e35d",
+      "driveType": "personal",
+      "id": "9D3448B2B305E35D!119052",
+      "name": "Ian Xel Lungold",
+      "path": "/drives/9d3448b2b305e35d/items/9D3448B2B305E35D!43500:/Audio/Ian%20Xel%20Lungold"
+    },
+    "size": 7361395,
+    "webUrl": "https://1drv.ms/u/s!Al3jBbOySDSdh6hlod7gE9Z15-voqQ",
+    "audio": {
+      "album": "Ian Xel Lungold",
+      "artist": "Ian Xel Lungold",
+      "bitrate": 16,
+      "duration": 3680601,
+      "hasDrm": false,
+      "isVariableBitrate": false,
+      "title": ""
+    },
+    "file": {
+      "hashes": {
+        "quickXorHash": "wnz+0GK6c18EAZCxd41bHc9Xbbg=",
+        "sha1Hash": "B782F645D4727AB0A74BBA2803867560AF77290B",
+        "sha256Hash": "FDFB84277E314E8BFE068822A016EF45CABDE57AF46029BA9DD6A3372159C0B6"
+      },
+      "mimeType": "audio/mpeg"
+    }
+  },
+  {
+    "@content.downloadUrl": "https://3qivqg.bn.files.1drv.com/y4m79Mrb1JUNhX1E1WlRT8RYN9lz1OU9wKBiBxH9EEQjiHB0BmVFoj4vRso7B3lIVss73o5a_F0H0FoXZm92BC4qwZETVeXgFCtXsGzuDcHMEZIX6AVozVTWWTE5yKodfabBYDCRGB4e6ufYiUkc9JvDxCFb0MWCQHccRvQOvw5MJM8WTn6EgrBlvaPtr3431hgvpqiCLbWabsX4QVWnP0wgg",
+    "createdDateTime": "2021-09-11T20:52:24.26Z",
+    "cTag": "aYzo5RDM0NDhCMkIzMDVFMzVEITExOTkxMS4yNTc",
+    "description": "",
+    "eTag": "aOUQzNDQ4QjJCMzA1RTM1RCExMTk5MTEuMQ",
+    "id": "9D3448B2B305E35D!119911",
+    "lastModifiedDateTime": "2021-09-11T20:52:25.19Z",
+    "name": "IanLungold42303.mp3",
+    "parentReference": {
+      "driveId": "9d3448b2b305e35d",
+      "driveType": "personal",
+      "id": "9D3448B2B305E35D!119052",
+      "name": "Ian Xel Lungold",
+      "path": "/drives/9d3448b2b305e35d/items/9D3448B2B305E35D!43500:/Audio/Ian%20Xel%20Lungold"
+    },
+    "size": 7578957,
+    "webUrl": "https://1drv.ms/u/s!Al3jBbOySDSdh6hnod7gE9Z15-voqQ",
+    "audio": {
+      "album": "Ian Xel Lungold",
+      "artist": "Ian Xel Lungold",
+      "bitrate": 16,
+      "duration": 3789382,
+      "hasDrm": false,
+      "isVariableBitrate": false,
+      "title": ""
+    },
+    "file": {
+      "hashes": {
+        "quickXorHash": "YbTCSaMYBvQM2/Y+BRXSE9O/+bA=",
+        "sha1Hash": "716E7EDA894282FDCD6120015EE2FCAEEA7735C1",
+        "sha256Hash": "8EA90D86452A2EFAF21ACAA64A208EADB6162C6961DDFAB5C51C45700CC16B89"
+      },
+      "mimeType": "audio/mpeg"
+    }
+  },
+  {
+    "@content.downloadUrl": "https://3qivqg.bn.files.1drv.com/y4m8lirhvarUCAGatkZVQZAkxe_kfkOxwlqmZ9ADtt4eqeldp4RvRoiPZfHezE9Hrp-_--6p_JcGYGkfFUtsYYd33JgH3i7bqZqJTAO37i7j9dZoioTA2ysvyDNCHejabCHN42GnwqgBvNo8EZicWFXW4KZIjgo-LcdSipNy1bmJhFZDVbt7cD9JxDcge5WAy2IyjJFNrTV_8kCTTlfyP8Sjw",
+    "createdDateTime": "2021-09-11T20:48:19.83Z",
+    "cTag": "aYzo5RDM0NDhCMkIzMDVFMzVEITExOTg3OC4yNTc",
+    "description": "",
+    "eTag": "aOUQzNDQ4QjJCMzA1RTM1RCExMTk4NzguMQ",
+    "id": "9D3448B2B305E35D!119878",
+    "lastModifiedDateTime": "2021-09-11T20:48:23.99Z",
+    "name": "ianlungold51804.mp3",
+    "parentReference": {
+      "driveId": "9d3448b2b305e35d",
+      "driveType": "personal",
+      "id": "9D3448B2B305E35D!119052",
+      "name": "Ian Xel Lungold",
+      "path": "/drives/9d3448b2b305e35d/items/9D3448B2B305E35D!43500:/Audio/Ian%20Xel%20Lungold"
+    },
+    "size": 7492843,
+    "webUrl": "https://1drv.ms/u/s!Al3jBbOySDSdh6hGod7gE9Z15-voqQ",
+    "audio": {
+      "album": "Ian Xel Lungold",
+      "artist": "Ian Xel Lungold",
+      "bitrate": 16,
+      "duration": 3746325,
+      "hasDrm": false,
+      "isVariableBitrate": false,
+      "title": ""
+    },
+    "file": {
+      "hashes": {
+        "quickXorHash": "RuvAesAt4yqSKFJlYO1S4sVWDWg=",
+        "sha1Hash": "27008CD1AA261219C7E8F72C0D261B51C51ED593",
+        "sha256Hash": "A5195DDEAC2004319CC0AB069CD8A2CACC04758804AFC21E7A15CE2BB4F01E88"
+      },
+      "mimeType": "audio/mpeg"
+    }
+  },
+  {
+    "@content.downloadUrl": "https://3qivqg.bn.files.1drv.com/y4mQCisXSbLhMtfRM88x_pF4OSkIPJORDLABYX7BL_3SMpIj3sDl-LiJ-ILD9LFiP9hMSrDtTRIF1ysNyVaQpsm9niZNJnJNbWjbEbSeBsZoAQ3km8lch6C8Dq09SoFEFVW4EwBPFxaUcqdExdFCyMgv8PtxVd-dJTO-vSoaDpdEsNP5XYFsZ40XqE721CmTLoBr--17kARWv5SG-ALowXChA",
+    "createdDateTime": "2021-09-11T19:56:07.49Z",
+    "cTag": "aYzo5RDM0NDhCMkIzMDVFMzVEITExOTA4NS4yNTc",
+    "eTag": "aOUQzNDQ4QjJCMzA1RTM1RCExMTkwODUuMg",
+    "id": "9D3448B2B305E35D!119085",
+    "lastModifiedDateTime": "2021-09-11T19:57:14.163Z",
+    "name": "Interview_2003_ian_01.mp3",
+    "parentReference": {
+      "driveId": "9d3448b2b305e35d",
+      "driveType": "personal",
+      "id": "9D3448B2B305E35D!119052",
+      "name": "Ian Xel Lungold",
+      "path": "/drives/9d3448b2b305e35d/items/9D3448B2B305E35D!43500:/Audio/Ian%20Xel%20Lungold"
+    },
+    "size": 14413496,
+    "webUrl": "https://1drv.ms/u/s!Al3jBbOySDSdh6Itod7gE9Z15-voqQ",
+    "audio": {
+      "album": "Ian Xel Lungold",
+      "artist": "Ian Xel Lungold",
+      "bitrate": 128,
+      "duration": 900840,
+      "hasDrm": false,
+      "isVariableBitrate": false
+    },
+    "file": {
+      "hashes": {
+        "quickXorHash": "3SvXqyOaYjAlqBIOHHFuvbE3jOw=",
+        "sha1Hash": "757E64C4852B984464FC11C8DE41CC0C108A3BA5",
+        "sha256Hash": "E1786C830E6CB9AF03590AD5B20F3168D0E2AA8476A8A7C06FA29D9EBCB03108"
+      },
+      "mimeType": "audio/mpeg"
+    }
+  },
+  {
+    "@content.downloadUrl": "https://3qivqg.bn.files.1drv.com/y4mQ_bsN50gnVIR9HWoAIcrF37aCRihTg_Zk_wonaQYvyqaRDeh7-oGAFbwayZam4B2yOFKoRd0OazAKuNAu_lxFnqTy4hdgJGpEJjQjLAZa6-8YS3NWR3Q2d5vRP8j2l_se9EhJlSD9lffqB-6VIItw8bC3bKcMfFbySfxF8z8unoYMi_tbfJ2MgcuBzlqU4CLXdlQcXgiEEJ5zfoRhFKqYA",
+    "createdDateTime": "2021-09-11T19:54:30.21Z",
+    "cTag": "aYzo5RDM0NDhCMkIzMDVFMzVEITExOTA2NC4yNTc",
+    "eTag": "aOUQzNDQ4QjJCMzA1RTM1RCExMTkwNjQuMQ",
+    "id": "9D3448B2B305E35D!119064",
+    "lastModifiedDateTime": "2021-09-11T19:54:31.223Z",
+    "name": "Interview_2003_ian_02.mp3",
+    "parentReference": {
+      "driveId": "9d3448b2b305e35d",
+      "driveType": "personal",
+      "id": "9D3448B2B305E35D!119052",
+      "name": "Ian Xel Lungold",
+      "path": "/drives/9d3448b2b305e35d/items/9D3448B2B305E35D!43500:/Audio/Ian%20Xel%20Lungold"
+    },
+    "size": 3211448,
+    "webUrl": "https://1drv.ms/u/s!Al3jBbOySDSdh6IYod7gE9Z15-voqQ",
+    "audio": {
+      "album": "Ian Xel Lungold",
+      "artist": "Ian Xel Lungold",
+      "bitrate": 128,
+      "duration": 200712,
+      "hasDrm": false,
+      "isVariableBitrate": false
+    },
+    "file": {
+      "hashes": {
+        "quickXorHash": "5vDF7rWLvT59UYKmBu2n3urOI8Y=",
+        "sha1Hash": "CC76E761F3D071D60A52EAD7FA7497B265C28856",
+        "sha256Hash": "E1937D4927AE145669FF3759B569351EF925EEFD4A05DDC11CC68FE7977B82C1"
+      },
+      "mimeType": "audio/mpeg"
+    }
+  },
+  {
+    "@content.downloadUrl": "https://3qivqg.bn.files.1drv.com/y4mUdikmG_pZmN1urWJ0wLPwmLnqC6GMNM9owcKQnTCK5Yz3gbDR1RZb1Dr21fhjYhj68C2Y83K6A2rB4IbF2dpNJ6U8SX5f-AUjfbC0U_wZ9Tmqfsn0PCSedCvE7wI0R_4MbPP2CX8Tb4SBfdf0WBns90IzJu4oGNRIN_OqsnhdulTGRg_OrIgaJv0CXUVTUc--FyytdRHjDnIpTrFdVt9aQ",
+    "createdDateTime": "2021-09-11T19:55:02.827Z",
+    "cTag": "aYzo5RDM0NDhCMkIzMDVFMzVEITExOTA2NS4yNTc",
+    "eTag": "aOUQzNDQ4QjJCMzA1RTM1RCExMTkwNjUuMQ",
+    "id": "9D3448B2B305E35D!119065",
+    "lastModifiedDateTime": "2021-09-11T19:55:03.74Z",
+    "name": "Interview_2003_ian_03.mp3",
+    "parentReference": {
+      "driveId": "9d3448b2b305e35d",
+      "driveType": "personal",
+      "id": "9D3448B2B305E35D!119052",
+      "name": "Ian Xel Lungold",
+      "path": "/drives/9d3448b2b305e35d/items/9D3448B2B305E35D!43500:/Audio/Ian%20Xel%20Lungold"
+    },
+    "size": 7999928,
+    "webUrl": "https://1drv.ms/u/s!Al3jBbOySDSdh6IZod7gE9Z15-voqQ",
+    "audio": {
+      "album": "Ian Xel Lungold",
+      "artist": "Ian Xel Lungold",
+      "bitrate": 128,
+      "duration": 499992,
+      "hasDrm": false,
+      "isVariableBitrate": false
+    },
+    "file": {
+      "hashes": {
+        "quickXorHash": "JjWdEAku8zKg+q/dlgBWKkw6r2U=",
+        "sha1Hash": "70C0F4D54EB94B5024DB04922A3E720861AA2D0C",
+        "sha256Hash": "51C458D322F7C2E2B5DF603BCF99C36C140C14EC44DC718CADBA5EF2579699CC"
+      },
+      "mimeType": "audio/mpeg"
+    }
+  },
+  {
+    "@content.downloadUrl": "https://3qivqg.bn.files.1drv.com/y4moVrltOJsW5K0ShpDK1w9IpjLi8HxlEqREMVS9nWgLnRMKfnVgql0awhz7L9k3rrjqDvFm7SN7dLAsPylt4vRmluK7K0K16vmk58fqGend7X0JUs78TYNRVCPhJRoK5S8HYPSVPs0HMGDSZGvMR4Z-dAzo9yEuzDggh46q5SkCXyAqwy2OViPjCkczcq1O4sdCacN5XA8uR5LSuHEU__NJg",
+    "createdDateTime": "2021-09-11T20:50:30.3Z",
+    "cTag": "aYzo5RDM0NDhCMkIzMDVFMzVEITExOTkwNy4yNTc",
+    "description": "Mayan Calendar Truth",
+    "eTag": "aOUQzNDQ4QjJCMzA1RTM1RCExMTk5MDcuMg",
+    "id": "9D3448B2B305E35D!119907",
+    "lastModifiedDateTime": "2021-09-11T20:50:49.563Z",
+    "name": "Mayan_cal_truth.mp3",
+    "parentReference": {
+      "driveId": "9d3448b2b305e35d",
+      "driveType": "personal",
+      "id": "9D3448B2B305E35D!119052",
+      "name": "Ian Xel Lungold",
+      "path": "/drives/9d3448b2b305e35d/items/9D3448B2B305E35D!43500:/Audio/Ian%20Xel%20Lungold"
+    },
+    "size": 14082893,
+    "webUrl": "https://1drv.ms/u/s!Al3jBbOySDSdh6hjod7gE9Z15-voqQ",
+    "audio": {
+      "album": "Ian Xel Lungold",
+      "artist": "Ian Xel Lungold",
+      "bitrate": 128,
+      "duration": 880049,
+      "hasDrm": false,
+      "isVariableBitrate": false,
+      "title": "Mayan Calendar Truth"
+    },
+    "file": {
+      "hashes": {
+        "quickXorHash": "bdcIFc6XuFKfmi4kxYCE4ir6HUk=",
+        "sha1Hash": "65780FB6E9DDD66758B548D1E771EE41CBA202CD",
+        "sha256Hash": "F6D9AD9A13C09AD8350995B90B10F1564BBB18B7871A6D1D37D27FE35AE1BCE1"
+      },
+      "mimeType": "audio/mpeg"
+    }
+  },
+  {
+    "@content.downloadUrl": "https://3qivqg.bn.files.1drv.com/y4mzYOrO5XUp0DMHaUrtaZLlY85-EKGbpVHLAFeG5WRPQz9Ps_acjcI-glTJX4kKVnQswzhk27yDfzk36mJaMArNf29K_eDmnyhKkzChUgmXZTCENHF_bdC3ABd1TmxfUzqBRzkWyh6lQuFizlmpBISwip4O-3kIQ_KgqXUPFmJ9jyYZY951vz4UERU0-gGig5Tas3pkZhbnIWcSw5YPO5Ycg",
+    "createdDateTime": "2021-09-11T19:54:12.217Z",
+    "cTag": "aYzo5RDM0NDhCMkIzMDVFMzVEITExOTA2My4yNTc",
+    "eTag": "aOUQzNDQ4QjJCMzA1RTM1RCExMTkwNjMuMQ",
+    "id": "9D3448B2B305E35D!119063",
+    "lastModifiedDateTime": "2021-09-11T19:54:12.443Z",
+    "name": "sample_p1.mp3",
+    "parentReference": {
+      "driveId": "9d3448b2b305e35d",
+      "driveType": "personal",
+      "id": "9D3448B2B305E35D!119052",
+      "name": "Ian Xel Lungold",
+      "path": "/drives/9d3448b2b305e35d/items/9D3448B2B305E35D!43500:/Audio/Ian%20Xel%20Lungold"
+    },
+    "size": 1109424,
+    "webUrl": "https://1drv.ms/u/s!Al3jBbOySDSdh6IXod7gE9Z15-voqQ",
+    "audio": {
+      "album": "Ian Xel Lungold",
+      "artist": "Ian Xel Lungold",
+      "bitrate": 48,
+      "duration": 184894,
+      "hasDrm": false,
+      "isVariableBitrate": false
+    },
+    "file": {
+      "hashes": {
+        "quickXorHash": "uDUtzki0Lf7goFBFX3TFoQ20px0=",
+        "sha1Hash": "2B4EE8881E3C1E64E82153C12F499027BDB84D8C",
+        "sha256Hash": "C51A626BB047D184E22B079EB282AABCE419FFCD20738300CB3ED8667162A896"
+      },
+      "mimeType": "audio/mpeg"
+    }
+  }
+]
