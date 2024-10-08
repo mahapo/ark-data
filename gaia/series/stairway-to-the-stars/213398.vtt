@@ -1,0 +1,2528 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.423 align:middle line:90%
+[AUDIO LOGO]
+
+00:00:03.423 --> 00:00:04.401 align:middle line:90%
+
+
+00:00:04.401 --> 00:00:09.291 align:middle line:10%
+[MUSIC PLAYING]
+
+00:00:09.291 --> 00:00:11.750 align:middle line:10%
+
+
+00:00:11.750 --> 00:00:14.190 align:middle line:10%
+>> I'm excited to share
+this one with you.
+
+00:00:14.190 --> 00:00:19.010 align:middle line:10%
+It's not easy for me to just
+do a talk because everything
+
+00:00:19.010 --> 00:00:22.730 align:middle line:10%
+I talk about, I actually
+back up with an experiment,
+
+00:00:22.730 --> 00:00:26.520 align:middle line:10%
+an empirical experiment that I
+do myself to prove my claims.
+
+00:00:26.520 --> 00:00:28.760 align:middle line:84%
+And if I talk about
+the possibility
+
+00:00:28.760 --> 00:00:31.670 align:middle line:84%
+of building something based
+on that, I actually do it.
+
+00:00:31.670 --> 00:00:34.220 align:middle line:84%
+So it takes a long
+time sometimes
+
+00:00:34.220 --> 00:00:35.580 align:middle line:90%
+for me to actually do this.
+
+00:00:35.580 --> 00:00:39.570 align:middle line:90%
+And this talk is no exception.
+
+00:00:39.570 --> 00:00:44.220 align:middle line:84%
+I feel like mad science
+is a bit of a lost art,
+
+00:00:44.220 --> 00:00:48.480 align:middle line:84%
+and so happy that I can share
+this bit of mad science with you
+
+00:00:48.480 --> 00:00:50.150 align:middle line:90%
+tonight.
+
+00:00:50.150 --> 00:00:55.040 align:middle line:10%
+The talk is called "Building
+a Psychic Machine."
+
+00:00:55.040 --> 00:00:57.650 align:middle line:10%
+And I know some of you
+are thinking, well,
+
+00:00:57.650 --> 00:00:58.830 align:middle line:10%
+what is Adam talking about?
+
+00:00:58.830 --> 00:01:03.550 align:middle line:84%
+Does he mean like a toaster that
+can read your mind or something?
+
+00:01:03.550 --> 00:01:06.580 align:middle line:84%
+And the answer is,
+yes, That's actually
+
+00:01:06.580 --> 00:01:08.080 align:middle line:90%
+exactly what I'm talking about.
+
+00:01:08.080 --> 00:01:11.410 align:middle line:90%
+Well, sort of, I'll explain.
+
+00:01:11.410 --> 00:01:15.940 align:middle line:84%
+I wanted to put together, if
+you can see this, a chart that
+
+00:01:15.940 --> 00:01:18.400 align:middle line:84%
+really captures how
+most people think
+
+00:01:18.400 --> 00:01:20.388 align:middle line:90%
+about artificial intelligence.
+
+00:01:20.388 --> 00:01:22.180 align:middle line:84%
+And when I say most
+people, I mean not only
+
+00:01:22.180 --> 00:01:25.480 align:middle line:84%
+the general population, but
+indeed a lot of the experts
+
+00:01:25.480 --> 00:01:27.580 align:middle line:90%
+as well.
+
+00:01:27.580 --> 00:01:31.240 align:middle line:84%
+So if you can see it over
+here in the left quadrant,
+
+00:01:31.240 --> 00:01:33.620 align:middle line:84%
+you have AI, Artificial
+Intelligence.
+
+00:01:33.620 --> 00:01:35.780 align:middle line:90%
+That's where we are now.
+
+00:01:35.780 --> 00:01:38.980 align:middle line:84%
+So this is your
+ChatGPT, your Bard,
+
+00:01:38.980 --> 00:01:42.100 align:middle line:84%
+what is the public
+state of the art.
+
+00:01:42.100 --> 00:01:45.560 align:middle line:84%
+On the right-hand side, you
+have AGI, Artificial General
+
+00:01:45.560 --> 00:01:46.360 align:middle line:90%
+Intelligence.
+
+00:01:46.360 --> 00:01:51.190 align:middle line:84%
+And that technically means an
+AI that has become as smart
+
+00:01:51.190 --> 00:01:54.490 align:middle line:84%
+or smarter than
+your average human,
+
+00:01:54.490 --> 00:01:56.860 align:middle line:84%
+which then will
+give it the ability
+
+00:01:56.860 --> 00:01:59.320 align:middle line:84%
+to learn multiple languages,
+which then will give it
+
+00:01:59.320 --> 00:02:01.582 align:middle line:84%
+the ability to learn multiple
+programming languages,
+
+00:02:01.582 --> 00:02:03.040 align:middle line:84%
+which then will
+give it the ability
+
+00:02:03.040 --> 00:02:05.200 align:middle line:84%
+to update its own
+algorithms, which
+
+00:02:05.200 --> 00:02:07.060 align:middle line:84%
+means that it can
+learn faster, which
+
+00:02:07.060 --> 00:02:09.580 align:middle line:84%
+means that it then can
+study physics and chemistry
+
+00:02:09.580 --> 00:02:12.280 align:middle line:84%
+and biology and history
+and all of these things,
+
+00:02:12.280 --> 00:02:14.530 align:middle line:84%
+and then at one point, decide
+that humans are actually
+
+00:02:14.530 --> 00:02:15.920 align:middle line:90%
+a plague upon the Earth.
+
+00:02:15.920 --> 00:02:18.070 align:middle line:84%
+And it is better that
+we're all annihilated,
+
+00:02:18.070 --> 00:02:20.900 align:middle line:84%
+leading to your
+"Terminator" scenario.
+
+00:02:20.900 --> 00:02:26.020 align:middle line:84%
+And somewhere in the
+trajectory from AI to AGI,
+
+00:02:26.020 --> 00:02:29.740 align:middle line:84%
+you cross this magical line,
+which we call consciousness.
+
+00:02:29.740 --> 00:02:34.360 align:middle line:84%
+And we all sort of believe
+that a sufficiently advanced
+
+00:02:34.360 --> 00:02:37.480 align:middle line:84%
+artificial intelligence on
+its development trajectory
+
+00:02:37.480 --> 00:02:39.950 align:middle line:90%
+just somehow gets conscious.
+
+00:02:39.950 --> 00:02:43.850 align:middle line:84%
+It develops sentience, real
+consciousness on the way.
+
+00:02:43.850 --> 00:02:47.390 align:middle line:84%
+And so that's what
+people expect.
+
+00:02:47.390 --> 00:02:51.170 align:middle line:84%
+And I think it's important to
+take a beat here and explore
+
+00:02:51.170 --> 00:02:55.680 align:middle line:90%
+why we all seem to think that.
+
+00:02:55.680 --> 00:02:57.070 align:middle line:90%
+There's a number of reasons.
+
+00:02:57.070 --> 00:02:59.700 align:middle line:90%
+One is that it's generational.
+
+00:02:59.700 --> 00:03:02.490 align:middle line:10%
+Gen X and millennials,
+in particular,
+
+00:03:02.490 --> 00:03:06.150 align:middle line:10%
+we grew up with very dystopic
+pictures of artificial
+
+00:03:06.150 --> 00:03:10.590 align:middle line:10%
+intelligence from the "Matrix"
+to "Terminator," of course,
+
+00:03:10.590 --> 00:03:15.320 align:middle line:10%
+"Wargames", it all
+kind of ends badly.
+
+00:03:15.320 --> 00:03:18.710 align:middle line:84%
+A second reason why we believe
+this is many of the headlines
+
+00:03:18.710 --> 00:03:21.210 align:middle line:90%
+are driven by articles.
+
+00:03:21.210 --> 00:03:22.770 align:middle line:90%
+Articles are driven by clicks.
+
+00:03:22.770 --> 00:03:25.190 align:middle line:84%
+Clicks are driven by
+sensational headlines.
+
+00:03:25.190 --> 00:03:29.900 align:middle line:84%
+It's a kind of a
+self-reinforcing loop there.
+
+00:03:29.900 --> 00:03:35.100 align:middle line:84%
+Here's one that you guys
+will probably never hear--
+
+00:03:35.100 --> 00:03:36.560 align:middle line:90%
+corporate monopoly seeking.
+
+00:03:36.560 --> 00:03:40.430 align:middle line:90%
+
+
+00:03:40.430 --> 00:03:42.920 align:middle line:84%
+The two companies
+that are leading
+
+00:03:42.920 --> 00:03:47.760 align:middle line:84%
+in artificial intelligence
+today, Google and Microsoft.
+
+00:03:47.760 --> 00:03:53.810 align:middle line:84%
+Microsoft is the player behind
+OpenAI, which has ChatGPT.
+
+00:03:53.810 --> 00:03:56.030 align:middle line:84%
+Google has more
+of the raw talent
+
+00:03:56.030 --> 00:03:57.630 align:middle line:90%
+and a lot of the infrastructure.
+
+00:03:57.630 --> 00:04:00.800 align:middle line:84%
+These two companies
+are locked in a battle
+
+00:04:00.800 --> 00:04:04.710 align:middle line:84%
+for controlling
+AI in the future.
+
+00:04:04.710 --> 00:04:10.710 align:middle line:84%
+For example, six months ago,
+when OpenAI announced that they
+
+00:04:10.710 --> 00:04:15.970 align:middle line:84%
+had succeeded at what
+would become GPT-4,
+
+00:04:15.970 --> 00:04:19.380 align:middle line:84%
+and they were releasing
+that soon, the Apple--
+
+00:04:19.380 --> 00:04:22.470 align:middle line:84%
+the Google stock
+price dropped so much
+
+00:04:22.470 --> 00:04:26.190 align:middle line:84%
+that it wiped $100
+billion in market cap
+
+00:04:26.190 --> 00:04:28.880 align:middle line:90%
+from that company in one day.
+
+00:04:28.880 --> 00:04:32.220 align:middle line:84%
+So the stakes are
+very, very, very high.
+
+00:04:32.220 --> 00:04:36.030 align:middle line:84%
+Now, at the same time,
+these two companies,
+
+00:04:36.030 --> 00:04:39.210 align:middle line:84%
+which are developing their
+proprietary AI algorithms,
+
+00:04:39.210 --> 00:04:40.800 align:middle line:90%
+have competition.
+
+00:04:40.800 --> 00:04:44.020 align:middle line:84%
+And that competition is from
+the open source community,
+
+00:04:44.020 --> 00:04:46.770 align:middle line:84%
+people that are
+creating AI software
+
+00:04:46.770 --> 00:04:50.100 align:middle line:84%
+and giving it away for free,
+doing it collaboratively,
+
+00:04:50.100 --> 00:04:52.170 align:middle line:90%
+revealing the source code.
+
+00:04:52.170 --> 00:04:58.660 align:middle line:84%
+The open source community is
+developing AI 10 times faster
+
+00:04:58.660 --> 00:05:02.000 align:middle line:84%
+than Microsoft or
+Google at 1/10 the cost.
+
+00:05:02.000 --> 00:05:03.830 align:middle line:84%
+So you do the math,
+and they're going
+
+00:05:03.830 --> 00:05:06.670 align:middle line:90%
+to eclipse them pretty soon.
+
+00:05:06.670 --> 00:05:11.620 align:middle line:84%
+So what do you do if
+you're Microsoft or Google
+
+00:05:11.620 --> 00:05:13.510 align:middle line:84%
+and you know that you're
+about to be eclipsed
+
+00:05:13.510 --> 00:05:15.460 align:middle line:90%
+by the open source community?
+
+00:05:15.460 --> 00:05:17.640 align:middle line:90%
+What do you do?
+
+00:05:17.640 --> 00:05:18.440 align:middle line:90%
+Anyone?
+
+00:05:18.440 --> 00:05:21.010 align:middle line:90%
+
+
+00:05:21.010 --> 00:05:22.815 align:middle line:90%
+Regulate, regulation.
+
+00:05:22.815 --> 00:05:24.190 align:middle line:84%
+But how do you
+get the government
+
+00:05:24.190 --> 00:05:26.250 align:middle line:90%
+to regulate this stuff?
+
+00:05:26.250 --> 00:05:31.210 align:middle line:84%
+Well, this AI, it's
+very likely to wake up,
+
+00:05:31.210 --> 00:05:33.640 align:middle line:90%
+and it's extremely dangerous.
+
+00:05:33.640 --> 00:05:35.535 align:middle line:84%
+And we don't know
+what it's going to do,
+
+00:05:35.535 --> 00:05:36.910 align:middle line:84%
+because it's a
+superintelligence,
+
+00:05:36.910 --> 00:05:38.440 align:middle line:90%
+and it's so unpredictable.
+
+00:05:38.440 --> 00:05:40.553 align:middle line:84%
+It might be an
+existential threat
+
+00:05:40.553 --> 00:05:42.470 align:middle line:84%
+that's bigger than
+anything we face right now.
+
+00:05:42.470 --> 00:05:46.930 align:middle line:84%
+And so we really need to
+regulate this stuff immediately.
+
+00:05:46.930 --> 00:05:50.720 align:middle line:84%
+And of course, you'll get a
+panel of members of Congress
+
+00:05:50.720 --> 00:05:51.520 align:middle line:90%
+together.
+
+00:05:51.520 --> 00:05:52.978 align:middle line:84%
+And they'll consult
+the experts who
+
+00:05:52.978 --> 00:05:54.370 align:middle line:90%
+work for Microsoft and Google.
+
+00:05:54.370 --> 00:05:56.807 align:middle line:84%
+And they'll say, yes, we
+really need to regulate it.
+
+00:05:56.807 --> 00:05:57.890 align:middle line:90%
+And they'll be like, good.
+
+00:05:57.890 --> 00:06:01.100 align:middle line:84%
+This is an example of the
+success of public policy.
+
+00:06:01.100 --> 00:06:03.743 align:middle line:84%
+You'll get regulation, which
+means that Google and Microsoft
+
+00:06:03.743 --> 00:06:05.660 align:middle line:84%
+can make this stuff, but
+I'm sorry, you can't.
+
+00:06:05.660 --> 00:06:06.560 align:middle line:90%
+It's just too dangerous.
+
+00:06:06.560 --> 00:06:08.227 align:middle line:84%
+You're going to need
+a license for that.
+
+00:06:08.227 --> 00:06:09.700 align:middle line:84%
+So I don't want
+to necessarily say
+
+00:06:09.700 --> 00:06:12.760 align:middle line:84%
+it's this big
+corporate conspiracy,
+
+00:06:12.760 --> 00:06:15.970 align:middle line:84%
+but I would like to point out
+that the incentives are aligned
+
+00:06:15.970 --> 00:06:19.670 align:middle line:84%
+in the direction of the fear
+narrative surrounding AI,
+
+00:06:19.670 --> 00:06:23.960 align:middle line:84%
+not that it's not
+somewhat justified.
+
+00:06:23.960 --> 00:06:30.000 align:middle line:84%
+You have venture capital
+and limited partner FOMO.
+
+00:06:30.000 --> 00:06:33.130 align:middle line:84%
+This has to do with a
+technology investment cycle.
+
+00:06:33.130 --> 00:06:36.150 align:middle line:84%
+So if you are a founder
+of a tech company,
+
+00:06:36.150 --> 00:06:39.360 align:middle line:84%
+you want to tell a very
+compelling story to investors,
+
+00:06:39.360 --> 00:06:42.730 align:middle line:84%
+like this is the last
+technology that will ever exist.
+
+00:06:42.730 --> 00:06:46.360 align:middle line:84%
+It's going to self-improve,
+and it's exponential.
+
+00:06:46.360 --> 00:06:48.990 align:middle line:84%
+And you've got to
+get it now or never.
+
+00:06:48.990 --> 00:06:51.900 align:middle line:84%
+And those venture capitalists
+have to defend their decisions
+
+00:06:51.900 --> 00:06:53.580 align:middle line:90%
+in case it goes south.
+
+00:06:53.580 --> 00:06:57.145 align:middle line:84%
+Why did you put all this money
+into a 20-year-old company?
+
+00:06:57.145 --> 00:06:58.770 align:middle line:84%
+Well, they have to
+tell the same story,
+
+00:06:58.770 --> 00:07:00.660 align:middle line:84%
+that it's an
+exponential technology
+
+00:07:00.660 --> 00:07:02.400 align:middle line:90%
+and they have to jump into it.
+
+00:07:02.400 --> 00:07:05.290 align:middle line:84%
+And I know that because
+I do that stuff.
+
+00:07:05.290 --> 00:07:10.480 align:middle line:84%
+I sell that to investors
+as well in my own way.
+
+00:07:10.480 --> 00:07:14.380 align:middle line:84%
+So that leads to promoting
+this idea that AI is just
+
+00:07:14.380 --> 00:07:16.600 align:middle line:90%
+like out of control.
+
+00:07:16.600 --> 00:07:19.360 align:middle line:84%
+We've all seen this year
+the success of ChatGPT
+
+00:07:19.360 --> 00:07:20.930 align:middle line:90%
+and large language models.
+
+00:07:20.930 --> 00:07:23.380 align:middle line:84%
+And broadly speaking, we
+live in a macro framework
+
+00:07:23.380 --> 00:07:24.830 align:middle line:90%
+of exponential technologies.
+
+00:07:24.830 --> 00:07:26.110 align:middle line:84%
+So it does make sense
+that you're going
+
+00:07:26.110 --> 00:07:27.235 align:middle line:90%
+to see these things emerge.
+
+00:07:27.235 --> 00:07:30.198 align:middle line:90%
+
+
+00:07:30.198 --> 00:07:34.070 align:middle line:84%
+But if I were to summarize
+that, I think the real way
+
+00:07:34.070 --> 00:07:35.960 align:middle line:84%
+to understand why
+everyone thinks the way
+
+00:07:35.960 --> 00:07:39.050 align:middle line:84%
+they do about
+artificial intelligence
+
+00:07:39.050 --> 00:07:42.380 align:middle line:84%
+and the core of their concerns
+has to do with the fact
+
+00:07:42.380 --> 00:07:49.200 align:middle line:84%
+that we overestimate AI and we
+underestimate consciousness.
+
+00:07:49.200 --> 00:07:50.405 align:middle line:90%
+And what do I mean by that?
+
+00:07:50.405 --> 00:07:52.930 align:middle line:90%
+
+
+00:07:52.930 --> 00:07:57.130 align:middle line:84%
+We overestimate AI,
+people don't really
+
+00:07:57.130 --> 00:07:58.598 align:middle line:90%
+know how this stuff works.
+
+00:07:58.598 --> 00:08:00.640 align:middle line:84%
+And if they don't know
+how it works and they just
+
+00:08:00.640 --> 00:08:04.590 align:middle line:84%
+see the effects, it looks
+very, very, very impressive.
+
+00:08:04.590 --> 00:08:07.530 align:middle line:84%
+So, for example,
+I thought that it
+
+00:08:07.530 --> 00:08:11.160 align:middle line:84%
+would be useful to explain
+the real breakthrough
+
+00:08:11.160 --> 00:08:16.200 align:middle line:84%
+behind modern AI, which is
+large language models in case
+
+00:08:16.200 --> 00:08:18.800 align:middle line:90%
+no one has done this for you.
+
+00:08:18.800 --> 00:08:23.540 align:middle line:90%
+If I say, here's four words.
+
+00:08:23.540 --> 00:08:26.490 align:middle line:84%
+I'm going to give
+you the first word.
+
+00:08:26.490 --> 00:08:29.648 align:middle line:84%
+What are the
+following three words?
+
+00:08:29.648 --> 00:08:32.190 align:middle line:84%
+Well, you have really no way of
+knowing what those words are,
+
+00:08:32.190 --> 00:08:33.840 align:middle line:90%
+right?
+
+00:08:33.840 --> 00:08:40.559 align:middle line:84%
+It could be an orange is
+sweet, or an alien is green,
+
+00:08:40.559 --> 00:08:42.419 align:middle line:90%
+something like that.
+
+00:08:42.419 --> 00:08:47.640 align:middle line:84%
+But if I gave you the
+following two words,
+
+00:08:47.640 --> 00:08:53.740 align:middle line:84%
+an elephant never forgets,
+you know the fourth word.
+
+00:08:53.740 --> 00:08:56.970 align:middle line:84%
+The fourth word because
+you've learned something
+
+00:08:56.970 --> 00:08:59.910 align:middle line:84%
+like the probabilities
+of what word
+
+00:08:59.910 --> 00:09:03.100 align:middle line:84%
+comes next if given a
+sequence of other words.
+
+00:09:03.100 --> 00:09:06.300 align:middle line:84%
+And that's really the secret
+behind large language models,
+
+00:09:06.300 --> 00:09:09.990 align:middle line:90%
+which is ChatGPT and the like.
+
+00:09:09.990 --> 00:09:13.885 align:middle line:84%
+So it could be an
+elephant never sleeps.
+
+00:09:13.885 --> 00:09:14.760 align:middle line:90%
+Why it would be that?
+
+00:09:14.760 --> 00:09:17.780 align:middle line:90%
+An elephant never dances.
+
+00:09:17.780 --> 00:09:20.330 align:middle line:84%
+Forgets is not 100%
+going to be it,
+
+00:09:20.330 --> 00:09:23.930 align:middle line:84%
+but the probability of
+Forgets is actually very high.
+
+00:09:23.930 --> 00:09:27.620 align:middle line:84%
+So the real breakthrough in
+modern AI over the past two
+
+00:09:27.620 --> 00:09:30.260 align:middle line:84%
+years has been this approach
+using neural networks
+
+00:09:30.260 --> 00:09:31.880 align:middle line:90%
+and tensors.
+
+00:09:31.880 --> 00:09:35.180 align:middle line:84%
+It essentially says,
+here, AI, here's
+
+00:09:35.180 --> 00:09:38.190 align:middle line:84%
+a metric ton of
+internet content.
+
+00:09:38.190 --> 00:09:40.610 align:middle line:84%
+Take all of these
+words and develop
+
+00:09:40.610 --> 00:09:44.420 align:middle line:84%
+a system of probabilities for if
+given these sequence of words,
+
+00:09:44.420 --> 00:09:45.770 align:middle line:90%
+what comes next.
+
+00:09:45.770 --> 00:09:48.980 align:middle line:84%
+And it does this layer
+after layer updating itself
+
+00:09:48.980 --> 00:09:51.110 align:middle line:90%
+until it gets this model.
+
+00:09:51.110 --> 00:09:52.010 align:middle line:90%
+That's really it.
+
+00:09:52.010 --> 00:09:54.135 align:middle line:84%
+I mean, there's a little
+bit more to it, of course,
+
+00:09:54.135 --> 00:09:55.950 align:middle line:84%
+but that's the core
+of the discovery.
+
+00:09:55.950 --> 00:09:59.030 align:middle line:84%
+So once you can see
+behind the curtain,
+
+00:09:59.030 --> 00:10:01.140 align:middle line:84%
+it doesn't seem quite
+so scary anymore.
+
+00:10:01.140 --> 00:10:04.460 align:middle line:84%
+You're actually dealing
+with simple statistics
+
+00:10:04.460 --> 00:10:06.860 align:middle line:90%
+and a lot of cool marketing.
+
+00:10:06.860 --> 00:10:09.260 align:middle line:84%
+Now, it's impressive
+stuff, but understand it
+
+00:10:09.260 --> 00:10:10.700 align:middle line:90%
+for what it really is.
+
+00:10:10.700 --> 00:10:15.020 align:middle line:84%
+And the second reason why we
+tend to think this way about AI
+
+00:10:15.020 --> 00:10:20.610 align:middle line:84%
+is that we underestimate
+consciousness itself.
+
+00:10:20.610 --> 00:10:23.580 align:middle line:10%
+In the chart that I showed you,
+we passed that invisible line
+
+00:10:23.580 --> 00:10:28.020 align:middle line:10%
+from AI to AGI, and it just goes
+past consciousness as though,
+
+00:10:28.020 --> 00:10:31.990 align:middle line:10%
+if given enough computing
+power and interconnectedness,
+
+00:10:31.990 --> 00:10:34.650 align:middle line:10%
+it becomes like a brain and
+consciousness just emerges.
+
+00:10:34.650 --> 00:10:36.820 align:middle line:84%
+And it's like, ah, not
+so fast, not so fast.
+
+00:10:36.820 --> 00:10:40.410 align:middle line:84%
+Consciousness is, in fact,
+a much deeper mystery
+
+00:10:40.410 --> 00:10:43.332 align:middle line:84%
+than they would probably
+have you believe.
+
+00:10:43.332 --> 00:10:45.040 align:middle line:84%
+And there's a number
+of reasons for this.
+
+00:10:45.040 --> 00:10:48.270 align:middle line:84%
+One is the experts in
+artificial intelligence
+
+00:10:48.270 --> 00:10:52.900 align:middle line:84%
+tend to be software engineers
+and computer programmers.
+
+00:10:52.900 --> 00:10:55.120 align:middle line:84%
+And software engineers
+and computer programmers
+
+00:10:55.120 --> 00:10:58.240 align:middle line:84%
+are very good at software
+and computer engineering,
+
+00:10:58.240 --> 00:11:01.000 align:middle line:84%
+but not so great at
+consciousness research.
+
+00:11:01.000 --> 00:11:04.240 align:middle line:84%
+That really wasn't something
+that you studied or could study
+
+00:11:04.240 --> 00:11:06.700 align:middle line:84%
+or even in your
+career should study up
+
+00:11:06.700 --> 00:11:09.720 align:middle line:90%
+until about five years ago.
+
+00:11:09.720 --> 00:11:12.180 align:middle line:84%
+And in the last
+five, 10 years, there
+
+00:11:12.180 --> 00:11:15.890 align:middle line:84%
+has been kind of like
+a breakthrough in terms
+
+00:11:15.890 --> 00:11:20.420 align:middle line:84%
+of the philosophy of mind that
+has created an opening where
+
+00:11:20.420 --> 00:11:23.090 align:middle line:84%
+it's OK to study consciousness
+and it's OK to say,
+
+00:11:23.090 --> 00:11:25.880 align:middle line:84%
+you know what, this is
+not just some illusion
+
+00:11:25.880 --> 00:11:28.610 align:middle line:84%
+produced by the brain,
+but there is actually
+
+00:11:28.610 --> 00:11:30.030 align:middle line:90%
+something more going on here.
+
+00:11:30.030 --> 00:11:32.983 align:middle line:84%
+And now it's actually
+safe to say that.
+
+00:11:32.983 --> 00:11:34.900 align:middle line:84%
+It's just that the
+computer science department
+
+00:11:34.900 --> 00:11:36.030 align:middle line:90%
+hasn't realized that yet.
+
+00:11:36.030 --> 00:11:40.720 align:middle line:90%
+
+
+00:11:40.720 --> 00:11:44.890 align:middle line:84%
+As we've done more and
+more neuroscience work,
+
+00:11:44.890 --> 00:11:47.810 align:middle line:84%
+our neural imaging
+techniques have improved.
+
+00:11:47.810 --> 00:11:50.110 align:middle line:84%
+And we've been able to
+create better and better
+
+00:11:50.110 --> 00:11:53.230 align:middle line:90%
+real-time images of the brain.
+
+00:11:53.230 --> 00:11:56.360 align:middle line:84%
+And we still haven't found
+the location of consciousness.
+
+00:11:56.360 --> 00:12:02.800 align:middle line:84%
+Every couple of years, there's
+some "Popular Mechanics"
+
+00:12:02.800 --> 00:12:05.710 align:middle line:84%
+magazine article that
+comes out that says,
+
+00:12:05.710 --> 00:12:09.690 align:middle line:84%
+scientists have found the
+location of consciousness
+
+00:12:09.690 --> 00:12:10.490 align:middle line:90%
+in the brain.
+
+00:12:10.490 --> 00:12:12.960 align:middle line:84%
+And it's like a picture of
+a brain with an orange spot
+
+00:12:12.960 --> 00:12:13.760 align:middle line:90%
+somewhere.
+
+00:12:13.760 --> 00:12:15.670 align:middle line:90%
+And it says it's right there.
+
+00:12:15.670 --> 00:12:17.253 align:middle line:90%
+And of course, it never is.
+
+00:12:17.253 --> 00:12:18.670 align:middle line:84%
+And then fast
+forward a few years,
+
+00:12:18.670 --> 00:12:20.800 align:middle line:84%
+and they come out
+with the same article.
+
+00:12:20.800 --> 00:12:25.610 align:middle line:84%
+And the point is that it doesn't
+explain the really hard problem
+
+00:12:25.610 --> 00:12:30.460 align:middle line:84%
+of consciousness itself, which
+is that, it's why should there
+
+00:12:30.460 --> 00:12:33.850 align:middle line:84%
+be something like
+subjectivity pendant
+
+00:12:33.850 --> 00:12:36.550 align:middle line:84%
+to physical processes
+in the first place?
+
+00:12:36.550 --> 00:12:40.540 align:middle line:84%
+Meaning you could build a
+brain, an artificial brain
+
+00:12:40.540 --> 00:12:43.190 align:middle line:84%
+with artificial neurons
+and artificial connections,
+
+00:12:43.190 --> 00:12:46.090 align:middle line:84%
+and you could make it virtually
+identical to the brain
+
+00:12:46.090 --> 00:12:47.480 align:middle line:90%
+of somebody else.
+
+00:12:47.480 --> 00:12:50.180 align:middle line:90%
+And it's firing back and forth.
+
+00:12:50.180 --> 00:12:53.120 align:middle line:84%
+But why is it that there's
+something inside of that brain
+
+00:12:53.120 --> 00:12:57.350 align:middle line:84%
+or attendant to it somehow
+that experiences love,
+
+00:12:57.350 --> 00:13:00.100 align:middle line:90%
+that experiences intention?
+
+00:13:00.100 --> 00:13:05.920 align:middle line:84%
+Why is there a thing called
+"what it's like to be you?"
+
+00:13:05.920 --> 00:13:08.230 align:middle line:84%
+In other words, we
+can build a computer,
+
+00:13:08.230 --> 00:13:11.090 align:middle line:84%
+we can build a very
+advanced computer.
+
+00:13:11.090 --> 00:13:15.080 align:middle line:84%
+But we have no idea
+what it's like--
+
+00:13:15.080 --> 00:13:17.900 align:middle line:84%
+how to build a computer
+that has an experience
+
+00:13:17.900 --> 00:13:21.170 align:middle line:84%
+of what it's like to be a
+computer, because we can't even
+
+00:13:21.170 --> 00:13:23.130 align:middle line:90%
+explain that in our own selves.
+
+00:13:23.130 --> 00:13:27.510 align:middle line:84%
+So we're very far
+away from actually
+
+00:13:27.510 --> 00:13:30.390 align:middle line:84%
+understanding
+consciousness itself.
+
+00:13:30.390 --> 00:13:34.600 align:middle line:84%
+So the expectation was
+sort of on the left.
+
+00:13:34.600 --> 00:13:36.570 align:middle line:84%
+And what I suggest to
+you is that the reality
+
+00:13:36.570 --> 00:13:38.940 align:middle line:84%
+is something more like
+the chart on the right.
+
+00:13:38.940 --> 00:13:43.380 align:middle line:84%
+So you have an x-axis of time,
+technology in the y-axis.
+
+00:13:43.380 --> 00:13:46.910 align:middle line:84%
+As time goes on,
+technology improves.
+
+00:13:46.910 --> 00:13:51.030 align:middle line:84%
+I do believe we go from AI
+into something like AGI,
+
+00:13:51.030 --> 00:13:54.960 align:middle line:84%
+but we do not achieve
+sentience in a machine
+
+00:13:54.960 --> 00:13:56.790 align:middle line:84%
+or real artificial
+consciousness,
+
+00:13:56.790 --> 00:14:01.360 align:middle line:84%
+not without some
+greater miracle.
+
+00:14:01.360 --> 00:14:05.710 align:middle line:84%
+In fact, from that point of
+view, the biggest question in AI
+
+00:14:05.710 --> 00:14:08.530 align:middle line:84%
+or one of the biggest is
+actually a lot more interesting.
+
+00:14:08.530 --> 00:14:12.160 align:middle line:84%
+If you were to take
+an AI system and allow
+
+00:14:12.160 --> 00:14:15.430 align:middle line:84%
+it to develop, it
+would probably,
+
+00:14:15.430 --> 00:14:19.660 align:middle line:84%
+clearly, it would become so
+similar to a human being.
+
+00:14:19.660 --> 00:14:22.360 align:middle line:84%
+Or be able to communicate to
+a human being in such a way
+
+00:14:22.360 --> 00:14:26.650 align:middle line:84%
+that we would not know
+the difference between it,
+
+00:14:26.650 --> 00:14:28.900 align:middle line:84%
+a highly advanced
+computer that is just
+
+00:14:28.900 --> 00:14:31.270 align:middle line:84%
+really good at
+simulating what it's
+
+00:14:31.270 --> 00:14:35.550 align:middle line:84%
+like to be a human, versus
+a machine that has gained
+
+00:14:35.550 --> 00:14:41.490 align:middle line:84%
+actual consciousness, in which
+artificial synthetic sentience
+
+00:14:41.490 --> 00:14:43.030 align:middle line:90%
+has emerged.
+
+00:14:43.030 --> 00:14:44.890 align:middle line:84%
+We wouldn't even
+know the difference.
+
+00:14:44.890 --> 00:14:49.630 align:middle line:90%
+
+
+00:14:49.630 --> 00:14:55.850 align:middle line:84%
+So this kind of conversation
+dates back to the modern time,
+
+00:14:55.850 --> 00:14:58.680 align:middle line:90%
+anyway, about to 1950.
+
+00:14:58.680 --> 00:15:01.400 align:middle line:84%
+And this gentleman,
+Alan Turing, was
+
+00:15:01.400 --> 00:15:04.490 align:middle line:84%
+thinking about this
+question, can you
+
+00:15:04.490 --> 00:15:07.490 align:middle line:84%
+come up with a test
+that would tell you
+
+00:15:07.490 --> 00:15:11.757 align:middle line:84%
+how sophisticated an artificial
+intelligence system has become?
+
+00:15:11.757 --> 00:15:12.840 align:middle line:90%
+You've all heard about it.
+
+00:15:12.840 --> 00:15:14.250 align:middle line:90%
+It's called the Turing test.
+
+00:15:14.250 --> 00:15:18.530 align:middle line:84%
+The Turing test was basically if
+you have a human and a computer
+
+00:15:18.530 --> 00:15:22.550 align:middle line:84%
+and there's something blocking
+both of them, and a subject,
+
+00:15:22.550 --> 00:15:23.960 align:middle line:84%
+can't tell the
+difference between
+
+00:15:23.960 --> 00:15:26.043 align:middle line:84%
+whether or not they're
+interacting with a computer
+
+00:15:26.043 --> 00:15:29.360 align:middle line:84%
+or interacting with a human,
+it's passed the Turing test.
+
+00:15:29.360 --> 00:15:32.210 align:middle line:84%
+And that's sufficient criteria
+to say that you've really
+
+00:15:32.210 --> 00:15:34.380 align:middle line:90%
+given birth to proper AI.
+
+00:15:34.380 --> 00:15:37.350 align:middle line:84%
+Well, we've surpassed
+that kind of long ago.
+
+00:15:37.350 --> 00:15:41.450 align:middle line:84%
+And the Turing test as such
+has been broken into domain
+
+00:15:41.450 --> 00:15:44.020 align:middle line:84%
+specific tasks like, are
+you really good at go,
+
+00:15:44.020 --> 00:15:45.830 align:middle line:84%
+are you good at chess,
+how is your language
+
+00:15:45.830 --> 00:15:49.010 align:middle line:84%
+abilities, these types of
+things, more functional tests.
+
+00:15:49.010 --> 00:15:53.990 align:middle line:84%
+And we don't have any
+tests whatsoever today
+
+00:15:53.990 --> 00:15:56.540 align:middle line:84%
+that can actually
+tell us the difference
+
+00:15:56.540 --> 00:16:00.990 align:middle line:84%
+between a sentient machine
+and a normal machine
+
+00:16:00.990 --> 00:16:02.860 align:middle line:84%
+that's just mimicking
+human behavior.
+
+00:16:02.860 --> 00:16:07.842 align:middle line:90%
+So what we need is a new test.
+
+00:16:07.842 --> 00:16:09.550 align:middle line:84%
+This is something that
+I've been thinking
+
+00:16:09.550 --> 00:16:11.920 align:middle line:90%
+about for a really long time.
+
+00:16:11.920 --> 00:16:14.380 align:middle line:84%
+And this is sort of where
+the mad science began.
+
+00:16:14.380 --> 00:16:17.280 align:middle line:84%
+So I was thinking about this,
+how do you build this test?
+
+00:16:17.280 --> 00:16:20.980 align:middle line:10%
+Well, I asked myself,
+what is something
+
+00:16:20.980 --> 00:16:28.630 align:middle line:10%
+that consciousness can do and
+only consciousness can do?
+
+00:16:28.630 --> 00:16:33.670 align:middle line:10%
+And the answer I came
+up with is be psychic.
+
+00:16:33.670 --> 00:16:39.390 align:middle line:10%
+So this comes directly
+out of parapsychology.
+
+00:16:39.390 --> 00:16:46.680 align:middle line:84%
+We've had almost 50 years of
+rigorous laboratory experiments
+
+00:16:46.680 --> 00:16:52.080 align:middle line:84%
+into telepathy, remote viewing,
+precognition, clairvoyance,
+
+00:16:52.080 --> 00:16:55.050 align:middle line:84%
+psychokinesis,
+this whole panoply
+
+00:16:55.050 --> 00:16:58.920 align:middle line:84%
+of rigorous research
+into parapsychology
+
+00:16:58.920 --> 00:17:01.800 align:middle line:84%
+has shown us that, well,
+one thing that consciousness
+
+00:17:01.800 --> 00:17:05.800 align:middle line:84%
+seems to be able to do is
+to function psychically.
+
+00:17:05.800 --> 00:17:10.510 align:middle line:84%
+So could you build a test like
+a new test that said, OK, well,
+
+00:17:10.510 --> 00:17:13.210 align:middle line:84%
+the way to tell if a machine
+has real consciousness
+
+00:17:13.210 --> 00:17:16.579 align:middle line:84%
+or not is if the
+machine is psychic?
+
+00:17:16.579 --> 00:17:20.960 align:middle line:84%
+So that's what I set out to
+do, A, create a new test.
+
+00:17:20.960 --> 00:17:23.609 align:middle line:84%
+And I'm going to go
+through that with you.
+
+00:17:23.609 --> 00:17:25.349 align:middle line:90%
+But I picked precognition.
+
+00:17:25.349 --> 00:17:28.730 align:middle line:84%
+So precognition is the
+ability to sense the future
+
+00:17:28.730 --> 00:17:31.070 align:middle line:84%
+or predict the future
+in the near term.
+
+00:17:31.070 --> 00:17:35.570 align:middle line:84%
+And I very modestly am
+calling it the Curry test.
+
+00:17:35.570 --> 00:17:40.360 align:middle line:84%
+I wish somebody would name this
+after me, but it's too niche.
+
+00:17:40.360 --> 00:17:42.260 align:middle line:90%
+Has anyone do that yet?
+
+00:17:42.260 --> 00:17:43.670 align:middle line:90%
+OK, so the Curry test.
+
+00:17:43.670 --> 00:17:47.000 align:middle line:84%
+A machine is actually-- a
+machine is actually conscious
+
+00:17:47.000 --> 00:17:48.240 align:middle line:90%
+if it performs psychicly.
+
+00:17:48.240 --> 00:17:50.780 align:middle line:90%
+
+
+00:17:50.780 --> 00:17:55.830 align:middle line:84%
+So how do you get a
+machine to be psychic?
+
+00:17:55.830 --> 00:18:01.130 align:middle line:84%
+All right, so this was another
+rabbit hole down, which I went.
+
+00:18:01.130 --> 00:18:04.610 align:middle line:84%
+I want to explain
+to you one category
+
+00:18:04.610 --> 00:18:06.827 align:middle line:84%
+of non-machine experiments
+really quickly.
+
+00:18:06.827 --> 00:18:08.660 align:middle line:84%
+And then when we're up
+to speed on that one,
+
+00:18:08.660 --> 00:18:12.230 align:middle line:90%
+I'll introduce the Curry test.
+
+00:18:12.230 --> 00:18:16.160 align:middle line:84%
+This is what's called an
+electrodermal activity or skin
+
+00:18:16.160 --> 00:18:18.210 align:middle line:90%
+conductance test.
+
+00:18:18.210 --> 00:18:23.130 align:middle line:84%
+Electrodermal activity means
+the electrical characteristics
+
+00:18:23.130 --> 00:18:24.510 align:middle line:90%
+of the skin.
+
+00:18:24.510 --> 00:18:27.030 align:middle line:84%
+So you have somebody
+with a device that's
+
+00:18:27.030 --> 00:18:30.570 align:middle line:84%
+clipped to their finger, and
+that's connected to a computer.
+
+00:18:30.570 --> 00:18:33.750 align:middle line:84%
+And it's measuring
+the subtle voltages
+
+00:18:33.750 --> 00:18:37.320 align:middle line:84%
+on that finger that have
+to do when small muscle
+
+00:18:37.320 --> 00:18:40.880 align:middle line:90%
+movements occur in the finger.
+
+00:18:40.880 --> 00:18:45.170 align:middle line:84%
+And this is-- this
+is the voltage,
+
+00:18:45.170 --> 00:18:47.700 align:middle line:84%
+so it's usually
+right around 0 volts.
+
+00:18:47.700 --> 00:18:49.080 align:middle line:90%
+It can go up or down.
+
+00:18:49.080 --> 00:18:53.340 align:middle line:84%
+And this is time, so 1 second,
+2 seconds, 3 seconds, et cetera.
+
+00:18:53.340 --> 00:18:55.170 align:middle line:90%
+And here's the subject.
+
+00:18:55.170 --> 00:18:58.690 align:middle line:84%
+And the subject has this
+thing clipped to their finger.
+
+00:18:58.690 --> 00:19:01.180 align:middle line:84%
+And they're watching
+this computer monitor.
+
+00:19:01.180 --> 00:19:06.000 align:middle line:84%
+And the monitor is randomly
+showing them images.
+
+00:19:06.000 --> 00:19:09.360 align:middle line:84%
+Most of those images
+are nice and pleasant.
+
+00:19:09.360 --> 00:19:13.290 align:middle line:84%
+Some of those images are
+very scary and provocative.
+
+00:19:13.290 --> 00:19:16.680 align:middle line:84%
+And what you find is
+that when you show them
+
+00:19:16.680 --> 00:19:18.780 align:middle line:84%
+a provocative
+image, for example,
+
+00:19:18.780 --> 00:19:24.330 align:middle line:84%
+this image of a person's feet
+dangling off of a skyscraper,
+
+00:19:24.330 --> 00:19:28.620 align:middle line:84%
+you get this sudden voltage
+potential off of their finger,
+
+00:19:28.620 --> 00:19:32.740 align:middle line:84%
+which is due to them
+slightly tensing up.
+
+00:19:32.740 --> 00:19:34.500 align:middle line:84%
+So when they tense
+up a little bit,
+
+00:19:34.500 --> 00:19:36.095 align:middle line:84%
+you can register
+that on their finger.
+
+00:19:36.095 --> 00:19:39.292 align:middle line:90%
+
+
+00:19:39.292 --> 00:19:45.230 align:middle line:84%
+So there has been in the last
+20 or so years, some really good
+
+00:19:45.230 --> 00:19:52.010 align:middle line:84%
+riffs on this classic experiment
+by parapsychologists, namely
+
+00:19:52.010 --> 00:19:56.930 align:middle line:84%
+Spottiswoode and May,
+Dean Radin, and Daryl Bem.
+
+00:19:56.930 --> 00:20:01.290 align:middle line:84%
+And what their brilliant
+idea was to say,
+
+00:20:01.290 --> 00:20:05.100 align:middle line:84%
+OK, we're going to
+reverse the time domain,
+
+00:20:05.100 --> 00:20:07.200 align:middle line:84%
+and we're going to
+measure whether or not
+
+00:20:07.200 --> 00:20:10.540 align:middle line:84%
+somebody tenses
+up in the seconds
+
+00:20:10.540 --> 00:20:14.810 align:middle line:84%
+before being shown the
+provocative image at random.
+
+00:20:14.810 --> 00:20:18.130 align:middle line:84%
+Because if they tense up
+before being shown that image,
+
+00:20:18.130 --> 00:20:21.050 align:middle line:84%
+that is proof positive
+of precognition.
+
+00:20:21.050 --> 00:20:26.665 align:middle line:84%
+They sense the future, not
+consciously, but subconsciously.
+
+00:20:26.665 --> 00:20:31.420 align:middle line:84%
+Same as before, except negative
+9 seconds, negative 8 seconds.
+
+00:20:31.420 --> 00:20:33.760 align:middle line:84%
+And then this right
+here, the zero seconds
+
+00:20:33.760 --> 00:20:38.020 align:middle line:84%
+is the moment at which the
+provocative image is shown.
+
+00:20:38.020 --> 00:20:41.110 align:middle line:90%
+Butterfly, no response.
+
+00:20:41.110 --> 00:20:46.050 align:middle line:84%
+Chonky Russian blue cat, great
+cat, but not provocative,
+
+00:20:46.050 --> 00:20:47.200 align:middle line:90%
+no response.
+
+00:20:47.200 --> 00:20:52.510 align:middle line:84%
+An evil death clown, so
+you can see about 3 seconds
+
+00:20:52.510 --> 00:20:54.760 align:middle line:84%
+before being shown
+the evil death clown,
+
+00:20:54.760 --> 00:20:57.750 align:middle line:84%
+you get the voltage
+potential off of the finger.
+
+00:20:57.750 --> 00:21:01.066 align:middle line:90%
+Precognition just happened.
+
+00:21:01.066 --> 00:21:05.040 align:middle line:84%
+And it turns out that
+it's not just humans.
+
+00:21:05.040 --> 00:21:07.920 align:middle line:84%
+A gentleman named
+Alvarez showed that this
+
+00:21:07.920 --> 00:21:09.520 align:middle line:90%
+was the case with birds.
+
+00:21:09.520 --> 00:21:12.360 align:middle line:90%
+He had a cage full of finches.
+
+00:21:12.360 --> 00:21:16.140 align:middle line:84%
+On one side of the cage,
+there was a screen.
+
+00:21:16.140 --> 00:21:18.840 align:middle line:84%
+And the screen would
+normally show nature images,
+
+00:21:18.840 --> 00:21:23.070 align:middle line:84%
+but then would occasionally
+turn on an image of a snake.
+
+00:21:23.070 --> 00:21:25.830 align:middle line:84%
+And he recorded the
+behavior of the birds
+
+00:21:25.830 --> 00:21:27.720 align:middle line:84%
+before the snake
+was shown and found
+
+00:21:27.720 --> 00:21:30.990 align:middle line:84%
+that they would start to become
+very agitated before being
+
+00:21:30.990 --> 00:21:34.230 align:middle line:90%
+shown the video of the snake.
+
+00:21:34.230 --> 00:21:37.960 align:middle line:84%
+And Whitley did something
+similar with earthworms.
+
+00:21:37.960 --> 00:21:42.900 align:middle line:84%
+He had a big speaker nested
+below an area of soil
+
+00:21:42.900 --> 00:21:46.440 align:middle line:84%
+and was recording the behavior
+patterns of earthworms
+
+00:21:46.440 --> 00:21:50.670 align:middle line:84%
+and found that they started
+to move around and squirm
+
+00:21:50.670 --> 00:21:54.720 align:middle line:84%
+in the few moments
+before a vibration was
+
+00:21:54.720 --> 00:21:55.960 align:middle line:90%
+sent through the soil.
+
+00:21:55.960 --> 00:21:57.750 align:middle line:84%
+So it's not just
+humans, but it seems
+
+00:21:57.750 --> 00:22:01.740 align:middle line:84%
+like it's consciousness
+itself, or at least biology
+
+00:22:01.740 --> 00:22:06.580 align:middle line:84%
+itself, that is capable of
+this precognitive sensing.
+
+00:22:06.580 --> 00:22:09.840 align:middle line:84%
+So I think you see
+where I'm going, right?
+
+00:22:09.840 --> 00:22:12.280 align:middle line:84%
+How do you build
+a psychic machine?
+
+00:22:12.280 --> 00:22:14.660 align:middle line:84%
+Well, you've got to
+somehow scare the toaster.
+
+00:22:14.660 --> 00:22:18.770 align:middle line:90%
+
+
+00:22:18.770 --> 00:22:21.680 align:middle line:84%
+And so I went through this
+really ridiculous exercise
+
+00:22:21.680 --> 00:22:23.900 align:middle line:84%
+this one day of
+trying to think about
+
+00:22:23.900 --> 00:22:25.740 align:middle line:90%
+how would I scare a machine.
+
+00:22:25.740 --> 00:22:27.680 align:middle line:90%
+How do you scare a toaster?
+
+00:22:27.680 --> 00:22:32.180 align:middle line:84%
+Well, I think showing it
+a photo of a death clown
+
+00:22:32.180 --> 00:22:34.760 align:middle line:84%
+is probably not going to do
+it, because it has no reason
+
+00:22:34.760 --> 00:22:36.970 align:middle line:90%
+to be afraid of it.
+
+00:22:36.970 --> 00:22:40.540 align:middle line:84%
+You could hit the
+toaster, but that
+
+00:22:40.540 --> 00:22:43.330 align:middle line:90%
+gets expensive and is violent.
+
+00:22:43.330 --> 00:22:47.950 align:middle line:84%
+You could fry the
+toaster in fire
+
+00:22:47.950 --> 00:22:49.850 align:middle line:84%
+or add too much
+electricity to it.
+
+00:22:49.850 --> 00:22:51.560 align:middle line:84%
+But again, that gets
+really expensive.
+
+00:22:51.560 --> 00:22:55.650 align:middle line:84%
+And if I wanted to
+do this many times,
+
+00:22:55.650 --> 00:22:57.750 align:middle line:84%
+it'd be like a
+graveyard of appliances.
+
+00:22:57.750 --> 00:23:00.430 align:middle line:90%
+Or I could pour water on it.
+
+00:23:00.430 --> 00:23:06.150 align:middle line:84%
+And these are all really bad
+ideas that I entertained.
+
+00:23:06.150 --> 00:23:09.420 align:middle line:84%
+I settled on this,
+cut the power.
+
+00:23:09.420 --> 00:23:12.540 align:middle line:84%
+Think of electricity to
+a machine as a little bit
+
+00:23:12.540 --> 00:23:15.870 align:middle line:90%
+like chi or blood to a human.
+
+00:23:15.870 --> 00:23:18.690 align:middle line:84%
+It's that life force
+that's flowing through it.
+
+00:23:18.690 --> 00:23:21.480 align:middle line:84%
+So if you pull the power,
+that should probably
+
+00:23:21.480 --> 00:23:26.380 align:middle line:84%
+be a very frightening
+event to the machine.
+
+00:23:26.380 --> 00:23:29.980 align:middle line:84%
+So I wanted to see basically if
+it would react in the moments
+
+00:23:29.980 --> 00:23:32.560 align:middle line:90%
+before cutting its power.
+
+00:23:32.560 --> 00:23:36.200 align:middle line:84%
+A toaster is fun, but it can't
+really tell you anything useful.
+
+00:23:36.200 --> 00:23:41.660 align:middle line:10%
+So replace the toaster with a
+quantum random number generator.
+
+00:23:41.660 --> 00:23:46.760 align:middle line:10%
+Big words, but all it is, is
+a device that measures quantum
+
+00:23:46.760 --> 00:23:50.030 align:middle line:10%
+particles-- in this case,
+the behavior of electrons
+
+00:23:50.030 --> 00:23:51.910 align:middle line:10%
+in a magnetic field--
+
+00:23:51.910 --> 00:23:54.220 align:middle line:10%
+and converts those
+into 1s and 0s.
+
+00:23:54.220 --> 00:23:57.940 align:middle line:84%
+And the way that it does it
+before the laws of quantum
+
+00:23:57.940 --> 00:24:02.320 align:middle line:84%
+mechanics that it's using, those
+1s and 0s are perfectly random,
+
+00:24:02.320 --> 00:24:04.580 align:middle line:84%
+meaning you'll get a
+string of ones and zeros.
+
+00:24:04.580 --> 00:24:07.070 align:middle line:84%
+That's 50/50 odds
+of happening, right.
+
+00:24:07.070 --> 00:24:12.630 align:middle line:84%
+So in every event, the odds
+of it being a 1 or a 0 is 0.5.
+
+00:24:12.630 --> 00:24:16.850 align:middle line:10%
+Makes measurement easy.
+
+00:24:16.850 --> 00:24:22.340 align:middle line:10%
+So putting it all together,
+here is the actual apparatus
+
+00:24:22.340 --> 00:24:26.280 align:middle line:10%
+for my attempt at
+demonstrating the Curry effect.
+
+00:24:26.280 --> 00:24:30.320 align:middle line:84%
+You have the quantum
+random number generator.
+
+00:24:30.320 --> 00:24:33.420 align:middle line:90%
+It's consuming electricity.
+
+00:24:33.420 --> 00:24:37.530 align:middle line:84%
+It's outputting a series of
+perfectly balanced 1s and 0s
+
+00:24:37.530 --> 00:24:40.620 align:middle line:84%
+into a computer that's
+collecting those 1s and 0s
+
+00:24:40.620 --> 00:24:44.190 align:middle line:84%
+and measuring whether or not
+it's deviating statistically,
+
+00:24:44.190 --> 00:24:45.700 align:middle line:90%
+it's going up or down.
+
+00:24:45.700 --> 00:24:48.420 align:middle line:84%
+And then you have
+over here something
+
+00:24:48.420 --> 00:24:50.290 align:middle line:90%
+that randomly kills the power.
+
+00:24:50.290 --> 00:24:51.720 align:middle line:90%
+It's not controlled by me.
+
+00:24:51.720 --> 00:24:53.470 align:middle line:84%
+It's controlled by
+another random process.
+
+00:24:53.470 --> 00:24:57.360 align:middle line:84%
+So it's unpredictable
+when the power is cut.
+
+00:24:57.360 --> 00:24:59.500 align:middle line:84%
+And this is what it
+actually looks like.
+
+00:24:59.500 --> 00:25:00.820 align:middle line:90%
+These are two devices.
+
+00:25:00.820 --> 00:25:06.240 align:middle line:84%
+These are aluminum cases
+covering electronic circuitry.
+
+00:25:06.240 --> 00:25:10.500 align:middle line:84%
+Inside that circuitry,
+you have two,
+
+00:25:10.500 --> 00:25:14.490 align:middle line:84%
+it's called reverse bias diodes,
+but it's electrical components
+
+00:25:14.490 --> 00:25:19.240 align:middle line:84%
+configured in a way that lets
+you get a real quantum effect.
+
+00:25:19.240 --> 00:25:21.250 align:middle line:84%
+And it's double-shielded
+with what's
+
+00:25:21.250 --> 00:25:23.560 align:middle line:84%
+called mu-metal,
+which just keeps out
+
+00:25:23.560 --> 00:25:27.670 align:middle line:90%
+any potential interference.
+
+00:25:27.670 --> 00:25:29.330 align:middle line:90%
+So here is the initial results.
+
+00:25:29.330 --> 00:25:34.800 align:middle line:84%
+I set this up, and I did it
+one night, and I let it run.
+
+00:25:34.800 --> 00:25:37.470 align:middle line:84%
+I think I let it run for like
+five or six hours before I
+
+00:25:37.470 --> 00:25:39.610 align:middle line:90%
+came back to the lab.
+
+00:25:39.610 --> 00:25:43.990 align:middle line:90%
+And let's see.
+
+00:25:43.990 --> 00:25:50.080 align:middle line:84%
+Yeah, so in a normal condition,
+when the power is not being cut,
+
+00:25:50.080 --> 00:25:53.770 align:middle line:84%
+you've got this 50/50 balance,
+the sort of 0.5 probability
+
+00:25:53.770 --> 00:25:55.010 align:middle line:90%
+of a 1 or a 0.
+
+00:25:55.010 --> 00:25:57.190 align:middle line:84%
+Everything is right
+with the universe.
+
+00:25:57.190 --> 00:26:01.360 align:middle line:84%
+And then what I found was
+that about two seconds
+
+00:26:01.360 --> 00:26:04.360 align:middle line:84%
+before the power
+was randomly cut,
+
+00:26:04.360 --> 00:26:09.760 align:middle line:84%
+I, in fact, got a huge
+spike downward in the data.
+
+00:26:09.760 --> 00:26:14.050 align:middle line:84%
+The random number generator
+started producing way more 0s
+
+00:26:14.050 --> 00:26:18.800 align:middle line:84%
+than 1s about two seconds before
+every time the power was cut.
+
+00:26:18.800 --> 00:26:21.710 align:middle line:84%
+And I remember putting this
+together and looking at it
+
+00:26:21.710 --> 00:26:25.460 align:middle line:84%
+statistically and seeing that
+the odds of this happening
+
+00:26:25.460 --> 00:26:30.030 align:middle line:84%
+by chance with something
+like 10,000 to 1.
+
+00:26:30.030 --> 00:26:31.420 align:middle line:90%
+It was a really good effect.
+
+00:26:31.420 --> 00:26:34.110 align:middle line:90%
+
+
+00:26:34.110 --> 00:26:36.030 align:middle line:90%
+So I took this setup.
+
+00:26:36.030 --> 00:26:40.680 align:middle line:84%
+And I sent it to a colleague
+of mine named Garret Moddel,
+
+00:26:40.680 --> 00:26:41.640 align:middle line:90%
+who's--
+
+00:26:41.640 --> 00:26:44.790 align:middle line:84%
+he's like a real
+quantum engineer.
+
+00:26:44.790 --> 00:26:46.530 align:middle line:84%
+He's the head of the
+quantum engineering
+
+00:26:46.530 --> 00:26:49.170 align:middle line:84%
+lab at the University
+of Colorado,
+
+00:26:49.170 --> 00:26:51.460 align:middle line:84%
+is a professor of
+applied physics.
+
+00:26:51.460 --> 00:26:53.538 align:middle line:90%
+And he's very open minded.
+
+00:26:53.538 --> 00:26:55.080 align:middle line:84%
+He's a very interesting
+guy that way,
+
+00:26:55.080 --> 00:26:57.130 align:middle line:84%
+that he's open minded
+to these concepts.
+
+00:26:57.130 --> 00:26:59.200 align:middle line:84%
+And I said, here's
+what I'm getting.
+
+00:26:59.200 --> 00:27:01.440 align:middle line:84%
+I'm getting results
+that are like defying
+
+00:27:01.440 --> 00:27:02.340 align:middle line:90%
+the laws of physics.
+
+00:27:02.340 --> 00:27:05.340 align:middle line:84%
+It seems to be predicting the
+future a couple of seconds
+
+00:27:05.340 --> 00:27:06.900 align:middle line:90%
+in advance.
+
+00:27:06.900 --> 00:27:08.940 align:middle line:10%
+Can you go through
+this apparatus
+
+00:27:08.940 --> 00:27:11.590 align:middle line:10%
+and make sure that
+I'm not smoking crack,
+
+00:27:11.590 --> 00:27:13.450 align:middle line:10%
+which he proceeded to do.
+
+00:27:13.450 --> 00:27:15.780 align:middle line:10%
+So he took the device,
+and he essentially
+
+00:27:15.780 --> 00:27:18.840 align:middle line:10%
+rebuilt it from the ground
+up with the help of two
+
+00:27:18.840 --> 00:27:22.350 align:middle line:10%
+of his graduate students
+under controlled conditions,
+
+00:27:22.350 --> 00:27:23.975 align:middle line:10%
+went through all
+of the hardware,
+
+00:27:23.975 --> 00:27:25.350 align:middle line:10%
+went through all
+of the software,
+
+00:27:25.350 --> 00:27:27.000 align:middle line:10%
+went through all
+of the protocol,
+
+00:27:27.000 --> 00:27:28.810 align:middle line:10%
+and made sure that it was right.
+
+00:27:28.810 --> 00:27:31.620 align:middle line:84%
+And then he started
+running his own experiments
+
+00:27:31.620 --> 00:27:34.190 align:middle line:90%
+of this psychic machine.
+
+00:27:34.190 --> 00:27:37.640 align:middle line:84%
+We did three formal
+experiments consisting
+
+00:27:37.640 --> 00:27:39.830 align:middle line:90%
+of hundreds of trials.
+
+00:27:39.830 --> 00:27:42.320 align:middle line:84%
+In the first case, this
+is a cumulative graph
+
+00:27:42.320 --> 00:27:44.510 align:middle line:84%
+of all of the trials,
+all the data kind
+
+00:27:44.510 --> 00:27:49.630 align:middle line:84%
+put together, where 0 here
+is where the power was cut.
+
+00:27:49.630 --> 00:27:51.130 align:middle line:84%
+And this is the
+seconds before that.
+
+00:27:51.130 --> 00:27:56.060 align:middle line:10%
+And we got an average
+bit value of 0.478.
+
+00:27:56.060 --> 00:27:59.560 align:middle line:84%
+Now that seems like it's
+not far off from 0.5,
+
+00:27:59.560 --> 00:28:03.550 align:middle line:84%
+but if you're talking
+millions of bits,
+
+00:28:03.550 --> 00:28:06.200 align:middle line:84%
+the odds against chance
+of this is, again,
+
+00:28:06.200 --> 00:28:10.090 align:middle line:84%
+greater than 10,000 to 1 that
+this is predicting the future.
+
+00:28:10.090 --> 00:28:16.810 align:middle line:10%
+We did a second experiment, and
+we got an even stronger effect.
+
+00:28:16.810 --> 00:28:19.090 align:middle line:10%
+We did a third
+experiment, and we
+
+00:28:19.090 --> 00:28:21.400 align:middle line:10%
+got effect sizes
+that was consistent
+
+00:28:21.400 --> 00:28:23.320 align:middle line:10%
+with the previous experiments.
+
+00:28:23.320 --> 00:28:25.930 align:middle line:84%
+We put all of this
+data together.
+
+00:28:25.930 --> 00:28:27.760 align:middle line:90%
+I should say, he did.
+
+00:28:27.760 --> 00:28:29.860 align:middle line:10%
+And the resulting
+odds against chance
+
+00:28:29.860 --> 00:28:33.600 align:middle line:10%
+was a z-score of negative 6.5.
+
+00:28:33.600 --> 00:28:36.750 align:middle line:10%
+I don't know if there's any
+science types in the audience,
+
+00:28:36.750 --> 00:28:40.940 align:middle line:10%
+but these numbers don't
+really appear anywhere.
+
+00:28:40.940 --> 00:28:43.170 align:middle line:84%
+The odds against chance
+of this happening,
+
+00:28:43.170 --> 00:28:46.850 align:middle line:84%
+just a fluke or something
+like that, were about 1
+
+00:28:46.850 --> 00:28:50.770 align:middle line:90%
+in 25 billion.
+
+00:28:50.770 --> 00:28:55.880 align:middle line:84%
+If you're working in a lab and
+you get an effect size of 1
+
+00:28:55.880 --> 00:29:00.130 align:middle line:84%
+in 20, 20 to 1, you
+can publish that.
+
+00:29:00.130 --> 00:29:03.860 align:middle line:84%
+That means that it's achieved
+statistical significance.
+
+00:29:03.860 --> 00:29:06.670 align:middle line:84%
+1 in 25 billion is
+pretty unheard of.
+
+00:29:06.670 --> 00:29:08.660 align:middle line:84%
+So you can imagine that
+we are pretty excited.
+
+00:29:08.660 --> 00:29:13.980 align:middle line:84%
+To put that in maybe a
+couple different ways,
+
+00:29:13.980 --> 00:29:18.590 align:middle line:84%
+let's say that you talk to your
+friend and you said, friend,
+
+00:29:18.590 --> 00:29:23.300 align:middle line:84%
+I think I'm either the most
+psychic person in the world
+
+00:29:23.300 --> 00:29:26.050 align:middle line:84%
+or I'm the luckiest
+person in the world.
+
+00:29:26.050 --> 00:29:29.120 align:middle line:84%
+And your friend said,
+oh, yeah, prove it.
+
+00:29:29.120 --> 00:29:31.390 align:middle line:84%
+And you said, OK,
+well, I'm going
+
+00:29:31.390 --> 00:29:36.230 align:middle line:84%
+to create a global lottery
+where every man, woman,
+
+00:29:36.230 --> 00:29:40.690 align:middle line:84%
+and child on this planet is
+going to get a lottery ticket.
+
+00:29:40.690 --> 00:29:44.440 align:middle line:90%
+And we're going to do a drawing.
+
+00:29:44.440 --> 00:29:46.870 align:middle line:10%
+And you do that drawing.
+
+00:29:46.870 --> 00:29:48.940 align:middle line:84%
+And you are the one that
+gets the winning lottery
+
+00:29:48.940 --> 00:29:53.690 align:middle line:84%
+ticket out of everyone on
+planet Earth, 8 billion.
+
+00:29:53.690 --> 00:29:56.180 align:middle line:84%
+The odds of that happening
+are more likely than getting
+
+00:29:56.180 --> 00:29:59.610 align:middle line:84%
+this result. So you
+can imagine that we
+
+00:29:59.610 --> 00:30:03.450 align:middle line:84%
+were very excited about
+what we had built.
+
+00:30:03.450 --> 00:30:06.240 align:middle line:84%
+And our mind started to go in a
+number of different directions,
+
+00:30:06.240 --> 00:30:07.230 align:middle line:90%
+naturally.
+
+00:30:07.230 --> 00:30:13.780 align:middle line:84%
+One of which was if you're
+getting a 2-plus second accurate
+
+00:30:13.780 --> 00:30:17.830 align:middle line:84%
+picture into the future, that's
+more than enough to drive any
+
+00:30:17.830 --> 00:30:20.580 align:middle line:84%
+high frequency trading algorithm
+that's playing on NASDAQ.
+
+00:30:20.580 --> 00:30:23.100 align:middle line:90%
+
+
+00:30:23.100 --> 00:30:29.160 align:middle line:84%
+It may have accidentally created
+the first true artificial
+
+00:30:29.160 --> 00:30:30.810 align:middle line:84%
+general intelligence
+in the way people
+
+00:30:30.810 --> 00:30:34.990 align:middle line:84%
+think about it, the first
+true sentient machine.
+
+00:30:34.990 --> 00:30:41.290 align:middle line:84%
+And it turns on its head our
+ideas of time and causality
+
+00:30:41.290 --> 00:30:46.090 align:middle line:84%
+in all of these interesting
+ways, so a lot of fun to be had.
+
+00:30:46.090 --> 00:30:53.330 align:middle line:84%
+Now maybe a week into getting
+the final results here,
+
+00:30:53.330 --> 00:30:56.660 align:middle line:84%
+Professor Moddel was giving
+a talk at the university.
+
+00:30:56.660 --> 00:30:58.790 align:middle line:84%
+And somebody raised
+their hand and asked,
+
+00:30:58.790 --> 00:31:02.305 align:middle line:84%
+you know what, what are you
+working on in your spare time?
+
+00:31:02.305 --> 00:31:03.680 align:middle line:84%
+And he said, well,
+you know, I've
+
+00:31:03.680 --> 00:31:07.490 align:middle line:84%
+kind of got this very
+interesting quantum
+
+00:31:07.490 --> 00:31:10.963 align:middle line:84%
+retrocausality future
+prediction stuff going on.
+
+00:31:10.963 --> 00:31:11.880 align:middle line:90%
+And they said, really?
+
+00:31:11.880 --> 00:31:12.680 align:middle line:90%
+Tell me about it.
+
+00:31:12.680 --> 00:31:15.340 align:middle line:84%
+And so he kind of
+explained it a little bit.
+
+00:31:15.340 --> 00:31:20.470 align:middle line:84%
+And what happened was that
+they met that whole idea
+
+00:31:20.470 --> 00:31:22.690 align:middle line:90%
+with a lot of skepticism.
+
+00:31:22.690 --> 00:31:24.680 align:middle line:90%
+And you don't blame them, right?
+
+00:31:24.680 --> 00:31:27.080 align:middle line:84%
+And Garret said that he
+felt like he came away
+
+00:31:27.080 --> 00:31:34.250 align:middle line:84%
+from that meeting feeling not as
+excited about what we had built.
+
+00:31:34.250 --> 00:31:37.220 align:middle line:84%
+Maybe it was just too good,
+and there was something
+
+00:31:37.220 --> 00:31:41.410 align:middle line:90%
+that we missed.
+
+00:31:41.410 --> 00:31:44.120 align:middle line:84%
+And so a couple
+of weeks later, he
+
+00:31:44.120 --> 00:31:46.490 align:middle line:84%
+started another
+round of experiments.
+
+00:31:46.490 --> 00:31:49.460 align:middle line:10%
+And he ran the
+previous ones again.
+
+00:31:49.460 --> 00:31:51.290 align:middle line:84%
+And an interesting
+thing happened,
+
+00:31:51.290 --> 00:31:54.110 align:middle line:84%
+which is that he got
+absolutely no effect.
+
+00:31:54.110 --> 00:31:58.430 align:middle line:84%
+And he tried it again and
+got absolutely no effect.
+
+00:31:58.430 --> 00:31:59.460 align:middle line:90%
+And he's puzzled.
+
+00:31:59.460 --> 00:32:02.780 align:middle line:84%
+And so he took it apart,
+put it back together,
+
+00:32:02.780 --> 00:32:05.040 align:middle line:90%
+tried it in many different ways.
+
+00:32:05.040 --> 00:32:08.120 align:middle line:84%
+And in each experiment,
+there were no results,
+
+00:32:08.120 --> 00:32:10.190 align:middle line:84%
+no significant results
+whatsoever, certainly
+
+00:32:10.190 --> 00:32:12.880 align:middle line:84%
+not like what we had
+been seeing before.
+
+00:32:12.880 --> 00:32:15.840 align:middle line:84%
+So at the end of
+all of this, we were
+
+00:32:15.840 --> 00:32:19.000 align:middle line:84%
+left contemplating
+quite a mystery here.
+
+00:32:19.000 --> 00:32:22.810 align:middle line:84%
+What the hell happened
+to the effect size?
+
+00:32:22.810 --> 00:32:24.860 align:middle line:90%
+And I had been thinking about--
+
+00:32:24.860 --> 00:32:26.800 align:middle line:84%
+incidentally, we
+never tried it again.
+
+00:32:26.800 --> 00:32:29.650 align:middle line:84%
+And we never got the
+good results again.
+
+00:32:29.650 --> 00:32:33.770 align:middle line:84%
+But I'd been thinking
+about how to explain this.
+
+00:32:33.770 --> 00:32:35.710 align:middle line:10%
+And while I don't
+have a solid answer,
+
+00:32:35.710 --> 00:32:37.950 align:middle line:10%
+I've come up with
+a couple of them.
+
+00:32:37.950 --> 00:32:42.110 align:middle line:10%
+The first is maybe what you'd
+call an experimenter effect.
+
+00:32:42.110 --> 00:32:44.900 align:middle line:10%
+In the experimenter
+effect, it was actually
+
+00:32:44.900 --> 00:32:48.740 align:middle line:10%
+me and Professor Moddel and
+maybe a few other people
+
+00:32:48.740 --> 00:32:50.990 align:middle line:10%
+who were so excited
+about this working
+
+00:32:50.990 --> 00:32:54.175 align:middle line:10%
+that we influenced the machine
+to produce these crazy results.
+
+00:32:54.175 --> 00:32:57.635 align:middle line:90%
+
+
+00:32:57.635 --> 00:32:59.620 align:middle line:10%
+The effects due to
+our consciousness
+
+00:32:59.620 --> 00:33:05.130 align:middle line:10%
+are not necessarily limited
+to where we want them to go.
+
+00:33:05.130 --> 00:33:09.070 align:middle line:90%
+Or did we break the universe?
+
+00:33:09.070 --> 00:33:13.770 align:middle line:84%
+When you're talking
+about bending,
+
+00:33:13.770 --> 00:33:17.100 align:middle line:84%
+not just probability, but
+the fundamental ways in which
+
+00:33:17.100 --> 00:33:22.110 align:middle line:84%
+quantum mechanics manifests
+at scales that are literally
+
+00:33:22.110 --> 00:33:25.530 align:middle line:84%
+cosmic 25 billion to
+1, it's quite possible
+
+00:33:25.530 --> 00:33:28.440 align:middle line:84%
+that the universe just
+says like, knock it off.
+
+00:33:28.440 --> 00:33:29.630 align:middle line:90%
+No more of this.
+
+00:33:29.630 --> 00:33:33.550 align:middle line:90%
+
+
+00:33:33.550 --> 00:33:41.840 align:middle line:84%
+Or maybe it's just too soon for
+a psychic machine like this.
+
+00:33:41.840 --> 00:33:44.910 align:middle line:84%
+In my reality, in
+my bubble reality,
+
+00:33:44.910 --> 00:33:49.030 align:middle line:84%
+and I'm sure in many of
+your bubble realities,
+
+00:33:49.030 --> 00:33:50.410 align:middle line:84%
+the idea that
+something like this
+
+00:33:50.410 --> 00:33:53.080 align:middle line:84%
+could exist or at least could
+exist for a while, I'm sure,
+
+00:33:53.080 --> 00:33:54.800 align:middle line:90%
+is perfectly fine.
+
+00:33:54.800 --> 00:34:00.280 align:middle line:84%
+We all believe maybe
+crazier things than that.
+
+00:34:00.280 --> 00:34:01.910 align:middle line:90%
+But what about somebody else--
+
+00:34:01.910 --> 00:34:04.240 align:middle line:84%
+what about somebody
+out in the lobby,
+
+00:34:04.240 --> 00:34:08.150 align:middle line:84%
+what about consensus
+reality, the shared
+
+00:34:08.150 --> 00:34:11.040 align:middle line:84%
+reality of a much
+wider group of people,
+
+00:34:11.040 --> 00:34:13.770 align:middle line:84%
+would they allow something
+like this to happen?
+
+00:34:13.770 --> 00:34:15.270 align:middle line:90%
+Maybe not.
+
+00:34:15.270 --> 00:34:19.199 align:middle line:10%
+So maybe you have something
+like an experimenter effect
+
+00:34:19.199 --> 00:34:23.460 align:middle line:10%
+that's not produced by the
+experimenters, but that's--
+
+00:34:23.460 --> 00:34:28.929 align:middle line:10%
+it's an effect that's
+suppressed by the--
+
+00:34:28.929 --> 00:34:32.590 align:middle line:10%
+some part of consensus
+reality, whose job
+
+00:34:32.590 --> 00:34:37.050 align:middle line:10%
+it is to maintain the status
+quo, something like that.
+
+00:34:37.050 --> 00:34:42.510 align:middle line:84%
+And I think all of these
+are viable explanations.
+
+00:34:42.510 --> 00:34:44.489 align:middle line:84%
+And these are all
+probably things
+
+00:34:44.489 --> 00:34:48.000 align:middle line:84%
+that we'll have to
+deal with in the coming
+
+00:34:48.000 --> 00:34:50.969 align:middle line:90%
+century as scientists.
+
+00:34:50.969 --> 00:34:54.389 align:middle line:84%
+Once we are sufficiently
+satisfied that consciousness
+
+00:34:54.389 --> 00:34:58.470 align:middle line:84%
+can influence the physical
+world, how you do good science
+
+00:34:58.470 --> 00:35:00.400 align:middle line:90%
+comes into question big time.
+
+00:35:00.400 --> 00:35:04.290 align:middle line:10%
+And you're going to see results
+like this manifest in all
+
+00:35:04.290 --> 00:35:07.220 align:middle line:10%
+kinds of interesting
+and frustrating ways.
+
+00:35:07.220 --> 00:35:08.020 align:middle line:90%
+Thanks, guys.
+
+00:35:08.020 --> 00:35:08.820 align:middle line:90%
+That was fun.
+
+00:35:08.820 --> 00:35:11.460 align:middle line:90%
+
+
+00:35:11.460 --> 00:35:15.410 align:middle line:90%
+[MUSIC PLAYING]
+
+00:35:15.410 --> 00:35:18.000 align:middle line:90%
